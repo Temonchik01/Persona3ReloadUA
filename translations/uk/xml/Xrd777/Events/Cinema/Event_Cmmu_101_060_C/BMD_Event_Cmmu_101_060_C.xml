@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_101_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_101_060_C\BMD_Event_Cmmu_101_060_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Кенджі Томочіка</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ох, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Вибач, але цього разу я пас.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Отак просто?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чого?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Я просто розриваюся. Я дуже хочу з тобою погуляти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Але ні… Без рамену сьогодні. Мені треба йти на додаткові заняття..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Я забув, що мені сьогодні треба йти на додаткові. Вибач, чуваче.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Немає часу на рамен.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Вступ до коледжу — це суперважливо, розумієш? Ти теж думаєш про майбутнє, еге ж?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У мене вже є плани.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, більше за тебе.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аж ніяк.]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 13 2 15 101}Здуріти! Я й не здогадувався, що ти так серйозно ставишся до свого майбутнього![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Шо-о-о? Не будь козлом![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Реально?! Ти маєш серйозніше до цього поставитись![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Я ніколи не замислювався над своїм майбутнім, поки Емірі не сказала мені, що маю. Сказала, інакше я стану невдахою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 10 25 25}Але майбутнє ще далеко. Я спочатку маю вступити до коледжу, шариш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Кажуть, багато учнів Емірі вступають до хороших коледжів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Вона, мабуть, думає про наше спільне майбутнє…[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Тобі теж варто задуматися про своє майбутнє. Я б не хотів бачити, як ти стаєш невдахою, січеш?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 1 25 25}Ось чому ми маємо пахати як слід! Заради нашого майбутнього![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Томочіка щиро[n]переймається моїм майбутнім…[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились…[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}До зустрічі, {f 4 1}! Я пішов на додаткові заняття![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я повернувся до гуртожитку сам.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
