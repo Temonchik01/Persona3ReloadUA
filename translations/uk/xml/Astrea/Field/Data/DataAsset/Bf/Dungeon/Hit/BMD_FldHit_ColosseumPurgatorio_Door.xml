@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldHit_ColosseumPurgatorio_Door.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_ColosseumPurgatorio_Door.uasset" dialogs="4">
+  <Dialog id="0" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There is nothing more to do here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I go through this door,[n]I'll end up fighting my friends...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I go through this door, I'll end up[n]fighting Yukari-san and Mitsuru-san...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
