@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_101_360_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_101_360_C\BMD_Event_Cmmu_101_360_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Кенджі Томочіка</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 3 0 -1 10099 0 0}Трясця, а це було смачно. Як вони спромоглися приготувати таку смакоту?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}Слухай, друже... Я ухвалив рішення.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 3 0 -1 10068 0 0}Я більше не можу їсти яловичі миски. Це була остання![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чого?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуркуй.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 3 0 -1 10062 1 0}{f 5 13 2 15 101}Ти лише подумай. Я не можу їсти тут, коли зустрічаюся з такою дорослою жінкою, як Емірі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}Я це добре обдумав... Тому навіть не намагайся мене переконати у зворотньому.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Томочіка закоханий...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні я дізнався про нього трохи більше.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 3 0 -1 10083 0 0}{f 5 13 2 30 101}Хе-хе, я тебе зацікавив?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}Якщо я зустрічаюся з Емірі, це значить, що я маю бути "дорослішим", розумієш? Отже, так і вчинятиму.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}Круто, скажи?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Томочіка пояснює свою думку із захопленням.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що сьогодні ми стали набагато ближчими.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 3 0 -1 10084 0 0}Та перестань, я серйозно! Хоча б запитай причину![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}Я намагаюся бути "дорослішим", бо я тепер зустрічаюся з Емірі. Я гадаю, ти не зрозумієш...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Томочіка розчарований...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що сьогодні ми не стали ближчими...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 3 0 -1 10051 0 0}Мабуть, мені варто подумати й про свій гардероб. Куплю журнал на зворотному шляху.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Після того, як я зайшов до книгарні, я попрощався з[n]Томочікою і повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
