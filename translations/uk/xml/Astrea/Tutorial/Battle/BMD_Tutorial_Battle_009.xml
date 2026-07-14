@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Battle_009.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Battle\BMD_Tutorial_Battle_009.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 6A 6F 72 20 41 72 63 61 6E 61 20 43 61 72 64 73">Major Arcana Cards</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 13}Besides the Minor Arcana cards that occasionally appear during Shuffle Time, {f 0 1 2}Major Arcana cards{f 0 1 27} may also rarely appear.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 0 1 2}Only one of each Major Arcana card may be acquired per expedition{f 0 1 27}. The number of Major Arcana cards you can acquire in the same trip to the Abyss of Time is also limited.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}When you've acquired the maximum number of Major Arcana cards, an {f 0 1 2}Arcana Burst{f 0 1 27} will occur and increase the ranks of your Minor Arcana cards. Collect as many Major Arcana cards as you can.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
