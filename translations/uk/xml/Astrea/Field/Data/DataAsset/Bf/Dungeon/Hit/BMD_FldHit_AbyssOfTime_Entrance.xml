@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldHit_AbyssOfTime_Entrance.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_AbyssOfTime_Entrance.uasset" dialogs="68">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_EXIT_FUKA_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's head back.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's press on.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_EXIT_FUKA_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, let's head back.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No, let's press on.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_EXPLORATION" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm ready.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just a moment.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_EXPLORATION2" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Resume from {f 2 4 0}F]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Use the teleporter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Start from the beginning]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_SAVE_OR_HEAL" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Activate the clock]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_HEAL_OK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Heal]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_STOP_MITSURU_0430" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4102 0 0}Stop right there![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}You do know why I called you here today, correct? I'm not letting you leave just yet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_STOP_MITSURU_0613" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4103 0 0}Hold it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}We need you to lead the team. Get ready to head in and explore.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_STOP_0131" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's no turning back now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_HELP_GET_OUT_HERE1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Dark Hour will soon be over.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_HELP_GET_OUT_HERE2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Returning to the dorm now means that[n]time will advance to the next day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_HELP_GET_OUT_HERE3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should we stop exploring for tonight?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_END_EXPLORATION" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We agreed to stop exploring[n]and return to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_EXIT_JUNPEI_STOP" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2007 0 0}Hey now, where are you goin'? That's the wrong way, dude.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SYS_NOT_FINISH_INSTALL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}To proceed, the installation must be complete.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SYS_INSTALL_CANCEL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will now return to the game. Please wait until your game data is ready. Do not forget to save your game if you want to stop playing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_START_MITSURU_OK_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4115 0 0}Are you all ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_START_MITSURU_NotFul" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4115 0 0}Are you all ready?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}I personally recommend bringing a full party whenever possible.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_START_MITSURU_OK_APR" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4115 0 0}Are you all ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_START_MITSURU_OK_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}You've currently explored up to floor {f 2 4 0}. Where do you want to resume the expedition?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_START_MITSURU_OK_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Good luck.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_START_MITSURU_OK_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}All right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}As long as you follow my instructions, I'll be able to point you down a safe route.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_START_MITSURU_OK_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Floor {f 2 4 0}, you said? Understood. The teleporter should take you there right away.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Stay safe out there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_START_FUKA_OK_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Are you ready to start exploring?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_START_FUKA_NotFull" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Are you ready to start exploring?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}Oh, um... Are you sure you don't want to bring a full party? Will you be okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_START_FUKA_OK_01" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Looks like you've made it to floor {f 2 4 0}. Where would you like to jump to now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_START_FUKA_OK_02" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Please be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_START_FUKA_OK_10" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Got it.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll find a safe route for you to traverse, so just follow my directions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_START_FUKA_OK_11" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}You want to go to floor {f 2 4 0}? Okay, if you take the teleporter, you'll be there before you know it![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Have a safe trip![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_THEURGIA_FUKA_OK_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_THEURGIA_FUKA_OK_02" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll try to guide you to a more stable floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll also support you from here, so please keep an ear out while you explore.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_MITSURU_STOP" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4104 0 0}Wait. Let's stop here for tonight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}We have a long road ahead of us. Let's not push ourselves too hard today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_ADVICE_MITSURU_APRIL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4077 0 0}Let's discuss our first goal for this exploration.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}According to our research, Tartarus is divided into several different regions.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If we continue to climb the tower, then we'll eventually reach a spot that leads to a new area.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Reaching that spot should be our first goal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_ADVICE_MITSURU_APRIL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Remember, don't push yourself too hard. You can always use the teleporters to return.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}You can always go back to the highest floor you've reached that day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_ADVICE_MITSURU_APRIL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}...Ah, yes. Here, take this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If you ever find yourselves in danger, don't hesitate to use them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_ADVICE_MITSURU_APRIL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}That's all from my end. Good luck.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="SYS_ADVICE_APRIL_00" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If you return to the entrance mid-exploration, you can resume from the highest floor you've reached that day with Mitsuru's help. Plan wisely to explore more efficiently.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Because Tartarus changes daily, you can only travel to the highest floor on the same day. If you come on another day, you'll have to travel through the floors you've already visited again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_ADVICE_MITSURU_MAY" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4073 0 0}There's something I need to tell you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Do you remember what I said? About Tartarus being divided into different areas?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I sense a strange presence beyond the 20th floor... I believe that's where a new area begins.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}It feels as if something is on the move...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Let's investigate. I want to confirm what's there.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I'm counting on you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_ADVICE_FUKA_MAY" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5074 0 0}Leader, there's something you need to know.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Tartarus seems to be split up into several different areas.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'm sensing an anomaly on one of those floors that acts as the border between two areas.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}It seems kind of erratic, like it's about to move or something...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}From what I can pick up, it seems to be around the 22nd floor. Do you mind checking it out?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Stay safe, and good luck.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_VELVET_YUKARI_STOP" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}Everything okay? We're all ready to head out.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Um... Is there something over there?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MND_VELVET_TAR_1ST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Yukari[n]and the others can see it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MND_ACCESS_CLOCK_FIRST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What a large clock... It doesn't[n]seem to be working though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="SYS_ACCESS_CLOCK_FIRST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The clocks in Tartarus can {f 0 1 2}fully restore HP and SP{f 0 1 27} for all party members. {f 0 1 2}7{f 0 1 27} {f 4 4 1 0 1 0}s are required to activate the clock once. Use the clock to make exploring more efficient.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_ACCESS_CLOCK_FIRST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Using the clock in Tartarus will fully restore everyone's HP and SP.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Although utilizing the clock will cost {f 4 4 1 0 1 0}s, it should help with exploring when used effectively.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MND_Clock_NotItemHave" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The clock's not ticking... Maybe the hands[n]will start moving if I use something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MND_Clock_YesItemHave" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The clock is reacting to the[n]{f 4 4 1 0 1 0}s...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="SYS_Clock_Error" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}{f 2 4 1}{f 0 1 27} {f 4 4 1 0 1 0}s are required to activate the clock.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MND_MEDAL_NOT_ENOUGH" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Let me see how many {f 4 4 1 0 1 0}s[n]I have... {f 0 1 2}{f 2 4 2}{f 0 1 27}. I don't have enough...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MND_WHAT_DO_YOU_WANT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I have {f 0 1 2}{f 2 4 2}{f 0 1 27} {f 4 4 1 0 1 0}s[n]at the moment. Perhaps I should[n]use {f 0 1 2}{f 2 4 1}{f 0 1 27} to activate the clock...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MND_MEDAL_ENOUGH" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I used {f 0 1 2}{f 2 4 1}{f 0 1 27} {f 4 4 1 0 1 0}s.[n]So now I have {f 2 4 2} left.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MND_ClockAwake" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The clock started ticking...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MND_HEAL_DONE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Everyone's HP and SP has been restored![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MND_HEAL_NOMORE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Nobody seems to need[n]any healing right now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MND_HEAL_REQUIRE_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I use {f 0 1 2}{f 2 4 1}{f 0 1 27} {f 4 4 1 0 1 0}s[n]to heal everyone? I currently have {f 2 4 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MND_SILVER_DOOR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a silver door...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Is this the door Elizabeth was talking about?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I think she said her older sister would[n]be there... Let's try heading inside.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_EXIT_FUKA_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 3 0 -1 5143 0 0}Do you want to return to the dorm?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_EXIT_FUKA_OK_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}Okay, then. Good work, everyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_EXIT_FUKA_NO_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}All right, but please be careful not to overdo it, Aigis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_EXIT_FUKA_01" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 3 0 -1 5143 0 0}Oh, did you want to go back to the dorm?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_EXIT_FUKA_OK_01" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}Okay, let's go.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_EXIT_FUKA_NO_01" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}All right. I'll be right here if you need me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_EXIT_FUKA_OK_02" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}Got it. Then let's try to rest up while we can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_EXIT_FUKA_NO_02" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}Okay... Then let's do what we came here for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_MITSURU_GREET" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 1 10099 0 0}Thanks to Yamagishi, I can explore with you too. But I'd still like to stick to the four-person strategy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 1 10100 0 0}Just so we have backup or anyone who can come to our aid in the event of an emergency.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 1 10101 0 0}And don't forget what happened during the last full moon. We can't leave Yamagishi alone.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 1 10102 0 0}I'll leave it up to you to decide on the party members. I know you can handle it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_FUKA_GREET" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 1 0 1 10103 0 0}I'll do everything I can to help. Let's give it our best![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_099_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 1 5 0}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MND_HealClock1stAccess" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's the same clock as the one in[n]the Desert of Doors... I wonder[n]if it functions the same way.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
