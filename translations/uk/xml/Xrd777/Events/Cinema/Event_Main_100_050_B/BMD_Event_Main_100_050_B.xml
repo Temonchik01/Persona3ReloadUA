@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_100_050_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_050_B\BMD_Event_Main_100_050_B.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 42 6F 79">Загадковий хлопчик</Speaker>
+    <Speaker id="1" rawBytes="47 69 72 6C 27 73 20 56 6F 69 63 65">Дівочий голос</Speaker>
+    <Speaker id="2" rawBytes="55 6E 6B 6E 6F 77 6E 20 47 69 72 6C">Невідома дівчина</Speaker>
+    <Speaker id="3" rawBytes="4F 74 68 65 72 20 47 69 72 6C">Інша дівчина</Speaker>
+    <Speaker id="4" rawBytes="46 69 72 73 74 20 47 69 72 6C">Перша дівчина</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}...Добре.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Час — це те, від чого ніхто не може втекти. Він нас усіх приводить до одного кінця. Ти не можеш просто затулити вуха чи прикрити очі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}І так усе починається...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}...Хто там?![n]{f 1 2 30}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 51 -1 0 0}{f 3 1 1 0 0 5 0 0}Як ти тут опинився о цій годині?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 51 -1 0 0}{f 3 1 1 0 0 6 0 0}Не кажи мені...[n]{f 1 2 60}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}Стій![n]{f 1 2 40}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 51 10 0 0}{f 3 1 0 0 0 8 0 0}Га?![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 51 10 0 0}{f 3 1 1 0 0 9 0 0}Світло...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
