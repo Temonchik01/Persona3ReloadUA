@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_322_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_322_000.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 72 69 65 6E 64 6C 79 20 53 74 75 64 65 6E 74">Friendly Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Oh... That drink...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Can I see it? Ooooh... Is this the limited-edition drink you can only get in Kyoto?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Wow... Impressive![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}I have to say, I love these rare drinks.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Have you seen the {f 4 4 1 37 1 0}?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}It's only available in the fall.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}You want some? Well... I can't let you have it for free.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}I'll need... let's say 5,000 yen, to part with it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Buy it at 5,000 yen]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't buy it]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MND_001_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}You don't have the money? That's not good.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}You should always carry enough money for rare beverage emergencies![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Wh-What!? Are you really going to pay me 5,000 yen for this!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Wow, you must be a rare drink maniac![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Thanks, though! Now I can get my own rare drink![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_2_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Hey... Maybe you could help out a fellow rare drink maniac...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Do you think if we made those persimmons into a drink, maniacs all over the country would like it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}I see... I guess you're not a rare drink maniac. *sigh*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Kansai, huh...? So even if I take the bus, it'll cost around 10,000 yen...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Argh... How many drinks could I get with 10,000 yen?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}...Yeah? What's up?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}You like drinks too, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}But all of yours are normal drinks...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}That Kansai-only drink is so rare and awesome that everyone wants a sip![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}She doesn't seem interested in[n]the drinks I can buy here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Kansai, huh...? So even if I take the bus, it'll cost around 10,000 yen...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Argh... How many drinks could I get with 10,000 yen?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}A rare Kansai drink... I wonder how it tastes...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}That tree seems special for some reason... I wonder why it's there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Does it commemorate something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}That tree is a persimmon tree, right? Do you think it'll bear fruit? I hope so![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}That persimmon tree is gonna be cut down! What a waste![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}I soooo wanted to try its fruit...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Some people are protesting the decision to cut down the tree![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}I guess they want to try its persimmons...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}Nah, there must be another reason...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}I saw an old man pick a persimmon from the tree![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 322}It wasn't even ripe![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
