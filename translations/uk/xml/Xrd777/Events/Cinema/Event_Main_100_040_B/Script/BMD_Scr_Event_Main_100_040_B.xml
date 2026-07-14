@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Main_100_040_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_040_B\Script\BMD_Scr_Event_Main_100_040_B.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 42 6F 79 20 28 50 68 61 72 6F 73 29">Загадковий хлопчик (Фарос)</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 4 3}... Ти впевнений?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дай-но зміню дещо.]]></Option>
+  </Dialog>
+</BMD>
