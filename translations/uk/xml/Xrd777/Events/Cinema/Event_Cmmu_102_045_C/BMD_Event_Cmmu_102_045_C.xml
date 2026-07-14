@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_102_045_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_102_045_C\BMD_Event_Cmmu_102_045_C.uasset" dialogs="23">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 61 64 79 20 53 74 75 64 65 6E 74">Підозрілий учень</Speaker>
+    <Speaker id="1" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Хідетоші Одаґірі</Speaker>
+    <Speaker id="2" rawBytes="42 65 6D 75 73 65 64 20 53 74 75 64 65 6E 74">Здивована учениця</Speaker>
+    <Speaker id="3" rawBytes="41 6D 75 73 65 64 20 53 74 75 64 65 6E 74">Задоволена учениця</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1001}Чуєш мене!? Я хочу побачити докази, розумнику![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Мені не потрібні докази. Я й так усе про тебе знаю.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Наприклад, як тебе арештували за те, що ти побив хлопця в парку, який на тебе настукав.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1002}Ого! Він і досі цим займається? Це вже втретє за сьогодні.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1003}Мій хлопець був такий розлючений, коли його звинуватили. Він сам напросився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Мовчання лише погіршить твоє становище.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Якщо це справді не ти — тоді назви імена.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}І не хвилюйся, я нікому не скажу. Обіцяю тобі як член дисциплінарного комітету.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1001}Ой, та відвали, мудло...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, цей хлопець[n]от-от вдарить Одаґірі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Припиніть це!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 31 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Ммгх...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1001}Боже, який хріновий день.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 31 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Тьху... Не думай, що я так це залишу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}О, привіт, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Щось сталося? Тобі щось потрібно?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти трохи перегнув палицю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Бачу, робота кипить.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Гадаєш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 31 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Дехто бреше і встромляє ніж у спину, якщо це їм вигідно.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 31 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Такі люди — загроза для суспільства. Чи маємо ми це терпіти? Ні, з цим треба щось робити.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 5 13 5 15 102}Ще б пак.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Якщо ми зараз закриємо на це очі, воно повториться знову.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}А коли все вийде з-під контролю, буде вже пізно. Потрібно зупинити це на самому початку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 32 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Я знаю, що про мене думають.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 32 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Але ж ті, хто бореться за справедливість, завжди конфліктували з іншими. Історія це підтверджує.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 1 0 25 25}Тож нехай мої дії стануть попередженням для інших порушників. Ти ж розумний, сам розумієш.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Одаґірі починає мені довіряти.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стаємо кращими друзями.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 30 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Я ще трохи тут затримаюсь. А ти краще йди додому, поки не стемніло.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Одаґірі[n]та повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
