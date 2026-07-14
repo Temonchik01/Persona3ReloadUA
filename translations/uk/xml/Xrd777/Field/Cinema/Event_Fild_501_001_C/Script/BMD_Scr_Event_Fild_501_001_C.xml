@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Fild_501_001_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_501_001_C\Script\BMD_Scr_Event_Fild_501_001_C.uasset" dialogs="24">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="4" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="5" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="7" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="8" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_TARTAROS_BTL_YUKARI_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1128 0 0}Якщо ти не збираєшся рухатися, то ми змусимо тебе![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_TARTAROS_BTL_YUKARI_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}Якщо ти не збираєшся рухатися, то ми змусимо тебе![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_TARTAROS_BTL_JUNPEI_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2119 0 0}Вперед, загін! Дивіться на мене![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_TARTAROS_BTL_JUNPEI_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}Вперед, загін! Дивіться на мене![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_TARTAROS_BTL_SANADA_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 3 0 -1 3116 0 0}Вибачте, але ми прориваємося![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_TARTAROS_BTL_SANADA_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 9 -1 -1 0 0}{f 3 1 3 0 -1 3117 0 0}Вибачте, але ми прориваємося![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_TARTAROS_BTL_MITSURU" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4007 0 0}Наближається! Приготуйтеся![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_TARTAROS_BTL_MITSURU" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4143 0 0}Наближається! Приготуйтеся![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_TARTAROS_BTL_MITSURU" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4085 0 0}Наближається! Приготуйтеся![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_TARTAR_BTL_PT_MITSUR" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4117 0 0}Будьте пильні! Сили ворога невідомі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_TARTAR_BTL_PT_MITSUR" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4140 0 0}Будьте пильні! Сили ворога невідомі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_TARTAROS_BTL_AEGIS_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Наближається ворожа Тінь. Усунення цілі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_TARTAROS_BTL_AEGIS_1" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Вступаємо в бій. Прийди і візьми, як то кажуть.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_TARTAROS_BTL_AEGIS_2" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6005 0 0}Це може бути важка битва. Будьмо обережні![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_TARTAROS_BTL_AEGIS_3" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6118 0 0}Я віддам йому все, що маю, тож давайте працювати разом![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_TARTAROS_BTL_KOROMAR" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 3 0 -1 8002 0 0}Гррр... Арф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_TARTAROS_BTL_KOROMAR" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 3 0 -1 8002 0 0}Гррр... Арф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_TARTAROS_BTL_AMADA_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7119 0 0}Давай, давай! Я візьму тебе на себе![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_TARTAROS_BTL_AMADA_1" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7118 0 0}Починається! Давайте приберемо його![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_TARTAROS_BTL_ARAGAKI" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 -1 0 0}{f 3 1 3 0 -1 9109 0 0}Приготуйся, зараз буде![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_TARTAROS_BTL_ARAGAKI" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 -1 0 0}{f 3 1 3 0 -1 9108 0 0}Приготуйся, зараз буде![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_TARTAROS_BTL_FUKA_1" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Наближається ворожа Тінь![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_TARTAROS_BTL_FUKA_2" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Я підтримаю тебе! Ми пройдемо через це разом![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_TARTAROS_BTL_FUKA_3" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Ти зможеш це зробити! Я вірю в тебе![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
