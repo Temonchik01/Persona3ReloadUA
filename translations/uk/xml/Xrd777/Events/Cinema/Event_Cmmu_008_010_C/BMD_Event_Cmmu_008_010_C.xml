@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_008_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_008_010_C\BMD_Event_Cmmu_008_010_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 8 0 25 25}Oh, {f 4 1}-san... Can I help you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'd like to talk.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}How have you been?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 8 3 25 25}With me...? Okay, but why so suddenly?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 8 0 25 25}Uh, well... I'm okay.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 8 0 25 25}Why are you asking?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 8 0 25 25}You aren't... worried about me, are you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 8 1 25 25}If so, thank you, but I'm totally fine.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's a relief.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just don't overdo it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You can always talk to me.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 8 0 25 25}It must be tough being the leader and always needing to spread your concern among everyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 8 0 25 25}Yeah, I wouldn't want to push myself so hard that I cause trouble for everyone else.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 8 1 25 25}I'll do that. You're really caring, {f 4 1}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 8 0 25 25}Thanks for going out of your way to check on me. I'll do my best not to worry you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 8 0 25 25}Well then, good ni—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 8 3 25 25}Come to think of it, I haven't had dinner yet. I should probably eat something...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 0 0 0 13 0 0}{f 4 23 0 8 3 25 25}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 8 0 25 25}Um, {f 4 1}-san...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 8 0 25 25}You wouldn't happen to be hungry, would you?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
