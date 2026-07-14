@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_105_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_010_C\BMD_Event_Cmmu_105_010_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 72 61 63 6B 20 54 65 61 6D 20 41 64 76 69 73 6F 72">Тренер команди</Speaker>
+    <Speaker id="1" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74 20 69 6E 20 61 20 4A 65 72 73 65 79">Дівчина у спортивному костюмі</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="3" rawBytes="4D 69 79 61 6D 6F 74 6F">Міямото</Speaker>
+    <Speaker id="4" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1093}Отже, з сьогоднішнього дня він офіційно в команді.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я {f 4 3}.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Приємно познайомитись.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 2 0 0}Ласкаво просимо, {f 4 1}. Я Юко Нішівакі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1093}Вона наша менеджерка. Якщо матимеш питання — звертайся до неї.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 4 0 0}Ти ж на другому крусі? Якщо ми однокурсники, можеш просто називати мене «Юко».[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1093}Так... Ей! Міямото![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 6 0 0}Так![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}{f 5 21 0 1093}Це наш майбутній капітан. Чудово бігає, добре виступає на змаганнях.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1093}Ви ж, здається, на одному курсі? Міямото, приглянь за новеньким, будь ласкавий.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 9 0 0}Без проблем.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 10 0 0}Ти ж той самий хлопець, що гуляв із Такебою в перший день навчання? Ти вже місцева зірка.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 11 0 0}Я Кадзуші Міямото. Ти мене точно десь бачив.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ага.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 151 -1 0 0}{f 3 1 1 0 0 12 0 0}Коротше, відтепер ти мій після школи.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 151 -1 0 0}{f 3 1 1 0 0 13 0 0}Друже... Боляче було почути. Та мене ж усі знають.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 14 0 0}І не думай, що тобі зійде все з рук тільки тому, що ти приєднався посеред сезону![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Міямото тепло зустрів мене...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я вступив до команди з легкої атлетики[n] й познайомився з новими товаришами по команді.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 15 0 0}Оскільки це твоє перше тренування, просто роззирнись трохи й можеш іти відпочивати.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 16 0 0}[f 3 1 1 0 0 16 0 0}Ми тренуємось у {f 0 1 2}понеділок, вівторок, четвер і п’ятницю{f 0 1 27}. Але перед іспитами занять нема.[n][n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 17 0 0}Я подбаю, щоб на наступне тренування твоя форма вже була готова.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Озирнувшись навколо, я вирішив[n]повернутись до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
