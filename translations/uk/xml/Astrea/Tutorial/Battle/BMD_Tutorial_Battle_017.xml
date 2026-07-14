@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Battle_017.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Battle\BMD_Tutorial_Battle_017.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 69 6C 6D 65 6E 74 73">Ailments</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}When you have been afflicted with an {f 0 1 2}ailment{f 0 1 27}, an enemy's attack will leave you at a disadvantage or restrict your actions until you can recover.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_000_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The following ailments exist:[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 18}{f 0 1 2}Shock{f 0 1 27}: Unable to move.[n]{f 0 1 2}Freeze{f 0 1 27}: Unable to move. Landing a physical attack will result in a critical hit.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 19}{f 0 1 2}Charm{f 0 1 27}: Attack allies or buff/heal enemy at random.[n]{f 0 1 2}Confuse{f 0 1 27}: Throw away money or use items randomly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="TRL_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 20}{f 0 1 2}Poison{f 0 1 27}: Take damage after each turn. Cannot recover naturally, so a skill or item will need to be used.[n]{f 0 1 2}Rage{f 0 1 27}: Attack increases while Defense and Accuracy decrease. Will attack enemies unprompted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="TRL_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 21}{f 0 1 2}Distress{f 0 1 27}: Attack decreases. Will be unable to evade.[n]{f 0 1 2}Fear{f 0 1 27}: High chance of ignoring commands. May try to escape battle unprompted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="TRL_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 22}{f 0 1 2}Down{f 0 1 27}: Unable to evade. Damage taken will increase. Chance of getting Dizzy when attacked while Down. Higher chance of getting Dizzy when attacked with a weapon.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="TRL_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 23}{f 0 1 2}Dizzy{f 0 1 27}: Unable to move. Will take critical hits more often.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
