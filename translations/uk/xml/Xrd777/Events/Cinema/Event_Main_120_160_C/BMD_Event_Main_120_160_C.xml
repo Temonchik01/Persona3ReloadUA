@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_120_160_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_120_160_C\BMD_Event_Main_120_160_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 2 3 25 25}Ні... Ні... Тут так темно, що я ледве можу прочитати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 2 0 25 25}Що тут написано?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зал.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Комора.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Морг.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 51 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 2 4 25 25}Справді? Дай подивитися![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 2 1 25 25}{f 4 23 0 2 1 25 25}Так, це воно! Я впевнений, що вони не будуть проти, якщо ми це позичимо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 2 0 25 25}Ти впевнений? Слово виглядає коротшим.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 2 1 25 25}{f 4 23 0 2 1 25 25}О, тут написано «Зал»![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 2 0 25 25}{f 4 23 0 2 0 25 25}Я впевнена, що вони не будуть проти, якщо ми це позичимо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 51 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 2 4 25 25}Що!? Ти намагаєшся мене налякати чи що?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 51 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 2 2 25 25}{f 4 23 0 2 2 25 25}Краще будь обережним. Що посієш, те й пожнеш, друже.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 2 0 25 25}{f 4 23 0 2 0 25 25}Зачекай хвилинку. Це ключ від спортзалу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 0 0 0}DEV: *Unused message labels. [n]{f 1 5 0}*If this appears, it is a bug.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 2 0 25 25}Гаразд, ходімо. Ми маємо зустрітися з усіма в головному коридорі.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
