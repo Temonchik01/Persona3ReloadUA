@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Daily_004.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Daily\BMD_Tutorial_Daily_004.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 6F 72 74 63 75 74 73">Shortcuts</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 231}{f 4 8 231}Pressing {f 1 3 114} will give you access to {f 0 1 2}shortcuts{f 0 1 27} that will allow you to fast travel{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 4 8 0}Some shortcut destinations or even the shortcut function itself may be unavailable in certain situations.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
