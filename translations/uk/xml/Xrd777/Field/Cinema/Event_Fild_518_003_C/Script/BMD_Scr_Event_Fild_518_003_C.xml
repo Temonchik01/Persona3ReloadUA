@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Fild_518_003_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_518_003_C\Script\BMD_Scr_Event_Fild_518_003_C.uasset" dialogs="42">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="4" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_FIRST_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Це була досить довга подорож, але ми знайшли знайоме місце за межами цього грізного ворога.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Виглядає досить безпечно... Можеш відкрити?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_FIRST_HERO_00" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ця скриня не замкнена...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_FIRST_FUKA_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}А? Ти можеш відкрити його як є?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_FIRST_HERO_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Позбавляє нас від зайвих клопотів.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це підозріло...]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_FIRST_FUKA_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ми знаходимося в досить неправильній місцевості... Цікаво, чи це особливість цього місця.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я не бачу ніякої небезпеки, тому, будь ласка, перевірте, що всередині.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_REACTION_YUKARI_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}{f 3 1 3 0 -1 1096 0 0}А, ось воно. Будемо відкривати, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_REACTION_JUNPEI_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}{f 3 1 3 0 -1 2095 0 0}Ось це я розумію! Цікаво, що там цього разу...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_REACTION_SANADA_00" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}{f 3 1 3 0 -1 3086 0 0}А тепер, ми пожинаємо плоди. Давай, подивимось, що там.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_REACTION_MITSURU_00" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}{f 3 1 3 0 -1 4143 0 0}Ми зможемо відкрити це без проблем. Подивимось, що там всередині.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_REACTION_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Гарна знахідка! Спробуй відкрити...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_REACTION_AEGIS_00" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 0 0 0}{f 3 1 3 0 -1 6106 0 0}Це наша нагорода за перемогу. Покажеш що ти там знайшов?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_REACTION_AMADA_00" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}{f 3 1 3 0 -1 7096 0 0}Вони так класно відкриваються... Я теж хочу колись спробувати![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}Е-е, Т-Тобто... Неважливо! Давай просто спустошим його і підемо далі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_REACTION_KOROMARU_00" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 0 0 0}{f 3 1 3 0 -1 8013 0 0}Арф! Арф арф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_REACTION_ARAGAKI_00" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}{f 3 1 3 0 -1 9057 0 0}Не розумію, що в них такого... але ти ж відкриєш їх перед тим, як ми підемо, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_REACTION_FUKA_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Коро дуже хвилюється! Спробуй відкрити...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_FIRST_FUKA_20" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5071 0 0}Карта таро...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Він схожий на ті, що у вас вже є, Лідере.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Він також реагував на вхід, тож тут може бути якийсь зв'язок.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Можливо, що й інші двері в інших місцях також реагуватимуть на цю картку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_REACTION_YUKARI_10" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}{f 3 1 3 0 -1 1107 0 0}Ще карта? У чому справа?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}Ну, ми не будемо тут з'ясовувати. Ходімо далі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_REACTION_JUNPEI_10" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}{f 3 1 3 0 -1 2123 0 0}Ще одна дурна карта? Ми заради НЕЇ дупи рвали?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Зачекай но—ще рано засмучуватися! Може, якщо назбираємо їх достатньо, зможемо обміняти на щось круте?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_REACTION_SANADA_10" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3113 0 0}Це просто непотрібна карта, але для тебе вона має якесь значення, чи не так?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Ну, все, що мені потрібно - це можливість битися зі сильними супротивниками. Досвід, який я отримую, є достатньою винагородою для мене.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_REACTION_MITSURU_10" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4106 0 0}Загадкові карти, заховані в цьому і без того дивному місці...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}Цей Тартар - справді вежа, сповнена таємниць.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_REACTION_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5060 0 0}Чи відкриє ця карта ще одні двері? Хто і навіщо міг створити такий механізм?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Ну, в будь-якому випадку, гарна робота! Чекатиму на твоє повернення.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_REACTION_AEGIS_10" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}Картка. Хто міг її сюди покласти?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Чи це просто збіг обставин? Я не знаю.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_REACTION_AMADA_10" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}{f 3 1 3 0 -1 7061 0 0}Ще одна карта таро... Вони натякають на щось?[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}Я маю на увазі, кожна з них має певне значення, чи не так? Може, пізніше дізнаємось...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_REACTION_KOROMARU_10" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8004 0 0}Вууф?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_REACTION_ARAGAKI_10" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}{f 3 1 3 0 -1 9054 0 0}Мені байдуже, що в тих коробках...[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}Але якщо буде ще одна така бійка, як ця, візьми мене з собою. Я не хочу втратити шанс ще раз так побитися.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_REACTION_FUKA_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5131 0 0}Не думаю, що Коро це зацікавить. Треба буде пригостити його, коли повернемося.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_REACTION_FUKA_20" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5137 0 0}Там не було карт таро...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Якщо ми не можемо відчинити жодних дверей, то, мабуть, краще повернутися.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="PFM_GET_CARD_TEMPERANCE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Помірністі[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="PFM_GET_CARD_DEVIL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Диявол[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="PFM_GET_CARD_TOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Вежа[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="PFM_GET_CARD_STAR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Зірка[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="PFM_GET_CARD_MOON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Місяць[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="PFM_GET_CARD_SUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Сонце[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="PFM_GET_CARD_JUDGEMENT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Суд[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="SYS_GET_CARD_TEMPERANCE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Помірність{f 0 1 27}: Наступного разу, коли ви будете виконувати щоденну активність, ваші {f 4 30 0 1 0 0}, {f 4 30 2 1 0 0} та {f 4 30 1 1 0 0} збільшаться сильніше, ніж зазвичай для цього дня.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="SYS_GET_CARD_DEVIL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Диявол{f 0 1 27}: Кількість предметів, отриманих за перемогу над ворогами і знищення крихких предметів, буде збільшуватися до тих пір, поки ви не покинете Тартар.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="SYS_GET_CARD_TOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Вежа{f 0 1 27}: Всі ваші поточні Персони отримають збільшення показників на 1.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="SYS_GET_CARD_STAR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Зірка{f 0 1 27}: Ви зможете взяти одну додаткову карту під час Перетасовки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="SYS_GET_CARD_MOON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Місяць{f 0 1 27}: Усім діючим членам групи буде повністю відновлено їхні ОЗ та ВТ.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="SYS_GET_CARD_SUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Сонце{f 0 1 27}: Ви зможете об'єднати Персони на 5 рівнів вище вашого поточного рівня, поки не покинете Тартар.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="SYS_GET_CARD_JUDGEMENT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Суд{f 0 1 27}: Член діючої групи з найнижчим рівнем отримає велику кількість ДОС.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="PFM_GET_CARD_LIMIT_UP" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Після придбання {f 4 4 1 0 1 0}, кількість карт Головних Аркан, які можна отримати за день, збільшилася на одну.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
