@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_100_070_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_070_C\BMD_Event_Main_100_070_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 1 0 0}Ось твоя кімната.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 2 0 0}Легко запам'ятати, правда? Просто пройти до самого кінця.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}Є питання?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Для чого контракт?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Той хлопчик теж тут живе?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 51 -1 0 0}{f 3 1 1 0 0 4 0 0}Га? Контракт?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 0 25 25}Про що ти говориш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 51 -1 0 0}{f 3 1 1 0 0 6 0 0}Який ще хлопчик?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 3 25 25}Про що ти говориш? Облиш, це не смішно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі не розуміє,[n]про що я говорю.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 8 0 0}А-а... Можна дещо запитати?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 9 0 0}Дорогою сюди зі станції все було в порядку?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що ти маєш на увазі?]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 10 0 0}Гм...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 11 0 0}Ну, добре. Тоді не бери це до голови.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 12 0 0}Ти не знаєш?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 13 0 0}Гадаю, тоді з тобою все гаразд...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 14 0 0}Ну, добре. Тоді не бери це до голови.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 15 0 0}Я краще піду.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 16 0 0}Е-е...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 17 0 0}Я впевнена, що в тебе ще є питання, але залишмо їх на потім, добре?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 51 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 1 1 25 25}На добраніч.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
