@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_OBJ_104_102_001.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\104\BMD_OBJ_104_102_001.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="47 61 6D 62 6C 65 72">Гравець</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сигаретний дим і нервове[n]напруження наповнюють повітря...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, я наберуся[n]сміливості зайти...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Клієнт виходить. Він виглядає переможеним...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Я все програв, чувак.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Давай, хлопче, дай мені трохи удачі...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ні, не кажи ні слова! Я викликаю тебе на поєдинок![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Камінь, папір, ножиці![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Камінь]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Папір]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ножиці]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ого...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Здається, моя удача дійсно відвернулася.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Дякую тобі велике.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ти допоміг мені зрозуміти, що азартні ігри - це програшна справа. Починаючи з сьогодні, я зав'язую з азартними іграми.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ось тобі невеличка подяка.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}У будь-якому випадку, тобі не варто вештатися в таких місцях.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}А тепер забирайтеся звідси![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message"/>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я отримав {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це марна справа... Я не можу набратися[n]сміливості, щоб зайти...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якби мій {f 4 30 2 1 1 1 0} був хоча б[n]{f 4 31 2 5 1 0}, я міг би зайти...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я зібрав свої {f 4 30 2 1 1 1 0}[n]і ступив на сходи...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_320_035_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Main_320_035_C\BMD_Event_Main_320_035_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't get up...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}{f 3 1 1 0 0 1 0 0}I thought I was prepared for this, but... It still feels awful...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 52 -1 0 0}{f 3 1 1 0 0 2 0 0}It does...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 52 -1 0 0}{f 3 1 1 0 0 3 0 0}But we can't stop here. We have to keep fighting for what we believe.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}{f 3 1 1 0 0 4 0 0}Yeah.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 52 -1 0 0}{f 3 1 1 0 0 5 0 0}He gave his life for this world... I won't let anyone dishonor that![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fix the past or accept the present...[n]Which path should I have chosen?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Or... Was there another possibility...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Regardless, I can't make[n]that choice anymore...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My consciousness is fading...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_014.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_014.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="52 61 72 65 20 53 68 61 64 6F 77 73">Rare Shadows</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 14}While exploring the Abyss of Time, you may encounter elusive {f 0 1 2}rare Shadows{f 0 1 27}. Defeating them will net you {f 0 1 2}hefty rewards{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 14}Rare Shadows will attempt to flee if they spot you. They'll keep running until {f 0 1 2}they successfully escape{f 0 1 27}. You'll want to ambush them from behind and strike quickly.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

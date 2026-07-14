@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_OBJ_102_151_001.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_151_001.uasset" dialogs="19">
+  <Dialog id="0" name="SEL_SEED_CHOOSE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 0}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 1}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 2}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 3}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 4}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 5}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_SEED_GROWTH" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_SEED_THINK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що посадити...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_SEED_PLANTED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я посадив {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_SEED_HARVEST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати з {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_SEED_DAY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати з {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_PLANT_CHOOSE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Садити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не садити]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MND_PLANT_AGAIN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи треба щось садити...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_SEED_TUTORIAL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це те, про що мені сказали подбати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_NO_PLANT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}В кашпо нічого не посаджено.[n]Схоже, можна посадити розсаду...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_NO_PLANT_DORMITORY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, то, здається, я ще[n]нічого не садив у кашпо...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_PLANT_ALREADY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1} посаджено.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_PLANT_MORE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Врожай збільшився. Можливо, це тому, що я[n]навчився їх добре вирощувати...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_PLANT_CAN_NOT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що я не зможу зібрати його[n]до Обіцяного дня, 31 січня...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я часто доглядав за рослинами[n]з моїми сусідами по кімнаті...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завдяки спільному вирощуванню я зміг[n]поглибити зв'язки з моїми друзями...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я часто доглядав за рослинами[n]з моїми сусідами по кімнаті.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завдяки цьому ми змогли[n]зібрати якісний урожай...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_034_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще[n]нічого не посаджено...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_PLANT_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще має[n]бути урожай, який потрібно зібрати.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я маю зібрати його першим...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_PLANT_LAST_DAY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я прийду зібрати його, якщо ми[n]благополучно переживемо Обіцяний день...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

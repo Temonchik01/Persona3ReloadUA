@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_272_300.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\200\BMD_NPC_272_300.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 3 0 -1 14001 0 0}Oh, {f 4 2}-kun. Are you free?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}I'm going out with a few ladies later, but I guess some of their friends want to talk with me first...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}Maybe we can all go together! Wouldn't that be so much more fun?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}I think they're waiting for me on the roof. Want to come along?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ryoji's invited me to join him. This might be a[n]good opportunity to get to know him better.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend some time[n]after school with Ryoji?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 3 0 -1 14002 0 0}...{f 4 2}-kun, are you busy right now?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}I've got a meeting on the roof in a moment. Why don't you come along?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ryoji's invited me to join him. This might be a[n]good opportunity to get to know him better.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend some time[n]after school with Ryoji?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Spend time with Ryoji]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 3 0 -1 14016 0 0}Great! Then let's go.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 3 0 -1 14020 0 0}Oh, that's unfortunate...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}I'm not very familiar with the people I'm meeting... Hopefully it isn't too awkward...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 155 -1 0 0}{f 3 1 3 0 -1 14001 0 0}Oh, {f 4 2}-kun. I had a favor to ask.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 155 -1 0 0}Yukari-san told me there's a riverbank nearby with a great view.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 155 -1 0 0}Would you like to check it out with me tomorrow?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend my free time[n]with Ryoji tomorrow...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 155 -1 0 0}{f 3 1 3 0 -1 14002 0 0}We shouldn't let this opportunity slip by. If you're up for it, let's go check it out tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 155 -1 0 0}It's really close by, too. What do you say?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend my free time[n]with Ryoji tomorrow...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Promise Ryoji]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 155 -1 0 0}{f 3 1 3 0 -1 14016 0 0}Great! Sounds like a plan.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 155 -1 0 0}I'll come find you when we start heading back tomorrow. I'm looking forward to it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 155 -1 0 0}{f 3 1 3 0 -1 14019 0 0}No...? Oh, did you already make plans?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 155 -1 0 0}Well, let me know if you change your mind. I'd prefer to finalize my plans now, if possible.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 155 -1 0 0}{f 3 1 3 0 -1 14007 0 0}I'll come find you when we start heading back tomorrow. I hope it won't be too cold out.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

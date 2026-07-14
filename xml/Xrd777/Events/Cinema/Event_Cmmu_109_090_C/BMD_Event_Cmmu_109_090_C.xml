@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_109_090_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_090_C\BMD_Event_Cmmu_109_090_C.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Чіхіро Фушімі</Speaker>
+    <Speaker id="1" rawBytes="53 63 68 6F 6F 6C 20 50 41">Шкільний гучномовець</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 0 0 0 1 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}Увага...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}Фушімі з класу 1-В... {f 4 1} з класу 2-Д...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}Президентка учнівської ради хотіла б з вами поговорити. Будь ласка, негайно пройдіть до кабінету учнівської ради.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}Повторюю...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Президентка хоче поговорити зі мною?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Т-тільки не кажи мені, що вона теж думає, ніби це я вкрала гроші![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не хвилюйся, вона нам допоможе.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру не така.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 13 9 5 109}Т-так, ти маєш рацію! Вона ж нам допоможе, правда?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}І якщо я з нею поговорю, то хоч більше не буду тебе турбувати, {f 4 1}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Га? «Міцуру»?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}А-а-а... Ясно! Я не знала, що ви знайомі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Е-е-е... то підемо вже до кабінету учнівської ради?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

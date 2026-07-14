@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Battle_029.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Battle\BMD_Tutorial_Battle_029.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="4F 72 67 69 61 20 4D 6F 64 65">Orgia Mode</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 30}When Aigis's Theurgy gauge is maxed, her Theurgy, {f 0 1 2}Orgia Mode{f 0 1 27}, can be used.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Once {f 0 1 2}Orgia Mode{f 0 1 27} is activated, Aigis will automatically attack during her turn for three rounds unprompted. During Orgia Mode, her Attack and Defense will increase significantly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 31}Keep in mind that, once Orgia Mode ends, Aigis will {f 0 1 2}Overheat{f 0 1 27}, rendering her immobile for her next turn.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

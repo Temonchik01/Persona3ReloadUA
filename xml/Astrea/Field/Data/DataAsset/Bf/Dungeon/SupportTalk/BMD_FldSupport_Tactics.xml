@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldSupport_Tactics.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\SupportTalk\BMD_FldSupport_Tactics.uasset" dialogs="129">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_ORDER" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Use Fuuka's skill]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check current situation]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="2" name="FSS_FUKA_ORDER" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 6} / {f 2 4 7} SP]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 8} / {f 2 4 9} SP]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 10} / {f 2 4 11} SP]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 12} / {f 2 4 13} SP]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 14} / {f 2 4 15} SP]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's the situation?]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_FUKA_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, please.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not right now.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_MITSURU_RETURN_ADVIC" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}It's too dangerous to go alone. Come back and choose teammates to fight at your side.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_FUKA_RETURN_ADVICE" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's not safe to go alone. Please come back and form a party![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_MITSURU_NOT_ORDER_BT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Anything could happen. Keep your guard up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_FUKA_NOT_ORDER_BTL" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Keep an eye out and be ready for anything.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_MITSURU_NOT_ORDER_NO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4085 0 0}I don't detect any enemies on this floor. I believe you'll be safe for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_FUKA_NOT_ORDER_NOBTL" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}I don't sense any enemies around. You should be safe on this floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_MITU_ORDER_IN_GATE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4025 0 0}The path forward has opened. Exercise caution as you proceed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_FUKA_ORDER_IN_GATE_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5020 0 0}Looks like we can keep going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_MITU_ORDER_IN_GATE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}You should be able to progress further... Could you take a closer look?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_FUKA_ORDER_IN_GATE_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5020 0 0}Has the path opened up yet? Could you please get closer and check it out?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_MITU_ORDER_IN_GATE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4112 0 0}Looks like you can't progress any further. Let's wait for the right time before we try again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_FUKA_ORDER_IN_GATE_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}I don't think it's possible to go any farther than this for now... I guess all we can do now is wait.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_MITU_ORDER_IN_HIGH_R" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Keep a lookout for the enemy that escaped earlier.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_FUKA_ORDER_IN_HIGH_R" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Try to look for the enemy that escaped earlier![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_FUKA_SUPPORT_SKILL_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5009 0 0}What is it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_FUKA_SUPPORT_SKILL_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Do you need my help?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_FUKA_SUPPORT_SKILL_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 1 20131 0 0}Did you need something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_FUKA_ORDER_FIRST" type="Message" />
+  <Dialog id="22" name="MSG_FUKA_ORDER_ESCAPE" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right. Are you sure you want to return to the Desert of Doors right now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_FUKA_ORDER_ESCAPE_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Roger that! Then please stay put.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_FUKA_ORDER_ESCAPE_NO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5056 0 0}I'm sorry, but... it looks like my ability can't be used there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_FUKA_ORDER_SEARCH" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right. You want information on this floor, correct?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_FUKA_ORDER_SEARCH_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}Okay, I'll run a search and display what information I can find, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_FUKA_ORDER_SEARCH_NO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5056 0 0}I'm sorry, but... it looks like my ability can't be used there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_FUKA_ORDER_SEARCH_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}We've already gathered all the information we can on this floor, so there's no need for that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_FUKA_ORDER_JAMMING" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right. You don't want to be detected by the enemies on this floor, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_FUKA_ORDER_JAMMING_D" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Okay! This won't work on all enemies, so please exercise caution.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_FUKA_ORDER_JAMMING_N" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5056 0 0}I'm sorry, but... looks like this won't have any effect there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_FUKA_ORDER_JAMMING_D" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Jamming is still in effect, so we don't need to activate it again![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_FUKA_ORDER_SFAURA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right. You want to boost your defense and speed, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_FUKA_ORDER_SFAURA_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Okay! Just keep in mind that these boons will only take effect in the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_FUKA_ORDER_SFAURA_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5064 0 0}That's still in effect right now, so we don't have to activate it again. It'll show during the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_FUKA_ORDER_SHOCKN" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right. You want to scare all the enemies on this floor, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_FUKA_ORDER_SHOCKN_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5117 0 0}Okay, here goes nothing![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_FUKA_ORDER_SHOCKN_NO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5056 0 0}I'm sorry, but... looks like this won't have any effect there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_FUKA_ORDER_SHOCKN_DO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I've already used Shock Noise on this floor.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It may not affect any more enemies. Are you sure you want to use it again?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_FUKA_NOT_ENOUGH_SP" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5058 0 0}I'm sorry, but I don't have enough energy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_FUKA_ORDER_RESTART" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Do you need anything else?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_TARTARUS_FIRST_TRY_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4585 0 0}Defeat all the Shadows on the floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_TARTARUS_FIRST_TRY_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Since there aren't any enemies at the moment, there's no need to issue that order.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Now's a good time to instruct your party members to split up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_TARTARUS_FIRST_TRY_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4565 0 0}There are no enemies left to defeat. Use the teleporter to return to the entrance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="TRL_TARTARUS_FIRST_TRY_H" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Display help on instructions to split up at this time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_F031_OPERATION_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4143 0 0}I'm worried about the passengers, too. That's why we must secure the monorail immediately.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_F031_OPERATION_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4114 0 0}Fortunately, no one on the monorail was hurt...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}But why hasn't the enemy attacked us yet? Does that mean they're not attacking at random?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm not sure what the enemy is thinking... so proceed with caution.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_F031_OPERATION_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4099 0 0}Was the enemy waiting for this opportunity?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}It's too dangerous for Iori to be alone! Go after him![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_F031_OPERATION_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4127 0 0}There's no time! Get to the front![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_F031_OPERATION_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4092 0 0}I can tell that the monorail has sped up from where I am, too![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}If it gets any faster, there won't be much time left until a collision![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Concentrate on getting to the front, defeating the enemy, and stopping the train immediately![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MND_F052_OPERATION" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't contact Mitsuru. All I hear is static...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_THEURGIA_OPERATION_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}There's an enemy close by. Be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_THEURGIA_OPERATION_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}I still sense some enemies nearby. Keep an eye out if you decide to engage them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_THEURGIA_OPERATION_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Looks like you've defeated all the Shadows on this floor. Please look for the stairs that'll take you up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_THEURGIA_OPERATION_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Something feels off on the floor above us... If you're going up, proceed with caution.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_F034_OPERATION_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}The target is on the third floor. Please hurry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_F034_OPERATION_02" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5011 0 0}Good job. It should be safe for you to return now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_F034_OPERATION_03" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5091 0 0}Be careful! There seems to be a Shadow in that room still.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}But... where is it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_F034_OPERATION_04" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}I'll see what I can find out, so please join up with the others for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_F034_OPERATION_05" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}I sense something similar to a Shadow coming from the mirror.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please break the mirror![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_F034_OPERATION_06" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}There should be something different about the mirrors we're looking for... Take a closer look and see if you can find out what it is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_F034_OPERATION_07" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Break any mirror that doesn't show your own reflection![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_F034_OPERATION_08" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5020 0 0}The seal is broken! Head to the target right away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_F035_OPERATION_START" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}I'm picking up two powerful readings from our target somewhere below you...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's like the two signals are overlapping, forming one giant mass.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_F035_OPERATION_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}The target is heading downward.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Please go after it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_F035_OPERATION_02" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}The target is waiting at the end.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_TAR_ARRIVAL_FLOOR_MI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4065 0 0}The furthest you've gotten is floor {f 2 4 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_TAR_ARRIVAL_FLOOR_FU" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}I believe the furthest you've gotten is floor {f 2 4 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_FUKA_ANALYSIS_START" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}We've still got more exploring to do. Let's all do our best![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_FUKA_ANALYSIS_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I believe the furthest you've gotten is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_FUKA_ANALYSIS_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Malebolge is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_FUKA_ANALYSIS_02" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Cocytus is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_FUKA_ANALYSIS_03" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Caina is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_FUKA_ANALYSIS_04" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Antenora is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_FUKA_ANALYSIS_05" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Ptolomea is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_FUKA_ANALYSIS_06" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Judecca is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_FUKA_ANALYSIS_07" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like the furthest you've explored Empyrean is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_FUKA_ANALYSIS_END_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like you've gone everywhere you can. Great work, Aigis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_TAR_REAPER_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4143 0 0}The Reaper has appeared! Retreat immediately![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_TAR_REAPER_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5103 0 0}The Reaper showed up! Please run![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_TAR_REAPER_WARNING_M" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 3 1 3 0 -1 4099 0 0}These readings...!? It's getting closer![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_TAR_REAPER_WARNING_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5120 0 0}I sense something powerful, and it's approaching quickly![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_TAR_MISNPC" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}There's someone on this floor! Please rescue them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_TAR_MISNPC_CAT" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}There's something on this floor. It's... a person? Please look for them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_TAR_FDOOR" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Looks like one of those doors is on this floor. Maybe we should go look for it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_TAR_ACCIDENT_00_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4104 0 0}Something different is happening on this floor. Stay alert.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_TAR_ACCIDENT_00_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}There's something different about this floor. Please be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_TAR_ENDGATE_00_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4115 0 0}The path forward has opened up. Exercise caution as you proceed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_TAR_ENDGATE_00_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Looks like there's more to this path. Let's keep going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MSG_TAR_ENDGATE_01_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4143 0 0}You should be able to progress further... Could you take a closer look?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_TAR_ENDGATE_01_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5020 0 0}Has the path opened up yet? Could you please get closer and check it out?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_TAR_ENDGATE_02_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}Looks like you can't progress any further. Let's wait for the right time before we try again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_TAR_ENDGATE_02_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}I don't think it's possible to go any farther than this for now... I guess all we can do now is wait.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_TAR_GK_DEFEATED_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}The enemy has been annihilated. Let's move on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_TAR_GK_DEFEATED_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}You've already defeated the enemy here. Let's get moving![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_TAR_GK_EXIST_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I sense a powerful enemy up ahead. Make sure you're well-prepared before entering battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_TAR_GK_EXIST_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There's an enemy blocking the path up ahead, and a tough one at that. Get ready for battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_TAR_JIN_DEFEATED" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm picking up a human presence on the 263rd floor. It must be the last member of Strega.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_TAR_JIN_EXIST" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I sense someone on the 259th floor. I'm positive it's a member of Strega... Please be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_TAR_TAKAYA_DEFEATED" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We finally did it... We finally conquered this enormous tower.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MSG_TAR_TAKAYA_EXIST" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Looks like the last member of Strega, the leader, is on the 263rd floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MSG_TAR_NYX_EXIST" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}We've finally made it to the top of Tartarus... where we'll have our final battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_TAR_NEAR_ENDGATE_MIT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}We've almost reached the end of this area. Let's press on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_TAR_NEAR_ENDGATE_FUK" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We're almost at the end of this area! Just hang on, everyone![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_TAR_MIDDLE_ENDGATE_M" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}We've made decent progress in this area, but we still have a bit of ground to cover.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_TAR_MIDDLE_ENDGATE_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}You've made it pretty far, but it looks like there's still a long way to go. Everyone, stay focused.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MSG_TAR_FAR_ENDGATE_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}You've defeated the stronger enemies in this area, but there's still a ways to go until you reach the end of it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MSG_TAR_FAR_ENDGATE_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}You've cleared out all of the powerful enemies in this area. Let's try to get as close as we can to the next area.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MSG_TAR_NEAR_GK_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There's a strong enemy nearby. Brace yourself for battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MSG_TAR_NEAR_GK_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I sense a strong enemy close by! It might be a good idea to prepare for battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MSG_TAR_MIDDLE_GK_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm getting readings from a strong enemy. We're still far from it, but don't let your guard down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MSG_TAR_MIDDLE_GK_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I sense a strong enemy a little further up... Please take care when exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MSG_TAR_FAR_GK_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Looks like it'll be some time until we cross paths with the next strong enemy. Tread carefully.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MSG_TAR_FAR_GK_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It'll be a while until we encounter the next strong enemy, but please remain vigilant while exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MSG_TAR_NEAR_JIN" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I sense someone on the 259th floor! I think it's a member of Strega, so please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MSG_TAR_NEAR_TAKAYA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I sense a person on the 263rd floor... It must be Takaya. Looks like it's time to settle the score with him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MSG_TAR_NEAR_NYX" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We're nearly at the top floor... And then it'll be time for our final battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MSG_Monad_NotDiscovery" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}I sense something completely new... It doesn't seem to be a Shadow.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MSG_Monad_NotAccess" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}It's a huge door... I wonder what we'll find inside.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MSG_Monad_BackEntrance" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}Please return for now. I'd like to go over the information we have on the door.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MSG_Monad_NowIn" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}The atmosphere here feels different from the usual floors we explore... Please proceed carefully.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_MonadPass_NotAccess" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Let's investigate the door. Maybe we can figure out what makes this one different from the rest.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_MonadPass_NowIn" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}The tension is so thick, it's almost suffocating...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_JinFloor_NotDefeat" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}I can sense Strega's presence just up ahead. Please proceed with caution.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_JinFloor_Defeated" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}There's another person on the 263rd floor... It must be the other member of Strega.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_TakayaFloor_NotDefea" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}Seems like the leader of Strega is just up ahead.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_TAR_ETC01_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I don't sense any powerful enemies, but keep your guard up all the same.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MSG_TAR_ETC02_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm detecting something... Is it that figure? It's still a fair distance away, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

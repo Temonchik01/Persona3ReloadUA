@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Fild_520_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_520_010_C\Script\BMD_Scr_Event_Fild_520_010_C.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Якщо тебе атакував ворог, битва почнеться з невигідних для тебе позицій.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Намагайся завдати противнику удару першим, щоб гарантувати собі ініціативу в бою.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо ти зможеш вдарити ворога до того, як тебе помітять, то ти отримаєш ініціативу.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}З іншого боку, якщо ворог вдарить тебе першим, все буде навпаки.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

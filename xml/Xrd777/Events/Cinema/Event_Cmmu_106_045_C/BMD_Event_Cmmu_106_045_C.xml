@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_106_045_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_106_045_C\BMD_Event_Cmmu_106_045_C.uasset" dialogs="38">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 65 65 6B 2D 4C 6F 6F 6B 69 6E 67 20 47 69 72 6C">Стримана дівчина</Speaker>
+    <Speaker id="1" rawBytes="53 70 75 6E 6B 79 20 42 6F 79">Енергійний хлопчик</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="3" rawBytes="4B 69 64 73">Діти</Speaker>
+    <Speaker id="4" rawBytes="4D 61 74 75 72 65 2D 4C 6F 6F 6B 69 6E 67 20 47 69 72 6C">Дівчина зі зрілим виглядом</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1001}Це поле таке величеееезне![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1002}Вау! Старша школа неймовірна![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Нам дозволили трохи потренуватись на шкільному подвір'ї.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Перший і останній раз вам сюди можна, ясно?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Тож нічого не чіпайте і якщо щось станеться — одразу кажіть мені.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Обіцяєш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}{f 5 21 0 1002}Обіцяю![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Добре. Тоді тренуйтеся, поки велика стрілка на годиннику не дійде до дванадцяти. У школу не заходити![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1002}Гаразд! Погнали![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Гей, зачекай-но хвилинку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Ти маєш більше працювати руками.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}І не піднімай ноги так високо, бо потягнеш м'яз.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Спробуй ще раз! Треба просто повірити в себе![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 1002}Ууууухууу! Дивіться![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 15 0 0}{f 5 21 0 1001}Вау! Кен, ти такий швидкий![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 16 0 0}{f 5 21 0 1001}Гей, старша сестричко!.. Ти маєш бути нам за тренерку![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Ох, я не можу відмовити, коли діти дивляться на мене отак...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Але ж я ніколи не пробувала бути тренеркою...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 1}, що ти про це думаєш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why not give it a go?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's for you to decide.]]></Option>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}Справді думаєш, що я зможу?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Так, розумію...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 22 0 0}{f 5 21 0 1002}Ну будь ласка![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 23 0 0}Ну будь лааааскааа![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Гм...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Це не таке просте рішення...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 0 0 0 26 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_017_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Добре, я згодна![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 2 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 2 25 25}Але я не збираюся вас жаліти! І ніхто не має права кинути цю справу на півшляху![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 2 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Ясно?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_018_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 30 0 0}Так, тренерко Юко![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_019_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 31 0 0}{f 5 21 0 1003}Гей, а він теж нас тренуватиме? Це твій хлопець, тренерко?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_020_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Не ваша справа.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}А тепер усі — шикуйтесь! Я ж казала, що поблажок не буде?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко з запалом почала[n]навчати кожну дитину.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_022_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 2 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Думайте позитивно! Якщо наперед вирішите, що програєте — так і буде! Не бійтеся їх тільки тому, що вони старші![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_023_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 35 0 0}Звучить важко... Але добре![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я спостерігав, як Юко тренує дітей.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зрештою, вони всі розійшлися по домівках...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_025_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Коли вони почали називати мене тренеркою... я просто не змогла відмовитись.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_025_3_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}Слухай...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Може, ти б допоміг мені з тренуванням? Я знаю, прошу багато, але...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_025_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}Я не надто розуміюся на перегонах. Та й ти ж теж спортивний.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}Якби ми займалися з ними разом... я була б дуже вдячна.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_025_7_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Ну, а чому б і ні, га? Прошу! Чесно, сама я не впораюсь...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="SEL_026_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure thing.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's kind of a hassle.]]></Option>
+  </Dialog>
+  <Dialog id="33" name="MSG_027_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}{f 5 13 12 5 106}Ох, дякую тобі...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}Діти теж зрадіють! Спасибі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_028_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}Будь ласка! Дуже прошу![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}Коли вони так просять, хіба можна відмовити? Ну ж бо, погодься![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Юко на мене справді розраховує.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_030_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}Знаю, постійно прошу тебе про послуги, але я віддячу тобі. Обіцяю![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми з Юко залишили школу й[n]я повернувся до гуртожитку...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

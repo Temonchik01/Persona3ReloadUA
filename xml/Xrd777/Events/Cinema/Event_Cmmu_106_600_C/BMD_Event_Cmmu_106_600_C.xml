@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_106_600_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_106_600_C\BMD_Event_Cmmu_106_600_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="1" rawBytes="48 69 67 68 20 53 63 68 6F 6F 6C 20 42 61 73 65 62 61 6C 6C 20 50 6C 61 79 65 72">Бейсболіст</Speaker>
+    <Speaker id="2" rawBytes="4E 61 72 72 61 74 6F 72">Оповідач</Speaker>
+    <Speaker id="3" rawBytes="49 6E 74 65 72 6E 61 6C 20 4D 45 53">Internal MES</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 6 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 5 13 12 10 106}Знайдімо наші місця![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_900_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}Ця остання подача стане кінцем нашого літа... Зосередься! Викладись на повну![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_901_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}Увесь стадіон завмер. Останній кидок — найсильніша подача за весь день.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_902_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}Бачили!? Ось результат усіх моїх тренувань![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_001_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Я відчув натхнення, дивлячись,[n]як спортсмени викладаються на всі сто.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 6 -1 0 0}{f 3 1 1 0 0 5 0 0}Вау, правда круто? Оце я розумію — юнацький запал.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 6 -1 0 0}{f 3 1 1 0 0 6 0 0}Вже темнішає, ходімо додому.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Після прощання з Юко,[n]я вирішив повернутися до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

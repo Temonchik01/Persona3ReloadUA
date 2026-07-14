@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_116_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_060_C\BMD_Event_Cmmu_116_060_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Нодзомі Суеміцу</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ресторан заповнений[n]знайомим рибним запахом.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Сім, вісім, дев’ять...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Дідько, знов не зійшлося... Треба ще когось знайти...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Чорт забирай! Чому ніхто не сприймає мене серйозно?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Я не програю брату знову! Я всім доведу! І йому, і всім іншим![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Що!..? Що таке?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 5 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 5 25 25}Уггх... Грррххх![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Суеміцу побіг до вбиральні![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Все... Закінчилось... Дитина народилась — здорова, слава богу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Гей, {f 4 2}! Ти ж маєш сміятися з дурних жартів Короля гурманів! Хо-хо-хо-хо![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 116 3 25 25}Не розумію... Ще хвилину тому все було нормально, а тут раптом стало зле.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}І часто так?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Може, ти їси забагато?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти хворий?]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 19 5 116}Так, буває час від часу... Типу, організм «відмотує назад» все, що я з’їв.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Слова «переїдання» й «залишки» — взагалі не з мого словника![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 13 19 15 116}Та ти тільки подивись, скільки я всього корисного з’їдаю! Я — уособлення здоров’я! Ну... майже. Якби не цей живіт.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Та не хвилюйся за мене. Це моє випробування перед тим, як я відроджусь.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 116 0 25 25}Якщо я хочу отримати місце в Раю після кінця світу — мушу довести, що на це заслуговую.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Мені було б дуже приємно, якби ти... ну, теж подумав піти в Рай разом зі мною.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Суеміцу комфортно[n]бути моїм другом.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Ой! Через халепу з животом лапша розкисла![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 0 25 25}Про Рай уже наступного разу поговоримо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_011_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}А зараз просто зосередимось на рамені![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Офіціанте! Можна рису й норі!? Я врятую цей рамен, перетворивши його на рисовий суп![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Закінчивши трапезу з Суеміцу,[n]я повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

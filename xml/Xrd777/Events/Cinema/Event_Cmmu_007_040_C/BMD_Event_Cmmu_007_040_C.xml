@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_007_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_040_C\BMD_Event_Cmmu_007_040_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 72 6F 75 62 6C 65 64 20 4F 6C 64 20 4C 61 64 79">Troubled Old Lady</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1701}Excuse me... Could I trouble you for a moment?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1701}Have you seen a kitty cat around here?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1701}She's a precious little white, spotted cat named Mii-chan. She slipped away when I wasn't looking.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1701}I'm so worried about where she could have gone...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1701}She's getting on in her years like me, so I doubt she could have gotten very far.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}A white, spotted cat... Did you see one, {f 4 2}-san?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I might have...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No, I haven't.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}{f 5 21 0 1701}Goodness, really!? Where might this have been?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Near the station.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Near the strip mall.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't remember.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1701}Thank you, dear! I'll go look for her.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1701}Oh, I see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 1701}I've been so worried... I hope my little Mii-chan is eating all right...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1701}Thank you for your help. I'll try looking elsewhere.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}A white, spotted cat named Mii-chan...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}If you don't mind, {f 4 2}-san... could we help her look?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Being separated from a loved one can be very distressing after all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What a pain...]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 5 13 22 15 7}Yes![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 7 0 25 25}Um, what's the phrase usually used in situations like these?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 7 1 25 25}{f 4 21 7 7}"What goes around, comes around to hit you in the back of the head"![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}That's it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}But if they remain separated, she will feel the same pain that Koromaru-san once did...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 7 0 25 25}If we help, I think we can at least reduce the chances of that happening![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems I can't turn her down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}She might be so hungry she could eat a house.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 0 0 0 22 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_012_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Or was it, "hungry as a house"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_012_4_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}In any case, we should hurry.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

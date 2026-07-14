@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Daily_048.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Daily\BMD_Tutorial_Daily_048.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68 27 73 20 52 65 71 75 65 73 74 73">Elizabeth's Requests</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 4 8 0}You can now speak to Elizabeth about accepting and reporting requests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 4 8 0}Requests can involve anything from hunting for items to fusing specific Personas. When you complete a request, you will be rewarded.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 4 8 0}Additional requests will become available as you {f 0 1 2}make progress in your exploration or complete certain previous requests{f 0 1 27}. Start by taking a look at the requests that are currently listed.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

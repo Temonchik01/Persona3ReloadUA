@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldNPC_Entrance_Junpei.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Junpei.uasset" dialogs="83">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ходім разом.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я подумаю про це.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити прогрес]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Забудь]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аїґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпей]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Санада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Амада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Араґакі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Коромару]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не входити]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Запитати про ціль]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до станції]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Почати операцію]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_JUNPEI_PARTY_IN_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Ти знаєш, що тобі знадобиться моя допомога. Ми готові?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_JUNPEI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Гаразд, зробимо це![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_JUNPEI_PARTY_OUT_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Давай, поїхали.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_JUNPEI_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}(зітхання) Гаразд, я зрозумів...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_JUNPEI_PARTY_OVER_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Йоу, що сталося? У тебе вже є повна група![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_JUNPEI_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}То з ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_JUNPEI_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}То з ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_JUNPEI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Гаразд, зробимо це![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_JUNPEI_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}(зітхання) Гаразд, я зрозумів...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_JUNPEI_PARTY_OUT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2025 0 0}Ходімо, чуваче.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Чувак, що? Я ж тут не просто пугало... Так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_JUNPEI_PARTY_OVER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Команда вже повна, чуваче.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_JUNPEI_TUTORIAL_BEFO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2118 0 0}Гаразд, зробимо це![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Я доведу, що я повинен бути головним![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_JUNPEI_TUTORIAL_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2111 0 0}Чуваче, я більше не можу...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Я вмираю з голоду...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_JUNPEI_THEURGIA_BEFO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2010 0 0}Це все тобі, чуваче.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Я тут затримаюсь, тож іди і покажи їм![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_JUNPEI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Гаразд, зробимо це![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_JUNPEI_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}(зітхання) Гаразд, я зрозумів...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_JUNPEI_PARTY_OVER_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Чувак, тут немає місця.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_JUNPEI_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}То з ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_JUNPEI_PARTY_IN_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2117 0 0}Ти готовий влаштувати шоу?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Ти дивишся на свого туза в рукаві![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_JUNPEI_PARTY_OUT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2004 0 0}Я готовий будь-коли.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Просто довірся мені![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_JUNPEI_PARTY_IN_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Тс... Якщо він був такий розумний, чому не зробив у житті щось корисніше?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_JUNPEI_PARTY_OUT_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Що ж, немає сенсу довго про це думати... Ходімо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_JUNPEI_PARTY_IN_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Цей покидьок наступний, так? Не проти, якщо я піду з тобою?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}У мене з ним є незакінчена справа...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_JUNPEI_PARTY_OUT_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Гадаю, якщо ми виб'ємо з нього все лайно, це раптом все виправить, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}Так чи інакше, ми повинні пройти повз нього. Готовий до цього?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_JUNPEI_PARTY_IN_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2117 0 0}Гаразд, настав час справжньої битви...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Покінчимо з цим з розмахом![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_JUNPEI_PARTY_OUT_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2132 0 0}Хех, все буде добре. Ми впораємося.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Твій відбивач, Джюнпей Іорі, збирається вибити його з поля![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_JUNPEI_PARTY_IN_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Гаразд, поїхали.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_JUNPEI_PARTY_OUT_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Щось сталося? Давай, ходімо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_JUNPEI_PARTY_IN_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Що з ними сталося? Заскочили, щоб проповідувати все високе і могутнє, тільки щоб втекти...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}Ви, падлюки, думаєте, що ми боїмося сидіти за ґратами!? ...Неважливо. Зробимо це![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_JUNPEI_PARTY_OUT_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2098 0 0}Йоу, я починаю хвилюватися![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_JUNPEI_PARTY_OVER_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Блин, чуваче... У тебе і так повна група![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_JUNPEI_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}То з ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_JUNPEI_PARTY_IN_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Це буде мій перший раз в такому місці, розумієш? Блин, я відчуваю метеликів у животі...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_JUNPEI_PARTY_IN_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2118 0 0}Ми так близько... Давай надеремо комусь дупу, чуваче.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Гей, а я ввійду до стартового набору?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_JUNPEI_PARTY_IN_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Цікаво, що задумали Амада та Араґакі...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Зачекай, ти думаєш, це їхній спосіб сказати, що вони залишають все в моїх надійних руках?.. Чувак...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_JUNPEI_PARTY_IN_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2118 0 0}Останній - той здоровань, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}Гаразд, настав мій час сяяти! Я відвезу нас додому, крихітко![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_JUNPEI_PARTY_OUT_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2117 0 0}Зробімо це![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Я готовий стати до плити! Давайте зробимо це![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_JUNPEI_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}(зітхання) Гаразд, я зрозумів...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_JUNPEI_PARTY_OVER_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Чувак, тут більше немає місця.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_JUNPEI_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}То з ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_JUNPEI_PARTY_OUT_TKJ" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Я не дозволю їм зробити це.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Але ти ж не посадите мене на лавку запасних?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_0425_0508_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2095 0 0}Мені байдуже, звідки прийшли ці вороги. Я розтрощу їх один за одним![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Можеш на мене розраховувати![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_0510_0514_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Те, що сталося на монорельсі, було божевіллям, чувак.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Я хотів би зробити з цього сценарій для телешоу абощо, але, мабуть, не зможу...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Капець... Б'юся об заклад, це теж було б круто...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_0523_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2066 0 0}Санада повернувся.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Я радий, що у мене нарешті з'явився суперник, який може протистояти моїй зовнішності![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_0602_0605_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2066 0 0}«Вірити чи не вірити Джюнпею» - приголомшливий хіт! Його популярність не знає меж![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Навіть у літню спеку «Вірити чи не вірити Джюнпею» змусить вас тремтіти від страху![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}...Хех, я просто жартую.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_0606_0607_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Той хлопець, що врятував нас, Араґакі, був справді крутим, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Він звалив того чувака одним ударом в голову! Мені байдуже, хто ти, це просто круто.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_0613_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2132 0 0}Прекрасне фехтування Кіріджьо та заспокійливий голос Фууки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Справжня оаза в пустелі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_0623_0707_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2095 0 0}Та-да-да-да! Джюнпей підвищив рівень![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}...Хотів би я казати це по сто разів на день.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Чим більше я підвищую рівень, тим крутішим я стаю![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_0709_0717_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2011 0 0}... Що? ТЕПЕР тобі щось від мене потрібно?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 4 25 3}Тсс...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_0718_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}Чувак, я так хочу на Якушіму![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Я так багато про це думаю, що навіть Тартар починає здаватися мені пляжем.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_0724_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Аі-чан дивовижна...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Вона така мила, але вона також може стріляти з пальців![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Добре, що вона на нашому боці... Було б відстійно мати такого ворога.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_0725_0805_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Звичайно, Амада дорослий для свого віку...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Але тобі не здається, що Юка-тян переоцінює його?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Було б добре, якби вона хоч іноді хвалила мене...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_0806_0809_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}{f 3 1 3 0 -1 2111 0 0}Я серйозно не можу повірити, що ми повинні йти в літню школу![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Може, якщо я залишуся в Тартарі, мені не доведеться йти...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_0810_0820_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2066 0 0}Тепер, коли Коромару на нашому боці, справи йтимуть як ніколи добре![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}З такою кількістю членів команди Тартар стане набагато веселішим! ...я сподіваюся.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_0821_0827_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Чуваче... Літні канікули майже закінчилися...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Що ж, принаймні, я ще можу створити кілька прекрасних спогадів тут, у Тартарі...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}... Наче хтось може це зробити![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_0828_0902_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Амада лише в початковій школі, але він такий рішучий. Це просто дивовижно, знаєш?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Я навпаки...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_0903_0904_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Араґакі - наш сенпай у школі та в СПВЗ... О, і в «Персонах»! Він потрійний сенпай![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Якщо він попросить мене купити йому якісоба-пан, я не зможу йому відмовити...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}А якщо він попросить мене тут? Адже в Тартарі немає якісоба-пан![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_0906_0918_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Відколи я почав розмовляти з Чідорі, я багато думав...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Знаєш... Я ніколи не замислювався так глибоко над такими речами, як життя, смерть і таке інше...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_0919_1003_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Ті чуваки зі Стреґи, мабуть, вийдуть під час наступного повного місяця, га?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}Я не можу програти... ні для себе, ні для Чідорі...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_1005_1016_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2093 0 0}Я б ніяк не зміг так легко прийняти свою смерть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Араґакі дивовижний...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_1019_1102_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2004 0 0}Коли Тартар зникне, перше, що я зроблю, це піду до Чідорі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Ха-ха, я відчуваю себе героєм відеогри чи щось таке.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}"Тоді я перевірю, як там прекрасна діва, після того, як переможу останнього ворога!» Хехе...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_1106_1109_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2004 0 0}Отже, Ікуцукі весь цей час грав нами...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Чим більше я думаю про це, тим більше ненавиджу Тартар...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_1110_1117_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2004 0 0}Чувак, Кіріджьо виглядає досить погано... Таке враження, що в ній немає життя...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Але я її не звинувачую.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Якби я втратив когось із близьких, я, мабуть, теж був би таким...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_1121_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}{f 3 1 3 0 -1 2111 0 0}Боже, мені досі боляче... Кіріджьо не повинна була зайти так далеко зі своєю «стратою».[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Після цього ми навіть не повинні бути тут сьогодні ввечері. Ми надто багато працюємо...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_1121_JUNPEI_DUNGE_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Цікаво, чи не сталося чогось з Кіріджьо під час шкільної поїздки.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Тобто, вона була така пригнічена, але раптом з нею все гаразд.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}...Ну, я радий, що з нею все гаразд.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_1122_1127_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2004 0 0}... Чідорі дала мені життя.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}І тепер воно не тільки моє. Я маю подбати про неї...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_1203_1213_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}Рьоуджі скинув на нас справжню бомбу, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}Кінець світу? Як я можу просто прийняти це!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_0101_0114_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2066 0 0}Аі-чан зараз інша. Я не знаю, це як... її обличчя здається яскравішим, чи щось таке.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Ну, я теж ще не припинив рости! Я все одно буду підіймати рівень, як божевільний![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Тож ходімо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_0115_0130_JUNPEI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2086 0 0}Це вершина фінального іннінґу![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Биймося, вдосконалюємось і запустимо Нікс у відкритий космос![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_0131_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Чуваче, гадаю, це остання ніч, коли ми називаємо тебе «Лідер», так, {f 4 2}?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Важко називати тебе так за межами Тартару. У школі на нас дивно дивилися б.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Що ж, гадаю, нам доведеться придумати тобі нове прізвисько, щоб називати тебе із завтрашнього дня![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_TEST_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2102 0 0}Нічого не кажи про іспити![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Не хочу про них думати, поки я в Тартарі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_HANYOU1_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}{f 3 1 3 0 -1 2093 0 0}Гааааа, я такий голодний![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}Тартар... Тартар. Соус тартар...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}От срань... Я хочу смажених креветок, щоб погризти їх зараз...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_HANYOU2_JUNPEI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Хотілося б, щоб у Тартарі був цілодобовий магазин.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Там можна було б купити все, що завгодно, і ми б не боялися голодувати![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Хотілося б, щоб Група Кіріджьо справді зробила тут такий...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_JUNPEI_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}Виходьте, Тіні... Не бійтесь, я не вкушу...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Я просто порубаю вас на дрібні шматочки![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

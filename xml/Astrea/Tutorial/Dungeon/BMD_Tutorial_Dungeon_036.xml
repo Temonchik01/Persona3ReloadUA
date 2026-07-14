@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_036.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_036.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="44 61 72 6B 20 5A 6F 6E 65">Dark Zone</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 38}While exploring, your periphery may occasionally become shrouded in a darkness known as the {f 0 1 2}Dark Zone{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}With your vision obscured, you'll need to use your map to find your way around. Fortunately, {f 0 1 2}enemies can't detect you either{f 0 1 27}, so you can take your time looking for the stairs to the next floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 39}{f 0 1 2}Breakable objects{f 0 1 27} are also guaranteed to contain a {f 4 4 0 37 1 16667}, so don't be deterred by the darkness and take your time exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

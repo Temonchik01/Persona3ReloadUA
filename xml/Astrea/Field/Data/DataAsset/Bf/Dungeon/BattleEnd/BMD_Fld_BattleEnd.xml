@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Fld_BattleEnd.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\BattleEnd\BMD_Fld_BattleEnd.uasset" dialogs="27">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+    <Speaker id="9" rawBytes="4D 65 74 69 73">Metis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_TUTO_BTL03_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 81 0 0}{f 3 1 1 0 1 20531 0 0}How'd ya like our all-out combo attack, ya filthy Shadows!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_TUTO_BTL03_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 81 0 0}{f 3 1 1 0 1 20532 0 0}When I saw my opening, it's like my body just knew what to do.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_TUTO_BTL03_02" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20533 0 0}That was magnificent teamwork. It's hard to believe it's your first time.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20534 0 0}As you grasp the flow of battle, you'll learn to coordinate with each other seamlessly.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20535 0 0}Let's apply what we've learned so far and continue exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_TUTO_BTL04_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4585 0 0}Okay, I think this is a good place to stop.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There's a device nearby that will teleport you back. Look around for it.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There should also be some stairs nearby, but I can't approve any more exploration right now.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}We'll explore the upper floors next time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_THEURGIA_4TH_BTL_END" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 1 10032 0 0}I no longer detect any Shadows. All the ones on this floor have been defeated.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_THEURGIA_4TH_BTL_END" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 82 0 0}{f 3 1 1 0 1 10033 0 0}It's all coming back to me. It would be wise for me to keep battling.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_THEURGIA_4TH_BTL_END" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 82 0 0}{f 3 1 1 0 1 10034 0 0}Let's keep going then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_THEURGIA_4TH_BTL_END" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}You've already found the stairs, right? Should we head there now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_THEURGIA_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head for the stairs]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Continue exploring]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_SUGGEST_TUTO_MITSURU" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4085 0 0}All right, we've secured the perimeter.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}We still have a little time before the Shadows reappear.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}It might be a good idea to do some reconnaissance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_SUGGEST_TUTO_FUKA_00" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Nice work. We've secured the perimeter.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We still have some time to spare before the Shadows reappear.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It should be a little safer for you to scout ahead right now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_SEPARATELY_TUTO_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What do you mean?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What should we do?]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_SUGGEST_TUTO_MITSURU" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4065 0 0}One of you will split from the group to canvass the floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}That way, we'll be able to explore more efficiently, correct?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}It's still risky, of course, but one person should have an easier time avoiding Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}If the scout can find the stairs, it'll lighten the load for {f 4 1} and the main squad.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}So how about it? Anyone up to the task?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_SUGGEST_TUTO_FUKA_01" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5064 0 0}One person will split from the party to scout the floor.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Exploring would be more efficient if we divide and conquer.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Going solo makes it easier to evade Shadows as well.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}And if the scout can locate the stairs, it'd make everyone's lives a lot easier.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}So what do you think? Should we ask someone to scout ahead?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_SUGGEST_MITSURU_00" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4085 0 0}All right, we've secured the area. Shall we have someone scout ahead?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_SUGGEST_FUKA_00" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}We've secured the area. Do you want to send someone out to scout ahead?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_SEPARATELY_YUKARI_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1002 0 0}I'm on it! Just let me handle this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_SEPARATELY_JUNPEI_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}I'm the man for the job![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_SEPARATELY_SANADA_00" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3001 0 0}I'll go. My training's prepared me for this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_SEPARATELY_MITSURU_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}Allow me. Don't worry, I'll clear us a path.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_SEPARATELY_FUKA_00" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5068 0 0}Oh, I think Koro-chan's volunteering to go! What do you think, Aigis?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_SEPARATELY_AEGIS_00" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6019 0 0}I'll go. I have experience conducting solo missions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_SEPARATELY_AMADA_00" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7002 0 0}Leave it to me! There's no way those Shadows will find me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_SEPARATELY_KOROMARU_" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_SEPARATELY_ARAGAKI_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9005 0 0}I got this. You cool with that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_SEPARATELY_METIS_00" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30017 0 0}Sister, pick me! I'll prove myself useful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="SEL_SEPARATELY_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Go ahead.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+</BMD>

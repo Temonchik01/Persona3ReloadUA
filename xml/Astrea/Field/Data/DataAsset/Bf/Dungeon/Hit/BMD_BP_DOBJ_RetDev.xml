@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BP_DOBJ_RetDev.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_BP_DOBJ_RetDev.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_RETURN" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head back]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Continue exploring]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_TUTORIAL" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head back]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Continue exploring]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MND_TUTORIAL_ESCAPE_POIN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I return to the entrance?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_ESCAPE_MITSURU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4085 0 0}Are you ready to return to the entrance?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_ESCAPE_MITSURU_GO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Roger that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_ESCAPE_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}Would you like to return to the Desert of Doors?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_ESCAPE_FUKA_GO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Okay. I'll be waiting for you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_ESCAPE_FUKA_Monad" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}Sorry to cut your exploration short, but please come back for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_TUTORIAL_Monad" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Got it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}In a bit.]]></Option>
+  </Dialog>
+  <Dialog id="9" name="FUKA_STOP_RETURN_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}{f 3 1 3 0 -1 5073 0 0}Wait! There must be something on that floor...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}The rest of us were just about to head over there.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}Do you want to return to the Desert of Doors without taking a look around?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

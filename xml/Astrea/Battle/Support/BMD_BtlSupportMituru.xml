@@ -1,0 +1,2106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BtlSupportMituru.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Battle\Support\BMD_BtlSupportMituru.uasset" dialogs="701">
+  <Dialog id="0" name="AST_btl_05_blank" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 0 0 0}Unused[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="AST_btl_05_001_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 1 0 0}We have the advantage! They're hardly a threat![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="AST_btl_05_002_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 2 0 0}We have the advantage! You can do this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="AST_btl_05_003_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 3 0 0}The enemy's strong, but you have the first move![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="AST_btl_05_004_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 4 0 0}Two weak enemies! You have the initiative![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="AST_btl_05_005_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 5 0 0}There's two! Here's your chance to attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="AST_btl_05_006_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 6 0 0}Two enemies! They're strong, but you can strike first![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="AST_btl_05_007_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 7 0 0}Three targets! They're weak, so let's finish them quick![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="AST_btl_05_008_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 8 0 0}It's a group of three! You have the initiative![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="AST_btl_05_009_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 9 0 0}Three targets! They're strong, but you've got the first move![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="AST_btl_05_010_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 10 0 0}There's four of them! They have numbers, but you can act first![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="AST_btl_05_011_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 11 0 0}Four targets, and you have the first move![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="AST_btl_05_012_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 12 0 0}Four enemies! They're tough, but we can attack first![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="AST_btl_05_013_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 13 0 0}Five enemies, but they're no threat! Let's make this quick![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="AST_btl_05_014_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 14 0 0}Five targets detected! You can attack first![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="AST_btl_05_015_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 15 0 0}Five powerful foes...! At least we have the first move. You can win this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="AST_btl_05_016_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 16 0 0}It's weak. Did you let your guard down?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="AST_btl_05_017_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 17 0 0}Enemy ambush. We can't afford to be careless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="AST_btl_05_018_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 18 0 0}Incoming enemy attack! It's a strong one![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="AST_btl_05_019_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 19 0 0}Two enemies! They're not strong, but they have the first move![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="AST_btl_05_020_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 20 0 0}Two targets detected! They have the advantage![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="AST_btl_05_021_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 21 0 0}Two strong foes, and they took the initiative... Brace yourselves![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="AST_btl_05_022_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 22 0 0}Three enemies! They have the first move, but you can handle them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="AST_btl_05_023_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 23 0 0}Three targets, and they have the advantage.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="AST_btl_05_024_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 24 0 0}Three powerful enemies... It's an ambush! You have to hold on![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="AST_btl_05_025_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 25 0 0}Four targets. They may be weak, but they got the jump on us![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="AST_btl_05_026_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 26 0 0}Four enemies. They have the advantage...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="AST_btl_05_027_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 27 0 0}We've been ambushed by a strong group—four of them. Just hold on![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="AST_btl_05_028_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 28 0 0}It's a five-enemy ambush... Luckily, they don't look strong.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="AST_btl_05_029_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 29 0 0}Five enemies! They took the initiative—you have to regroup![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="AST_btl_05_030_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 30 0 0}Wha—!? Five powerful enemies, and they have the advantage! Hold onto your lives![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="AST_btl_05_031_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 31 0 0}One enemy. It's no match for you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="AST_btl_05_032_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 32 0 0}A single enemy detected![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="AST_btl_05_033_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 33 0 0}There's one enemy! It's a tough one![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="AST_btl_05_034_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 34 0 0}Two enemies detected! They're no threat to us![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="AST_btl_05_035_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 35 0 0}Two targets! You can handle them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="AST_btl_05_036_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 36 0 0}Two enemies! Careful, they're strong![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="AST_btl_05_037_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 37 0 0}Three enemies! They shouldn't be a problem![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="AST_btl_05_038_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 38 0 0}Detecting three targets! Take them out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="AST_btl_05_039_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 39 0 0}Three enemies... They're strong, so watch out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="AST_btl_05_040_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 40 0 0}Four enemies! They're weak, but they have numbers.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="AST_btl_05_041_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 41 0 0}Four targets detected! Don't lose focus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="AST_btl_05_042_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 42 0 0}Four targets. Stay on guard—they're strong![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="AST_btl_05_043_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 43 0 0}Five of them! So the weak find strength in numbers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="AST_btl_05_044_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 44 0 0}Five enemies! We're outnumbered![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="AST_btl_05_045_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 45 0 0}Five targets! Strong ones, too... We're in for a tough fight![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="AST_btl_05_046_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 46 0 0}This'll be a difficult battle... Stay focused![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="AST_btl_05_046_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 47 0 0}The enemy's strong... This is going to be a tough fight![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="AST_btl_05_046_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 48 0 0}This won't be easy... Keep your guard up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="AST_btl_05_047_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 49 0 0}A rare Shadow... Let's take it out here and now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="AST_btl_05_047_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 50 0 0}We're in luck! That's not an enemy you see often![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="AST_btl_05_047_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 51 0 0}That's a rare one! Don't let it escape![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="AST_btl_05_048_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 52 0 0}This is bad... You have to get out of there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="AST_btl_05_048_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 53 0 0}You don't stand a chance... Fall back![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="AST_btl_05_049_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 54 0 0}This looks dangerous... Stay on alert![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="AST_btl_05_049_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 55 0 0}It's not impossible, but... don't let your guard down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="AST_btl_05_050_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 56 0 0}Enemy reinforcements![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="AST_btl_05_050_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 57 0 0}You're not out of this yet![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="AST_btl_05_050_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 58 0 0}You've got more incoming![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="AST_btl_05_051_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 59 0 0}This is beyond the level of an ordinary Shadow. Watch yourselves![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="AST_btl_05_051_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 60 0 0}This could be a tough fight. Don't let your guard down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="AST_btl_05_051_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 61 0 0}So this area's under guard... Careful, this won't be easy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="AST_btl_05_052_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 62 0 0}Multiple team members out of commission... Do you have any means to recover!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="AST_btl_05_053_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 63 0 0}How could this happen!? Hey, hang in there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="AST_btl_05_054_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 64 0 0}Takeba's been knocked out! Can you get her up!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="AST_btl_05_055_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 65 0 0}Iori's out! Can you help him!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="AST_btl_05_056_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 66 0 0}Akihiko's been taken out! This is bad![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="AST_btl_05_057_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 67 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="AST_btl_05_058_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 68 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="AST_btl_05_059_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 69 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="AST_btl_05_060_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 70 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="AST_btl_05_061_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 71 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="AST_btl_05_062_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 72 0 0}Teammate down! Try to get them back up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="AST_btl_05_063_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 73 0 0}It looks like your backs are to the wall...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="AST_btl_05_064_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 74 0 0}This is bad... Watch your health![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="AST_btl_05_065_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 75 0 0}Takeba! Are you all right!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="AST_btl_05_066_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 76 0 0}Iori's in a bad spot![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="AST_btl_05_067_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 77 0 0}Akihiko's in trouble...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="AST_btl_05_068_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 78 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="AST_btl_05_069_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 79 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="AST_btl_05_070_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 80 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="AST_btl_05_071_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 81 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="AST_btl_05_072_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 82 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="AST_btl_05_073_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 83 0 0}Your health is low! Do you have any healing!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="AST_btl_05_074_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 84 0 0}This is bad... You're falling out of formation![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="AST_btl_05_075_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 85 0 0}You've been knocked down... Get up, quickly![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="AST_btl_05_076_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 86 0 0}Takeba's down! She needs backup![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="AST_btl_05_077_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 87 0 0}Iori's been knocked down! Someone cover for him![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="AST_btl_05_078_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 88 0 0}Akihiko's down! Someone do something![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="AST_btl_05_079_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 89 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="AST_btl_05_080_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 90 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="AST_btl_05_081_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 91 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="AST_btl_05_082_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 92 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="AST_btl_05_083_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 93 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="AST_btl_05_084_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 94 0 0}Not good... You've been knocked down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="AST_btl_05_085_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 95 0 0}C'est magnifique! Excellent evasion![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="AST_btl_05_086_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 96 0 0}You dodged it! Well done.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="AST_btl_05_087_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 97 0 0}Excellent! Takeba dodged the attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="AST_btl_05_088_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 98 0 0}Iori avoided the attack! Great show of skill![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="AST_btl_05_089_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 99 0 0}Successful dodge from Akihiko! Impressive as always.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="AST_btl_05_090_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 100 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="AST_btl_05_091_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 101 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="AST_btl_05_092_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 102 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="AST_btl_05_093_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 103 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="AST_btl_05_094_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 104 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="AST_btl_05_095_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 105 0 0}Excellent! You avoided it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="AST_btl_05_096_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 106 0 0}An enemy's fled... Now four remain![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="AST_btl_05_097_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 107 0 0}An enemy escaped! Three remaining![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="AST_btl_05_098_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 108 0 0}It ran away! Only two left—you can do this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="AST_btl_05_099_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 109 0 0}The enemy fled! There's only one left![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="AST_btl_05_100_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 110 0 0}The enemy's run from battle. Well done.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="AST_btl_05_101_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 111 0 0}Your attack power's been reduced![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="AST_btl_05_102_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 112 0 0}Takeba's attack power was reduced![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="AST_btl_05_103_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 113 0 0}Iori's attack power is down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="AST_btl_05_104_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 114 0 0}Looks like Akihiko's attack power is down...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="AST_btl_05_105_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 115 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="AST_btl_05_106_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 116 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="AST_btl_05_107_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 117 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="AST_btl_05_108_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 118 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="AST_btl_05_109_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 119 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="AST_btl_05_110_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 120 0 0}Ngh... Your attack power's been reduced.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="AST_btl_05_111_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 121 0 0}Your defense was reduced... Watch out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="AST_btl_05_112_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 122 0 0}Takeba's defense is down. Be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="AST_btl_05_113_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 123 0 0}Iori's defense has been lowered. Watch yourself![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="AST_btl_05_114_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 124 0 0}Akihiko's defense was reduced![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="AST_btl_05_115_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 125 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="AST_btl_05_116_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 126 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="AST_btl_05_117_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 127 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="AST_btl_05_118_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 128 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="AST_btl_05_119_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 129 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="AST_btl_05_120_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 130 0 0}Your defense is down... Watch for incoming attacks![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="AST_btl_05_121_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 131 0 0}Your speed's been reduced. Can you fix that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="AST_btl_05_122_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 132 0 0}Takeba's speed is down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="AST_btl_05_123_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 133 0 0}This isn't good... Iori's speed was reduced.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="134" name="AST_btl_05_124_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 134 0 0}Akihiko's speed was reduced![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="AST_btl_05_125_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 135 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="AST_btl_05_126_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 136 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="AST_btl_05_127_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 137 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="AST_btl_05_128_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 138 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="AST_btl_05_129_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 139 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="AST_btl_05_130_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 140 0 0}Your speed's been reduced... This isn't good.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="AST_btl_05_131_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 141 0 0}The enemy's five strong! Take them down one by one![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="AST_btl_05_132_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 142 0 0}Four targets! There's quite a few of them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="AST_btl_05_133_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 143 0 0}I count three enemies. Stay alert![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="AST_btl_05_134_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 144 0 0}Two enemies remaining! You can do it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="145" name="AST_btl_05_135_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 145 0 0}Just one target left! Finish this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="146" name="AST_btl_05_136_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 146 0 0}The team looks exhausted... Try to focus on healing![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="147" name="AST_btl_05_137_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 147 0 0}Your health's in bad shape... Keep an eye on it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="AST_btl_05_138_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 148 0 0}Takeba's in danger... Someone patch her up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="AST_btl_05_139_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 149 0 0}Iori's in bad shape. He needs to recover.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="AST_btl_05_140_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 150 0 0}Akihiko's hurt... Can anyone help him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="151" name="AST_btl_05_141_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 151 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="152" name="AST_btl_05_142_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 152 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="153" name="AST_btl_05_143_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 153 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="154" name="AST_btl_05_144_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 154 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="155" name="AST_btl_05_145_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 155 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="156" name="AST_btl_05_146_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 156 0 0}You've taken heavy damage... Can anyone afford to heal?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="157" name="AST_btl_05_147_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 157 0 0}You've been frozen. Hold on and wait for backup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="158" name="AST_btl_05_148_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 158 0 0}Takeba's frozen! She needs support![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="159" name="AST_btl_05_149_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 159 0 0}Iori's frozen solid! Try to cover for him![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="160" name="AST_btl_05_150_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 160 0 0}Akihiko's been frozen! He needs backup![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="161" name="AST_btl_05_151_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 161 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="162" name="AST_btl_05_152_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 162 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="163" name="AST_btl_05_153_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 163 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="164" name="AST_btl_05_154_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 164 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="165" name="AST_btl_05_155_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 165 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="166" name="AST_btl_05_156_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 166 0 0}You've been frozen! Can someone offer backup?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="167" name="AST_btl_05_157_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 167 0 0}You can't move while you're paralyzed. Wait until you've recovered![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="168" name="AST_btl_05_158_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 168 0 0}Takeba's been paralyzed! Can anyone help her out?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="169" name="AST_btl_05_159_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 169 0 0}Iori's been shocked stiff! Try to back him up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="170" name="AST_btl_05_160_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 170 0 0}Akihiko's paralyzed! Someone cover for him![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="171" name="AST_btl_05_161_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 171 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="172" name="AST_btl_05_162_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 172 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="173" name="AST_btl_05_163_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 173 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="174" name="AST_btl_05_164_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 174 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="175" name="AST_btl_05_165_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 175 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="176" name="AST_btl_05_166_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 176 0 0}You're paralyzed! Do you have a way to recover?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="177" name="AST_btl_05_167_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 177 0 0}You've been charmed by the enemy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="178" name="AST_btl_05_168_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 178 0 0}Takeba's been charmed! Can you bring her back to her senses?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="179" name="AST_btl_05_169_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 179 0 0}Iori's been charmed... Snap him out of it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="180" name="AST_btl_05_170_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 180 0 0}Akihiko... He's fallen into the enemy's trap...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="181" name="AST_btl_05_171_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 181 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="182" name="AST_btl_05_172_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 182 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="183" name="AST_btl_05_173_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 183 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="184" name="AST_btl_05_174_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 184 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="185" name="AST_btl_05_175_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 185 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="186" name="AST_btl_05_176_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 186 0 0}You've been charmed! Can anyone step in to help?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="187" name="AST_btl_05_177_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 187 0 0}You've been poisoned... Can anyone treat it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="188" name="AST_btl_05_178_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 188 0 0}Takeba's been poisoned! Does anyone have an antidote?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="189" name="AST_btl_05_179_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 189 0 0}Iori's poisoned! He needs help![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="190" name="AST_btl_05_180_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 190 0 0}Akihiko's been poisoned... Can anyone cure him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="191" name="AST_btl_05_181_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 191 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="192" name="AST_btl_05_182_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 192 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="193" name="AST_btl_05_183_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 193 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="194" name="AST_btl_05_184_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 194 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="195" name="AST_btl_05_185_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 195 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="196" name="AST_btl_05_186_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 196 0 0}You've been poisoned... Do you have a cure?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="197" name="AST_btl_05_187_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 197 0 0}You've been distressed![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="198" name="AST_btl_05_188_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 198 0 0}Takeba's under distress![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="199" name="AST_btl_05_189_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 199 0 0}Iori's distressed![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="200" name="AST_btl_05_190_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 200 0 0}Akihiko, get a hold of yourself![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="201" name="AST_btl_05_191_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 201 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="202" name="AST_btl_05_192_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 202 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="203" name="AST_btl_05_193_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 203 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="204" name="AST_btl_05_194_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 204 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="205" name="AST_btl_05_195_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 205 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="206" name="AST_btl_05_196_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 206 0 0}You look distressed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="207" name="AST_btl_05_197_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 207 0 0}You're confused... Can anyone help?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="208" name="AST_btl_05_198_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 208 0 0}Watch out, Takeba's confused![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="209" name="AST_btl_05_199_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 209 0 0}Eyes up, Iori's confused![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="210" name="AST_btl_05_200_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 210 0 0}Akihiko's confused! Please, snap out of it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="211" name="AST_btl_05_201_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 211 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="212" name="AST_btl_05_202_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 212 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="213" name="AST_btl_05_203_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 213 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="214" name="AST_btl_05_204_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 214 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="215" name="AST_btl_05_205_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 215 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="216" name="AST_btl_05_206_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 216 0 0}Someone's confused...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="217" name="AST_btl_05_207_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 217 0 0}You'll overcome the fear soon! Just hold on for now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="218" name="AST_btl_05_208_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 218 0 0}Takeba, don't give in to fear![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="219" name="AST_btl_05_209_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 219 0 0}Iori, be brave! Don't run away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="220" name="AST_btl_05_210_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 220 0 0}Akihiko... You'd better not run.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="221" name="AST_btl_05_211_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 221 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="222" name="AST_btl_05_212_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 222 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="223" name="AST_btl_05_213_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 223 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="224" name="AST_btl_05_214_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 224 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="225" name="AST_btl_05_215_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 225 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="226" name="AST_btl_05_216_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 226 0 0}Your fear is taking over! Someone step in to help![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="227" name="AST_btl_05_217_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 227 0 0}No... You need to calm down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="228" name="AST_btl_05_218_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 228 0 0}Takeba's not thinking straight... Can anyone help her?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="229" name="AST_btl_05_219_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 229 0 0}Iori's rage is out of control... Can somebody calm him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="230" name="AST_btl_05_220_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 230 0 0}Akihiko's letting anger get to him... Please, come to your senses![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="231" name="AST_btl_05_221_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 231 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="232" name="AST_btl_05_222_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 232 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="233" name="AST_btl_05_223_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 233 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="234" name="AST_btl_05_224_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 234 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="235" name="AST_btl_05_225_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 235 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="236" name="AST_btl_05_226_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 236 0 0}Ngh, you're getting agitated...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="237" name="AST_btl_05_227_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 237 0 0}You're too dizzy...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="238" name="AST_btl_05_228_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 238 0 0}Takeba's dizzy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="239" name="AST_btl_05_229_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 239 0 0}Iori's dizzy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="240" name="AST_btl_05_230_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 240 0 0}Get up, Akihiko![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="241" name="AST_btl_05_231_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 241 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="242" name="AST_btl_05_232_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 242 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="243" name="AST_btl_05_233_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 243 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="244" name="AST_btl_05_234_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 244 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="245" name="AST_btl_05_235_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 245 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="246" name="AST_btl_05_236_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 246 0 0}You're dizzy! Are you unable to get up?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="247" name="AST_btl_05_237_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 247 0 0}Excellent—you're back up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="248" name="AST_btl_05_238_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 248 0 0}Takeba's back on her feet! It's time to retaliate![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="249" name="AST_btl_05_239_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 249 0 0}Good job, Iori! Now strike back![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="250" name="AST_btl_05_240_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 250 0 0}That's it, Akihiko! Just keep that going![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="251" name="AST_btl_05_241_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 251 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="252" name="AST_btl_05_242_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 252 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="253" name="AST_btl_05_243_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 253 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="254" name="AST_btl_05_244_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 254 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="255" name="AST_btl_05_245_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 255 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="256" name="AST_btl_05_246_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 256 0 0}Brilliant, you're back in the fight![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="257" name="AST_btl_05_247_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 257 0 0}If you Shift, you can target the enemy's weakness![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="258" name="AST_btl_05_247_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 258 0 0}If you're going for their weak spot, switching team members is an option.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="259" name="AST_btl_05_247_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 259 0 0}Try switching teammates to hit the enemy's weakness![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="260" name="AST_btl_05_247_04" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 260 0 0}Coordinate with the team to strike the enemy's weak points![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="261" name="AST_btl_05_247_05" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 261 0 0}If you coordinate, you may be able to hit a weak spot...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="262" name="AST_btl_05_248_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 262 0 0}Your health is low. Do something before you get hit![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="263" name="AST_btl_05_248_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 263 0 0}You look worn out... This might be your only chance to fix it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="264" name="AST_btl_05_248_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 264 0 0}You've taken some heavy hits... Patch yourself up while you still can![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="265" name="AST_btl_05_248_04" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 265 0 0}You've taken a lot of damage... Take care of it while there's still time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="266" name="AST_btl_05_248_05" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 266 0 0}Your health is getting low! Do you have time to recover?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="267" name="AST_btl_05_249_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 267 0 0}The enemy's frozen! They'll make a prime target![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="268" name="AST_btl_05_250_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 268 0 0}Paralyzed enemy! This is the perfect moment to strike![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="269" name="AST_btl_05_251_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 269 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="270" name="AST_btl_05_252_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 270 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="271" name="AST_btl_05_253_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 271 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="272" name="AST_btl_05_254_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 272 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="273" name="AST_btl_05_255_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 273 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="274" name="AST_btl_05_256_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 274 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="275" name="AST_btl_05_257_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 275 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="276" name="AST_btl_05_258_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 276 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="277" name="AST_btl_05_259_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 277 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="278" name="AST_btl_05_260_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 278 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="279" name="AST_btl_05_261_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 279 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="280" name="AST_btl_05_262_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 280 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="281" name="AST_btl_05_263_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 281 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="282" name="AST_btl_05_264_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 282 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="283" name="AST_btl_05_265_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 283 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="284" name="AST_btl_05_266_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 284 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="285" name="AST_btl_05_267_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 285 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="286" name="AST_btl_05_268_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 286 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="287" name="AST_btl_05_269_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 287 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="288" name="AST_btl_05_270_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 288 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="289" name="AST_btl_05_271_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 289 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="290" name="AST_btl_05_272_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 290 0 0}Excellent! Well done.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="291" name="AST_btl_05_273_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 291 0 0}Takeba's defeated the enemy! Good work.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="292" name="AST_btl_05_274_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 292 0 0}Iori finished the enemy. Great job.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="293" name="AST_btl_05_275_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 293 0 0}Akihiko took out the enemy. Just what I'd expect.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="294" name="AST_btl_05_276_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 294 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="295" name="AST_btl_05_277_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 295 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="296" name="AST_btl_05_278_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 296 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="297" name="AST_btl_05_279_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 297 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="298" name="AST_btl_05_280_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 298 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="299" name="AST_btl_05_281_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 299 0 0}Great work! No more enemy readings.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="300" name="AST_btl_05_282_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 300 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="301" name="AST_btl_05_283_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 301 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="302" name="AST_btl_05_284_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 302 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="303" name="AST_btl_05_285_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 303 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="304" name="AST_btl_05_286_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 304 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="305" name="AST_btl_05_287_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 305 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="306" name="AST_btl_05_288_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 306 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="307" name="AST_btl_05_289_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 307 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="308" name="AST_btl_05_290_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 308 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="309" name="AST_btl_05_291_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 309 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="310" name="AST_btl_05_292_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 310 0 0}Four targets eliminated! Impressive![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="311" name="AST_btl_05_293_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 311 0 0}Takeba's taken down four of them! Looking promising![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="312" name="AST_btl_05_294_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 312 0 0}Iori's defeated four enemies! Exceptional work![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="313" name="AST_btl_05_295_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 313 0 0}Akihiko wiped out four of them! Well done![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="314" name="AST_btl_05_296_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 314 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="315" name="AST_btl_05_297_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 315 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="316" name="AST_btl_05_298_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 316 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="317" name="AST_btl_05_299_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 317 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="318" name="AST_btl_05_300_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 318 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="319" name="AST_btl_05_301_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 319 0 0}Great work! You took out four at once![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="320" name="AST_btl_05_302_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 320 0 0}You're doing well! That's three down at once![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="321" name="AST_btl_05_303_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 321 0 0}Takeba took down three with that attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="322" name="AST_btl_05_304_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 322 0 0}Three down! You're doing great, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="323" name="AST_btl_05_305_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 323 0 0}Akihiko took out three! Keep it up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="324" name="AST_btl_05_306_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 324 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="325" name="AST_btl_05_307_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 325 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="326" name="AST_btl_05_308_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 326 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="327" name="AST_btl_05_309_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 327 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="328" name="AST_btl_05_310_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 328 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="329" name="AST_btl_05_311_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 329 0 0}That's three targets down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="330" name="AST_btl_05_312_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 330 0 0}Good, that's two for one![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="331" name="AST_btl_05_313_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 331 0 0}Takeba took out two of them! Keep going![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="332" name="AST_btl_05_314_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 332 0 0}That's two fewer than before! Good job, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="333" name="AST_btl_05_315_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 333 0 0}Nice hit from Akihiko! That took out two at once![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="334" name="AST_btl_05_316_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 334 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="335" name="AST_btl_05_317_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 335 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="336" name="AST_btl_05_318_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 336 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="337" name="AST_btl_05_319_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 337 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="338" name="AST_btl_05_320_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 338 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="339" name="AST_btl_05_321_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 339 0 0}Good, that's two at once![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="340" name="AST_btl_05_322_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 340 0 0}Nicely done! Enemy eliminated![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="341" name="AST_btl_05_323_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 341 0 0}Takeba finished the enemy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="342" name="AST_btl_05_324_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 342 0 0}Iori's taken one down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="343" name="AST_btl_05_325_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 343 0 0}Akihiko took out one target![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="344" name="AST_btl_05_326_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 344 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="345" name="AST_btl_05_327_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 345 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="346" name="AST_btl_05_328_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 346 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="347" name="AST_btl_05_329_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 347 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="348" name="AST_btl_05_330_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 348 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="349" name="AST_btl_05_331_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 349 0 0}Good, that's one less to worry about![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="350" name="AST_btl_05_332_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 350 0 0}All right, the enemy's down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="351" name="AST_btl_05_333_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 351 0 0}That's an enemy down! Good job, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="352" name="AST_btl_05_334_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 352 0 0}Enemy down! Keep that up, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="353" name="AST_btl_05_335_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 353 0 0}Enemy down! Not bad, Akihiko![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="354" name="AST_btl_05_336_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 354 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="355" name="AST_btl_05_337_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 355 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="356" name="AST_btl_05_338_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 356 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="357" name="AST_btl_05_339_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 357 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="358" name="AST_btl_05_340_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 358 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="359" name="AST_btl_05_341_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 359 0 0}C'est magnifique! All Shadows are down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="360" name="AST_btl_05_342_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 360 0 0}Just what we like to see. That's four enemies down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="361" name="AST_btl_05_343_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 361 0 0}That's four down! Keep it up, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="362" name="AST_btl_05_344_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 362 0 0}Four targets downed! Good work, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="363" name="AST_btl_05_345_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 363 0 0}I'm impressed, Akihiko! Four enemies down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="364" name="AST_btl_05_346_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 364 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="365" name="AST_btl_05_347_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 365 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="366" name="AST_btl_05_348_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 366 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="367" name="AST_btl_05_349_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 367 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="368" name="AST_btl_05_350_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 368 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="369" name="AST_btl_05_351_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 369 0 0}That's four enemies down! Immaculate offense![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="370" name="AST_btl_05_352_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 370 0 0}Three enemies down! Beautiful work![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="371" name="AST_btl_05_353_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 371 0 0}Three down! That's it, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="372" name="AST_btl_05_354_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 372 0 0}You're doing it, Iori! That's three down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="373" name="AST_btl_05_355_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 373 0 0}Three targets down! Well struck, Akihiko![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="374" name="AST_btl_05_356_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 374 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="375" name="AST_btl_05_357_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 375 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="376" name="AST_btl_05_358_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 376 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="377" name="AST_btl_05_359_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 377 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="378" name="AST_btl_05_360_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 378 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="379" name="AST_btl_05_361_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 379 0 0}Three enemies down! Stellar hit![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="380" name="AST_btl_05_362_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 380 0 0}That's it! Two enemies down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="381" name="AST_btl_05_363_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 381 0 0}Two down! Great hit, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="382" name="AST_btl_05_364_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 382 0 0}That's two knocked down! Well done, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="383" name="AST_btl_05_365_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 383 0 0}That's it, Akihiko! You knocked down two of them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="384" name="AST_btl_05_366_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 384 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="385" name="AST_btl_05_367_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 385 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="386" name="AST_btl_05_368_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 386 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="387" name="AST_btl_05_369_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 387 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="388" name="AST_btl_05_370_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 388 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="389" name="AST_btl_05_371_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 389 0 0}Two enemies down! You can do this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="390" name="AST_btl_05_372_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 390 0 0}All right, you knocked one down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="391" name="AST_btl_05_373_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 391 0 0}That's an enemy down! Good job, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="392" name="AST_btl_05_374_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 392 0 0}Enemy down! Keep that up, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="393" name="AST_btl_05_375_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 393 0 0}Enemy down! Not bad, Akihiko![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="394" name="AST_btl_05_376_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 394 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="395" name="AST_btl_05_377_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 395 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="396" name="AST_btl_05_378_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 396 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="397" name="AST_btl_05_379_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 397 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="398" name="AST_btl_05_380_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 398 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="399" name="AST_btl_05_381_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 399 0 0}The enemy's down! Good hit![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="400" name="AST_btl_05_382_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 400 0 0}Excellent work! You hit a weak spot![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="401" name="AST_btl_05_383_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 401 0 0}That hit the enemy's weakness! You're doing great, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="402" name="AST_btl_05_384_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 402 0 0}You hit a weak point! Not bad, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="403" name="AST_btl_05_385_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 403 0 0}Direct hit on their weakness! Just what I'd expect, Akihiko![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="404" name="AST_btl_05_386_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 404 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="405" name="AST_btl_05_387_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 405 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="406" name="AST_btl_05_388_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 406 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="407" name="AST_btl_05_389_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 407 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="408" name="AST_btl_05_390_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 408 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="409" name="AST_btl_05_391_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 409 0 0}You hit a weak spot! That dealt some damage![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="410" name="AST_btl_05_392_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 410 0 0}That's a clean hit! Nice strike![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="411" name="AST_btl_05_393_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 411 0 0}Great shot, Takeba![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="412" name="AST_btl_05_394_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 412 0 0}Excellent! Nice hit from Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="413" name="AST_btl_05_395_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 413 0 0}Good one, Akihiko! That was a critical hit![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="414" name="AST_btl_05_396_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 414 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="415" name="AST_btl_05_397_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 415 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="416" name="AST_btl_05_398_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 416 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="417" name="AST_btl_05_399_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 417 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="418" name="AST_btl_05_400_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 418 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="419" name="AST_btl_05_401_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 419 0 0}Excellent, good hit![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="420" name="AST_btl_05_402_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 420 0 0}Looks like your aim was off...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="421" name="AST_btl_05_403_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 421 0 0}Takeba, aim more carefully![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="422" name="AST_btl_05_404_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 422 0 0}Calm down, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="423" name="AST_btl_05_405_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 423 0 0}Akihiko! Watch the enemy closely![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="424" name="AST_btl_05_406_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 424 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="425" name="AST_btl_05_407_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 425 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="426" name="AST_btl_05_408_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 426 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="427" name="AST_btl_05_409_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 427 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="428" name="AST_btl_05_410_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 428 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="429" name="AST_btl_05_411_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 429 0 0}You missed!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="430" name="AST_btl_05_412_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 430 0 0}Takeba!? Where are you going!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="431" name="AST_btl_05_413_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 431 0 0}Don't run, Iori![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="432" name="AST_btl_05_414_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 432 0 0}Akihiko! Get back here![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="433" name="AST_btl_05_415_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 433 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="434" name="AST_btl_05_416_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 434 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="435" name="AST_btl_05_417_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 435 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="436" name="AST_btl_05_418_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 436 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="437" name="AST_btl_05_419_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 437 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="438" name="AST_btl_05_420_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 438 0 0}No... You need to calm down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="439" name="AST_btl_05_421_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 439 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="440" name="AST_btl_05_422_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 440 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="441" name="AST_btl_05_423_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 441 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="442" name="AST_btl_05_424_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 442 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="443" name="AST_btl_05_425_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 443 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="444" name="AST_btl_05_426_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 444 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="445" name="AST_btl_05_427_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 445 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="446" name="AST_btl_05_428_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 446 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="447" name="AST_btl_05_429_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 447 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="448" name="AST_btl_05_430_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 448 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="449" name="AST_btl_05_431_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 449 0 0}Press the attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="450" name="AST_btl_05_431_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 450 0 0}Don't slow down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="451" name="AST_btl_05_431_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 451 0 0}Push your way through![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="452" name="AST_btl_05_432_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 452 0 0}They're down! It's a prime opportunity![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="453" name="AST_btl_05_432_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 453 0 0}Here's your chance for an All-Out Attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="454" name="AST_btl_05_432_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 454 0 0}Finish this with an All-Out Attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="455" name="AST_btl_05_433_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 455 0 0}Show them no mercy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="456" name="AST_btl_05_433_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 456 0 0}That's it, press forward![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="457" name="AST_btl_05_433_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 457 0 0}Beautiful! Keep going![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="458" name="AST_btl_05_433_04" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 458 0 0}Keep up the attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="459" name="AST_btl_05_433_05" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 459 0 0}Don't waste this chance![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="460" name="AST_btl_05_434_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 460 0 0}Hold on. I'm trying to secure an escape route![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="461" name="AST_btl_05_435_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 461 0 0}I can't let you retreat. You'll have to get through this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="462" name="AST_btl_05_436_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 462 0 0}Hold on. I'm trying to secure an escape route![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="463" name="AST_btl_05_437_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 463 0 0}All right, fall back![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="464" name="AST_btl_05_438_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 464 0 0}I'm sorry. Your escape route was cut off.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="465" name="AST_btl_05_439_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 465 0 0}There, you can go for a weakness![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="466" name="AST_btl_05_439_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 466 0 0}You should be able to hit a weak spot![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="467" name="AST_btl_05_439_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 467 0 0}Here's your chance! You can target a weakness![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="468" name="AST_btl_05_440_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 468 0 0}It doesn't look like you can strike any weaknesses...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="469" name="AST_btl_05_440_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 469 0 0}You can't go for any weak points...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="470" name="AST_btl_05_440_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 470 0 0}Ngh... I don't think you can hit any weak spots...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="471" name="AST_btl_05_441_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 471 0 0}One of your teammates can hit a weakness! Shift to switch attackers![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="472" name="AST_btl_05_441_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 472 0 0}There's someone else who can target a weakness. Shifting might help.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="473" name="AST_btl_05_441_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 473 0 0}You can go for a weak spot if you Shift to swap out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="474" name="AST_btl_05_442_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 474 0 0}You have an attack that works well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="475" name="AST_btl_05_442_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 475 0 0}You have a skill that's effective here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="476" name="AST_btl_05_442_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 476 0 0}Looks like you can deal good damage.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="477" name="AST_btl_05_443_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 477 0 0}You can hit the enemy's weakness with your weapon![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="478" name="AST_btl_05_443_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 478 0 0}The enemy's weak to your standard attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="479" name="AST_btl_05_443_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 479 0 0}The enemy seems weak to physical attacks.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="480" name="AST_btl_05_444_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 480 0 0}A weapon attack would be effective![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="481" name="AST_btl_05_444_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 481 0 0}Using your weapon could be an effective approach.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="482" name="AST_btl_05_444_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 482 0 0}Weapon attacks would work well here![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="483" name="AST_btl_05_445_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 483 0 0}You could go for effective damage, but it might behoove you to scout for more weaknesses.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="484" name="AST_btl_05_445_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 484 0 0}You have a good option right now, but the enemy may have other weaknesses.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="485" name="AST_btl_05_446_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 485 0 0}We don't know the enemy's weakness... You'll just have to see what works.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="486" name="AST_btl_05_446_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 486 0 0}If only we knew the enemy's weaknesses... See if you can find them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="487" name="AST_btl_05_447_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 487 0 0}You have an item that can hit their weakness. This is the perfect time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="488" name="AST_btl_05_447_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 488 0 0}If you use an item, you can target the enemy's weakness...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="489" name="AST_btl_05_447_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 489 0 0}You're carrying something that can hit a weakness.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="490" name="AST_btl_05_448_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 490 0 0}All right, you won. Great work out there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="491" name="AST_btl_05_448_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 491 0 0}Well done! Let's continue exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="492" name="AST_btl_05_448_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 492 0 0}You won! Now let's move on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="493" name="AST_btl_05_449_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 493 0 0}The enemy's fled. You almost had it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="494" name="AST_btl_05_450_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 494 0 0}All right, time to Shift![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="495" name="AST_btl_05_450_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 495 0 0}All right, swap out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="496" name="AST_btl_05_451_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 496 0 0}Again! Keep going![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="497" name="AST_btl_05_451_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 497 0 0}Now, on to the next![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="498" name="AST_btl_05_452_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 498 0 0}This is the third! Great coordination![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="499" name="AST_btl_05_452_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 499 0 0}That's a full Shift! Excellent teamwork![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="500" name="AST_btl_05_453_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 500 0 0}They've already taken their action.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="501" name="AST_btl_05_453_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 501 0 0}That teammate isn't ready right now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="502" name="AST_btl_05_454_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 502 0 0}This opponent looks tough... Be on your guard.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="503" name="AST_btl_05_455_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 503 0 0}This may be a good test of your skill.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="504" name="AST_btl_05_456_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 504 0 0}This one isn't much of a threat, but don't get careless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="505" name="AST_btl_05_457_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 505 0 0}The enemy is weak to slashes![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="506" name="AST_btl_05_458_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 506 0 0}The enemy is weak to strikes![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="507" name="AST_btl_05_459_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 507 0 0}You can hit the enemy's weakness with a pierce![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="508" name="AST_btl_05_460_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 508 0 0}The enemy's weakness is Fire![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="509" name="AST_btl_05_461_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 509 0 0}Looks like the enemy's weak to Ice![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="510" name="AST_btl_05_462_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 510 0 0}Go for the enemy's weakness to Wind![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="511" name="AST_btl_05_463_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 511 0 0}The enemy's weak to Electricity![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="512" name="AST_btl_05_464_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 512 0 0}So the enemy is weak to Light...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="513" name="AST_btl_05_465_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 513 0 0}This enemy is weak to Darkness.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="514" name="AST_btl_05_466_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 514 0 0}It seems slashing is useless...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="515" name="AST_btl_05_467_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 515 0 0}So strike attacks won't work...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="516" name="AST_btl_05_468_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 516 0 0}This enemy can't be pierced...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="517" name="AST_btl_05_469_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 517 0 0}Looks like Fire won't work here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="518" name="AST_btl_05_470_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 518 0 0}So Ice has no effect...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="519" name="AST_btl_05_471_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 519 0 0}Wind won't be of any use.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="520" name="AST_btl_05_472_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 520 0 0}Electricity isn't going to work.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="521" name="AST_btl_05_473_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 521 0 0}Light attacks are useless here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="522" name="AST_btl_05_474_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 522 0 0}Looks like Darkness has no effect.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="523" name="AST_btl_05_475_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 523 0 0}Charm would be effective here. Do you have any way to inflict it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="524" name="AST_btl_05_476_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 524 0 0}Poison would work well—might be worth trying.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="525" name="AST_btl_05_477_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 525 0 0}If you can distress the enemy, you might find an opening.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="526" name="AST_btl_05_478_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 526 0 0}Confusion may be useful here. Shall we give it a try?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="527" name="AST_btl_05_479_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 527 0 0}The enemy's susceptible to fear. Double down on the pressure![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="528" name="AST_btl_05_480_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 528 0 0}This one seems short-tempered. Maybe you can enrage them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="529" name="AST_btl_05_481_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 529 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="530" name="AST_btl_05_481_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 530 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="531" name="AST_btl_05_481_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 531 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="532" name="AST_btl_05_482_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 532 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="533" name="AST_btl_05_482_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 533 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="534" name="AST_btl_05_482_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 534 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="535" name="AST_btl_05_483_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 535 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="536" name="AST_btl_05_483_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 536 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="537" name="AST_btl_05_483_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 537 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="538" name="AST_btl_05_484_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 538 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="539" name="AST_btl_05_484_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 539 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="540" name="AST_btl_05_484_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 540 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="541" name="AST_btl_05_485_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 541 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="542" name="AST_btl_05_485_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 542 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="543" name="AST_btl_05_485_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 543 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="544" name="AST_btl_05_486_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 544 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="545" name="AST_btl_05_486_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 545 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="546" name="AST_btl_05_486_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 546 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="547" name="AST_btl_05_487_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 547 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="548" name="AST_btl_05_487_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 548 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="549" name="AST_btl_05_487_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 549 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="550" name="AST_btl_05_488_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 550 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="551" name="AST_btl_05_489_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 551 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="552" name="AST_btl_05_490_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 552 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="553" name="AST_btl_05_490_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 553 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="554" name="AST_btl_05_490_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 554 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="555" name="AST_btl_05_491_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 555 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="556" name="AST_btl_05_492_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 556 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="557" name="AST_btl_05_492_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 557 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="558" name="AST_btl_05_492_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 558 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="559" name="AST_btl_05_493_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 559 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="560" name="AST_btl_05_494_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 560 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="561" name="AST_btl_05_495_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 561 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="562" name="AST_btl_05_495_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 562 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="563" name="AST_btl_05_496_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 563 0 0}There's an enemy with an ailment. That's an opening for us![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="564" name="AST_btl_05_496_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 564 0 0}The enemy's in poor condition. That gives us an advantage![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="565" name="AST_btl_05_496_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 565 0 0}Ailment detected on enemy Shadow. Let's make the most of this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="566" name="AST_btl_05_499_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 566 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="567" name="AST_btl_05_500_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 567 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="568" name="AST_btl_05_501_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 568 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="569" name="AST_btl_05_502_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 569 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="570" name="AST_btl_05_503_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 570 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="571" name="AST_btl_05_504_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 571 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="572" name="AST_btl_05_505_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 572 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="573" name="AST_btl_05_506_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 573 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="574" name="AST_btl_05_507_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 574 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="575" name="AST_btl_05_508_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 575 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="576" name="AST_btl_05_509_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 576 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="577" name="AST_btl_05_510_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 577 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="578" name="AST_btl_05_511_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 578 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="579" name="AST_btl_05_512_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 579 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="580" name="AST_btl_05_513_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 580 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="581" name="AST_btl_05_514_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 581 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="582" name="AST_btl_05_515_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 582 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="583" name="AST_btl_05_516_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 583 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="584" name="AST_btl_05_517_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 584 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="585" name="AST_btl_05_518_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 585 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="586" name="AST_btl_05_519_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 586 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="587" name="AST_btl_05_520_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 587 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="588" name="AST_btl_05_521_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 588 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="589" name="AST_btl_05_522_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 589 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="590" name="AST_btl_05_523_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 590 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="591" name="AST_btl_05_524_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 591 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="592" name="AST_btl_05_525_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 592 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="593" name="AST_btl_05_526_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 593 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="594" name="AST_btl_05_527_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 594 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="595" name="AST_btl_05_528_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 595 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="596" name="AST_btl_05_529_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 596 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="597" name="AST_btl_05_530_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 597 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="598" name="AST_btl_05_531_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 598 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="599" name="AST_btl_05_532_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 599 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="600" name="AST_btl_05_533_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 600 0 0}I've never seen one this big before, but there's no time... We have to end this, now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="601" name="AST_btl_05_534_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 601 0 0}Ngh... It called in reinforcements! Just what we needed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="602" name="AST_btl_05_535_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 602 0 0}The monorail is going even faster now! You're running out of time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="603" name="AST_btl_05_536_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 603 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="604" name="AST_btl_05_537_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 604 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="605" name="AST_btl_05_538_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 605 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="606" name="AST_btl_05_539_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 606 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="607" name="AST_btl_05_540_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 607 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="608" name="AST_btl_05_541_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 608 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="609" name="AST_btl_05_542_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 609 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="610" name="AST_btl_05_543_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 610 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="611" name="AST_btl_05_544_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 611 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="612" name="AST_btl_05_545_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 612 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="613" name="AST_btl_05_546_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 613 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="614" name="AST_btl_05_547_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 614 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="615" name="AST_btl_05_548_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 615 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="616" name="AST_btl_05_549_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 616 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="617" name="AST_btl_05_550_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 617 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="618" name="AST_btl_05_551_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 618 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="619" name="AST_btl_05_552_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 619 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="620" name="AST_btl_05_553_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 620 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="621" name="AST_btl_05_554_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 621 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="622" name="AST_btl_05_555_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 622 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="623" name="AST_btl_05_556_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 623 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="624" name="AST_btl_05_557_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 624 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="625" name="AST_btl_05_558_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 625 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="626" name="AST_btl_05_559_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 626 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="627" name="AST_btl_05_560_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 627 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="628" name="AST_btl_05_561_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 628 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="629" name="AST_btl_05_562_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 629 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="630" name="AST_btl_05_563_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 630 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="631" name="AST_btl_05_564_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 631 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="632" name="AST_btl_05_565_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 632 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="633" name="AST_btl_05_566_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 633 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="634" name="AST_btl_05_567_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 634 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="635" name="AST_btl_05_568_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 635 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="636" name="AST_btl_05_569_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 636 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="637" name="AST_btl_05_570_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 637 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="638" name="AST_btl_05_571_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 638 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="639" name="AST_btl_05_572_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 639 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="640" name="AST_btl_05_573_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 640 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="641" name="AST_btl_05_574_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 641 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="642" name="AST_btl_05_575_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 642 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="643" name="AST_btl_05_576_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 643 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="644" name="AST_btl_05_577_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 644 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="645" name="AST_btl_05_578_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 645 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="646" name="AST_btl_05_579_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 646 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="647" name="AST_btl_05_580_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 647 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="648" name="AST_btl_05_581_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 648 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="649" name="AST_btl_05_582_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 649 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="650" name="AST_btl_05_583_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 650 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="651" name="AST_btl_05_584_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 651 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="652" name="AST_btl_05_585_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 652 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="653" name="AST_btl_05_586_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 653 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="654" name="AST_btl_05_587_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 654 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="655" name="AST_btl_05_588_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 655 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="656" name="AST_btl_05_589_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 656 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="657" name="AST_btl_05_590_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 657 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="658" name="AST_btl_05_591_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 658 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="659" name="AST_btl_05_592_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 659 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="660" name="AST_btl_05_593_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 660 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="661" name="AST_btl_05_594_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 661 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="662" name="AST_btl_05_595_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 662 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="663" name="AST_btl_05_596_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 663 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="664" name="AST_btl_05_597_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 664 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="665" name="AST_btl_05_598_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 665 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="666" name="AST_btl_05_599_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 666 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="667" name="AST_btl_05_600_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 667 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="668" name="AST_btl_05_601_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 668 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="669" name="AST_btl_05_602_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 669 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="670" name="AST_btl_05_603_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 670 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="671" name="AST_btl_05_604_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 671 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="672" name="AST_btl_05_605_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 672 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="673" name="AST_btl_05_606_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 673 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="674" name="AST_btl_05_607_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 674 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="675" name="AST_btl_05_608_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 675 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="676" name="AST_btl_05_609_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 676 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="677" name="AST_btl_05_610_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 677 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="678" name="AST_btl_05_611_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 678 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="679" name="AST_btl_05_612_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 679 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="680" name="AST_btl_05_613_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 680 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="681" name="AST_btl_05_614_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 681 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="682" name="AST_btl_05_615_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 682 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="683" name="AST_btl_05_616_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 683 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="684" name="AST_btl_05_617_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 684 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="685" name="AST_btl_05_618_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 685 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="686" name="AST_btl_05_619_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 686 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="687" name="AST_btl_05_620_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 687 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="688" name="AST_btl_05_621_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 688 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="689" name="AST_btl_05_622_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 689 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="690" name="AST_btl_05_623_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 690 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="691" name="AST_btl_05_624_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 691 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="692" name="AST_btl_05_625_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 692 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="693" name="AST_btl_05_626_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 693 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="694" name="AST_btl_05_627_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 694 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="695" name="AST_btl_05_628_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 695 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="696" name="AST_btl_05_629_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 696 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="697" name="AST_btl_05_630_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 697 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="698" name="AST_btl_05_631_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 698 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="699" name="AST_btl_05_632_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 699 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="700" name="AST_btl_05_633_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 -1 700 0 0}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Scr_Event_Fild_518_032_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Cinema\Event_Fild_518_032_C\Script\BMD_Scr_Event_Fild_518_032_C.uasset" dialogs="6">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Three doors... I wonder where they lead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}Hm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'm detecting Shadows behind each door.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Starting from the left and going right, the Shadow readings get stronger. But I'm picking up treasure chests with similar signals, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}So the leftmost one is the least dangerous, but has the smallest reward. And the rightmost one is the riskiest, with the greatest reward...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_2_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It's up to you to decide which way to go, but please keep that information in mind.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_Monad04_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 1 0 1 20131 0 0}I'm not detecting anything in the immediate area, so we should be okay for now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}Would you mind investigating those doors?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_Monad04_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I suppose I should examine the doors.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_Monad05_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 1 0 1 20136 0 0}Uh, please wait! There are only stairs up ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}I really think we should figure out what's going on, so please come back for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

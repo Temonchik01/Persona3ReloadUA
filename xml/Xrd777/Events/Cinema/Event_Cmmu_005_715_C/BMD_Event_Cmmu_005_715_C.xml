@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_005_715_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_005_715_C\BMD_Event_Cmmu_005_715_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I didn't put a lot of thought into what books I brought... I just took whatever caught my attention.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 3 25 25}I apologize, {f 4 1}. I should have asked what your preferences were beforehand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}If you don't mind my asking now... What kinds of books do you usually read?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Novels.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Manga.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Textbooks.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 1 25 25}Oh, do you now? I'm partial to historical fiction myself. I actually read a lot of it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 0 25 25}I'm rather fond of novels. All you have to do is turn the page to experience another person's life.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}That reminds me, Yamagishi mentioned liking novels as well.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I never inquired further, but maybe she'd make for a good reading partner.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 0 25 25}Hmm... To be honest, I'm not too familiar with the medium, though I admit I've been curious.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Combining pictures with text sounds like a powerful form of expression.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 1 25 25}Perhaps I'll borrow some from Iori to broaden my horizons.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 1 25 25}Oh, I see. Reading is the core of knowledge, after all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 0 25 25}Are you interested in the humanities, or sciences? I've even seen books on art and architecture...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Whatever the case, it's good to see that you have such a wide range of interests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Incidentally, the books I brought today are things like biographies and history books.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}I can attest that they're all worthwhile reads. Rather accessible ones, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}I hope you find them to your liking.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 1 25 25}{f 5 13 4 1 5}Oh my, you're really tearing through the pages. I'm impressed by your focus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By diving into a world unknown,[n]my {f 4 30 0 1 1 0} have improved...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}It's nice to spend some time reading quietly together like this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 1 1 25 25}Thank you. That made for a relaxing evening.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 1 0 25 25}Well then, it's about time we return to our rooms. Good night, {f 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Do you ever feel encouraged reading about the influential figures of the past?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Even leaders who forged great nations faced the challenges of interpersonal relationships...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I feel that.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Something on your mind?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 1 0 25 25}Yes... It becomes easier to bear when you consider it's something everyone has to go through.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 1 1 25 25}Or is it presumptuous of me to relate to such illustrious figures?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 1 1 25 25}Heh, does it tarnish your image of such illustrious figures to imagine them on the same level as us?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Everyone interprets art in their own way. That's part of what makes it so interesting.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 1 0 25 25}Well, it's natural to consider things, isn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 1 25 25}Oh, were you expressing concern for me? Thank you, {f 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Sorry, I didn't mean to distract from our reading.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}Shall we get back to it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}{f 4 23 0 1 0 25 25}...Oh, look at the time. I think that's enough for today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}{f 4 23 0 1 1 25 25}{f 5 13 4 1 5}That was a pleasant time together, hearing nothing but the sound of each other's pages.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By learning about the exploits[n]of renowned individuals, my[n]{f 4 30 0 1 1 0} have improved...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}I'd like to hear your thoughts on our reading again sometime. But for now, good night.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

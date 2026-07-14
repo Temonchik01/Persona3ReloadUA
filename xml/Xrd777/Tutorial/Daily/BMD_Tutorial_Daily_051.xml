@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Daily_051.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Daily\BMD_Tutorial_Daily_051.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 73 73 69 6E 67 20 50 65 72 73 6F 6E 73 20 52 65 70 6F 72 74 73">Missing Persons Reports</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Due to the influence of Shadows, civilians will sometimes get lost in Tartarus and become {f 0 1 2}missing persons{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Missing persons will be somewhere in Tartarus, and {f 0 1 2}must be rescued within a set time limit{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}In the event someone goes missing, details will be posted on {f 0 1 2}the bulletin board in front of the police station{f 0 1 27}, so keep an eye peeled.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

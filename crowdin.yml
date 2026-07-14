@@ -1,0 +1,22 @@
+files:
+  # 1. Main Dialogue & Event XMLs
+  - source: /xml/**/*.xml
+    translation: /translations/%two_letters_code%/xml/**/%original_file_name%
+    # Your custom parser for the BMD files
+    translatable_elements:
+      - "/BMD"
+      - "/BMD/Speakers"
+      - "/BMD/Speakers/Speaker"
+      - "/BMD/Dialog"
+      - "/BMD/Dialog/Page"
+      - "/BMD/Dialog/Option"
+      
+  # 2. System Text & Data Tables (dt_xml)
+  - source: /dt_xml/**/*.xml
+    translation: /translations/%two_letters_code%/dt_xml/**/%original_file_name%
+    
+    # Custom XML Parser for Data Tables
+    translatable_elements:
+      - "/P3RDataTableText"
+      - "/P3RDataTableText/Text"
+      - "/P3RDataTableText/Text/Translation"

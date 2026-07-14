@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_140_090_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_090_C\BMD_Event_Main_140_090_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Фарос</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Радий знову тебе бачити.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Скільки часу минуло з нашої першої зустрічі? Час летить так швидко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Скажи, як тобі життя користувача Персони?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fulfilling.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Something's missing.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's whatever.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Радий це чути.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Цікаво, що саме. Сподіваюся, ти скоро це знайдеш.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Ти досить примхлива персона, чи не так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Я згадав ще щось про наближення кінця.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Все почалося з події, що сталася багато років тому.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 0 25 25}...Якщо я правильно пам'ятаю, десять років тому.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}О...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Хіба твої батьки не померли близько десяти років тому?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Персона — це як дзеркало.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Це означає, що користувач Персони ніколи не може втекти від свого справжнього «я».[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Але що б не сталося, я не залишу тебе.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Тому що ми друзі... Так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що між Фарозом і[n]мною утворюється слабкий зв'язок...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}На добраніч...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

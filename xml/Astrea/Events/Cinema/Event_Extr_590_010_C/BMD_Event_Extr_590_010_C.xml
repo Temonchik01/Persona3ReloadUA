@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Extr_590_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_590_010_C\BMD_Event_Extr_590_010_C.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 52 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Grrr... Woof! Woof, woof![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 52 -1 0 0}Hm...? That door... I don't believe it was there before.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 52 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Hey... Doesn't it look like one of those doors we find sometimes when we're exploring?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 -1 0 0}{f 4 25 6}Huh...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 -1 0 0}It does seem similar to those... Oh, but wait! This one looks like it leads to somewhere deeper than the others.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 -1 0 0}I'm sensing strong Shadows, treasure chests, and... something else. I'm not sure what it is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 52 -1 0 0}{f 3 1 3 0 -1 3060 0 0}So in other words, it's a great place to test how strong we really are![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 52 -1 0 0}How is that what you got out of what she said?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}It does sound like we might be able to find some good stuff in there, so it could be worth exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 3 0 -1 5025 0 0}It seems like you can enter and exit this one as much as you want, so keep that in mind if you do decide to go through it.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}Of course, deciding whether or not to use this door is up to you, Aigis.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_140_130_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_130_C\BMD_Event_Main_140_130_C.uasset" dialogs="35">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="4" rawBytes="4E 61 74 73 75 6B 69 20 4D 6F 72 69 79 61 6D 61">Natsuki Moriyama</Speaker>
+    <Speaker id="5" rawBytes="49 6B 75 74 73 75 6B 69 27 73 20 56 6F 69 63 65">Ikutsuki's Voice</Speaker>
+    <Speaker id="6" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+    <Speaker id="7" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="8" rawBytes="45 6C 65 6D 65 6E 74 61 72 79 20 53 63 68 6F 6F 6C 20 53 74 75 64 65 6E 74">Elementary School Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 1 0 0}Woohooo![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 2 0 0}Freedom at last! What should I do now!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 6 1 -1 0 0}{f 3 1 1 0 0 3 0 0}Take it down a notch, will you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message"/>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 1 -1 0 0}{f 3 1 1 0 0 5 0 0}You bounce back from things so quickly, Junpei-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 6 0 0}You know it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 3 0 25 25}Oh hey, Sanada-san's here. Don't see that every day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 8 0 0}Ikutsuki-san called me.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 9 0 0}I think he wants to talk about a new candidate.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 10 0 0}Does that mean another person is going to join?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 11 0 0}Maybe.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 223 0 1 -1 0 0}{f 3 1 1 0 0 12 0 0}Fuuka![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 1 -1 0 0}{f 3 1 1 0 0 13 0 0}What's wrong, Natsuki-chan?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 223 0 1 -1 0 0}{f 3 1 1 0 0 14 0 0}Do you think you can stay after school with me for a mandatory study session? There's like, no one—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 223 0 1 -1 0 0}{f 3 1 1 0 0 15 0 0}Oh, wait. Are you about to head out for the day?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 223 0 1 -1 0 0}{f 3 1 1 0 0 16 0 0}Okay, then never mind.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 1 -1 0 0}{f 3 1 1 0 0 17 0 0}Wait![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 6 1 25 25}It's all right. I'll help you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 1 -1 0 0}{f 3 1 1 0 0 19 0 0}Sorry, I'll see you all back at the dorm later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 20 0 0}I'm really surprised at how much she's changed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 21 0 0}Ah, friendship. How beautiful![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 22 0 0}Adolescence is such a wonderful thing. So full of vibrancy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 23 0 0}Mr. Chairman?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Oh, hello. I just stopped by to pick someone up.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}I might as well introduce you to him now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 1 -1 0 0}{f 3 1 0 0 0 26 0 0}Hm?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 1 -1 0 0}{f 3 1 1 0 0 27 0 0}Hello.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Hello.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 29 0 0}Oh, Amada-kun. What're you doing here?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 1 -1 0 0}{f 3 1 1 0 0 30 0 0}You know him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}He doesn't leave during the break because of his... circumstances.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 32 0 0}Oh, I heard about that.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 33 0 0}Something about your parents, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 1 -1 0 0}{f 3 1 1 0 0 34 0 0}It used to only be me and my mom, but she got in an accident. So now it's just me.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 1 -1 0 0}{f 3 1 1 0 0 35 0 0}It happened two years ago.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Right now, one of his distant relatives is paying for his school expenses.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}But that doesn't mean he should stay at the elementary school dorm all by himself, right?[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}So I decided to move him to your dorm, just for the summer.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 39 0 0}To OUR dorm!? Do you really think that's a good idea?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}Why, of course. He has the potential.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 1 -1 0 0}{f 3 1 1 0 0 41 0 0}Then he's the new candidate?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}That's right.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}But as you can see, he's still just an elementary school student. So, it's only a possibility for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 0 0 0 44 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 1 -1 0 0}{f 3 1 1 0 0 45 0 0}Are you... Akihiko Sanada-senpai?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 46 0 0}Uh, yeah.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 1 -1 0 0}{f 3 1 1 0 0 47 0 0}I've heard a lot about you. You've never lost a boxing match![n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 1 -1 0 0}{f 3 1 1 0 0 48 0 0}Nice to meet you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 49 0 0}Um, yeah, nice to meet you.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 0 0 0 50 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

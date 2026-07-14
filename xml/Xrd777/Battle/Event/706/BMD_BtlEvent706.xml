@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_BtlEvent706.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\706\BMD_BtlEvent706.uasset" dialogs="16">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_706_100" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 6 -1 -1 0 0}{f 3 1 1 0 2 1 0 10}So this is one of those huge Shadows, huh. Well, not like it changes what we usually do...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_706_110" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 1 0 2 2 0 8}I'll help, too...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_706_000" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}This large Shadow's Arcana is the Hermit. Watch out for attacks that use electricity![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_706_200" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 -1 50 0 0}{f 3 1 1 0 2 3 0 6}The enemy Shadow is charging a lot of electricity inside its body![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_706_210" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 4 0 6}It might be up to something. I'll analyze it on my end as well![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_706_300" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 5 0 6}I've got it. The enemy gets stronger by absorbing electrical power.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_706_310" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 6 0 6}But, it seems the enemy's defense drops temporarily while it's charging up...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_706_320" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 -1 50 0 0}{f 3 1 1 0 2 7 0 6}To stop the enemy from powering up, you'll need to attack while it's charging![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_706_001" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}The enemy Shadow is charging up now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_706_002" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}We've stopped the enemy from powering up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_706_400" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 8 0 6}The enemy is stronger than before! Everyone, be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_706_500" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 1 0 2 9 0 6}This is different from how it's been charging up till now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_706_510" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 -1 50 0 0}{f 3 1 1 0 2 10 0 6}Is it sucking electricity from the entire city...!? If it absorbs all that power, we'll be in trouble![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_706_520" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 -1 50 0 0}{f 3 1 1 0 2 11 0 6}If we attack it now, we can stop it from powering up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_706_600" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 1 0 2 12 0 6}I sense an enormous amount of energy from the enemy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_706_610" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 -1 50 0 0}{f 3 1 1 0 2 13 0 6}It's powered up significantly. Everyone, hang in there![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

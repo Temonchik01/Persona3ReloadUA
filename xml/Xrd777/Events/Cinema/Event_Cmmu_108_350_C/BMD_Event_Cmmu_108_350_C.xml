@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_108_350_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_350_C\BMD_Event_Cmmu_108_350_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 3 0 -1 11254 0 0}I've always thought of "artists" as people on TV or in magazines...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}I never thought that I might become one myself...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}...Hey. So this is just hypothetical, but... if I become an artist...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 3 0 -1 11261 0 0}What would I list as my occupation on a survey...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Artist.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Entertainment industry.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Unemployed.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 3 0 -1 11284 0 0}{f 5 13 11 15 108}I guess so, but... I think I'd be a little embarrassed to call myself that...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 4 23 0 108 0 25 25}Well, I guess I can't help it since I'd be one, right? But would people think I'm being arrogant...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga seems to be deep in thought.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I learned a little more about him today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 3 0 -1 11280 0 0}{f 5 13 11 30 108}Oh, yeah, that's a good way to put it. Good idea, {f 4 1}-kun![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}So then I'd be famous, and on TV, and... Whew! I'm getting nervous just thinking about it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga seems like he's having fun.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we became a lot closer today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 3 0 -1 11269 0 0}So after going through the exchange program and everything... I'll just be "unemployed"?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}I know the titles you have to your name aren't everything, but... it does make me think...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga seems down.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we didn't get any closer today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 3 0 -1 11282 0 0}...Maybe I'm getting ahead of myself. I should be taking action, not just mulling it over like this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}Hey, do you have more time after this? I want to go buy some art supplies.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After doing some shopping with Hiraga,[n]I decided to return to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_310_090_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Main_310_090_C\BMD_Event_Main_310_090_C.uasset" dialogs="29">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 6F 75 6E 67 20 4F 66 66 69 63 65 72">Young Officer</Speaker>
+    <Speaker id="1" rawBytes="56 65 74 65 72 61 6E 20 4F 66 66 69 63 65 72">Veteran Officer</Speaker>
+    <Speaker id="2" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="3" rawBytes="4F 66 66 69 63 65 72 20 4F 75 74 73 69 64 65">Officer Outside</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 2}Well, Sergeant?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1}Eh, you can go. Just another one of 'em freak accidents.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1}Hey, kid. Sorry I took so long.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1}Says here your name's... Ken Amada. Is that right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1}Er... Geez... Sorry about what happened to your mom.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1}Heard she gave her life to protect you from the wreckage.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 0 0 0 7 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1}Anyway, I gotta take your statement—since you're a witness and all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 6 -1 0 0}{f 3 1 1 0 0 9 0 0}If I told you what happened... would you believe me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 1}Of course I would! Helping people out is our job.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 1 0 0 11 0 0}My mom was... murdered.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 1}...What?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 1 0 0 13 0 0}Around midnight, when I got up to use the bathroom... I heard voices by the door...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 1 0 0 14 0 0}I looked and saw this teenager, holding his head and yelling...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 15 0 0}{f 5 21 0 1}Hold on, you're saying he did it? But the whole house collapsed![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 6 -1 0 0}{f 3 1 1 0 0 16 0 0}There was this shining, horse-like monster that came right out of him![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 4 3 25 25}It roared, and just like that, my mom and my house were—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 18 0 0}{f 5 21 0 1}Ohhh, a monster, was it? Haha... C'mon now, there's no way that actually happened.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 19 0 0}{f 5 21 0 1}Oh, um, sorry, I shouldn't laugh... It's just, sometimes after a traumatic incident like this, people can—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 8 6 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 4 2 25 25}I'm not lying! I really did see it, I did![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 21 0 0}{f 5 21 0 1}Look, kid... It was all an accident, plain and simple. A drunk driver crashed his car into your house.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 6 -1 0 0}{f 3 1 1 0 0 22 0 0}What...? A car crash...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 23 0 0}{f 5 21 0 1}We've already found the car and what's left of the driver. Now all we need is an account of the accident.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 8 2 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 8 6 -1 0 0}{f 3 1 1 0 0 24 0 0}That's a lie! You're just making that up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 1}I know you might think so, but... It's true.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_020_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 26 0 0}Sergeant, can you come out here?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 27 0 0}{f 5 21 0 1}Yeah, be right there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_022_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 6 -1 0 0}{f 3 1 1 0 0 28 0 0}Wait! I really did see it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_023_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 29 0 0}{f 5 21 0 1}Listen, I'm sorry for your loss, but... I have to go, uh... I hope things get better.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_024_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 1 0 0 30 0 0}Liar... You said you'd believe me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_024_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 10 6 -1 0 0}{f 3 1 0 0 0 31 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_025_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 6 -1 0 0}{f 3 1 1 0 0 32 0 0}Adults can't be trusted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_026_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 6 -1 0 0}{f 3 1 1 0 0 33 0 0}So I'll find him myself...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

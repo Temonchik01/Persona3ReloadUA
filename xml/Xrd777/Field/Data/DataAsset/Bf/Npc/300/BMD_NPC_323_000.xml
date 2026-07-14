@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_323_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_323_000.uasset" dialogs="36">
+  <Speakers>
+    <Speaker id="0" rawBytes="47 61 6D 65 72 20 53 74 75 64 65 6E 74">Gamer Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}See that weirdo over there?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Isn't he a victim of those mysterious incidents...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}It's so creepy...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Hey, did you come for the arcade?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}If you wanna know about the games, I can tell you all about 'em.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Are you here for the arcade?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}If you wanna know about the games, I can tell you all about 'em.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nah.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Today, you can play either High School of Youth or Punch Boxer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}You can learn about dating in High School of Youth, so you can increase your Charm.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Punch Boxer is pretty self-explanatory. You'll increase your Strength if you play it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}That about covers it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Today, you can play either House of the Deceased or Real Wheel Racer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}House of the Deceased is pretty scary... You'd increase your Courage if you can stand it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Real Wheel Racer requires nimble finger work, so it increases your Agility.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}That about covers it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}You can play You're the Answer today, or try Edgar's House of Fortunes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}You're the Answer is pretty difficult... It's a good way to increase your Academics.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I'm not sure what Edgar's House of Fortunes does, but I hear you gain some kinda Magic powers...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Well, that about covers it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Today, you can play either Punch Boxer, Real Wheel Racer, or Edgar's House of Fortunes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Punch Boxer is pretty self-explanatory. You'll increase your Strength if you play it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Real Wheel Racer requires nimble finger work, so it increases your Agility.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I'm not sure what Edgar's House of Fortunes does, but I hear you gain some kinda Magic powers...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}The games are pretty addicting! You can end up pumping in lots of coins, but you get something in return.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}My strategy is to play all the games and improve myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Arcade games only start when you put in a coin, not like the home consoles where you turn them on.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I didn't realize how they worked until my friend told me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}What about you? You got any friends who help you out like that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't need friends.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}That's cool. Be nice to them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}You sure, man?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I mean, what if you come up against a problem you can't solve on your own?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}No one's perfect... You should have friends who can help, in case you get into a jam.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}There are more of those people every day... They're so creepy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Maybe I should go on home...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Let's see... To start the game, insert one coin...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Control it using the two buttons, and... What are you looking at?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I'm not just reading the directions, I'm carefully planning my moves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I came into the arcade the other day, and I saw this guy...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}He was tossing a ball up in the air and catching it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I wonder what that was about...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}It didn't look like any kind of toy or prize they offer here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Maybe I should ask him next time I see him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I saw a girl in a white, frilly dress the other day, in front of the station...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Don't get me wrong, I love that kind of outfit—I've got tons of figures dressed that way in my room—but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}In real life, I think it's better to dress casually...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Hey, I saw that guy tossing the ball in the arcade again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I walked up to him so I could ask what the ball was...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}But he just glared at me over his sunglasses.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Then he walked out of the arcade without another word.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Man, he's scarier than I thought...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}My friend knows a lot about that revenge website. Like, a little TOO much, you know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}It makes me wonder if he's been using the site to take revenge...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}He kept bringing it up, so I came out and said, "Isn't that just a stupid rumor?"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}This machine has some peculiar quirks...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}The crane's claw is close to the player, so the opening and closing motions are limited...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="SEL_019_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}How'd you learn that?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Okay.]]></Option>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}One of the employees secretly told me. It seems they already consider me a regular.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Maybe you should get to know the guys here. You might learn something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I guess I can't force people to care...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}There's more of those creeps again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I know they'll start disappearing again soon, but it's still creepy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Man, that one was close...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I never miss now, but somehow, I still can't get it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}The claw grabs the prize, but it'll fall before it reaches the hole, or the prize just gets stuck.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Hey, guess what! I finally got the prize![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="SEL_025_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Congrats.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Whatever.]]></Option>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I basically just lucked into it, but I'm still psyched.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I'll keep training until I can get a prize even without luck![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Dude... That was uncalled for![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}If you keep acting like that, you'll end up with no friends.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Mark my words, man.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Hmm...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I can grab it, but I can't win... This can't be a coincidence.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I asked my friend if there's some trick to it, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}He gave me the cold shoulder and told me to never talk to him again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I wonder if I said something to piss him off...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}What should I do...? I guess everyone has a sore spot that you shouldn't mess with...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Hmm... I can't get the timing down anymore...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I'm so worried about my friend that I can't concentrate.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I tried reaching out to my friend again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I can't just give up after being rejected once, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}If I keep trying, I'm sure I can restore our friendship.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I managed to make up with my friend! Now I can concentrate on this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}It's probably because of the holiday season, but it's so noisy here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I can't concentrate... M-My coins...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}When I get a little better, I'm gonna come here with my friend.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}He's been acting weird lately... All talking about how "the end is nigh" and stuff.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}What he needs is to kick back and relax, here in the arcade...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Everyone's talking about how the end is coming, but I don't care.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}All I care about now is this game! I'm getting a lot better at it! I can win a prize almost every time![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}My ultimate goal: to complete my collection![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_018.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_018.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 63 6F 75 74 69 6E 67">Scouting</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}After combat, you may have the opportunity to {f 0 1 2}scout{f 0 1 27}. If you decide to scout the area, one of your teammates will temporarily leave your party to look for a path to the next floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The ally scouting ahead will also collect items and hand over anything they've collected upon rejoining the party on the next floor. Note that you will be down a party member if you choose to scout.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

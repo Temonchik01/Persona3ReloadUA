@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_140_150_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_150_C\BMD_Event_Main_140_150_C.uasset" dialogs="23">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="4B 69 72 69 6A 6F 20 46 61 6D 69 6C 79 20 4D 61 69 64 73">Kirijo Family Maids</Speaker>
+    <Speaker id="3" rawBytes="E3 81 8B E3 81 97 E3 81 93 E3 81 BE E3 81 A3 E3 81 9F E3 83 A1 E3 82 A4 E3 83 89">かしこまったメイド</Speaker>
+    <Speaker id="4" rawBytes="E5 BE 93 E9 A0 86 E3 81 9D E3 81 86 E3 81 AA E3 83 A1 E3 82 A4 E3 83 89">従順そうなメイド</Speaker>
+    <Speaker id="5" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="6" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="7" rawBytes="50 6F 6C 69 74 65 20 4D 61 69 64">Polite Maid</Speaker>
+    <Speaker id="8" rawBytes="49 6D 70 72 65 73 73 69 76 65 2D 4C 6F 6F 6B 69 6E 67 20 47 65 6E 74 6C 65 6D 61 6E">Impressive-Looking Gentleman</Speaker>
+    <Speaker id="9" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 5 -1 0 0}{f 3 1 1 0 0 1 0 0}Wow...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 5 -1 0 0}{f 3 1 1 0 0 2 0 0}It's like we're in an episode of Lifestyles of the Rich and Fabulous...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1501}{f 5 21 0 1502}Welcome back, Milady.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 0 0 0}{f 5 21 0 1501}お帰りなさいませ、お嬢さま。[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 0 0 0}{f 5 21 0 1502}お帰りなさいませ、お嬢さま。[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 6 0 0}We won't be here long, but I'll be relying on you during our stay.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 5 -1 0 0}{f 3 1 1 0 0 7 0 0}You have maids?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1501}And you must be her associates from school, correct? Welcome to the Kirijo vacation home.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1501}Please follow me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 5 -1 0 0}{f 3 1 1 0 0 10 0 0}"Associates"...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 5 -1 0 0}{f 3 1 1 0 0 11 0 0}Dude, real-life maids...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 5 -1 0 0}{f 3 1 1 0 0 12 0 0}I knew she was from an important family, but this definitely proves it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 224 0 -1 -1 0 0}{f 3 1 0 0 0 13 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 14 0 0}It's good to see you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_5_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 224 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}I heard the news. There isn't much here, but make yourselves comfortable.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_7_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 5 -1 0 0}{f 3 1 1 0 0 16 0 0}Y-Yes sir![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 17 0 0}There he goes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 5 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 6 4 25 25}So, was that...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 5 -1 0 0}{f 3 1 1 0 0 19 0 0}...Her father?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 5 -1 0 0}{f 3 1 1 0 0 20 0 0}He was so intense.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 5 -1 0 0}{f 3 1 1 0 0 21 0 0}And what's up with him wearin' a suit in this kinda heat?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_015_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 6 5 -1 0 0}{f 3 1 1 0 0 22 0 0}What's wrong with that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_016_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 5 -1 0 0}{f 3 1 1 0 0 23 0 0}We won't be here long, but make yourself at home.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 5 -1 0 0}{f 3 1 1 0 0 24 0 0}Sweet! This is gonna rock![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 5 -1 0 0}{f 3 1 1 0 0 25 0 0}Hey, wanna go to the beach? It's literally right there![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 5 -1 0 0}{f 3 1 1 0 0 26 0 0}Oh man, I'm so ready for this! Come on, let's go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_018_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 5 -1 0 0}{f 3 1 1 0 0 27 0 0}What? We just got here![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 2 0 25 25}I mean, it's gonna take time to get changed and stuff.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 5 -1 0 0}{f 3 1 1 0 0 29 0 0}Then, I'll see ya there.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 5 -1 0 0}{f 3 1 1 0 0 30 0 0}I'm not gonna waste a single minute![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

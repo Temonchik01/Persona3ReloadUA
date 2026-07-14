@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Combine_005.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Combine\BMD_Tutorial_Combine_005.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 65 72 73 6F 6E 61 20 43 6F 6D 70 65 6E 64 69 75 6D">Persona Compendium</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}All previously acquired Personas can be withdrawn and added to your Persona inventory. They can also be re-registered to the Compendium after leveling up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Note that there is a fee for withdrawing Personas, so keep an eye on your wallet.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

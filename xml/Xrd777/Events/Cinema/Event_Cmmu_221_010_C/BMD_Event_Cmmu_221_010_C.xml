@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_221_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_221_010_C\BMD_Event_Cmmu_221_010_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 61 67 65 72 20 53 74 75 64 65 6E 74">Eager Student</Speaker>
+    <Speaker id="1" rawBytes="4C 69 76 65 6C 79 20 53 74 75 64 65 6E 74">Lively Student</Speaker>
+    <Speaker id="2" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
+    <Speaker id="3" rawBytes="43 68 65 65 72 66 75 6C 20 53 74 75 64 65 6E 74">Cheerful Student</Speaker>
+    <Speaker id="4" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 2}Mochizuki-kun![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 3}How was your first day after transferring? I hope you like it here, Mochizuki-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 1 25 25}Oh, I do. And please, call me Ryoji.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 4}Hey, do you have plans today? If not, maybe we can go somewhere for tea...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 21 0 5}Oh, Mochizuki-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 21 0 5}Sorry to interrupt, but could you stop by the faculty office?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 5 21 0 5}I'd like to give you a copy of the paperwork for your transfer.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 21 0 5}And, let's see...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 21 0 5}{f 4 1}-kun, could you come along too?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

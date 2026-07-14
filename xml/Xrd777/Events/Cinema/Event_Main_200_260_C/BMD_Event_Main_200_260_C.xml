@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_200_260_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_200_260_C\BMD_Event_Main_200_260_C.uasset" dialogs="30">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="6" rawBytes="41 69 67 69 73">Aigis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 6 -1 0 0}{f 3 1 1 0 0 1 0 0}Yo! What's up, Ryoji?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}It's a painful decision, but it's yours to make.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 6 -1 0 0}{f 3 1 1 0 0 4 0 0}That's right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}But... it's impossible to defeat Nyx.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}{f 3 1 1 0 0 6 0 0}We'll go as far as we can. We have to try.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 6 -1 0 0}{f 3 1 1 0 0 7 0 0}You're the only one saying it's impossible. Personally, I don't care if it is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}...All right, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}It's almost midnight, so I'll make this short.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}I should tell you where to find Nyx.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}She's at the very top of Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}On the Promised Day, you have to make your way to the top of the tower.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 6 -1 0 0}{f 3 1 1 0 0 13 0 0}The Promised Day?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}It's exactly one month from tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}January 31st, 2010.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}On that day, Nyx will descend to Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}And that's when the {f 0 1 33}world will end{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 6 -1 0 0}{f 3 1 1 0 0 18 0 0}One month...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Tartarus is a gigantic rift in the night sky. It acts as a beacon to guide Nyx.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}With the Appriser's arrival, Nyx learns that the way has been prepared, and she begins her descent.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}And with her, she brings the demise.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 6 -1 0 0}{f 3 1 1 0 0 22 0 0}That explains why it's called the Tower of Demise.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 6 -1 0 0}{f 3 1 1 0 0 23 0 0}So what you're saying is we can fight Nyx if we reach the top?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}That's right.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}But remember...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}After today, you'll be fighting against eternal despair.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}I've said it before, but Nyx can't be defeated.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}When you come face to face with her, you'll finally understand why.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}And then you'll realize exactly what you're trying to stand against.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}{f 3 1 1 0 0 30 0 0}We understand. You don't need to keep telling us.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}{f 3 1 1 0 0 31 0 0}One month from now—January 31st. We won't forget.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Well, I'll be going, then.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 10 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}{f 4 23 0 221 10 25 25}I want to leave you while I'm still in this form.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 6 -1 0 0}{f 3 1 1 0 0 34 0 0}Ryoji-kun...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 6 -1 0 0}{f 3 1 0 0 0 35 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 3 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Aigis... I'm sorry for all the pain and suffering I put you through.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 37 0 0}I won't forget that you were my enemy... and my friend.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 6 -1 0 0}{f 3 1 1 0 0 38 0 0}Aigis...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}Thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}This is probably the last time we'll get to see each other like this.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}But I'll always be watching over you.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}Well... so long, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}Best wishes in the coming year.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}That's what you say on New Year's Eve, right?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}See ya![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 6 -1 0 0}{f 3 1 1 0 0 46 0 0}Heh, that punk...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}{f 3 1 1 0 0 47 0 0}We have one month until January 31st.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}{f 3 1 1 0 0 48 0 0}We'll get through this together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've made an important decision[n]together with my friends.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel an unbreakable bond with them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="SYS_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Fool Social Link reached its maximum level! You can now fuse {f 0 1 35}Susano-o{f 0 1 27}, the raging god![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We all share the same goal...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Our relationship has grown stronger. Now[n]the team is even more united than ever.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A new year is about to begin...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}In one month, on January 31st,[n]we will face Nyx.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must reach the top of Tartarus by then.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This is what we've all decided.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}2009 is quietly drawing to a close.[n]It was a year filled with many memories...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
