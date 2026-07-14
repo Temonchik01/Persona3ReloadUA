@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_101_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\100\BMD_NPC_101_000.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 6C 6F 77 65 72 20 53 68 6F 70 20 4C 61 64 79">Flower Shop Lady</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20202 0 0}{f 5 21 1 101}Welcome to Rafflesia.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20201 0 0}{f 5 21 1 101}What kind of flowers are you looking for today?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20204 0 0}{f 5 21 1 101}Thank you for stopping by. Please come again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20202 0 0}{f 5 21 1 101}Welcome. We have some new items in stock.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 101}We have a new variety called {f 4 4 1 37 1 0}s... They gwow to be vewy yum-yum...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 101}...Ah! I'm sorry, I—![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SYS_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Golden Tomato Sprouts{f 0 1 27} can now be purchased at Rafflesia.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 101}Um, so... what kind of flowers are you looking for today?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20205 0 0}{f 5 21 1 101}Thank you for your business.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20204 0 0}{f 5 21 1 101}I'm very sorry. Everything is out of stock at the moment. Please come by another day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 101}...Oh, yes. Our seedlings have a reputation for growing very fast.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 101}We also stock special varieties that you won't find anywhere else... Why don't you try growing some?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20202 0 0}How may I help you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ah, I see your friend isn't with you today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I'm talking about the boy in the cap who came by the other day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Oh, by the way, those white flowers he was eyeing just sold out a while ago.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The next shipment of them hasn't been scheduled yet... I'm sorry about that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20201 0 0}But, we do have other varieties available. Please take your time looking around.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
