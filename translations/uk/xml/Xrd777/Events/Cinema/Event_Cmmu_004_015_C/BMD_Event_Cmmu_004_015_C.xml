@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_004_015_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_004_015_C\BMD_Event_Cmmu_004_015_C.uasset" dialogs="55">
+  <Speakers>
+    <Speaker id="0" rawBytes="55 6E 66 72 69 65 6E 64 6C 79 20 4D 61 6E">Unfriendly Man</Speaker>
+    <Speaker id="1" rawBytes="46 61 6E 20 66 72 6F 6D 20 45 61 72 6C 69 65 72">Fan from Earlier</Speaker>
+    <Speaker id="2" rawBytes="4D 61 6E 20 53 68 6F 77 69 6E 67 20 4F 66 66">Man Showing Off</Speaker>
+    <Speaker id="3" rawBytes="53 63 61 72 65 64 20 46 61 6E">Scared Fan</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="54 6F 75 67 68 20 47 75 79">Tough Guy</Speaker>
+    <Speaker id="6" rawBytes="4C 61 63 6B 65 79">Lackey</Speaker>
+    <Speaker id="7" rawBytes="56 6F 69 63 65 20 66 72 6F 6D 20 50 6F 6C 69 63 65 20 43 61 72">Voice from Police Car</Speaker>
+    <Speaker id="8" rawBytes="59 6F 75 6E 67 20 4F 66 66 69 63 65 72">Young Officer</Speaker>
+    <Speaker id="9" rawBytes="4D 69 64 64 6C 65 2D 41 67 65 64 20 4F 66 66 69 63 65 72">Middle-Aged Officer</Speaker>
+    <Speaker id="10" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Officer Kurosawa</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1011}...Hey, don't be like that. I know a place that'd be perfect for us, girl.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1001}Please, just leave us alone! We're not interested.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1012}One drink, that's all we're askin'. C'mon, it'll be fun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_7_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1002}We said no, okay!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's those girls from earlier.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are they being hit on...?]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 0 0 0 5 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}...Hey.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Leave them alone. You don't want the police to get involved, do you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1011}Huh? Who the hell're you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1012}What, you wanna call the cops? Quit tryin' to act like a big man, you little punk.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 1011}Yeah, it's time for you to piss off![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1012}You piece of—![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 1013}...Hold up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 13 0 0}{f 5 21 0 1013}You got some slick moves. I bet you know how to fight, that right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}So what if I do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 15 0 0}{f 5 21 0 1013}How about you and I go a few rounds? If ya ain't too busy, there's a spot around back.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_023_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 16 0 0}{f 5 21 0 1013}Whenever I see guys who think they're hot shit, all I wanna do is put 'em in their place.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 17 0 0}{f 5 21 0 1013}I bet a lotta people call you a tough guy, so how 'bout we put it to the test?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_024_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 0 0 0 18 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_025_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 19 0 0}{f 5 21 0 1014}What, is he scared now? Hahahaha![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_026_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...See? I told you—nothing but trouble.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 4 2 25 25}Stay here. I'll be done in a minute.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_027_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 22 0 0}{f 5 21 0 1013}What!? You think you're gonna beat me just like that!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_028_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Don't worry, I won't go all out against an amateur. It's gotta be a fair fight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_029_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 24 0 0}{f 5 21 0 1013}Agh...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_030_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}Hey, over there! Break it up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_031_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 26 0 0}{f 5 21 0 1013}...Tch. Let's beat it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_032_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 1}{f 3 1 1 0 0 27 0 0}...I told you, officer. They were the ones antagonizing us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_032_5_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 28 0 0}{f 5 21 0 1021}And I told you, we'll hear all about it down at the station.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_032_7_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 29 0 0}{f 5 21 0 1022}You're high school students, aren't you? We'll need your contact information to notify your parents about this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_098_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 5 21 0 1086}If I could butt in...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_099_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Kurosawa-san![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_102_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}{f 5 21 0 1086}I'll handle these two. I've already cleared it with the brass.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_033_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}{f 5 21 0 1086}...I don't know what's going on here, but you better not be starting any trouble.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="SEL_033_5_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}There was no trouble.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It wasn't our fault.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That was a close call.]]></Option>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_2_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 5 21 0 1086}Then why'd we get a report from two ladies saying you were attacked by a group of punks?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_033_4_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}They wanted to test my strength. I was just giving them what they wanted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_033_6_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 5 21 0 1086}In the middle of a public street? You really need to think things through.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_034_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}Heh, you didn't think we were in actual trouble, did you?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}{f 4 23 0 4 0 25 25}Even if things got tense, I'd never put you in danger.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_034_5_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}{f 5 21 0 1086}Then why'd we get a report from two ladies saying you were attacked by a group of punks?[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}{f 5 21 0 1086}If you want to show off to your buddy, there's a time and place for it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_035_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}{f 5 21 0 1086}Listen, I'm an officer of the law. I don't care who you are—anyone who disturbs the peace is gonna have to deal with me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_036_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}{f 5 21 0 1086}As you can see, your friend here is a bit of a hothead.[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 5 21 0 1086}I know it won't be easy, but try and keep an eye on him, would you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="SEL_037_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave it to me.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure I can.]]></Option>
+  </Dialog>
+  <Dialog id="41" name="MSG_038_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}Those are some bold words. But thanks.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_039_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}Don't worry about it. I know how to pick my battles.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_040_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}My arm's healed, and we've got way more dependable people now. There's no better time to test my strength.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Especially now that we have someone like you. We really lucked out on that one.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 48 0 0}So I'm gonna keep honing my skills. That way, I can put down anyone I face with my own two hands.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_041_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 49 0 0}{f 5 21 0 1086}You really haven't changed at all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_042_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 50 0 0}{f 5 21 0 1086}In any case, don't get in over your heads.[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 51 0 0}{f 5 21 0 1086}I have a hunch the guys you ran into were from a gang that's been active around here recently.[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 52 0 0}{f 5 21 0 1086}Just be careful. You don't wanna get on their bad side, because once you're on it, you'll never get off.[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 53 0 0}{f 5 21 0 1086}All right, it's late. You'd better head on home.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_043_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 54 0 0}So much for eating out. It's been nonstop interruptions all night.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 55 0 0}Kurosawa-san's right, though. We should probably head home. Sorry about this—I'll treat you some other time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_044_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 56 0 0}I'm gonna do some jogging on the way back. You wanna join?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="SEL_045_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
+  </Dialog>
+  <Dialog id="49" name="MSG_046_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 57 0 0}Good answer. It's dark, so watch out for cars.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 58 0 0}I'm gonna run ahead. You just follow at your own pace![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MND_047_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I ran back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my stamina has improved[n]after running that long of a distance...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="SYS_HPUP_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Max HP increased by 5.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_048_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 59 0 0}You sure? You'd get home faster if you did.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 60 0 0}Well, I'm goin' ahead. Be careful on your way back![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MND_049_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I saw Sanada off, then[n]went back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My mind feels sharper after[n]seeing Sanada's stoic expression...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="PFM_SPUP_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 61 0 0}Max SP increased by 3.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
