@@ -10,28 +10,28 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}I was actually about to head to the faculty office. Would you like me to walk you downstairs?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 1 0}{f 3 1 1 0 4 5 0 0}I... want to spend as much time with you as I can...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 1 0}{f 3 1 1 0 4 5 0 0}Я... бажаю провести з тобою якнайбільше часу...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a little busy today...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я зараз трохи зайнятий...]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}I'd be happy to.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Okay, let's head down to the faculty office together.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 1 0}{f 3 1 1 0 4 8 0 0}Oh...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 1 0}{f 3 1 1 0 4 9 0 0}It'll be kind of embarrassing to walk side by side at school, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}З радістю.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Гаразд, ходімо разом вниз в учительську.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 1 0}{f 3 1 1 0 4 8 0 0}А-а...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 1 0}{f 3 1 1 0 4 9 0 0}Буде трохи прикро ходити разом у школі, вірно?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}Oh... Well, be careful on your way home, okay?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a little busy today...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я зараз трохи зайнятий...]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}Sounds good. People often get sick when the seasons change, so maybe you're coming down with something.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}Okay, let's head over to the faculty office together.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 1 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}Гаразд, тоді ходімо разом в учительську.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}Do you have plans already? Well, just make sure you go home soon and get some rest.[n]{f 1 1}]]></Page>
