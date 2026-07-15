@@ -4,7 +4,7 @@
     <Speaker id="0" rawBytes="4D 61 79 6F 69 64 6F 20 53 68 6F 70 6B 65 65 70 65 72">Mayoido Shopkeeper</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_EXIT_CONFIRM_01" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1586 0 -1 -1 0 0}{f 3 1 3 0 3 2 1586 0}Is that all you need?[n]{f 1 2 1}]]></Page>
