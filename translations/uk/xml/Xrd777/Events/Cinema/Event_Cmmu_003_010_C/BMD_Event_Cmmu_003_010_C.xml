@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_003_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_003_010_C\BMD_Event_Cmmu_003_010_C.uasset" dialogs="26">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I was wondering, y'think we could pick up some new moves from these fighting games?[n]{f 1 1}]]></Page>
@@ -9,7 +9,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I like that idea.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не впевнений щодо цього.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know about that.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}We have to take this seriously.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">

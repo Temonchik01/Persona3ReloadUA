@@ -28,8 +28,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Maybe I should give him some food. What do you think, {f 4 1}-kun?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не роби цього.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't do it.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 3 15 6}Okay then![n]{f 1 1}]]></Page>
@@ -95,7 +95,7 @@
   </Dialog>
   <Dialog id="24" name="MND_019_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can tell Fuuka is being considerate of me.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається ми зблизилися один з одним...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems we've grown closer...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_020_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}It's kind of hard for me to say this, considering what just happened, but...[n]{f 1 1}]]></Page>

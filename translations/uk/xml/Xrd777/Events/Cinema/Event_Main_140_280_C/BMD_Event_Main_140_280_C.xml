@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_140_280_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_280_C\BMD_Event_Main_140_280_C.uasset" dialogs="42">
   <Speakers>
-    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
     <Speaker id="2" rawBytes="50 72 65 74 74 79 20 4C 61 64 79">Pretty Lady</Speaker>
     <Speaker id="3" rawBytes="44 65 6C 75 73 69 6F 6E 61 6C 20 4C 61 64 79">Delusional Lady</Speaker>
   </Speakers>
@@ -64,7 +64,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 23 0 0}{f 5 21 0 1001}And you, with the long hair... I'm not sure about you.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="SEL_016_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Що ти маєш на увазі?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What do you mean?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Hey, don't hold back.]]></Option>
   </Dialog>
   <Dialog id="17" name="MSG_017_0_0" type="Message">
@@ -72,7 +72,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 1001}You know what I mean?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_018_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I have no idea.]]></Option>
   </Dialog>
   <Dialog id="19" name="MSG_019_0_0" type="Message">

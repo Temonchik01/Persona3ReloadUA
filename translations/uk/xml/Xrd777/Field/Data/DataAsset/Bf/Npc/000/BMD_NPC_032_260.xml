@@ -2,7 +2,7 @@
 <BMD source="BMD_NPC_032_260.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_032_260.uasset" dialogs="6">
   <Speakers>
     <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
-    <Speaker id="1" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="1" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There's something under Koromaru's paw...[n]{f 1 1}]]></Page>
@@ -16,12 +16,12 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}It's nothing.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_002_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф, Арф![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's a red fountain pen... This must be what[n]the young man at the shrine was looking for.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_004_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф, Арф![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

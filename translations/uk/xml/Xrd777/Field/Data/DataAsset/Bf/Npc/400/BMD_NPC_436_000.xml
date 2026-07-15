@@ -9,7 +9,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Santa?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Що ти маєш на увазі?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What do you mean?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 436}Well, just between you and me... I'm THE Santa who makes kids' wishes come true on Christmas![n]{f 1 1}]]></Page>
@@ -19,7 +19,7 @@
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'll do it.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, дякую.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 436}Great! Let's get on with it. ...But first, one question for you.[n]{f 1 1}]]></Page>

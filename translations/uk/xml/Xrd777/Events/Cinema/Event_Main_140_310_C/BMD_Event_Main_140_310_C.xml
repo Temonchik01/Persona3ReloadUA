@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_140_310_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_310_C\BMD_Event_Main_140_310_C.uasset" dialogs="46">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
     <Speaker id="2" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 47 69 72 6C">Mysterious Girl</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
@@ -29,9 +29,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 9 0 0}Ready? Rock, paper, scissors![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Камінь]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Папір]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ножиці]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Rock]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Paper]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Scissors]]></Option>
   </Dialog>
   <Dialog id="8" name="MND_006_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I lost...[n]{f 1 1}]]></Page>
@@ -121,8 +121,8 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 102 -1 0 0}{f 3 1 1 0 0 41 0 0}It's all up to you now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="SEL_029_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Пофіг...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Whatever...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'll avenge you.]]></Option>
   </Dialog>
   <Dialog id="36" name="MND_030_0_0" type="Message">
@@ -132,7 +132,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 204 -1 0 0}{f 3 1 0 0 0 42 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="SEL_032_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Привіт.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hello.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Can we talk?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}The tide is high...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Hey, baby.]]></Option>

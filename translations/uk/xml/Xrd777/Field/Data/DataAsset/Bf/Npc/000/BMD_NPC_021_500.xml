@@ -4,7 +4,7 @@
     <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_Temperance" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Right now, the Temperance Arcana[n]may help me grow even more...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6008 0 0}{f 4 2}-san, I'm glad you're here.[n]{f 1 1}]]></Page>
@@ -20,7 +20,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But you may be able to help me understand them more. Would you be willing to try?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I can't today.]]></Option>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
@@ -35,8 +35,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If you have sufficient leisure time available, would you like to participate in this activity with me?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6075 0 0}Do you remember the yakuza novel we talked about before?[n]{f 1 1}]]></Page>
@@ -50,8 +50,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If you have the time, would you like to "binge" with me?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_012_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}{f 4 2}-san, are you currently free from predetermined obligations at this moment?[n]{f 1 1}]]></Page>
@@ -67,7 +67,7 @@
   </Dialog>
   <Dialog id="16" name="SEL_016_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Може, пізніше.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe later.]]></Option>
   </Dialog>
   <Dialog id="17" name="MSG_017_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6110 0 0}{f 4 2}-san, do you have a moment?[n]{f 1 1}]]></Page>
@@ -83,7 +83,7 @@
   </Dialog>
   <Dialog id="20" name="SEL_020_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Може, пізніше.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe later.]]></Option>
   </Dialog>
   <Dialog id="21" name="MSG_021_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}A classmate has recently lent me a number of various yakuza novels.[n]{f 1 1}]]></Page>
@@ -97,8 +97,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Would you like to read together once again?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="SEL_023_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="25" name="MSG_024_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6004 0 0}A classmate has lent me some yakuza novels that I haven't read yet.[n]{f 1 1}]]></Page>
@@ -112,8 +112,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If you're free, would you like to read some of them together?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="SEL_027_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="29" name="MSG_028_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6044 0 0}You have my gratitude.[n]{f 1 1}]]></Page>
@@ -139,7 +139,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I would like you to help me improve my reading comprehension abilities.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="SEL_034_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, погнали.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's do it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe another time.]]></Option>
   </Dialog>
   <Dialog id="37" name="MSG_035_0_0" type="Message">
@@ -152,7 +152,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I'm afraid there are some concepts that I have difficulty comprehending on my own...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="SEL_037_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, погнали.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's do it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe another time.]]></Option>
   </Dialog>
   <Dialog id="41" name="MSG_038_0_0" type="Message">
@@ -182,7 +182,7 @@
   </Dialog>
   <Dialog id="49" name="SEL_045_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="50" name="MSG_046_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Is it correct that you tend to the planters on the rooftop, {f 4 2}-san?[n]{f 1 1}]]></Page>
@@ -197,7 +197,7 @@
   </Dialog>
   <Dialog id="53" name="SEL_049_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not right now.]]></Option>
   </Dialog>
   <Dialog id="54" name="MSG_046_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Is it correct that you tend to the planters on the rooftop, {f 4 2}-san?[n]{f 1 1}]]></Page>
@@ -225,7 +225,7 @@
   </Dialog>
   <Dialog id="60" name="SEL_053_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="61" name="MSG_054_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}{f 4 2}-san, I would like to suggest maintaining the rooftop garden today.[n]{f 1 1}]]></Page>
@@ -239,7 +239,7 @@
   </Dialog>
   <Dialog id="64" name="SEL_057_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}All right, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="65" name="MSG_054_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6001 0 0}{f 4 2}-san, I would like to suggest maintaining the rooftop garden today.[n]{f 1 1}]]></Page>
@@ -272,7 +272,7 @@
   </Dialog>
   <Dialog id="73" name="SEL_064_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="74" name="MSG_061_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Would you find it permissible to visit the rooftop again?[n]{f 1 1}]]></Page>
@@ -300,7 +300,7 @@
   </Dialog>
   <Dialog id="80" name="SEL_068_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="81" name="MSG_069_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6067 0 0}Do you intend to continue work on the rooftop planters today?[n]{f 1 1}]]></Page>
@@ -314,7 +314,7 @@
   </Dialog>
   <Dialog id="84" name="SEL_072_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}All right, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="85" name="MSG_069_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6067 0 0}Do you intend to continue work on the rooftop planters today?[n]{f 1 1}]]></Page>
@@ -334,7 +334,7 @@
   </Dialog>
   <Dialog id="90" name="SEL_076_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}All right, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="91" name="MSG_077_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Understood. I will begin making my way to the rooftop with maximum efficiency.[n]{f 1 1}]]></Page>
@@ -368,8 +368,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Shall we make our way to the rooftop together?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="101" name="SEL_084_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, поїхали.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's go.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="102" name="MSG_081_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Is your attention preoccupied with the plants as well? Then we are "like-minded," as they say.[n]{f 1 1}]]></Page>
@@ -394,38 +394,38 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}So... would you like to go to the rooftop together?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="109" name="SEL_089_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, поїхали.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's go.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="110" name="SEL_SEED_CHOOSE" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 0}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 1}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 2}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 3}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 4}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 5}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 6}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 7}»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 0}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 1}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 2}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 3}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 4}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 5}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 6}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 7}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
   </Dialog>
   <Dialog id="111" name="MND_SEED_THINK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що посадити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I plant...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="112" name="MND_SEED_DAY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати з {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like it can be harvested on {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="113" name="SEL_PLANT_CHOOSE" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Plant it]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Don't plant it]]></Option>
   </Dialog>
   <Dialog id="114" name="MND_NO_PLANT_DORMITORY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, то, здається, я ще[n]нічого не садив у кашпо...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, I don't think I've planted[n]anything in the rooftop planters yet...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="115" name="MND_PLANT_CAN_NOT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що я не зможу зібрати його[n]до Обіцяного дня, 31 січня...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I won't be able to harvest it[n]before the Promised Day, January 31st...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="116" name="MND_PLANT_OK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще має[n]бути урожай, який потрібно зібрати.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я маю зібрати його першим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There should still be produce in the rooftop[n]planter that has yet to be harvested.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should harvest those first...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

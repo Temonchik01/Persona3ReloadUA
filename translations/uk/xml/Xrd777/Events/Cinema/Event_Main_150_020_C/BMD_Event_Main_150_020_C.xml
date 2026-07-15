@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_150_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_150_020_C\BMD_Event_Main_150_020_C.uasset" dialogs="29">
   <Speakers>
-    <Speaker id="0" rawBytes="53 6F 6D 65 6F 6E 65 27 73 20 56 6F 69 63 65">Чийсь голос</Speaker>
-    <Speaker id="1" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 27 73 20 56 6F 69 63 65">Голос Юкарі</Speaker>
-    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="0" rawBytes="53 6F 6D 65 6F 6E 65 27 73 20 56 6F 69 63 65">Someone's Voice</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 27 73 20 56 6F 69 63 65">Yukari's Voice</Speaker>
+    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}It is morning![n]{f 1 1}]]></Page>
@@ -14,7 +14,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 3 0 0}You have successfully awakened. Mission complete.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Чому ти тут?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why are you here?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Mission complete?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}My alarm clock...]]></Option>
   </Dialog>
@@ -69,7 +69,7 @@
   <Dialog id="17" name="SEL_016_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}You can't stay here.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}You can stay here.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Мені пофіг.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't care.]]></Option>
   </Dialog>
   <Dialog id="18" name="MSG_017_0_0" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 24 0 0}See? He agrees.[n]{f 1 1}]]></Page>

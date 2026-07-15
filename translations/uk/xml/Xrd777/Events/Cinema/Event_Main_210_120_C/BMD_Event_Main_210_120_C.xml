@@ -13,7 +13,7 @@
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Can I talk to you?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Oh, there you are.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Що таке?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Something on your mind?]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 2 0 0}...?[n]{f 1 1}]]></Page>
@@ -54,7 +54,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 2 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 7 3 25 25}But I...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="SEL_010_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Що таке?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's wrong?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
   </Dialog>
   <Dialog id="12" name="MSG_011_0_0" type="Message">
@@ -72,7 +72,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 2 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 7 3 25 25}Please...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I need you with me.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Don't let me down.]]></Option>
   </Dialog>

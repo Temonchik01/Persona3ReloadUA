@@ -34,8 +34,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}You will return to the title screen and lose all progress made since you last saved the game. Are you sure?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No]]></Option>
   </Dialog>
   <Dialog id="9" name="SYS_009_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}If you change the difficulty from Merciless, {f 0 1 2}you cannot change it back to Merciless later{f 0 1 27}. Do you still want to change to Hard difficulty?[n]{f 1 1}]]></Page>

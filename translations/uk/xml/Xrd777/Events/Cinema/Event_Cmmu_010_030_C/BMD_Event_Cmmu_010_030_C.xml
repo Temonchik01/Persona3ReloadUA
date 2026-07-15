@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_010_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_010_030_C\BMD_Event_Cmmu_010_030_C.uasset" dialogs="28">
   <Speakers>
-    <Speaker id="0" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="0" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
     <Speaker id="1" rawBytes="53 61 6E 61 64 61 27 73 20 56 6F 69 63 65">Sanada's Voice</Speaker>
-    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}I got a favor to ask ya.[n]{f 1 1}]]></Page>
@@ -33,7 +33,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 0 25 25}It should be pretty easy to hand it off if you do it at school. I'll pay you back for this, so help me out, alright?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm against this.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Have you talked to Sanada?]]></Option>
   </Dialog>
