@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_007_735_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_735_C\BMD_Event_Cmmu_007_735_C.uasset" dialogs="144">
   <Speakers>
     <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
@@ -11,7 +11,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 3 0 0}Do you suppose... they're happy that you are tending to them?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Думаю, так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's not possible.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you ask?]]></Option>
   </Dialog>
@@ -59,10 +59,10 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 24 0 0}The plants look much livelier now compared to before they were tended to.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Do you think... they're happy you're taking care of them, -san?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Do you think... they're happy you're taking care of them, {f 4 2}-san?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's possible.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's not possible.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you ask?]]></Option>
   </Dialog>
@@ -108,7 +108,7 @@
   </Dialog>
   <Dialog id="25" name="MSG_025_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh? This is...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 45 0 0}Look, -san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 45 0 0}Look, {f 4 2}-san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="SEL_026_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
@@ -131,7 +131,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 54 0 0}I will move it to another leaf then.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 0 0 0 55 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 56 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 57 0 0}It looks like the ladybug would prefer to be near you, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 57 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 58 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
@@ -145,7 +145,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_033_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 62 0 0}Excuse me, -san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 62 0 0}Excuse me, {f 4 2}-san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 63 0 0}Pests deserve no mercy.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MND_034_0_0" type="Message">
@@ -161,7 +161,7 @@
   </Dialog>
   <Dialog id="37" name="MSG_037_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 68 0 0}Oh? This is...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 69 0 0}Look, -san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 69 0 0}Look, {f 4 2}-san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="SEL_038_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
@@ -183,7 +183,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 77 0 0}I'm sorry. Are you uncomfortable with insects? I'll move it to another leaf.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 0 0 0 78 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 79 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 80 0 0}It looks like the ladybug would prefer to be near you, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 80 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MSG_042_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 81 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
@@ -197,7 +197,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="MSG_045_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 85 0 0}Oh, -san, look over there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 85 0 0}Oh, {f 4 2}-san, look over there...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 86 0 0}It may be rude to interfere, but we can't let them ruin our harvest.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 87 0 0}Let's give the ladybug some assistance this time.[n]{f 1 1}]]></Page>
   </Dialog>
@@ -216,7 +216,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 3 0 0}Do you suppose... they're happy that you are tending to them?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="SEL_050_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Думаю, так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's not possible.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you ask?]]></Option>
   </Dialog>
@@ -264,10 +264,10 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 24 0 0}The plants look much livelier now compared to before they were tended to.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="MSG_061_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Do you think... they're happy you're taking care of them, -san?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Do you think... they're happy you're taking care of them, {f 4 2}-san?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="62" name="SEL_062_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's possible.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's not possible.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you ask?]]></Option>
   </Dialog>
@@ -313,7 +313,7 @@
   </Dialog>
   <Dialog id="73" name="MSG_073_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh? This is...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 45 0 0}Look, -san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 45 0 0}Look, {f 4 2}-san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="74" name="SEL_074_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
@@ -336,7 +336,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 54 0 0}I will move it to another leaf then.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 55 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 56 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 57 0 0}It looks like the ladybug would prefer to be near you, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 57 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="78" name="MSG_078_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 58 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
@@ -350,7 +350,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="81" name="MSG_081_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 62 0 0}Excuse me, -san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 62 0 0}Excuse me, {f 4 2}-san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 63 0 0}Pests deserve no mercy.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="82" name="MND_082_0_0" type="Message">
@@ -366,7 +366,7 @@
   </Dialog>
   <Dialog id="85" name="MSG_085_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 68 0 0}Oh? This is...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 69 0 0}Look, -san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 69 0 0}Look, {f 4 2}-san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="86" name="SEL_086_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
@@ -388,7 +388,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 77 0 0}I'm sorry. Are you uncomfortable with insects? I'll move it to another leaf.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 78 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 79 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 80 0 0}It looks like the ladybug would prefer to be near you, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 80 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="90" name="MSG_090_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 81 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
@@ -402,7 +402,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="93" name="MSG_093_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 85 0 0}Oh, -san, look over there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 85 0 0}Oh, {f 4 2}-san, look over there...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 86 0 0}It may be rude to interfere, but we can't let them ruin our harvest.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 87 0 0}Let's give the ladybug some assistance this time.[n]{f 1 1}]]></Page>
   </Dialog>
@@ -421,7 +421,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 3 0 0}Do you suppose... they're happy that you are tending to them?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="98" name="SEL_249_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Думаю, так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's not possible.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you ask?]]></Option>
   </Dialog>
@@ -469,10 +469,10 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 24 0 0}The plants look much livelier now compared to before they were tended to.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="109" name="MSG_278_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Do you think... they're happy you're taking care of them, -san?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Do you think... they're happy you're taking care of them, {f 4 2}-san?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="110" name="SEL_279_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's possible.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's not possible.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you ask?]]></Option>
   </Dialog>
@@ -518,7 +518,7 @@
   </Dialog>
   <Dialog id="121" name="MSG_307_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh? This is...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 45 0 0}Look, -san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 45 0 0}Look, {f 4 2}-san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="122" name="SEL_308_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
@@ -541,7 +541,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 54 0 0}I will move it to another leaf then.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 0 0 0 55 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 56 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 57 0 0}It looks like the ladybug would prefer to be near you, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 57 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="126" name="MSG_323_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 58 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
@@ -555,7 +555,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="129" name="MSG_328_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 62 0 0}Excuse me, -san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 62 0 0}Excuse me, {f 4 2}-san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 63 0 0}Pests deserve no mercy.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="130" name="MND_329_0_0" type="Message">
@@ -571,7 +571,7 @@
   </Dialog>
   <Dialog id="133" name="MSG_335_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 68 0 0}Oh? This is...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 69 0 0}Look, -san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 69 0 0}Look, {f 4 2}-san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="134" name="SEL_336_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
@@ -593,7 +593,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 77 0 0}I'm sorry. Are you uncomfortable with insects? I'll move it to another leaf.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 0 0 0 78 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 79 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 80 0 0}It looks like the ladybug would prefer to be near you, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 80 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="138" name="MSG_351_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 81 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
@@ -607,7 +607,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="141" name="MSG_356_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 85 0 0}Oh, -san, look over there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 85 0 0}Oh, {f 4 2}-san, look over there...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 86 0 0}It may be rude to interfere, but we can't let them ruin our harvest.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 87 0 0}Let's give the ladybug some assistance this time.[n]{f 1 1}]]></Page>
   </Dialog>
