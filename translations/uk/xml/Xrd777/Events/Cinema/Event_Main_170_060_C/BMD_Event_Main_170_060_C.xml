@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_170_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_170_060_C\BMD_Event_Main_170_060_C.uasset" dialogs="12">
   <Speakers>
-    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Pharos</Speaker>
+    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Фарос</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Hi, it's been a while.[n]{f 1 1}]]></Page>
@@ -15,9 +15,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Don't you agree?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_001_5_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}That's true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Та точно.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Everything changes.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не знаю.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I see...[n]{f 1 1}]]></Page>
