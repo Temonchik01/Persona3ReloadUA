@@ -9,7 +9,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}...![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What's wrong?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що таке?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Do you need some rest?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
@@ -84,7 +84,7 @@
   </Dialog>
   <Dialog id="22" name="MND_019_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I think Hiraga has taken an interest in me.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стаємо кращими друзями.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="SYS_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Label is not used[n]{f 1 1}]]></Page>
@@ -100,7 +100,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}U-Uh, that's okay. I'm fine. Really.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MND_023_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting dark out.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Уже стемніло.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to the club members[n]and went back to the dorm.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
