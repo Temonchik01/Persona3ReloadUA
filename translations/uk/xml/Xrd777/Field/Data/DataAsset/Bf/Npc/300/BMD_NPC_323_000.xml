@@ -15,7 +15,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}If you wanna know about the games, I can tell you all about 'em.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Nah.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
@@ -52,7 +52,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}What about you? You got any friends who help you out like that?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't need friends.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
@@ -102,7 +102,7 @@
   </Dialog>
   <Dialog id="19" name="SEL_019_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}How'd you learn that?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Okay.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Добре.]]></Option>
   </Dialog>
   <Dialog id="20" name="MSG_020_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}One of the employees secretly told me. It seems they already consider me a regular.[n]{f 1 1}]]></Page>
@@ -124,8 +124,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}Hey, guess what! I finally got the prize![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="SEL_025_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Congrats.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Whatever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вітаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пофіг.]]></Option>
   </Dialog>
   <Dialog id="26" name="MSG_026_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 323}I basically just lucked into it, but I'm still psyched.[n]{f 1 1}]]></Page>
