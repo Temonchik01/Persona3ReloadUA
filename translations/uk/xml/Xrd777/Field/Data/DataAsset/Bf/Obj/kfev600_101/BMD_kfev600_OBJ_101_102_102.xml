@@ -4,17 +4,17 @@
     <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There's nothing I need to do[n]at the faculty office right now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Мені зараз немає чого[n]робити в учительській.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I can hear Ms. Toriumi's voice from inside...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I could try to talk to her...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Я чую голос панна Торіумі зсередини...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Я можу спробувати поговорити з нею...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's the faculty office. It looks like I can't[n]get in through the door on this side...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Це учительська. Здається, я не зможу[n]зайти через двері з цього боку...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
