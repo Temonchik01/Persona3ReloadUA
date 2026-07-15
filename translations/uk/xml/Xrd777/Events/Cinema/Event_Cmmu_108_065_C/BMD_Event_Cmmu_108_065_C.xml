@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_108_065_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_065_C\BMD_Event_Cmmu_108_065_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Everyone's working so hard...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}So are you.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's the matter?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Is that what it seems like to you, {f 4 1}-kun? That I'm working hard?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Ah, sorry. I just wanted you to lend me an ear.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Well, I told my dad about studying abroad.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}He said I should give it a try. And just the other day, he was telling me to quit.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}He's always wanted me to be a doctor till now, so for him to say that...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I just don't know what to think.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Will you study abroad?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's your choice now.]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 13 11 5 108}Y-Yeah, but it kinda feels like I'm doing it because that's what my dad wants.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 13 11 15 108}Y-Yeah, that's true, but at the same time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}If I study abroad, it kinda feels like I'm doing it because that's what my dad wants.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Thanks. This has been eating me up for a while, and it feels good to talk about it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}You're really the only one I can talk to about this stuff, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga expressed his gratitude to me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}It's great that you've always made your own decisions. Not like me, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Sorry. We should get going.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 1 25 25}My driver's picking me up, so I can have him drop you off near your dorm if you want.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga and I left school together.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

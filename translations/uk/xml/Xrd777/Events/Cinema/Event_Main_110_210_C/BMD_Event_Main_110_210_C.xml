@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_110_210_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_110_210_C\BMD_Event_Main_110_210_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 0 0 0 1 0 0}Гм-м...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 2 0 0}Ти досі цим займаєшся?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 3 0 0}Так. Ніколи не знаєш, коли може з’явитися ворог.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 4 0 0}Але... я думав, що за межами Тартару сканувати не можна.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 51 -1 0 0}{f 3 1 1 0 0 5 0 0}Чесно кажучи, у мене справді є прогалини в цій сфері...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 0 25 25}Можливо, це все, на що здатна Пентесілея в плані збору даних.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 7 0 0}Хоча мушу зазначити, що можливості Персони, здається, набагато різноманітніші, ніж я раніше думала.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 8 0 0}У нас навіть є людина, яка може змінювати Персони прямо посеред бою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 9 0 0}У його здібностях є щось особливе...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 10 0 0}А від його пробудження минуло ще не так багато часу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 11 0 0}Так, я теж був здивований.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 12 0 0}Але зрештою тільки від нього залежить, чи зможе він повністю реалізувати свій потенціал.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 0 0 0 13 0 0}Гм?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 5 4 0}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 51 -1 0 0}{f 3 1 1 0 0 14 0 0}Це Тінь![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 15 0 0}Що?! Ти справді знайшла когось?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 51 -1 0 0}{f 3 1 1 0 0 16 0 0}Чекай, щось тут не так. Сигнал завеликий.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 51 -1 0 0}{f 3 1 1 0 0 17 0 0}Я ніколи не зустрічала ворога таких розмірів...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 18 0 0}Зачекай... Це такий же здоровань, що був минулого місяця?![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 19 0 0}Схоже на те.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 51 -1 0 0}{f 3 1 1 0 0 20 0 0}Що ж, буде весело.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 2 0 25 25}Я розбуджу всіх.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

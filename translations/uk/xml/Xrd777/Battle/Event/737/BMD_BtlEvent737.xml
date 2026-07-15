@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_BtlEvent737.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\737\BMD_BtlEvent737.uasset" dialogs="6">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_737_1_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 1 0 5}All right, let me tell you about a new tactic called "Shifting."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_737_1_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 2 0 5}When you knock an enemy down, Shifting allows you to leverage that opening to let someone else take action.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_737_1_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 3 0 5}Once you do, your offense can follow up with whoever you passed your action to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_737_1_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}{f 3 1 1 0 2 4 0 5}If you can coordinate well with your team, you'll be able to claim victory with even greater efficiency.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_737_1_5" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 5 0 5}You should all be experienced enough to pull this off now. Go ahead and give it a try.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="TRL_737_1_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You are able to Shift your own "1 More" action to another teammate. Press the L2 button to pass your action to someone else and navigate battles more effectively.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

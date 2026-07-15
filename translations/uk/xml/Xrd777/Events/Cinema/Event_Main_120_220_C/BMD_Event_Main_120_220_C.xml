@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_120_220_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_120_220_C\BMD_Event_Main_120_220_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 51 -1 0 0}{f 3 1 1 0 0 1 0 0}Ого, поглянь на місяць! Він величезний![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 3 0 25 25}Не думаю, що я коли-небудь бачив його таким яскравим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 3 0 0}Є дослідження, які вказують на те, що на Тіні впливають фази місяця.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 4 0 0}Хоча те саме можна сказати і про людей..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 5 0 0}Це пояснювало б перепади настрою Юка-тан.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 6 0 0}Гей, хіба не було повного місяця тієї ночі, коли ми їхали на монорейці??[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 7 0 0}Гм? Так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 51 -1 0 0}{f 3 1 1 0 0 8 0 0}Е-е, щось не так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 9 0 0}Гей, ти бачив місяць тієї ночі, коли в квітні напали на гуртожиток?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Він був повний.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, не бачив.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 10 0 0}Сьогодні 8 червня... Інцидент з монорейкою стався 9 травня...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 11 0 0}А напад на гуртожиток — 9 квітня! Усі вони були в повний місяць![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 12 0 0}Міцуру, ти там!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 13 0 0}Акіхіко?.. Тіні...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 14 0 0}Гей, ти мене чуєш? Міцуру, відгукнися![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 15 0 0}...Будь обереж...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 16 0 0}Міцуру!? Міцуру![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 6 4 0}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 17 0 0}Що... це таке?..[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 18 0 0}Воно набагато більше за інших... І воно нападає на когось![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 19 0 0}Чорт![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 51 -1 0 0}{f 3 1 1 0 0 20 0 0}Що, в біса, тут відбувається!? Я зовсім заплутався![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 21 0 0}Це один з них! Якщо мої припущення правильні, вони з'являються щоразу в повний місяць![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 51 -1 0 0}{f 3 1 1 0 0 22 0 0}Треба поспішати![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 51 -1 0 0}{f 3 1 1 0 0 23 0 0}Г-Гей! Зачекайте на мене![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

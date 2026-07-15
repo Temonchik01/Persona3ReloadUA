@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_BP_DOBJ_TBOX.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_BP_DOBJ_TBOX.uasset" dialogs="82">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="9" rawBytes="4D 65 74 69 73">Metis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відкрити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не відкривати]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_TBOX_MEDAL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кількість {f 4 4 1 0 1 0}[n]У мене дорівнює {f 0 1 2}{f 2 4 2}{f 0 1 27}. За допомогою {f 0 1 2}{f 2 4 1}{f 0 1 27} слід відкрити його...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_TBOX_MEDAL_OPEN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я використав {f 0 1 2}{f 2 4 1}{f 0 1 27} з моїх {f 4 4 1 0 1 0},[n]тож тепер у мене залишилось {f 2 4 3}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_TBOX_MEDAL_NOT_ENOUG" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якби у мене були {f 0 1 2}{f 2 4 1}{f 0 1 27} {f 4 4 1 0 1 0}, Я міг[n]би його відкрити, але зараз у мене є лише {f 0 1 2}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_TBOX_MedalNone" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене немає під рукою {f 4 4 1 0 1 0}.[n] Схоже, що мені потрібно {f 0 1 2}{f 2 4 1}{f 0 1 27} щоб відкрити його.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_TBOX_RETURN_FUKA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я більше не відчуваю тут скринь зі скарбами.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Це все ще небезпечно, тому, будь ласка, постарайтеся повернутися якнайшвидше.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_TBOX_OPEN_TUTO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20523 0 0}Схоже, це може бути корисним. Тобі вирішувати, як ним користуватися.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_1ST_TRY_MEDAL_OPENED" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}{f 3 1 3 0 -1 4607 0 0}А, я так і думав, що це воно.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Це {f 0 1 39}Сутінкові Фрагменти{f 0 1 27}. Їх можна використовувати на приладах по всьому Тартару.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Ти можеш знайти більше в Тартарі або в інших місцях зі слідами Тіней.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Якщо ти натрапиш на них у майбутньому, ти захочеш їх забрати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_GET_ARCANA_CARD" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1} реагує...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="PFM_GET_CARD_TEMPERANCE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркана Помірність[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="PFM_GET_CARD_DEVIL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Диявол[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="PFM_GET_CARD_TOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Вежа[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="PFM_GET_CARD_STAR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Зірка[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="PFM_GET_CARD_MOON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Місяць[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="PFM_GET_CARD_SUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Сонце[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="PFM_GET_CARD_JUDGEMENT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Суд[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_ESCAPE_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}Схоже на глухий кут. Хочеш повернутися назад одразу?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SEL_ESCAPE_HERO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти з Монади]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Продовжити дослідження]]></Option>
+  </Dialog>
+  <Dialog id="18" name="MSG_ESCAPE_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Добре.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь обережним на шляху назад.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_ESCAPE_FUKA_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}О, ти думаєш, що міг щось пропустити?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ну, ворогів не залишилося, але тут все ще небезпечно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, будь обережним, якщо збираєшся продовжувати дослідження.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_ARAGAKI_REMIND" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На Араґакі це б добре виглядало...[n]але його більше немає з нами...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_TUTO01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5071 0 0}Схоже на те, що шеф дав тобі раніше, чи не так, {f 4 1}?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Мабуть, дуже рідкісний. Дивно бачити його в такому місці.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_TUTO02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, хазяйка антикварної крамниці могла[n]б переробити його на обладнання для мене...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_TUTO03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Здається, ти вже все тут бачив. Гарна робота.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Гадаю, нам час іти. Будь ласка, повернись назад.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="SEL_EQUIP_UPDATE_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Екіпірувати {f 4 4 1 0 0 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="25" name="SEL_EQUIP_UPDATE_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Замінити на нове]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="26" name="SEL_EQUIP_UPDATE_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Юкарі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="27" name="SEL_EQUIP_UPDATE_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Джюнпею]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="28" name="SEL_EQUIP_UPDATE_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Санаде]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="29" name="SEL_EQUIP_UPDATE_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Міцуру]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="30" name="SEL_EQUIP_UPDATE_06" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}未使用]]></Option>
+  </Dialog>
+  <Dialog id="31" name="SEL_EQUIP_UPDATE_07" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="32" name="SEL_EQUIP_UPDATE_08" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Амаде]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="33" name="SEL_EQUIP_UPDATE_09" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Коромару]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="34" name="SEL_EQUIP_UPDATE_10" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Араґакі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="35" name="SEL_EQUIP_UPDATE_11" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Give to Metis]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
+  </Dialog>
+  <Dialog id="36" name="MND_EQUIP_UPDATE_HERO_00" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 4 1 0 1 0}...[n]Looks useful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_EQUIP_UPDATE_YUKARI_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1002 0 0}Гей, який гарний лук! Я можу ним користуватися, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_EQUIP_UPDATE_JUNPEI_" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Йоу, ця зброя виглядає по-звірячому! Але йому потрібен справжній майстер, як я, щоб добре нею користуватися, так що...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_EQUIP_UPDATE_SANADA_" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3094 0 0}О, нова зброя, га? Виглядає навіть краще, ніж те, що я використовую зараз.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_EQUIP_UPDATE_MITSURU" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4086 0 0}Ах, це виглядає як чудова зброя. Ти не заперечуєш, якщо я скористаюся нею?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_EQUIP_UPDATE_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5087 0 0}О, там була зброя всередині. Думаю, Коро зможе її використати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_EQUIP_UPDATE_AEGIS_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}З'явилося нове озброєння. Схоже на модернізацію. Я пропоную модернізацію.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_EQUIP_UPDATE_AMADA_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7005 0 0}Нова зброя?.. Прошу, дозволь мені скористатися нею.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_EQUIP_UPDATE_KORO_00" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф! Арф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_EQUIP_UPDATE_ARAGAKI" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 3 0 -1 9007 0 0}Ну, що тут у нас? Дозволь мені використати його.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_EQUIP_UPDATE_METIS_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 3 0 -1 30002 0 0}That looks powerful... Please give it to me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_EQUIP_UPDATE_AEGIS_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6087 0 0}З'явилося нове озброєння. Схоже на модернізацію. Я пропоную модернізацію.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MND_EQUIP_UPDATE_HERO_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 4 1 0 1 0}...[n]Seems useful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_EQUIP_UPDATE_YUKARI_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1002 0 0}Гей, який гарний лук! Я можу ним користуватися, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_EQUIP_UPDATE_JUNPEI_" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Йоу, ця зброя виглядає по-звірячому! Але йому потрібен справжній майстер, як я, щоб добре нею користуватися, так що...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_EQUIP_UPDATE_SANADA_" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3094 0 0}О, нова зброя, га? Виглядає навіть краще, ніж те, що я використовую зараз.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_EQUIP_UPDATE_MITSURU" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4086 0 0}Ах, це виглядає як чудова зброя. Ти не заперечуєш, якщо я скористаюся нею?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_EQUIP_UPDATE_FUKA_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5087 0 0}О! Ти не думаєш, що ці обладунки ідеально підійдуть Коро?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_EQUIP_UPDATE_AEGIS_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}З'явилося нове озброєння. Схоже на модернізацію. Я пропоную модернізацію.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_EQUIP_UPDATE_AMADA_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7005 0 0}Нова зброя?.. Прошу, дозволь мені скористатися нею.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_EQUIP_UPDATE_KORO_01" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф! Арф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_EQUIP_UPDATE_ARAGAKI" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9007 0 0}Ну, що тут у нас? Дозволь мені використати його.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_EQUIP_UPDATE_METIS_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30002 0 0}Whoa, that looks way better than what I'm using now... Can I please have it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_EQUIP_UPDATE_AEGIS_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6087 0 0}З'явилося нове озброєння. Схоже на модернізацію. Я пропоную модернізацію.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MND_EQUIP_UPDATE_MULTI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кому я можу дати[n]{f 4 4 1 0 1 0}?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Екіпірувати на себе]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпеі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Санада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Фуука]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Амада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Коромару]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Араґакі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вирішити потім]]></Option>
+  </Dialog>
+  <Dialog id="62" name="MND_EQUIP_UPDATE_HERO_10" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've put on the {f 4 4 1 0 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_EQUIP_UPDATE_YUKARI_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1039 0 0}Гей, який гарний лук! Я можу ним користуватися, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_EQUIP_UPDATE_JUNPEI_" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2117 0 0}Йоу, ця зброя виглядає по-звірячому! Але йому потрібен справжній майстер, як я, щоб добре нею користуватися, так що...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_EQUIP_UPDATE_SANADA_" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3042 0 0}О, нова зброя, га? Виглядає навіть краще, ніж те, що я використовую зараз.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_EQUIP_UPDATE_MITSURU" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4038 0 0}Ах, це виглядає як чудова зброя. Ти не заперечуєш, якщо я скористаюся нею?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_EQUIP_UPDATE_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}未使用[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_EQUIP_UPDATE_AEGIS_1" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6038 0 0}Оновлення обладнання підтверджено. Очікую на покращення бойових якостей.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_EQUIP_UPDATE_AMADA_1" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7040 0 0}Дуже тобі дякую. Я зроблю все можливе, щоб бути корисним![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_EQUIP_UPDATE_KORO_10" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Вууф, вууф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_EQUIP_UPDATE_ARAGAKI" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9051 0 0}Ну, що тут у нас? Дозволь мені використати його.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_EQUIP_UPDATE_METIS_1" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30043 0 0}Thank you! I'll cherish it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_EQUIP_UPDATE_AEGIS_1" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6039 0 0}Оновлення обладнання підтверджено. Очікую на покращення бойових якостей.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_HIGH_RARE_TUTO_MITU_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Я більше не отримую сигнал від Тіні. Мабуть, воно досить далеко...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_HIGH_RARE_TUTO_MITU_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 50 0 0}Я більше не отримую сигнал від Тіні. Мабуть, воно досить далеко...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm sure it won't be able to ignore us if we keep opening treasure chests.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}So let's keep looking for chests. We just might run into that Shadow again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_HIGH_RARE_TUTO_FUKA_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я більше не відчуваю Тінь. Напевно, воно вже досить далеко...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_HIGH_RARE_TUTO_FUKA_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Я більше не відчуваю Тінь. Напевно, воно вже досить далеко...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We should be able to get its attention if we keep opening chests.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Let's keep looking for them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_HIGH_RARE_BTL_MITU_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь йде до нас. Приготуйтеся![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_HIGH_RARE_BTL_MITU_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь йде до нас. Приготуйтеся![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There aren't any Shadows left on this floor. Let's keep moving.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_HIGH_RARE_BTL_FUKA_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Тінь прямує прямо на нас! Це наш шанс! Ви готові?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_HIGH_RARE_BTL_FUKA_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Тінь прямує прямо на нас! Це наш шанс! Ви готові?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm not sensing any more enemies on this floor. Let's move on.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

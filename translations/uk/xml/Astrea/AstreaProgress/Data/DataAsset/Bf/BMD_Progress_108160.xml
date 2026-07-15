@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Progress_108160.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\AstreaProgress\Data\DataAsset\Bf\BMD_Progress_108160.uasset" dialogs="5">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджо</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 52 -1 0 0}{f 3 1 3 0 -1 2074 0 0}We're comin' up on our last shot...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}This is it, guys. We're finally gonna get to the bottom of all this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 3 0 -1 5028 0 0}Supposedly, it has to do with us and our Personas...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}You don't think that the only way out of this... is for us to die... do you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 52 -1 0 0}{f 3 1 3 0 -1 3123 0 0}Thinking like that gets you nowhere.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 52 -1 0 0}We only got this far because we believed there'd be another way.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}Y-You're right... Sorry, I'm going back to my bad habits again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 3 0 -1 4140 0 0}We won't have to endure this for much longer. Everyone, brace yourselves. We're going in.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

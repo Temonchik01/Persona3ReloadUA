@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_ItemShop.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\UI\Facility\BMD_ItemShop.uasset" dialogs="31">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 6F 68 69 67 65 20 50 68 61 72 6D 61 63 79 20 4F 77 6E 65 72">Aohige Pharmacy Owner</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_EXIT_CONFIRM_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 3 3 1087 0}Done already?[n]{f 1 2 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_EXIT_CONFIRM_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 3 2 1087 0}You got everything you need?[n]{f 1 2 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_EXIT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 3 1002 1087 0}Thanks![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_EXIT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 3 1003 1087 0}Come again, yeah?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Keep shopping]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Exit]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_ITEM_TUTORIAL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16601 1087 0}Welcome![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}The competition between pharmacies is heating up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16624 1087 0}I've got to make my store more unique, or I'll be sunk.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}I'm doing my best to "pill" in the gaps, so drop by anytime and support my store![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_ITEM_GREET" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 3 1000 1087 0}Welcome![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_ITEM_GREET_FILLER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}I won't bother you with my stories. Take your time and browse.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_ITEM_GREET_FILLER_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Go on, don't be shy! Have a look around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_ITEM_GREET_SALE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 3 1000 1087 0}Welcome![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Saturdays are our regular sale days! It's the perfect chance to stock up on supplies![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_ITEM_GREET_TALK_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16623 1087 0}Gosh, is it sweltering. This kind of heat calls for some Aojiru Sorbet![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}...It's a product I tried pushing once, but it didn't sell. Apparently, people only used it for dares...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}But enough of that! Take your time and do some browsin'![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_ITEM_GREET_TALK_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16617 1087 0}My pharmacy's detoxifier is famous! It sucks the poison outta ya like a healing vacuum cleaner.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Girlfriends' pimples, wives' sharp tongues... It can cure anything![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Got anyone around who won't stop naggin' ya? Give it a try on them! Gahahahah![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_ITEM_GREET_TALK_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16608 1087 0}You don't want to become overly reliant on meds. Excess can turn tonics into toxins, ya know.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Even in an emergency, make sure to follow the instructions on the label, capeesh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Anyway, what catches your eye?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_ITEM_GREET_TALK_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16624 1087 0}Vitamins and mineral water are common shopping items these days.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Things like that used to be taken for granted, but not now. Which helps my business, but it's sad...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}That's enough of that, though. Take your time and look around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_ITEM_GREET_TALK_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16617 1087 0}Back in the good ol' days, every household had an aloe plant for their health.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Thanks to that, I've never been constipated in my life! Gahahah![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16628 1087 0}Enough about me, though. Browse to your heart's content![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_ITEM_GREET_TALK_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16623 1087 0}I hear more people have been carrying their meds around in pill cases in case they suddenly get sick.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}It's good to be prepared, but we have traditions... Don't people remember what an inro is...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Shoot, listen to me lecturin' you like an old-timer. Forget what I said. Have a look around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_ITEM_GREET_TALK_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16614 1087 0}I got this great concoction from Ken-chan, my wholesaler! They say it enhances... Heheheh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Well, not that I have anyone to use it on. Huh... I wonder how she's doing these days...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Whoa, that's not the type of talk for your ears, is it? Anyway, have a look around.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_ITEM_GREET_TALK_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16616 1087 0}Back in the good ol' days, every household had an aloe plant for their health.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Thanks to that, I've never been constipated in my life! Gahahah![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Enough about me, though. Browse to your heart's content![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_ITEM_GREET_TALK_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16614 1087 0}I hear more people have been carrying their meds around in pill cases in case they suddenly get sick.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}It's good to be prepared, but we have traditions... Don't people remember what an inro is...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16609 1087 0}Shoot, listen to me lecturin' you like an old-timer. Forget what I said. Have a look around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_ITEM_GREET_TALK_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16623 1087 0}I got this great concoction from Ken-chan, my wholesaler! They say it enhances... Heheheh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Well, not that I have anyone to use it on. Huh... I wonder how she's doing these days...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16610 1087 0}Whoa, that's not the type of talk for your ears, is it? Anyway, have a look around.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_ITEM_GREET_TALK_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16614 1087 0}This area's getting more dangerous. Someone even broke into our storage basement a bit ago.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}But I bet he had the scare of a lifetime once he saw what was inside! Heheheh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Now then, peruse away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_REQ_AOJIRU_START_00" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, Elizabeth said that[n]she wanted to try some tasty aojiru...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I might be able to find some here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_REQ_AOJIRU_START_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16602 1087 0}Hey, kid. What can I get you today?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="SEL_REQ_AOJIRU_START_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'd like some aojiru.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Do you sell aojiru?]]></Option>
+  </Dialog>
+  <Dialog id="25" name="MSG_REQ_AOJIRU_START_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16624 1087 0}Oh, sorry, I don't have any for sale right now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}I used to, but it didn't sell well and was apparently only used for dares...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16609 1087 0}That said... I did recently come up with a new aojiru creation that I consider my magnum opus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}And maybe I'd be willing to exchange it for the {f 4 4 1 37 1 0} from the antique shop next door...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Haha, I'm joking! That thing's way out of a student's budget.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Sorry, but you'll have to give up on the aojiru. But don't worry, I've got plenty of other fine goods![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_REQ_AOJIRU_REMIND_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 4 25 1087}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}That {f 4 4 1 37 1 0} from next door would really help streamline things...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}But she probably won't sell it to me... What to do...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Whoops, don't mind me. Just talkin' to myself. Take your time and look around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_REQ_AOJIRU_END_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16615 1087 0}Hey, kid. What's up? Wait, is that...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}The {f 4 4 1 37 1 0}! How the hell'd you get your hands on this!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="SEL_REQ_AOJIRU_END_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I made an exchange for it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Trade secret.]]></Option>
+  </Dialog>
+  <Dialog id="29" name="MSG_REQ_AOJIRU_END_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16622 1087 0}Uh, I see... Well, as long as you didn't break any laws, I'm not gonna pry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16625 1087 0}Anyhow, I'm impressed with your dedication. Well, I won't go back on my word... This is yours![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_REQ_AOJIRU_END_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16623 1087 0}If you ever want more, just say the word. This isn't for sale, but I'll make an exception for you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}Oh, and I'll be making full use of the {f 4 4 1 37 0 0} for my future research.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1087 0 -1 -1 0 0}{f 3 1 3 0 -1 16606 1087 0}Bottom line, thanks a ton! You take your time lookin' around, now![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

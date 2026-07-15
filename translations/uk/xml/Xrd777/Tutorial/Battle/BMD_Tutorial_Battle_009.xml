@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Battle_009.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Battle\BMD_Tutorial_Battle_009.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 6A 6F 72 20 41 72 63 61 6E 61 20 43 61 72 64 73">Карти Старших аркан</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 13}Крім карт Менших аркан, які іноді з'являються під час перетасування, також рідко можуть з'являтися {f 0 1 2}карти Старших аркан{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 0 1 2}За день можна отримати лише одну карту кожної Старшої аркани{f 0 1 27}. Кількість карт Старших аркан, які ви можете отримати за день, також обмежена.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Коли ви отримаєте максимальну кількість карт Старших аркан, відбудеться {f 0 1 2}Сплеск Аркан{f 0 1 27}, який підвищить ранг ваших карт Менших аркан. Зберіть якомога більше карт Старших аркан.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

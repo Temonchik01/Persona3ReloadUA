@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldHit_IwatoStationToDormitory.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_IwatoStationToDormitory.uasset" dialogs="10">
+  <Dialog id="0" name="MND_HIT_VENDINGMACHINE_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, зникло живлення...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_HIT_ELEVATOR_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Жодна з кнопок не світиться...[n]Мабуть, ліфт не працює.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_HIT_WORKFENCE_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тут ведуться ремонтні роботи. Мабуть, краще мені сюди не заходити...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_HIT_WORKSPACE_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що вся станція[n]на реконструкції.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_HIT_WORKSPACE_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Краще триматися подалі...[n]Виглядає трохи небезпечно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_HIT_TELEPHONE_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Світло в телефонній будці не горить.[n]Мабуть, вимкнули електрику...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_HIT_INFOBOARD_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гуртожитку немає на мапі...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_HIT_ESCALATOR_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Не функціонує...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_OUT_STOP_EAST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гадаю, гуртожиток в іншій стороні...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_OUT_STOP_STAIR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я, мабуть, піду до гуртожитку...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

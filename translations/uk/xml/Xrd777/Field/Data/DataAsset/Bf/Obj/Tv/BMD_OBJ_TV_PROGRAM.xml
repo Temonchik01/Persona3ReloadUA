@@ -1,0 +1,1501 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_OBJ_TV_PROGRAM.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\Tv\BMD_OBJ_TV_PROGRAM.uasset" dialogs="343">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 65 77 73 63 61 73 74 65 72">Newscaster</Speaker>
+    <Speaker id="1" rawBytes="46 65 6D 61 6C 65 20 52 65 70 6F 72 74 65 72">Female Reporter</Speaker>
+    <Speaker id="2" rawBytes="4E 61 72 72 61 74 6F 72">Narrator</Speaker>
+    <Speaker id="3" rawBytes="52 65 70 6F 72 74 65 72">Reporter</Speaker>
+    <Speaker id="4" rawBytes="4D 61 6C 65 20 52 65 70 6F 72 74 65 72">Male Reporter</Speaker>
+    <Speaker id="5" rawBytes="42 61 63 6B 70 61 63 6B 65 72">Backpacker</Speaker>
+    <Speaker id="6" rawBytes="57 65 61 74 68 65 72 6D 61 6E">Weatherman</Speaker>
+    <Speaker id="7" rawBytes="46 65 61 74 68 65 72 20 48 61 77 6B">Feather Hawk</Speaker>
+    <Speaker id="8" rawBytes="48 69 67 68 20 53 63 68 6F 6F 6C 20 47 69 72 6C 20 28 31 36 29">High School Girl (16)</Speaker>
+    <Speaker id="9" rawBytes="46 69 74 6E 65 73 73 20 45 78 70 65 72 74">Fitness Expert</Speaker>
+    <Speaker id="10" rawBytes="46 65 61 74 68 65 72 20 43 6F 6E 64 6F 72">Feather Condor</Speaker>
+    <Speaker id="11" rawBytes="46 6F 72 65 69 67 6E 20 4E 65 77 73 63 61 73 74 65 72">Foreign Newscaster</Speaker>
+    <Speaker id="12" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="13" rawBytes="43 72 69 74 69 63 61 6C 20 57 6F 6D 61 6E">Critical Woman</Speaker>
+    <Speaker id="14" rawBytes="44 6F 63 74 6F 72">Doctor</Speaker>
+    <Speaker id="15" rawBytes="50 72 65 73 65 6E 74 65 72">Presenter</Speaker>
+    <Speaker id="16" rawBytes="43 65 6C 65 62 72 69 74 79">Celebrity</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Let's see what's on TV.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The news is on right now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to other news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}New information has been released regarding the "Apathy Syndrome" that has been on the rise.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The Medical Association believes this may be a psychological disorder caused by environmental changes, such as...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—drunk on sake, then started a fight with another customer. Police took the man into custody.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next up, more flowers of springtime.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Today's flower is a tulip.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There are many types of tulips, each with their own color and shape.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}More information on tulips can be found on the Internet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a very dependable-looking 20-year-old woman.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Her sister is a camerawoman, and I heard she got her camera from her mentor.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—and all the tourist families have had a wonderful spring.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The attraction will remain in operation until May 5th, the last day of the holidays next month.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message"/>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Tomorrow is forecasted to be a great day for fun. Why not participate in some outdoor events?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Up next is today's exchange rate.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Tomorrow, same time, comes the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 9: Survive the Love Battle! Feather Owl![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Don't miss it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—and there has been no further information.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Investigators are facing a difficult case, since there were no witnesses.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}This is the 12th instance of this sort of mysterious incident.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A team of investigators is working hard to track down any leads.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}—who was then immediately sent to the hospital.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}The man has regained consciousness, but due to his condition, has been unable to speak.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Police are awaiting the man's recovery before questioning him.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}And that's the news for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—the customers sure were excited to see her like that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our next story is about the release of the spring carp.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Over 10,000 were released into the river this year.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The carp fishing season will begin in June.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—but despite this, they were able to safely finish the concert.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our next story is about a strange animal from overseas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's called... the platypus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The platypus—an animal native to Australia—is an egg-laying mammal.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}And behind the male platypus's feet are poisonous spurs! What a strange animal![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—with many people choosing to go overseas for the long vacation.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's a popular vacation choice this year, it seems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Airports are filled with travelers...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to a survey, the most popular destination is once again Hawaii.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 10: Instant Ramen Smorgasbord: Feather Swan![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our first story is about the many young people with only part-time employment...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The shifting economy has strengthened the dollar against the yen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The current exchange rate is 1 USD to 115 yen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The change marks the yen's 1.4% weakening from yesterday.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—many of you are eagerly anticipating tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Due to the Golden Week holiday, the highways are expected to be jammed bumper-to-bumper.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Traffic conditions are expected to worsen from tomorrow until May 3.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Officials expect the roads to be cleared by May 4th.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}From all of us at Action News, have a happy Golden Week![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—accident at the intersection. Over six miles of traffic are backed up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Coming up next, more traffic reports. There seems to be no problem at this section, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The highway in the other direction appears to be packed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Officials are hoping the congestion will be relieved by May 4th.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—cherry blossoms blooming near Aomori Castle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We here at Action News recommend getting some fresh air and exercise during Golden Week.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}—man on the street interviews. Tell us, how are you spending your Golden Week this year?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}Um... I, uhh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}A-And that's the latest word from the man on the street.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}Now, back to the studio for more news...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today is the Hachiju Hachiya.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The Hachiju Hachiya means "88th Night." It marks the beginning of the late dew season.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's widely known that this time of year is when the best tea leaves are picked.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The weather has been clear with no fog, and the tea's flavor is excellent.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There were many tea parties thrown around town in celebration.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 11: A Dangerous Game! You're flying too much, Feathermen![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Today, we'll look at the epidemic of youth depression, including an interview with the leader of the...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a 20-year-old girl with bright blond hair.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}They say her sister used to be a famous idol! I wonder what it's like to have a relative like that![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today is Children's Day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The Minister of Public Management has reported the number of children under fifteen years of age.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to the report, 9.8% of the population is aged fifteen years or younger.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The report marks the first time Japan's child population has been under 10%.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The aging population is slowly becoming a problem in some areas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The government has called for more data regarding the situation, and ordered a study into the matter.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—virus, around 4,500 people's personal information has been leaked onto the Internet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The employee involved in creating the malicious code has already been terminated...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}But company officials have yet to determine the true extent of the information leak.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—for all you Tauruses out there, your lucky color is blue.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For even better luck, try skipping and frolicking around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}—Apathy Syndrome victims are increasing, and no cause for the epidemic has been found.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Anxiety is spreading near Port Island, where many of the victims are from.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}This is Kaede Kuroki, reporting from Tatsumi Memorial Hospital.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—near-miss when the monorail overshot its mark.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The last train, Anehazuru, failed to stop at the red light and went beyond its stopping point.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police and the monorail management are still trying to determine what caused the incident.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Though the train overshot its mark by over 2,000 feet, no one was injured.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Monorail management is suspecting the train driver and are holding him for questioning.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In the meantime, they are promising to make every effort to reduce the monorail accident rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For now, service on the Anehazuru car will continue as normal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}—mysterious Apathy Syndrome, but its victims are showing signs of recovery.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Family and friends are overjoyed that they are returning to normal.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}This is Kaede Kuroki, reporting from Tatsumi Memorial Hospital.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_034_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—who evidently left some gauze inside his patient's stomach.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The hospital settled with the patient for over one million yen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next up, the summer weather forecast.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The dollar is now valued at 114.9 yen, a slight increase from before.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MND_037_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—the most popular bakery in town.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's so popular that the fifty sweet rolls—one to a customer—were sold out within the first five minutes...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_039_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 13: Maze of Love! A comforting kiss leads to... a slap in the face!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_041_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—arrested a 22-year-old man who was selling illegal copies of a popular PC game.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The man's computer was also seized in the raid.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_042_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 14: Love Bomb! Sometimes the only strategy for victory... is an abject apology![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_043_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_044_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—a 92-year-old woman with a surprising hobby: playing online games.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}When we spoke to her, she said her favorite thing about the game was being able to talk to the kids.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_045_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—the economic results for April.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The economy seems to be on the rise again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Though a touch of inflation has led some consumers to complain.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_046_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—his assist, the team pulled through.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In seasonal news, the tourism industry in Okinawa is gearing up for another year.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Though the weather is colder this year, many tourists are still enjoying the early island summer.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_047_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A 40-year-old man was sent to the hospital last night.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to his doctors, he is a victim of Apathy Syndrome.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_048_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—water leaking from the nuclear power plant's cooling towers.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The water was tested and found to be radioactive, but fortunately, it did not leave the plant.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_049_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—if you're an Aquarius, then your lucky color is red.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For extra luck, try sticking your thumbs up all day long![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_050_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 15: High School Combat! Sing your heart out! Feather Swan![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_051_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_052_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}The sky is covered in dark clouds...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}For those who are fighting, the light has not yet broken through.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_053_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}That concludes our special report. Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_054_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A scandal sent an unfortunate company's stock prices plummeting today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}At the close of trading today, the price per share had gone as low as 4,242 yen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_055_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—rainy season is supposed to begin on the 10th.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}However, experts predict that there won't be as much rain, leading to water shortages in the summer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For our next story...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We'll take another look at Apathy Syndrome. There are now over seventy cases, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_056_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a 20-year-old lady with a beauty mark near her mouth.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}She's said to be an excellent therapist... I wish I could schedule a session![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_057_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—popular item that's flying off retail shelves these days...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A Geiger counter for home use.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Fears related to the recent nuclear power plant accident have led to record sales for the devices...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_058_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The yen is now 115.12 to the dollar, down from last time by 0.11 yen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_059_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 16: Confusion In the Presses! A photo of food is not the real thing! Feather Hawk![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_060_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_061_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}You have to be prepared, and carry an umbrella during the rainy season.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}The fight between those with umbrellas and the driving wind is still being waged today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_062_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}That concludes our special report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next, the news, followed by a look at everyone in recovery from Apathy Syndrome.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MND_063_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_064_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Japan's lunar probe completed its two-year observation at 3:25 AM today and made a controlled landing on the moon.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The probe investigated various features of the moon and contributed much to our understanding of its surface...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_065_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Going into the rainy season, we've got an unusual clip to show.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}What you're seeing is a prototype of an artificial rain generator.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For a country like this, where water is becoming scarce...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_066_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a man in his thirties with sunglasses and long hair that reaches to his back.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}When I asked what he did for a living, he became upset. Hmm... Why might that be...?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_067_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 17: The Priestess's Revival! It's bad times when the fiend returns![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_068_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_069_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}This week's forecast is sun all the way! There's only a 10 to 20% chance of rain.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}But be careful of dehydration, even during the rainy season. It's going to be a scorcher![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Now, back to the studio![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_070_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next on Action News: all the action in the world of sports![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_071_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—new automatic braking system in cars is implemented.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Experts predict less skidding on rainy days.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_072_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}Come to Paulownia Mall to see us! We won't be there, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_073_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Phoenix Ranger Featherman R, every Sunday! Don't miss it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_074_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_075_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Next is the news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ayako Yoshimoto, a third-year at Gekkoukan High School, has been reported missing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MND_076_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that she may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_077_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—rain festivals long ago.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Especially this year, when forecasters are expecting little rain, the festival is called for...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_078_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our topic today is the rising divorce rate among June brides.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Lately, divorce is becoming more common, sometimes happening immediately after the honeymoon.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}What causes this? We'll report, right after these messages.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_079_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 18: Death of a Condor! Get your hankies ready, kids![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_080_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_081_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—has burned down, causing the neighbor's home to burn down as well.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are investigating the possibility of arson.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For our next story...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A dead body was found behind Port Island Station last night.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The victim seems to have been a student at the nearby high school.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The police are currently searching for any evidence relating to the incident.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_082_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A girl was found standing motionless in the middle of the street, halting traffic for several minutes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The expressionless girl has since been led away by police.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A number of similar cases have been occurring, causing extra problems for the police force...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_083_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—tourists flocking to the aquarium to see the sea hares.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A warning for tourists, though: be careful of the dry weather and guard against heatstroke.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next, a report on more people standing in the road, blocking traffic.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_084_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}—wedding planners working hard to bring about eternal love...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}But the divorce rate is still on the rise.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Studies show that one out of every five newlyweds will divorce within the year.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_085_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}That concludes our special report. Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_086_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Everyone slows down as they get older, but some people are getting fed up with it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We spoke to local youth, who have a message for irresponsible adults.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_087_0_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}Before you tell me to stop talking on the phone, maybe you could stop stealing people's seats, you know?[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}God, you guys totally have no right to get on our case like that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_088_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to other news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We have received word that Kenjiro Tsutsumi, 31, and Yoshimi Miyama, 24, office workers in the Bay Area...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...were both reported missing earlier today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MND_089_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MSG_090_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—say the chances of the dam drying up are greater than 50%.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}If the dry weather continues this summer, it could turn into a serious problem.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_091_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 19: Believe In Yourself! There's nothing you can't do! Feather Swan![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_092_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The number of Apathy Syndrome victims is increasing every day, all over the city...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MND_093_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_094_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Ahhh, once again, we've got nothin' but sun.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Bring your water bottles and make sure you don't get dehydrated![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Now, back to the studio![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_095_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next on Action News: all the action in the world of sports![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_096_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—leaving people wondering when they'll be able to use their umbrellas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}As a result, umbrella sales have plummeted this year.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Compared to last year's rainy season, vendors are reporting a 70% drop-off in revenue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_097_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "lei ho"! Swing your arm—"lei"! Lift those legs—"ho"![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Lei ho" means "hello"![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_098_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—text message that said, "I'll be a little late" before disappearing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}After she didn't return home the next day, her worried parents contacted the police.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Eyewitnesses have placed the girl with several of her friends in town around midnight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The police investigation is still underway.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_099_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—didn't come home, the parents contacted the police, who began a search for the missing girl.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Witnesses spotted the girl last night with a friend, but the other girl is missing as well.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}This is the sixth such mysterious disappearance this month.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are still searching for any leads in the case...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_100_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 20: Married Life! The Feath—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MSG_101_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We interrupt this broadcast for an important announcement.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The missing elementary school girl has been found.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}However, her slack expression indicates that she may have fallen victim to Apathy Syndrome.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MSG_102_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—Tanabata, or the Star Festival, tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Many of the wishes hung up are requests that Apathy Syndrome be finally eliminated.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_103_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For our next story...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Mysterious vandalism has occurred at the hotel Champs De Fleur.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Mirrors in multiple hotel rooms were shattered.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Though the hotel had many guests, none of them saw the culprit.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Some guests have also reported theft in their rooms.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are currently investigating the incident.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_104_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next, some good news...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Natto has become surprisingly popular overseas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Called "miracle beans" in foreign countries, they sell five times what they do in Japan.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A well-known natto producer said, "Good thing I kept making it!"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_105_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our next story concerns a very rare event...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A miraculous flower which only grows once every one hundred years has bloomed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It seems to be responding to the other strange events in town.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_106_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a man in his twenties with a yellow cap.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}He's studying art overseas, so we were very fortunate to run into him today![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MSG_107_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 21: Trash Monster on the Move! Don't litter, kids![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MSG_108_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MSG_109_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—sign is Cancer, then your lucky color is green.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For extra luck, try wearing your shoes on the wrong feet![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MSG_110_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}An emergency planning session was called today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's dealing with the many cases of Apathy Syndrome over the last few months.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Cultural anthropologists are investigating the causes, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MSG_111_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—solar eclipse on the 22nd, said to be the longest solar eclipse in history.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Viewers will only be able to see 25% of the sun from Tokyo, and 18% from Osaka.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}As a result of the eclipse, the temperature will drop slightly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MND_112_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MSG_113_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There are now 115.12 yen to the dollar, an increase from last time of 0.15 yen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MSG_114_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In children's news today—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ah, we've just received this bulletin.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}More Apathy Syndrome victims have been sighted.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}They seem to be relapses of the same patients from previous months...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MSG_115_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next up, news from overseas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A recent fashion show in Milan had an unusual theme: "Life in Space."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Those attending watched supermodels wear space suits down the runway and ate delicious space food.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MSG_116_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 23: Here Comes a New Challenger! Ninja Locust arrives![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}And before the news begins, Feather Condor has a message for you all![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MSG_117_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}Hey, guys! There are some grim-looking folks out there, but you viewers are okay, right?[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}After all, you've got me looking out for you! So don't worry! We'll meet again next week![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MSG_118_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MSG_119_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is Trish's type of guy! He's smoking hot, and still in his twenties![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}It seems he wants to be a policeman, just like his brother.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MND_120_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MSG_121_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There's been a slight change of plans. Today, we'll tell you about the Apathy Syndrome cases.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's a very mysterious illness that affects those with unstable minds or psychological problems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Its victims can only groan, and they don't eat or talk normally.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Researchers still don't know what causes it, but we do know that people can recover from it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_122_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "wai"! It sounds weird, but raise those arms and yell it! "Waiiii!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Wai" is used when you want to say, "Hey!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_123_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—the heat, the number of heatstroke incidents is on the rise.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The problem particularly affects Apathy Syndrome victims, since they are unable to move...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_124_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}It's blazing hot today! It's been over 86 degrees out for days![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Make sure you have enough water, and keep your energy up![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Now, back to the studio![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_125_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome has claimed more heat exhaustion victims.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}If they hadn't been found in time, they could have died, so be careful out there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_126_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 24: The Giant Robot March! Icarus! Garuda! Combine![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_127_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}More Apathy Syndrome victims succumbed to heatstroke today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MSG_128_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next on Vacation Corner, we'll show a world-famous beach![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}You may have already heard of it: southern Miami, in the USA![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Let's see what they have to say![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="MSG_129_0_0" type="Message">
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Hi, and welcome to Miami, which is filled with tourists this time of year![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="MSG_130_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Shuichi Niimura, a second-year at Iwatodai High School, and Yasuko Murabayashi, 51, a housewife in the Bay Area...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...were both reported missing earlier today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="MND_131_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="MSG_132_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—Libra's lucky color is black.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For extra luck, get yourself stuck in the train doors on purpose![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="MSG_133_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—has begun today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}This time, the pledge leader was a student from another winning school...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="134" name="MSG_134_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—last Tanabata.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}At the time, many people wrote wishes for them to recover.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}And as of today, the number of Apathy Syndrome victims has been decreasing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It looks like the wishes came true, however belatedly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="MSG_135_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—the Obon festival coming up, the highways are expected to be jammed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Southbound traffic will be packed until the 15th...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}While northbound traffic will be congested from the 20th to the 21st.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="MSG_136_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 25: The Shadow's Half-Smile! Has a Shadow lost its mind after seeing the light!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="MSG_137_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="MSG_138_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—up, a report on the festival.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The man riding on the portable shrine was knocked off.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}He was uninjured, but three of the shrine bearers underneath him were hospitalized.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The inebriated man said, "If you're pissed off, try being the one on top."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="MSG_139_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 26: Caveman Love! Romance knows no boundaries—not even between different eras![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="MSG_140_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="MSG_141_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In weather-related news...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Has Japan become a subtropical climate?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}By all indications, this week will be another humid one.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}This is in addition to all the disasters worldwide, such as hurricanes and tsunamis...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="MSG_142_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a man in his twenties with a sour face— Um, I mean a handsome salaryman.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Though he hides it with his hair, the scar on his forehead is still obvious. I wonder what happened...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="MSG_143_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—High won its 11th victory, the first in four years.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...And now, another missing person report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Satsuki Onozuka, 34, a housewife in the Bay Area, has been reported missing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="MND_144_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that she may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="145" name="MND_145_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems a special about the game[n]that was revealed today is on...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="146" name="MSG_146_0_0" type="Message"/>
+  <Dialog id="147" name="MND_147_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="MND_148_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="MSG_149_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 27: The Gate of Hell Opens! Swallow! Condor! Owl! Gooooo![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="MSG_150_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="151" name="MSG_151_0_0" type="Message">
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}There are people who've died in this heat![n]{f 1 1}]]></Page>
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Don't say nonsense like, "If you leave them alone, they'll recover"![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="152" name="MSG_152_0_0" type="Message">
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}We're doing our best to deal with Apathy Syndrome. But all we can do right now is—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="153" name="MSG_153_0_0" type="Message">
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}That's what you keep saying![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="154" name="MSG_154_0_0" type="Message">
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Whew! It's getting as hot in here as it is out there, but that's all the time we have for today.[n]{f 1 1}]]></Page>
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="155" name="MND_155_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="156" name="MND_156_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="157" name="MSG_157_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—weather site went down after being flooded with hits.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's likely that the outage was caused by students planning their summer vacations...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="158" name="MSG_158_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For our next story...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The elementary school children who took a bicycle trip around Japan have returned.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The kids are tanned and happy, and their families are overcome with joy to have them back...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="159" name="MSG_159_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A popular band sold every seat in the house for their latest concert...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}But on the day of the show, the audience was completely empty.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It seems most of the ticket-holders had contracted Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="160" name="MND_160_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The news continues...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="161" name="MSG_161_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...And now, another missing person report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hirotaka Tanigami, 25, an office worker in the Bay Area, has been reported missing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="162" name="MND_162_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that he may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="163" name="MSG_163_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 28: Dimensional Beast! The enemy is... cute!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="164" name="MSG_164_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The Apathy Syndrome that's becoming more widespread...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="165" name="MSG_165_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—finally August 31st.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Children will return to school tomorrow for a new term. To get rid of those sad faces, we suggest...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="166" name="MSG_166_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our topic today is the ethical problem of freedom of expression.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A leading paper printed an Apathy Syndrome victim's picture without masking his identity, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="167" name="MSG_167_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—food channel will be introducing you to another popular food.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Last year, the meal was consommé soup. What will it be this year?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Coming up after these messages, today's special report will be on Apathy Syndrome victims...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="168" name="MSG_168_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "houshonah"! Streeetch and say, "Houshonah!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Houshonah" means "tough"! It's tough when someone you like tells you, "Houshonah!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Don't let Apathy Syndrome or the hot weather get you down! See you next time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="169" name="MSG_169_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It is time for tonight's news. First, we begin with a report of another missing person.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Reiko Makita, 33, an office worker in the Bay Area, has been reported missing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="170" name="MND_170_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that she may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="171" name="MSG_171_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—international convention, introduced new technology called NewClear.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The process is so amazing that people have started to call it "Nuclear."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In today's special report, we'll investigate: what is this "NewClear"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="172" name="MSG_172_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 29: Final Battle! Did a random brawl put Hawk out of commission!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="173" name="MSG_173_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The latest victim is the fifth case of Apathy Syndrome this month...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="174" name="MND_174_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="175" name="MSG_175_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—planning to take the matsutake mushroom hunting tour.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Tourist reservations are skyrocketing, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="176" name="MND_176_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="177" name="MSG_177_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—lucky color for our Virgos in the audience is yellow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For extra luck today, try punching three times in front of a mirror![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="178" name="MND_178_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="179" name="MSG_179_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The yen is now 115.23 to the dollar, up 0.11 from last time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next up, news regarding yet another missing person report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Bunkichi Kitamura, 80, proprietor of a used bookstore in the Bay Area, has been reported missing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="180" name="MND_180_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that he may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="181" name="MSG_181_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 30: Three Demons Awaken! Stop kidnapping my lover![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="182" name="MSG_182_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="183" name="MSG_183_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}—gratulatioooons![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}We're in the locker room to interview the winners! You guys did great out there![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Yeeek! Th-The beer's... so cold...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="184" name="MND_184_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="185" name="MND_185_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="186" name="MSG_186_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "kehhei"! Flex those fingers, and... "Kehhei!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Kehhei" means "I'm mad now!" A full train makes you seriously kehhei![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="187" name="MSG_187_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—huge typhoon gets closer and closer. It's hitting the mainland right now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Depending on weather conditions, it may pass over Japan by tonight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="188" name="MSG_188_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Our subject today is a girl in her twenties with a very original, short hairstyle.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}She studied overseas and speaks fluent English. She's as intelligent as she is beautiful![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Pain, pain, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="189" name="MSG_189_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The sky is clear and blue once again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Everyone with laundry out on the line can rest assured that it'll be dry by the afternoon.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Next up, news regarding yet another missing persons report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Aki Kurobe, a third-year at Gekkoukan High School, and Yasunobu Shimozono, 44, the president of a company in the Bay Area...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...were both reported missing earlier today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="190" name="MND_190_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="191" name="MSG_191_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—cultural anthropologists have made an announcement regarding Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}They have calculated the timing of when victims will recover and when new victims will be claimed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}People are waiting to hear the exact day that victims will begin to increase next month...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="192" name="MSG_192_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—dead man had ties to local loan sharking operations.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police say that the lack of a struggle most likely means his assailant was familiar with him.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The victim had likely contracted Apathy Syndrome, preventing him from fighting back.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="193" name="MSG_193_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—heated exchange in a video store yesterday over the late fee for a rented video.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The customer insisted that he had Apathy Syndrome, preventing him from returning the video on time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}But the owner refused to give in, saying their policy did not allow for any excuses.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Despite the customer's frustration, the dispute was resolved to both men's satisfaction when...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="194" name="MSG_194_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome is even more widespread than ever before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Medical workers are shocked by the number of new victims being admitted to hospitals...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="195" name="MSG_195_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 32: Wing's Return! The demons overstay their welcome![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="196" name="MSG_196_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome's spread shows no signs of stopping...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="197" name="MSG_197_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Though Apathy Syndrome is known not to be contagious...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}If you see victims, do not approach them. Call the police or the hospital instead...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="198" name="MSG_198_0_0" type="Message">
+    <Page spk="0010"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome isn't a disease... They're like you and me, just a little more tired.[n]{f 1 1}]]></Page>
+    <Page spk="0010"><![CDATA[{f 0 5 254}{f 2 1}Please, show your kindness by calling the number on your screen...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="199" name="MND_199_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The TV is showing the total of[n]donations sent to the Apathy[n]Syndrome celebrity telethon so far.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="200" name="MSG_200_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="201" name="MSG_201_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}More data has been collected by cultural anthropologists about Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to them, it takes around two weeks for victims to recover.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}If this is true, then the current victims will start to recover around the 5th of next month...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="202" name="MSG_202_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "toche"! Bend over and say, "Toche!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Toche" means "thank you." I hope this word catches on someday![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="203" name="MSG_203_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Next, the news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our topic today is Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="204" name="MSG_204_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a man in his twenties who's proud of his amazing intelligence.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}You can recognize him by the "#1" design, which is on all of his clothing.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Apathy Syndrome, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="205" name="MSG_205_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In today's economic news...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The rising number of Apathy Syndrome victims has led to a declining Japanese economy, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="206" name="MSG_206_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—attack on a student at Port Island Station, resulting in the death of the young man.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}He rarely attended school, and was often spotted at the crime scene.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police believe that the incident must have arisen from a dispute, and are questioning local youth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="207" name="MSG_207_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}All eyes are now on the cultural anthropologists who predicted the recovery of Apathy Syndrome victims.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}So far, all of their hypotheses have been proven correct.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Many are happy to finally have some concrete information about the condition.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}One of the anthropologists is now trying to pin down a date for when the next victims will appear.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="208" name="MND_208_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="209" name="MSG_209_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The current rate is 114.30 yen to the dollar. The yen has gone down by 0.22 since last time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="210" name="MND_210_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="211" name="MSG_211_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}—easily broken bones and fragile intestines. The risk is great for those who don't exercise.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}More and more children today aren't getting the necessary amount of exercise.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}This concludes our special report on Health and Sports Day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="212" name="MSG_212_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="213" name="MSG_213_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 34: Hawk's Snoozed Too Much! He must be woken up with the ultimate technique: Superconductive Cyclone![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="214" name="MSG_214_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="215" name="MSG_215_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—lucky color for Sagittarius is pink.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For extra luck, try putting a flower on your door![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="216" name="MSG_216_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The cultural anthropologists have calculated another date.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}They say the next Apathy Syndrome victims will begin to appear in one week.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="217" name="MSG_217_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 35: Passenger Pigeon Romance! Fight for your sickly love, Swallow![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="218" name="MSG_218_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="219" name="MND_219_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="220" name="MSG_220_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Casinos are popular vacation spots nowadays, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For the real casino experience, you have to go to Las Vegas in the USA![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We'll now hear from our foreign correspondent on the Strip. Hello there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="221" name="MSG_221_0_0" type="Message">
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Hi, and welcome to Las Vegas, gambling capital of the world![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="222" name="MSG_222_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Last night's increase in Apathy Syndrome victims hit the previously predicted mark.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It was off by a few days, but the cultural anthropologists' prediction came true again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}They have announced their intentions to continue their research on...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="223" name="MND_223_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The news continues...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="224" name="MSG_224_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...And now, another missing persons report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}College student Ryohei Nakatsugawa, 19, along with Maiko Oohashi, daughter of office worker Takahiro Oohashi, 36...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...have both gone missing within a very short timeframe.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="225" name="MND_225_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="226" name="MSG_226_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}—Iwatodai strip mall overrun with Apathy Syndrome victims.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="227" name="MSG_227_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We'd like to apologize for our last report, saying Apathy Syndrome victims had "overrun" the mall.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In light of the high number of viewer complaints, the reporter responsible has been suspended.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="228" name="MND_228_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="229" name="MSG_229_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 36: Ant-Guy, The Walking Appetite! Did Hawk sneak a peek into the female baths!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="230" name="MSG_230_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome continues to spread, causing some to panic...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="231" name="MSG_231_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—comedian made an unexpectedly influential comment in a sports magazine.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}His claim that Apathy Syndrome was foretold by Nostradamus seems to be widely believed now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="232" name="MSG_232_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The cultural anthropologists have announced more information.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}One of them has accurately guessed the dates of recoveries and relapses in the past.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}He believes that the next wave of recovery will begin on the 7th.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="233" name="MND_233_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="234" name="MSG_234_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "kaumena"! Turn your head left and right and say it: "Kaumena!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Kaumena" means "Help!" Even I say "kaumena" to those Apathy Syndrome victims.[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="235" name="MSG_235_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Although cultural anthropologists have determined the dates of attack and recovery...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}People are still concerned, since no one has figured out the cause of the syndrome.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="236" name="MND_236_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The news continues...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="237" name="MSG_237_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...And now, another missing person report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Takeko Hiraoka, 38, a housewife, was reported missing earlier today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="238" name="MND_238_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that she may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="239" name="MSG_239_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—autumn, the lights are beautiful.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Particularly at the Moonlight Bridge in the Bay Area...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="240" name="MSG_240_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 37: Here Comes the Emperor! Who could possibly eat more than Owl and love more than Condor!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="241" name="MSG_241_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The newest handheld gaming system has officially gone on sale today. Mile-long lines have formed across the country![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="242" name="MSG_242_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—if you're a Leo, then your lucky color is brown.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For even more luck, try removing a bookmark from a book you're still reading![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="243" name="MSG_243_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Starting this morning, the healing from the latest round of Apathy Syndrome has begun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The cultural anthropologists seem to have hit the mark again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to one, Apathy Syndrome will resurge on the 20th.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We urge viewers to be cautious around that time, and get ready for the...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="244" name="MSG_244_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—shocked by the sudden death of the Kirijo Group president.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}As a result of his death, an emergency meeting has been called...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="245" name="MSG_245_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—breaking news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Over the last two days, Apathy Syndrome has spread even further.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Everyone is disappointed, after the announcement said it would begin to diminish around the 20th...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="246" name="MND_246_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="247" name="MSG_247_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 38: Hammer Ambush! Viewers, treat your friends right![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="248" name="MSG_248_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Due to the sudden increase of Apathy Syndrome victims, the hospital is overflowing with...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="249" name="MSG_249_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—questions directed to the cultural anthropologists.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to their hypothesis, the current wave of Apathy Syndrome was due to end on the 20th.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}However, with the syndrome spreading even further, trust in them has been...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="250" name="MND_250_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="251" name="MSG_251_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—doctors working multiple shifts due to the number of patients.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}With some doctors succumbing to Apathy Syndrome themselves, the situation is worsening...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="252" name="MSG_252_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "chinyan"! Make a heart with your hands and say, "Chinyan!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Chinyan" means "lover." If you catch Apathy Syndrome, you won't be anyone's chinyan anymore![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="253" name="MSG_253_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The yen is now 115.52 to the dollar, down 0.24 from last time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Japan's economy is feeling the effects of Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="254" name="MND_254_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="255" name="MSG_255_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 39: Roll Those Dice! Save the world with a natural 20![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="256" name="MSG_256_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The thief who targeted Apathy Syndrome victims was caught yesterday...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="257" name="MSG_257_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject has blue hair, strange makeup, a guitar case, and an odd way of walking.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}He's both a sushi chef and a band leader. And today's his birthday![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Apathy Syndrome, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="258" name="MND_258_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="259" name="MND_259_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="260" name="MSG_260_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We interrupt Phoenix Ranger Featherman R for this special bulletin.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It seems that someone threw an explosive device into a hospital in the Bay Area last night.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police suspect a crazed member of one of the Apathy Syndrome victims' families, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="261" name="MSG_261_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—more details on the explosive that was thrown into Tatsumi Memorial Hospital.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Miraculously, no one was killed or wounded, but one patient is presently unaccounted for...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="262" name="MSG_262_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—update on the missing patient from yesterday.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There seems to be a high likelihood that the girl was kidnapped by the culprit who threw the explosive...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="263" name="MSG_263_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Next up, news regarding yet another missing persons report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Tomoyuki Itami, 57, an office worker in the Bay Area, and housewife Katsue Sugi, 47...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...have been reported missing one after the other.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="264" name="MND_264_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="265" name="MSG_265_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 41: The Secret Base E*X*P*L*O*D*E*S! Take it back, Featherman R![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="266" name="MSG_266_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Tension is still high over Apathy Syndrome, since the causes are still undetermined...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="267" name="MSG_267_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a lady in her thirties with a beauty spot under her eye.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}She can dance the flamenco, so I wonder what she'd look like with a rose in her mouth![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... Apathy Syndrome, go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="268" name="MND_268_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="269" name="MND_269_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="270" name="MSG_270_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—Apathy Syndrome patient numbers have yet to decline this month.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Many are questioning the abilities of the experts who predicted a date when the recovery would begin...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="271" name="MSG_271_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—Capricorns' lucky color right now is light blue.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}To ward off Apathy Syndrome, try waving goodbye to the setting sun![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="272" name="MSG_272_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The yen is now 115.6 to the dollar, a 0.13 change from last time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The spread of Apathy Syndrome is affecting the economy of the...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="273" name="MSG_273_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 42: Sleep In My Arms! Love for love's sake... But what about the battles!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="274" name="MSG_274_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="275" name="MSG_275_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—fashion news updated.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Clothes mavens say you won't be able to survive the winter without this cashmere...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="276" name="MSG_276_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—crab season, but there aren't enough crab fishermen to meet demand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The Apathy Syndrome epidemic has also hit the fisherman population, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="277" name="MND_277_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="278" name="MSG_278_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "aiyah"! Bring your palm next to your mouth and say, "Aiyah!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Aiyah" is a very common word. It means "No way!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Don't let the cold and Apathy Syndrome get you! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="279" name="MSG_279_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—winter sales about to begin at many major retailers.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The town's department stores have calculated their estimated profits for the holiday season.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Though they were hoping for revenues of 110% to 120%...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The lack of shoppers due to Apathy Syndrome may mean those expectations will be missed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="280" name="MSG_280_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—political party tried to oust the insurgents, but the opposing party was comprised of over fifty members.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The party chairman had no choice but to retract his statement.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}At this rate, there will likely be a debate over which party is in the wrong...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="281" name="MSG_281_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 43: Inside the Body Politic! The Feathermen shrink down to investigate an official's disease![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="282" name="MSG_282_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome still has no...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="283" name="MSG_283_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}It's nothin' but sun on today's weather map for the rest of the week![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}For everyone who was looking forward to a white Christmas: too bad![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Now, back to the studio![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="284" name="MSG_284_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Welcome to Hyper-Action News, bringing you all the day's news, and more news besides![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="285" name="MSG_285_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 44: Demon Robot Tannika! Danger, Featherman R![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="286" name="MSG_286_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome still has no...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="287" name="MND_287_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="288" name="MSG_288_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}First, we have another case of missing people.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Service worker Yumiko Sasamaki, 28, and office worker Nobuko Fukuchi, 26...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...have been reported missing one after the other.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="289" name="MND_289_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="290" name="MSG_290_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—Christmas Eve tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Many Christmas trees all over town will shine through the night...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="291" name="MSG_291_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Christmas is tomorrow! Don't stop exercising with all those feasts![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "haime"! Flex your face and say, "Haime!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Haime" means "Are you serious!?" It's like, "Haime, I have to work on Christmas!?"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to the news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="292" name="MSG_292_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—about half the students were absent from the closing ceremony after the second term, due to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="293" name="MSG_293_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—brand goods were stolen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The crowd was so large that there are no suspects or witnesses yet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}However, the majority of the consumers were women buying Christmas gifts, so...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="294" name="MSG_294_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 45: Hot Cocoa of Victory! Find the Demon Robot's opening and defeat it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="295" name="MSG_295_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We'll be going over by fifteen minutes today to review ways of preventing Apathy Syndrome with famous...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="296" name="MSG_296_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}—behind the Christmas smiles is a hard-fought battle.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Today, the lights in this toy store that have been on for fifty years have gone dark...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="297" name="MSG_297_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}That concludes our special report. Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="298" name="MSG_298_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A survey of the year's most popular news topics put Apathy Syndrome as the number one subject...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="299" name="MSG_299_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Hi, I'm Trish with today's installment of Who's Who.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today's subject is a man in his thirties who dresses in very stylish suits.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Though he's a policeman, he dabbles in a little cooking on the side.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Next is news... This year, Apathy Syndrome must go away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="300" name="MSG_300_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome keeps spreading, causing unrest in the...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="301" name="MSG_301_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—Happy New Year! And now, the first news of 2010.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The year's first Apathy Syndrome patient was admitted at 1:13 AM...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="302" name="MSG_302_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—concentrating on the paint and posters all over town.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Since all the materials share similar designs, police believe they're the work of one culprit...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="303" name="MSG_303_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—took into custody a man who went out of control at the shrine.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The unidentified man would only repeat, "The Fall is deliverance"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="304" name="MSG_304_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A man has been arrested for his attempts to recruit others into his suicide ring.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The detainee was an unemployed 30-year-old man intensely devoted to cult-related magazines...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="305" name="MSG_305_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}—in the end, this old Apathy Syndrome patient died, due to malnutrition.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}The man was the first patient that the young doctor was not able to save. Tears rolled down his face...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="306" name="MSG_306_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}That concludes our special report. Coming up next, the news.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="307" name="MND_307_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing news[n]related to Apathy Syndrome...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="308" name="MSG_308_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Happy New Year! Now for the first exercise of 2010! I won't tell you how old I am, but it's pretty old![n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "hoisamuro"! Punch the air and say, "Hoisamuro!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Hoisamuro" means "Yay!" All those students finished with exams are saying, "Hoisamuro!"[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}That's all for this week! Back to more cult-related news![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="309" name="MSG_309_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—research shows that children's New Year's gifts are being affected by Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Due to the epidemic, parents are unable to visit their relatives, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="310" name="MSG_310_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Up next, stock market news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Going into the month, safety-related companies are seeing large gains.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The apocalyptic mindset that's spreading among the populace is said to be a major factor...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="311" name="MSG_311_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 46: The Great Devil's Tomato Farm! Owl doesn't like tomatoes!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="312" name="MSG_312_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}City officials are concerned that the graffiti and posters are destroying the town's image, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="313" name="MSG_313_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Today is Coming of Age Day, and there were parties planned in each area for those turning twenty.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}However, due to Apathy Syndrome, many of the parties had to be canceled.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="314" name="MSG_314_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}As you can see from the map, it'll be sunny skies all week long![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Those of you with entrance exams won't have to worry about getting snowed in![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Now, back to the studio![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="315" name="MSG_315_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Welcome to Hyper-Action News, bringing you all the day's news, and more news besides![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="316" name="MSG_316_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A magazine released yesterday is making waves throughout the community.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The uproar stems from an article about a cult leader known as "Charisma."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to the teachings of Nyxism, there is a power that eliminates worries of the future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Belief in this ability is causing many young students to join the cult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="317" name="MSG_317_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—today's exchange rate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The yen is now 108.42 to the dollar. Japan's currency has experienced a tremendous decline.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The result of Apathy Syndrome and cult teachings is becoming...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="318" name="MSG_318_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—all you Gemini, the lucky color is orange.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}To ward off Apathy Syndrome, wear your shirt inside-out! You never know... It might work...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="319" name="MSG_318_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}First, we have another case of missing people.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Mitsutoshi Okimoto, a first-year at Gekkoukan High School, and Fumika Terado, 21, a shop worker...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...have been reported missing one after the other.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are searching for leads and ask the public for assistance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="320" name="MND_319_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a possibility that they may[n]have wandered into Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We must go rescue them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="321" name="MSG_320_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—college entrance examinations held today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}One student who brought a BB rifle to the testing center sent a panic through the crowd...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="322" name="MSG_321_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Episode 47: The Great Emperor's Glory! The fight is almost at its end![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="323" name="MSG_322_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Belief in Nyx seems to be increasing throughout the city...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="324" name="MND_323_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing[n]news related to the cult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="325" name="MSG_324_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A 50-year-old housewife was implicated in banking fraud.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}When questioned, she said a man calling himself "Nyx's son" forced her to do it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="326" name="MSG_325_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}During a live demonstration, a man wearing a bandana jumped up and spoke to the crowd.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Nyx-sama's descent is real!" the man said. After this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="327" name="MSG_326_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Today's Cantonese word is "holeen."[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}"Holeen" means "pitiful." Are we holeen to be living in this kind of world...?[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Well, that's all for this week... Back to the news...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="328" name="MSG_327_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Entrance exams are looming for the city's student population.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}However, with the cultists around, please be careful...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="329" name="MND_328_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing[n]news related to the cult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="330" name="MSG_329_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}On the next episode of Phoenix Ranger Featherman R![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Final Episode: Fly, Phoenix! A marriage between Hawk and Swan! And as for Condor...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="331" name="MSG_330_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...On to today's news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Cult membership continues to grow, while...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="332" name="MND_331_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing[n]news related to the cult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="333" name="MSG_332_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—farm found five eggs already with no yolks.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}According to the village legend, eggs like these are signs of extreme misfortune.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The villagers are becoming terrified that a catastrophe is about to happen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="334" name="MSG_333_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—woman scolded a group of teenagers for spraying graffiti.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}She was subsequently stabbed by one of the youth, as the rest of them fled the scene.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Doctors say the woman was lucky, and that her wounds will take around one week to heal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="335" name="MSG_334_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—note read, "I failed the entrance exams. I have no reason to live."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Police are ruling it a suicide over a failing grade on his college entrance exams.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There have been at least eight reported cases of suicide as a result of the exams, and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="336" name="MND_335_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Every channel is showing[n]news related to the cult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="337" name="MSG_336_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We'll begin a new series of investigative reports today called, "Hope for the Future."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}In light of the sharp income divide, we'll poll citizens on what gives them hope for the future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Our first report will be, "Young Pessimists of the Punctured Bubble."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}We'll follow youths who have thrown away their hopes as a result of disillusionment in capitalism...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="338" name="MSG_337_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—park filling up with groups of people, all dressed in black.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The hordes of people seem to be a gathering of the cult.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Some members are holding placards reading, "Nyx," or, "Quiet Revolution," making for an enigmatic scene...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="339" name="MSG_338_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}And now for health news.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Make sure to gargle with hot water to drive away the...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="340" name="MSG_339_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Graduation season is about to begin.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Many female students have been seen around town in cheongsams.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The atmosphere is similar to a cosplay party, save for the diplomas they hold in their hands...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="341" name="MSG_340_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}For our next story...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Another look at the mysterious Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}As of last month, all patients have recovered, and there have been no further recorded cases.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="342" name="MSG_341_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—nearly finished cleaning up the graffiti, and the posters are almost all torn down.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The whereabouts of the cult at this time are...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

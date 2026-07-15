@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_116_095_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_095_C\BMD_Event_Cmmu_116_095_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Нодзомі Суеміцу</Speaker>
+    <Speaker id="1" rawBytes="42 69 74 74 65 72 2D 4C 6F 6F 6B 69 6E 67 20 4D 61 6E">Похмурий чоловік</Speaker>
+    <Speaker id="2" rawBytes="54 68 75 67">Бандит</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 0 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}Е-е? Що... що це таке?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 0 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 4 25 25}Це... екстрена ситуація? Справді екстрена?![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 2}То світу настає кінець, га? Пам’ятаю, якийсь інший культ уже верз таке.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 2}Щоправда, там не збирали «вступні внески» — навпаки, пропонували відмовитися від майна, так?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 2}Красти ідеї в реальних релігій — класична тактика сект, між іншим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 0 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 4 25 25}Т‑тобто... усе це була афера?![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}{f 5 21 0 2}Авжеж, тебе обвели навколо пальця, хлопче.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 2}Але не ми. Подякуй своїй секті, у яку так вірив.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 2}Тепер, коли я знаю правду, тобі навіть співчуваю. Та ти зайшов занадто далеко.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 2}Постарайтеся не бити по обличчю. Зі слідами він може подати до суду.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 60 -1 0 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 10 25 25}А‑а‑а!.. (схлип) Я... я помру?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 60 -1 0 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 10 25 25}А-але ж якщо помру тут... то відроджуся й потраплю до Раю![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 60 -1 0 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 10 25 25}Я н-не боюся! Не боюся![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 0 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 4 25 25}Щ‑що? {f 4 2}?![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 0 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 4 25 25}Щ-що ти тут робиш? Після всього, що я наговорив... Після того «між нами все скінчено»...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_4_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 60 -1 0 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 10 25 25}Я в п-паніці! (схлип) Не хочу, щоб вони мене били![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Суеміцу цілком мені довіряє.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 60 -1 0 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 12 25 25}Пробач, {f 4 2}! Пробач мені![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 18 0 0}{f 5 21 0 3}Це так бридко! Ти весь у шмарклях!![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 19 0 0}{f 5 21 0 3}Та ну його, мені на роботу пора.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 20 0 0}{f 5 21 0 2}З мене досить.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 21 0 0}{f 5 21 0 2}Забудь про гроші, але щоб я тебе біля свого сина більше не бачив.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 60 -1 0 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 1 10 25 25}Ти такий чудовий, {f 4 2}... У тебе справді добре серце![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відвів Суеміцу додому та[n]повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,1046 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldInitScript_499_all.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Init\F499\BMD_FldInitScript_499_all.uasset" dialogs="278">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="9" rawBytes="4D 65 74 69 73">Metis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_COMU_LV_MAX_MES" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Judgement Social Link reached its maximum level! You can now fuse Messiah, the savior![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_FUKA_DISAPPEAR" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5076 0 0}I'm sure there's someone here... Check everywhere, please![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_MITURU_DISAPPEAR" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}I'm worried about the person who wandered in here... You need to find them before it's too late.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_FUKA_DISAPPEAR_CAT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5116 0 0}It's a faint signal, but it's there... You just have to find them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_MITURU_DISAPPEAR_CAT" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}It's faint, but this signal definitely belongs to a living thing. Locating them is now our top priority.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_FUKA_FDOOR_FIRST" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'm getting a strange signal. Could this be... one of the doors?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_FDOOR_FIRST" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Sometimes, Tartarus puts up a Monad door on a floor. If you happen to pass one up, it won't open for you during your current exploration.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_FUKA_FDOOR" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}This signal... There's a Monad door here. Keep your eyes open for it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_FUKA_HIGH_RARE_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5122 0 0}Ah— Is that...!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It's definitely a Shadow, but this is the first I've seen of its type![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_FUKA_HIGH_RARE_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5122 0 0}Huh!? What the...? I lost a signal from one of the treasure chests![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Could it be... a Shadow's snatching up treasure on this floor?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_HIGH_RARE_TUTO_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's on now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why, though?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_FUKA_HIGH_RARE_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 50 0 0}Could it be attracted to the loot somehow?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Oh![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}The Shadow's on the move now![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's headed your way—brace for combat![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_FUKA_HIGH_RARE_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5113 0 0}It seemed like some kind of rare Shadow...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 50 0 0}Shocking size to it though, right? Yet it got away...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Given its size, I imagine defeating it would be well worth our while.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}What do you say, Leader?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_HIGH_RARE_TUTO_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's hunt it down.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not done with that thing.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_FUKA_HIGH_RARE_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5069 0 0}This signal—this movement...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}The Greedy Shadow's closing in on you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_FUKA_HIGH_RARE_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 50 0 0}There it goes again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I think we'd get a really nice haul if we could defeat it. Would you like to chase it down?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SEL_HIGH_RARE_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's chase it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's let it go.]]></Option>
+  </Dialog>
+  <Dialog id="17" name="MSG_HIGH_RARE_YUKARI_10" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1086 0 0}You're kidding... Obviously we go after it, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_HIGH_RARE_JUNPEI_10" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2095 0 0}That greedy Shadow stole our loot! We gotta straighten it out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_HIGH_RARE_SANADA_10" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3080 0 0}Let's see how it carries itself in a fight. No sense in letting it go scot-free.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_HIGH_RARE_MITSURU_10" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4061 0 0}A specimen of that size is certainly a rare sight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_HIGH_RARE_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}{f 3 1 3 0 -1 5086 0 0}Koro-chan's raring to go! What do you say, Aigis?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_HIGH_RARE_AEGIS_10" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6065 0 0}It was huge and glittered like gold... It was almost larger than life. What do you think, {f 4 2}-san?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_HIGH_RARE_AMADA_10" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7075 0 0}It sure was something, wasn't it? Don't you think we should go after it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_HIGH_RARE_KOROMARU_1" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, Арф![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_HIGH_RARE_ARAGAKI_10" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9049 0 0}So... are we goin' after it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_HIGH_RARE_METIS_10" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30090 0 0}It seems like that would help you, Sister! C'mon, let's take it down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_FUKA_HIGH_RARE_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Understood![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Our target is fleeing at a breakneck speed. You'll need to track it down quickly![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_FUKA_HIGH_RARE_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5123 0 0}Understood. We shouldn't get too distracted from our objective by chasing it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Let's return to our exploration, shall we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}We can use my skill Tartarus Search to make sure we corner it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}What would you like to do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="FSS_FUKA_ORDER" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please do a {f 2 4 2}.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll track it down myself.]]></Option>
+  </Dialog>
+  <Dialog id="31" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Got it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}And... now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}I'll call out directions for you—follow them to chase the Shadow to a dead end![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Make a left there! You're so close—hang in there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Make a right![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Left, please![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's a right there! Almost![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Okay, go straight from there! We've got it where we want it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}D-Do you have something up your sleeve?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Okay, you're the boss! He's quick though, so be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_FUKA_HIGH_RARE_DEFEA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Well, that was a lucky find, wasn't it? Now that that's settled, shall we get back to exploring?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_FUKA_HIGH_RARE_KEYFR" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Okay, back to business![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_MITSURU_005F_2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4070 0 0}Hmm, that device there...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}We may be able to use it. Check it out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_FUKA_005F_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5071 0 0}Oh, that device there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}We may be able to use it. Would you mind inspecting it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_FA_RBOX_MITSURU_001" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm sensing a valuable chest nearby. See if you can retrieve it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_FA_RBOX_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}There's a valuable chest close by. Can you get to it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_FA_MBOX_MITSURU_001" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm detecting a chest that requires fragments to open. Try to find it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_FA_MBOX_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}It looks like one of those chests that open with fragments is around here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_FA_CLOCK_MITSURU_001" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}For some reason, this floor seems connected to somewhere else...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_FA_CLOCK_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Is that a... door on this floor? It feels similar to the entrance...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_FA_RENEMY_MITSURU_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Hm... I'm sensing a rare Shadow on this floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_FA_RENEMY_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Oh, it looks like there's a rare Shadow on this floor![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_FA_BUGENEMY_MITSURU_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Hm, the enemies here seem to be acting strangely...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_FA_BUGENEMY_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Huh? The Shadows on this floor are acting weird...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_FA_ALLRARE_MITSURU_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}This is quite astonishing... There appear to be only rare Shadows on this floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_FA_ALLRARE_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}I thought I detected rare Shadows on this floor, but... why are they all rare Shadows?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_FA_ALLSTR_MITSURU_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}We've got trouble![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}It appears all the enemies on this floor are powerful. Exercise extreme caution![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_FA_ALLSTR_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}What!? These enemies...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}This whole floor is full of strong enemies! Be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_FA_DARK_MITSURU_001" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}It's difficult to see anything on this floor. Keep your guard up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_FA_DARK_FUKA_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}It's too dark to make anything out here! Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_MISSING_FOUND_CONECT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}This is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_MISSING_FOUND_NEAR1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5025 0 0}There's a person nearby. It must be one of those missing people who wandered in here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}I'm getting a signal from floor {f 2 4 1}. Let's hurry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_MISSING_FOUND_NEAR2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5003 0 0}Are those...? I'm sensing humans nearby! They must be those missing people...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}I'm getting readings from floors {f 2 4 1} and {f 2 4 2}. We have to rescue them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_MISSING_UPPER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}I'm getting a faint reading of a person. It could be one of the people who got lost in here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}It's too far for me to pinpoint their location. They seem to be on a much higher floor...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_MISSING_LOWER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}There's someone in here. It's probably a missing person...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}But they're far away. It seems like they're on a much lower floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_MISSING_NOT_REACHED0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I sense someone on a higher floor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}It's a floor we haven't been to yet, though. I hope we can get there soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_MISSING_NOT_REACHED0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}There's another human presence, too. It's coming from above us.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}But they're on a floor we haven't reached yet. I hope we can make it there before it's too late...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MND_TUTO_MONAD01" type="Message"/>
+  <Dialog id="67" name="MSG_TUTO_MONAD02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}It doesn't seem like a Shadow... It's larger and seems almost like a wall...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="SEL_TUTO_MONAD" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Interesting...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's take a closer look.]]></Option>
+  </Dialog>
+  <Dialog id="69" name="MSG_TUTO_MONAD_ADDTALK01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4028 0 0}Hmm... If it's dangerous, it's possible that it could in fact be riskier to simply ignore it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_TUTO_MONAD_ADDTALK02" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3062 0 0}Well, fortune favors the brave, right? Besides, we didn't come this far by running from our fights.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_TUTO_MONAD03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Okay, then. Going by the signal I'm getting, it shouldn't be far from you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="SYS_TUTO_StrongSymbol01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 0}While exploring, you may come across enemies in altered status conditions.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 0}Enraged enemies will rapidly charge at you in a straight line. If combat is triggered, some of the enemies may be afflicted with Rage.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 0}Rage is just one possible altered enemy status. Pay attention to enemies' behavior to glean what you might be dealing with.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MND_RareUranai" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fortune-teller mentioned that[n]I will "face an adversary clad in gold"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I'll run into a rare enemy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_TUTO_REAPER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Oh, I should tell you something Kirijo-senpai told me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}She said there's a Reaper that appears in Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="SEL_TUTO_REAPER" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A "Reaper"?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"Appears"?]]></Option>
+  </Dialog>
+  <Dialog id="76" name="MSG_TUTO_REAPER_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Apparently it will appear out of nowhere and chase you endlessly...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}And if you get caught, um... I think you know what is supposed to happen if a "Reaper" catches you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Maybe it's trying to get rid of us since we're outsiders in Tartarus...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_TUTO_REAPER_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}She wasn't too sure on the details, but I guess it appears when you stay on one floor for too long.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 0 1 2}Jamming may not work{f 0 1 27} on it, so please evacuate to another floor if you ever encounter it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_TUTO_JAMMING_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5102 0 0}There are so many enemies, I don't think we'll be able to avoid them entirely...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="SEL_TUTO_JAMMING" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Тоді давай просто прорвемося.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}З нами все буде гаразд—у нас є Фуука.]]></Option>
+  </Dialog>
+  <Dialog id="80" name="MSG_TUTO_JAMMING_02_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Please wait! It could be dangerous without a plan...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_TUTO_JAMMING_02_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Um, I appreciate your confidence in me, but I mostly just locate enemies...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_TUTO_JAMMING_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Hm... Actually, I may be able to help out here![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}I'm going to use my {f 0 1 35}Jamming{f 0 1 27} skill![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_TUTO_JAMMING_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 0 1 35}Jamming{f 0 1 27} obstructs enemy detection, making it harder for them to find you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}In other words, enemies shouldn't attack you even if you enter their line of sight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It won't always work on all enemies, but for these ones here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Help me, Lucia...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_TUTO_ENEMY_ESCAPE_M0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4103 0 0}Hm? The enemies on this floor seem restless...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}I see... They're intimidated by us. We should be able to avoid any unnecessary combat.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_TUTO_ENEMY_ESCAPE_F0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5098 0 0}Huh? The enemies on this floor seem strangely agitated.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like they're afraid of us. Maybe you won't have to fight them if you don't want to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_TUTO_SKILL_SYLP01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5003 0 0}Before fighting a stronger enemy, there's a skill of mine I'd like you to use. It's called {f 0 1 35}Sylphid Aura{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_TUTO_SKILL_SYLP02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}It'll enhance everyone's abilities a bit at the start of battle. It might give you some peace of mind.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_TUTO_SKILL_SHOCK01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5066 0 0}If you want to be able to explore a little easier, you might want to use my {f 0 1 35}Shock Noise{f 0 1 27} skill.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_TUTO_SKILL_SHOCK02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}It'll inflict Distress on all enemies on a floor so they flee when they see you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MSG_TUTO_SKILL_ESCAPE01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5075 0 0}If you ever get stuck somewhere and can't find a teleporter to use...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}You can use my skill {f 0 1 35}Escape Route{f 0 1 27} to return to the entrance whenever you like.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_TUTO_SKILL_ESCAPE02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}If you're running low on health or stamina, please don't push yourself—come back and regroup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_TUTO_SKILL_SEARCH01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5086 0 0}You can use my skill {f 0 1 35}Tartarus Search{f 0 1 27} to analyze the floor you're currently on.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}It'll give you a layout of the whole floor, and you can even move right to the next floor if you want.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_TUTO_SKILL_SEARCH02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}It does take stamina, though, so you can't use it over and over, but use it when you need to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_TUTO_HEALCLOCK_M01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4078 0 0}By the way, I received a report from the chairman.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_TUTO_HEALCLOCK_F01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5074 0 0}Oh, by the way, the chairman sent me a report.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_TUTO_HEALCLOCK_M02" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}You know that {f 0 1 2}clock{f 0 1 27} by the stairs at the entrance? The one that's about as tall as you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_TUTO_HEALCLOCK_F02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}You know how there's a {f 0 1 2}clock{f 0 1 27} about our height next to the stairs at the entrance?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_TUTO_HEALCLOCK_M03" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}At first glance, it may look ornamental, but it can actually be operated by using {f 0 1 39}Twilight Fragments{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_TUTO_HEALCLOCK_F03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It might just look like a decoration, but it apparently works with {f 0 1 39}Twilight Fragments{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_TUTO_HEALCLOCK_M04" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Supposedly, it can "restore the user to his or her rightful state."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MSG_TUTO_HEALCLOCK_F04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}According to the chairman, it's supposed to "restore the user to his or her rightful state."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MSG_TUTO_HEALCLOCK_M05" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}I suppose its purpose is recovery. I'm curious how it works, but regardless, let's take advantage of it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_TUTO_HEALCLOCK_F05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}I guess it's supposed to help you recover. It seems mysterious, but I think we should make use of it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_KF_INFO_042F_MITU" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Hm... I don't sense any enemies above here. We may be approaching a {f 0 1 2}border floor{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Reaching it would be a great accomplishment. I'll be counting on you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_KF_INFO_042F_FUKA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Oh, it seems likely that the {f 0 1 2}next floor{f 0 1 27} is a {f 0 1 2}border floor{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}If we make it, that'll be one milestone cleared. Good luck![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_KF_INFO_060F_FUKA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Oh, hang on![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}There's another {f 0 1 2}border floor{f 0 1 27} coming up. It's {f 0 1 2}nine{f 0 1 27} floors from here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It's still pretty far off, so let's focus on getting through here first.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MSG_TUTO_TheurgiaGauge01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5008 0 0}Leader, do you have a moment?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'd like to share something I've found out about using {f 0 1 2}Theurgy{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Theurgy can't be used just any time. The user has to reach an emotional peak first.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}In other words, Theurgy can only be used {f 0 1 2}after enough power has built up{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Also, how someone builds up this power is different depending on the person.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}For Kirijo-senpai, it's when she inflicts status ailments on an enemy, but for Yukari-chan, it's when she heals someone.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Try out different things and see what works for different teammates.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Theurgy is very powerful. We'll definitely want to use it as much as we can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="PFM_SHIFT_GET" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тепер ви можете робити Заміну в бою.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MND_Uranai_Type01_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I had a {f 0 1 2}Rarity Fortune{f 0 1 27} read today...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, {f 0 1 2}I will face an adversary clad in[n]gold{f 0 1 27}. Maybe I'll run into a rare enemy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MND_Uranai_Type02_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I had a {f 0 1 2}Blighting Fortune{f 0 1 27} read today...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, {f 0 1 2}I will gain an advantage in[n]conflicts{f 0 1 27}. I might be luckier in battle...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MND_Uranai_Type03_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I had a {f 0 1 2}Gamble Fortune{f 0 1 27} read today...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, {f 0 1 2}my destiny holds a double-edged[n]sword{f 0 1 27}. Maybe I'll run into unusual enemies...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MND_Uranai_Type04_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I had a {f 0 1 2}Soul Fortune{f 0 1 27} read today...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, {f 0 1 2}I will feel a powerful drive{f 0 1 27}.[n]My Theurgy gauge may charge faster...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MND_Uranai_Type05_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I had a {f 0 1 2}Safety Fortune{f 0 1 27} read today...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, {f 0 1 2}my destiny holds a moment[n]of tranquility{f 0 1 27}. Maybe I'll avoid setbacks...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="SYS_Tuto_BadStatus01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Стан Недугів{f 0 1 27} було додано до Навчання.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MSG_000_0_0" type="Message"/>
+  <Dialog id="116" name="MSG_001_0_0" type="Message"/>
+  <Dialog id="117" name="MSG_002_0_0" type="Message"/>
+  <Dialog id="118" name="MSG_FUKA_002F" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5028 0 0}It feels like an ordinary building inside...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'm going to take a quick look.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5069 0 0}Huh!? These readings... Oh no...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Shadows! Be careful, everyone![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 0 1 2}I'm sensing multiple Shadows inside!{f 0 1 27} Everyone, assume your battle positions![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5003 0 0}It's as I feared... This place is just like Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}And that thing we saw earlier...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I have a bad feeling about this. Please proceed with caution.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5074 0 0}Oh, Aigis, I wanted to mention something. I'm sure you know this, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Please keep an eye on everyone's health. And if their health gets low, make sure they recover.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}As long as we work together, I know we'll be fine. I'm counting on you, Leader![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5072 0 0}Wait![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}This reading...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}You're getting closer to a strong presence! Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5098 0 0}Hmm... the atmosphere on this floor seems different...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}And so do the Shadows. Be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5076 0 0}Wait a moment, please...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It looks like there aren't many floors left on this path.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I couldn't tell you what might be waiting for us at the end, so don't let your guard down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}Looks like this is the end of the line.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Just what was that thing we've seen so many times along the way, I wonder...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5072 0 0}Oh, sorry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Everyone is heading over. In the meantime, take a look around and see if you can find anything useful nearby.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5020 0 0}I'll try scanning ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I can sense strong enemies below. They're still far away, but please be careful.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5072 0 0}Wait, wait! I'm getting another strange reading...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Is it that dark figure?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Somehow it feels like it's right in front of you, yet far away at the same time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5056 0 0}I'm sorry. I can't pinpoint this other presence's location.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I'm going to try looking into this. Please concentrate on exploring for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="134" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}{f 3 1 3 0 -1 5139 0 0}How are you doing, Aigis? It seems like you've gotten used to being the leader.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}In fact, everyone seems more assured now. That's nice for me because I can relax and focus on navigating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Let's both keep our wits about us, and we'll make it through this. Sound good?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5003 0 0}You're getting closer to a strong presence...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's not much farther now. Be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="MSG_025_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5028 0 0}That thing I detected when you got to this floor...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Ah, never mind, my apologies. I'm not detecting any particularly strong enemies at the moment.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}But the Shadows roaming around this floor seem to be stronger than the ones you've faced before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Be careful, Aigis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="145" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5003 0 0}A little farther down, the path seems to end again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}You're almost there... You can do this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="146" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="147" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}{f 3 1 3 0 -1 5143 0 0}Looks like we've reached the end of this section. Well done![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Everyone is heading over. Take a look around before they get there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="MSG_033_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 3 1 3 0 -1 5020 0 0}Let me scan ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 4 25 6}...!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}They're still a ways away, but I can sense strong enemies below.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Stay alert—we're not through this yet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="151" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5006 0 0}You're getting closer to the strong presence! Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="152" name="MSG_037_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="153" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="154" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="155" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}The atmosphere on this floor is different...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It's still far off, but I can sense a strong enemy somewhere on the lower floors.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Wait! This reading I'm getting...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's that same strange presence! Probably that mysterious figure again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}I'm trying to locate it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5121 0 0}No good. I can't lock on to it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I'll try again and see if I can pinpoint it. Please be careful down there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="156" name="MSG_041_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="157" name="MSG_042_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="158" name="MSG_043_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5006 0 0}You're getting closer and closer to that strong enemy presence.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's not much farther now. Be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="159" name="MSG_044_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="160" name="MSG_045_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="161" name="MSG_046_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="162" name="MSG_047_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}The dark figure...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Aigis, my apologies—I need a moment. Is that all right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'm going to try and locate that... whatever-it-is![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="163" name="MSG_048_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="164" name="MSG_049_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5056 0 0}Sorry... I lost track of that thing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Looks like this section of floors ends a little ways down, and that's where I lost track of it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Let's just keep heading down for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="165" name="MSG_050_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="166" name="MSG_051_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="167" name="MSG_052_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}Here we are, the final floor...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}All right, everyone's on their way. Take a look around the area first.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="168" name="MSG_053_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5020 0 0}Let me scan the lower floors.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}This section seems to go on and on... I can't tell how deep it goes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}I'm sensing strong enemies below, too, though they're still far away.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Please be sure to pace yourselves along the way.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="169" name="MSG_054_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="170" name="MSG_055_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="171" name="MSG_056_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="172" name="MSG_057_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5006 0 0}You're getting closer to a strong presence! Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="173" name="MSG_058_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="174" name="MSG_059_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="175" name="MSG_060_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="176" name="MSG_061_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="177" name="MSG_062_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="178" name="MSG_063_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}It looks like you still have a long way to go...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Um, Aigis? If you feel like it's too dangerous, please don't push yourself... Come back to the lounge.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="179" name="MSG_064_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="180" name="MSG_065_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="181" name="MSG_066_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5089 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Oh, I, uh... Sorry. I was just looking at you and thought... Well...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I thought back on the previous leader.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5084 0 0}Ah, I'm getting carried away... I'm supposed to be here for support, and that probably doesn't sound very supportive...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}Especially with all of you down there, doing the best you can.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5053 0 0}I'm sorry, Aigis. I'll try to do better for you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="182" name="MSG_067_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="183" name="MSG_068_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="184" name="MSG_069_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5076 0 0}I'm sensing a strong presence![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's coming from three floors below you. Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="185" name="MSG_070_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="186" name="MSG_071_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="187" name="MSG_072_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="188" name="MSG_073_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}{f 3 1 3 0 -1 5125 0 0}I've got a read on that weird thing![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}It's— Hang on...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}It's moving down to the lower floors![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}At this rate, if it keeps running, we may lose it! Please hurry and catch it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="189" name="MSG_074_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="190" name="MSG_075_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5076 0 0}You've almost caught up to whatever gave me the unidentified reading![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}Keep going, and be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="191" name="MSG_076_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="192" name="MSG_077_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5098 0 0}Huh...? We're at the bottom, but that thing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}I swear it was here just a second ago.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5056 0 0}I'm sorry. I lost track of that thing... Again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Everyone is headed your way. Have a look around before they get there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="193" name="MSG_078_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}Are we going to see another past memory here...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}I wonder... That dark figure that keeps popping up and these memories we see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}Do they really have something to do with us being trapped in this place?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5128 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I guess the only choice we have is to believe what Metis says.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Worrying about it certainly won't help us. We just have to keep moving to find out the truth![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="194" name="MSG_079_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="195" name="MSG_080_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="196" name="MSG_081_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}{f 3 1 3 0 -1 5100 0 0}Hold on![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}I'm sensing a strong presence![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's four floors below your present location. Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="197" name="MSG_082_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="198" name="MSG_083_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="199" name="MSG_084_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="200" name="MSG_085_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="201" name="MSG_086_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}The atmosphere is different here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}Why, though? You know, the lower we go, the more nervous I get...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}It's still far away, but I am sensing a strong presence below us.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Okay, let's focus and move on![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="202" name="MSG_087_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="203" name="MSG_088_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="204" name="MSG_089_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="205" name="MSG_090_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5006 0 0}You're getting closer to a strong enemy presence...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}It's not far away now. Stay on your toes![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="206" name="MSG_091_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="207" name="MSG_092_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="208" name="MSG_093_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="209" name="MSG_094_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="210" name="MSG_095_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5003 0 0}Metis says she doesn't know what that dark figure is, but is that really true?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I know we have to take her word for it, but I'm still uneasy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5072 0 0}...Ah![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I'm sorry. I lost track of it again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Maybe you can find clues further ahead. Please do what you can to track it down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="211" name="MSG_096_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="212" name="MSG_097_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="213" name="MSG_098_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="214" name="MSG_099_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5074 0 0}Were you able to figure out where the thing went?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Apologies, but I haven't been able to zero in on its location either...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Oh, but I have new information on the layout ahead. The floors end not too far from where you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="215" name="MSG_100_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="216" name="MSG_101_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="217" name="MSG_102_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}We've reached the bottom.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}And we still don't know anything about that mysterious figure. I told myself it would be different this time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Well anyway, everyone is headed towards you. Take a look around and see what you can find.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="218" name="MSG_103_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}Let me scan ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 3 0 -1 5072 0 0}They're still far away, but I can sense some fairly strong enemies below![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}And that figure... I can't sense it at all now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}You've still got a long ways to go. Please pace yourselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="219" name="MSG_104_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="220" name="MSG_105_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="221" name="MSG_106_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="222" name="MSG_107_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5073 0 0}Wait![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'm picking up a reading of a powerful Shadow. Let me see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}Okay... You're getting close to it now. How are you doing? Is everyone's health looking okay?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}If you're feeling vulnerable, please don't push yourself... Come back if you don't think you can make it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="223" name="MSG_108_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="224" name="MSG_109_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="225" name="MSG_110_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="226" name="MSG_111_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}Hang on...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 50 0 0}Hmm, maybe it was just static interference...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}Sorry... It's hard to see ahead with so many Shadows in the way...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}One thing I can tell is that the Shadows prowling around this floor seem to be stronger than the ones you've faced before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Please be careful, Aigis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="227" name="MSG_112_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="228" name="MSG_113_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="229" name="MSG_114_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 3 1 3 0 -1 5069 0 0}Hold on, Aigis...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 4 25 6}...!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}I'm picking up a reading on a very strong Shadow![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}And it's... Hang on...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}Hm...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}I can't say exactly where it is since there are so many Shadows lurking around...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Please keep moving forward.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="230" name="MSG_115_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="231" name="MSG_116_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="232" name="MSG_117_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="233" name="MSG_118_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="234" name="MSG_119_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="235" name="MSG_120_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5069 0 0}That dark figure...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}Is it waiting for us? Does it have some kind of... plan?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="236" name="MSG_121_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="237" name="MSG_122_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="238" name="MSG_123_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}When we chase after that mysterious figure, we always find a door.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}And through those doors, we see memories from our pasts.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}Given all that, the figure must be...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="239" name="MSG_124_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="240" name="MSG_125_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="241" name="MSG_126_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="242" name="MSG_127_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}{f 3 1 3 0 -1 5143 0 0}Looks like we're at the bottom. Well done![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Everyone is headed your way. Try taking a look around first.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="243" name="MSG_128_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 31 52 50 0 0}I'm scanning ahead...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}{f 3 1 0 0 0 0 0 0}{f 4 25 6}...!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}It's the figure! I'm getting a reading on it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Go ahead, Aigis. But please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="244" name="MSG_129_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="245" name="MSG_130_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="246" name="MSG_131_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="247" name="MSG_132_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}{f 3 1 3 0 -1 5006 0 0}You're getting closer and closer to the presence I sensed earlier.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}You're close now... Be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="248" name="MSG_133_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="249" name="MSG_134_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="250" name="MSG_135_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="251" name="MSG_136_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="252" name="MSG_137_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5069 0 0}That figure...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}No. It can't be...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}It just... can't be...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="253" name="MSG_138_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="254" name="MSG_139_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="255" name="MSG_140_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="256" name="MSG_141_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5076 0 0}That figure is up ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}It's like it's waiting for us...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5089 0 0}I have a terrible feeling about this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}You still have a little farther to go, so please keep your guard up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="257" name="MSG_142_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="258" name="MSG_143_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="259" name="MSG_144_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="260" name="MSG_145_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="261" name="MSG_146_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="262" name="MSG_147_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5110 0 0}Metis said the reason for all this happening has something to do with us...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}And that dark figure up ahead, it—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 3 1 3 0 -1 5128 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}A-Anyway, we'll learn what's really going on soon enough.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Just keep going![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="263" name="MSG_148_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="264" name="MSG_149_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="265" name="MSG_150_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="266" name="MSG_151_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5062 0 0}It's so odd...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Everything will be revealed soon... But the closer we get, the more nervous I am.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}I feel like this won't end so easily.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 52 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5035 0 0}Sorry... I shouldn't be saying this when we're almost there.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Besides, even if something does happen, I think we'll be okay.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Thank you for all your hard work, Aigis. You've become an amazing leader.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Just a little farther... You can do it! I know you can![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="267" name="MSG_152_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="268" name="MSG_153_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="269" name="MSG_154_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="270" name="MSG_155_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="271" name="MSG_156_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="272" name="MSG_157_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="273" name="MSG_158_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="274" name="MSG_159_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 50 0 0}Incoming enemy Shadow![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="275" name="MSG_160_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 52 50 0 0}I'll support you! We'll get through this together![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="276" name="MSG_161_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 50 0 0}You can do it! I know you can![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="277" name="MSG_MONAD_TUTO_FIRST" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5061 0 0}Could you hold on a moment, Aigis?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}I'm picking up readings that one of those doors we found in Tartarus is here on this floor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}It's not quite the exact same reading, but... would you mind looking out for it while you're investigating the area?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

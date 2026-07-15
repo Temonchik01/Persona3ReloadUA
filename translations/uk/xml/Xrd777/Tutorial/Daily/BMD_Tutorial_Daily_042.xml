@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Daily_042.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Daily\BMD_Tutorial_Daily_042.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 6F 77 6E 20 4D 61 70">Town Map</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Use the town map to navigate your surroundings and move from one location to another.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 420}Visit as many spots in town as you can, and they'll be added to the map.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

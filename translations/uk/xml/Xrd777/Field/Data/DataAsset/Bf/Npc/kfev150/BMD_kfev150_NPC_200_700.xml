@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_kfev150_NPC_200_700.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev150\BMD_kfev150_NPC_200_700.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 61 63 75 6C 74 79 20 4D 65 6D 62 65 72">Викладач</Speaker>
+    <Speaker id="1" rawBytes="53 63 68 6F 6F 6C 20 53 74 6F 72 65 20 56 65 6E 64 6F 72">Продавчиня</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15021 0 0}{f 5 21 1 200}Гм. Сучасні діти не знають, як проявляти повагу до старших.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 1 200}Ми їхні вчителі. Ми живемо довше за них.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 1 200}Але Моріямі та її друзям вдалося надивачити це на самому початку семестру...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22505 0 0}{f 5 21 1 100}...Вибачте, що перериваю, але мені потрібно повернутися до управління магазином.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15019 0 0}{f 5 21 1 200}Навіть ТИ мене проганяєш? Такий собі спосіб розпочати навчальний рік...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 1 200}Не думаю, що мої нерви це витримають.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22507 0 0}{f 5 21 1 100}Гаразд, гаразд.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 100}Ти хочеш, щоб я замовила ще тих хлібців з начинкою, які ти так любиш, так?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 100}Міг просто попросити...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

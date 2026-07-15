@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldShortCut.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\ExploreNPC\BMD_FldShortCut.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_YESNO_STAIRS" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_YESNO_RETDEV" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Повернутися]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_MONAD_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти у Монаду]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}.{f 0 5 65278}{f 2 1}Перейти до найвіддаленішої точки]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}.{f 0 5 65278}{f 2 1}Не зараз]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MND_SHORTCUT_STAIR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Піднятися на наступний поверх?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_SHORTCUT_RETDEV" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Повернутися до входу?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_SHORTCUT_MONADO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Дослідити Монаду?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_YES_NO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Продовжити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_UPSTAIR_MITU_BATTLE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Деякі учасники перебувають у бою. Ви хочете продовжити без них?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_UPSTAIR_MITU_MEMBER_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}... Зрозуміло. Тоді продовжуйте, а ми зустрінемося з ними пізніше.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_UPSTAIR_FUKA_BATTLE_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Деякі члени нашої команди все ще воюють. Чи зможете ви продовжити без них?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_UPSTAIR_FUKA_MEMBER_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}...Гаразд, зрозуміло. Тоді продовжимо![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ми зустрінемося з усіма, хто залишився, пізніше.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_UPSTAIR_MITU_NPC_INF" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4101 0 0}Здається, на цьому поверсі є людина. Ти підеш без нього?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_UPSTAIR_MITU_NPC_IGN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4093 0 0}Гаразд, пішли.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_UPSTAIR_FUKA_NPC_INF" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5092 0 0}Хтось все ще на цьому поверсі! Ти впевнений, що хочеш йти далі?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_UPSTAIR_FUKA_NPC_IGN" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5028 0 0}...Гаразд, продовжимо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_TUTO_Shift01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}Зачекайте. Попереду можуть бути більш небезпечні вороги.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Ідіть вперед з іншими. З вами має бути принаймні ще одна людина.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_TUTO_StrongEnemy01_M" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 3 1 3 0 -1 4098 0 0}Щось не так з поверхом попереду![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Я відчуваю щось більш потужне... як відчутну силу волі. Будьте напоготові.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_TUTO_StrongEnemy01_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5073 0 0}Поверх попереду відрізняється від інших![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Що б там не було, воно могутніше за все, що було раніше. Будьте обережні.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="DESC_FLOOR21_NG_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4032 0 0}Зачекайте... Гаразд, шлях попереду безпечний.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}...І мені цікаво, що на наступному поверсі. Будь ласка, продовжуйте далі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="DESC_FLOOR21_NG_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Будь ласка, зачекайте секунду... Гаразд, тут, здається, безпечно.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я хотів би знати, що на наступному поверсі. Ви не проти, якщо ми продовжимо?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

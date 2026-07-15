@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_110_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_110_050_C\BMD_Event_Cmmu_110_050_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 69 6B 6F">Маїко</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Я... Я не знаю, що робити...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}М... Мій тато... він...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Вааааааааааа![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені варто посидіти з нею, поки вона не заспокоїться...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Тато... він... він... ударив мене![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Він такий грубий! Це так нечесно![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це жахливо.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чому він так вчинив?]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 13 13 15 110}Так! Ти зі мною згоден?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 110 3 25 25}Він грубий! Грубий дурник![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Я нічого поганого не зробила...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Маіко пригнічена...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Я тільки запитала, чому вони розлучаються...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Вони розсердилися на мене і сказали не лізти не в свою справу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 110 0 25 25}Я продовжила питати, але тато накричав на мене і... потім ударив...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}І мама сказала, що я сама винна, бо лізла в це![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Я не знаю, чи вони ще люблять мене...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Вони просто хочуть, щоб я зникла?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не може бути.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Ось тому вони такі злі на мене весь час... Вони мене ненавидять.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 5 13 13 5 110}Не може?.. Але тоді чому вони такі?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}А що, як я втечу?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Я хочу знати, як вони по-справжньому ставляться до мене...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 110 2 25 25}Якщо вони справді люблять мене, вони шукатимуть, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 0 0 0 20 0 0}{f 4 23 0 110 0 25 25}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Це буде наша таємниця! Не кажу їм про мій план.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 110 0 25 25}Хоча я знаю, що ти не скажеш![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Маіко дуже довіряє мені.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стаємо ближчими...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Я маю йти... Ще пограємо якось![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Маіко[n]й повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
