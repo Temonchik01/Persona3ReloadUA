@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_210_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_210_050_C\BMD_Event_Main_210_050_C.uasset" dialogs="42">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
-    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
     <Speaker id="2" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E4 BC 8A E7 B9 94 20 E9 A0 86 E5 B9 B3">（ＳＥ）伊織 順平</Speaker>
     <Speaker id="3" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E5 B2 B3 E7 BE BD 20 E3 82 86 E3 81 8B E3 82 8A">（ＳＥ）岳羽 ゆかり</Speaker>
   </Speakers>
@@ -120,7 +120,7 @@
   <Dialog id="31" name="SEL_031_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}We'll get it done.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's end this.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What a pain.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Яка морока.]]></Option>
   </Dialog>
   <Dialog id="32" name="MSG_032_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 45 0 0}Yeah. Let's send 'em packin'.[n]{f 1 1}]]></Page>
