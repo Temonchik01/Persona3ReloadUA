@@ -4,18 +4,18 @@
     <Speaker id="0" rawBytes="43 68 61 6E 67 69 6E 67 20 50 65 72 73 6F 6E 61 73">Changing Personas</Speaker>
   </Speakers>
   <Dialog id="0" name="TRL_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}If you have multiple Personas in your possession, you can use {f 0 1 2}Change Persona{f 0 1 27} to swap out your equipped Persona with another in your stock.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Якщо у вас є декілька Персон, ви можете скористатися командою {f 0 1 2}«Змінити Персону»{f 0 1 27}, щоб замінити свою поточну Персону на іншу з вашого запасу.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="TRL_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Changing Personas will also change your stats, affinities, and usable skills based on the Persona you switch to.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Зміна Персони також змінить ваші характеристики, спорідненості та доступні вміння відповідно до обраної Персони.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="TRL_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 5}During battle, open the Persona submenu to view skills, then press {f 1 3 114} or {f 1 3 117} to change Personas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 5}Під час бою відкрийте підменю «Персона», щоб переглянути вміння, а потім натисніть {f 1 3 114} або {f 1 3 117}, щоб змінити Персони.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="TRL_002_1_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can also change your equipped Persona outside of battle by pressing {f 1 3 112} to open the menu, then navigating to the Persona submenu.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Ви також можете змінити свою Персону поза боєм, натиснувши {f 1 3 112}, щоб відкрити меню, а потім перейшовши до підменю Персона.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="TRL_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can change Personas at any time, but in battle, you can only do so {f 0 1 2}before taking action that turn{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Ви можете змінювати Персони будь-коли, але в бою це можна зробити тільки {f 0 1 2}перед виконанням дії в ході{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
