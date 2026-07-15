@@ -106,7 +106,7 @@
   </Dialog>
   <Dialog id="30" name="SEL_024_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}You didn't call him Joe.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No, you didn't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, не підхопив.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}He thought I was your boyfriend.]]></Option>
   </Dialog>
   <Dialog id="31" name="MSG_025_0_0" type="Message">
@@ -120,7 +120,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}Now I get it.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MSG_026_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}I see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}Я зрозуміла...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 0 25 25}I wonder why... hearing you reassure me that way is... well...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 4 23 0 7 1 25 25}{f 5 13 22 15 7}...It makes me happy.[n]{f 1 1}]]></Page>
   </Dialog>
@@ -160,7 +160,7 @@
   </Dialog>
   <Dialog id="43" name="MND_030_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Aigis seems to be deep in thought...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems we've grown closer...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається ми зблизилися один з одним...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_031_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 66 0 0}In all honesty, though...[n]{f 1 1}]]></Page>
@@ -189,6 +189,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 75 0 0}Shall we go home, then?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MND_034_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We decided to go back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми вирішили повернутися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
