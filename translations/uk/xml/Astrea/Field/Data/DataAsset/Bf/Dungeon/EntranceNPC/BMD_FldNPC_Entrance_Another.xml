@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldNPC_Entrance_Another.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Another.uasset" dialogs="15">
   <Speakers>
-    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
-    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Шюджі Ікуцукі</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_IKUTSUKI_0707" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}{f 3 1 3 0 -1 14210 0 0}Don't worry, I know you can do it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}Just be careful. Well, you better be off.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}{f 3 1 3 0 -1 14210 0 0}Не хвилюйся, я знаю, ти зможеш це зробити.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}Просто будь обережним. Ну, вам краще піти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_IKUTSUKI_1103" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}{f 3 1 3 0 -1 14227 0 0}The day I've been waiting for has finally come.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}I'll leave the rest to you all. A new future is upon us...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}{f 3 1 3 0 -1 14227 0 0}День, на який я чекав, нарешті настав.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}Решту я залишу вам усім. На нас чекає нове майбутнє...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_TALK" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Add to your party]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Remove from your party]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Додати до групи]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прибрати з групи]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Забудь]]></Option>
   </Dialog>
   <Dialog id="3" name="SEL_BACK_UP_00" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Check progress]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити прогрес]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Забудь]]></Option>
   </Dialog>
   <Dialog id="4" name="SEL_PARTY" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аїґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпей]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Санада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Амада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Араґакі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Коромару]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
   </Dialog>
   <Dialog id="5" name="SEL_DOOR" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не входити]]></Option>
   </Dialog>
   <Dialog id="6" name="SEL_BACK_UP_01" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
   </Dialog>
   <Dialog id="7" name="SEL_BACK_UP_02" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ask about the target]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Запитати про ціль]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
   </Dialog>
   <Dialog id="8" name="SEL_BACK_UP_03" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Head to Club Escapade]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
   </Dialog>
   <Dialog id="9" name="SEL_BACK_UP_04" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Head toward the station]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до станції]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
   </Dialog>
   <Dialog id="10" name="SEL_BACK_UP_05" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Commence operation]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Почати операцію]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_1103_MITURU_01" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 70 0 0}Well then, we're off.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 70 0 0}Ну що ж, ми пішли.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_1103_IKUTSUKI_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}All right. Be careful.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 70 0 0}Гаразд. Будьте обережні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_1103_MITURU_02" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 70 0 0}Let's go![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 70 0 0}Ходімо![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_LEADER_NEARLY_DEAD" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He seems to be unconscious.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, він непритомний.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
