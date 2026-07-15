@@ -5,13 +5,13 @@
     <Speaker id="1" rawBytes="46 61 6E 20 66 72 6F 6D 20 45 61 72 6C 69 65 72">Fan from Earlier</Speaker>
     <Speaker id="2" rawBytes="4D 61 6E 20 53 68 6F 77 69 6E 67 20 4F 66 66">Man Showing Off</Speaker>
     <Speaker id="3" rawBytes="53 63 61 72 65 64 20 46 61 6E">Scared Fan</Speaker>
-    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
     <Speaker id="5" rawBytes="54 6F 75 67 68 20 47 75 79">Tough Guy</Speaker>
     <Speaker id="6" rawBytes="4C 61 63 6B 65 79">Lackey</Speaker>
     <Speaker id="7" rawBytes="56 6F 69 63 65 20 66 72 6F 6D 20 50 6F 6C 69 63 65 20 43 61 72">Voice from Police Car</Speaker>
     <Speaker id="8" rawBytes="59 6F 75 6E 67 20 4F 66 66 69 63 65 72">Young Officer</Speaker>
     <Speaker id="9" rawBytes="4D 69 64 64 6C 65 2D 41 67 65 64 20 4F 66 66 69 63 65 72">Middle-Aged Officer</Speaker>
-    <Speaker id="10" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Officer Kurosawa</Speaker>
+    <Speaker id="10" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Офіцер Куросава</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1011}...Hey, don't be like that. I know a place that'd be perfect for us, girl.[n]{f 1 1}]]></Page>
@@ -39,7 +39,7 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Leave them alone. You don't want the police to get involved, do you?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_007_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1011}Huh? Who the hell're you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1011}Га? А ти ще звідки взявся?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_008_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1012}What, you wanna call the cops? Quit tryin' to act like a big man, you little punk.[n]{f 1 1}]]></Page>
@@ -142,7 +142,7 @@
     <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 5 21 0 1086}I know it won't be easy, but try and keep an eye on him, would you?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="SEL_037_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave it to me.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залиш це мені.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure I can.]]></Option>
   </Dialog>
   <Dialog id="41" name="MSG_038_0_0" type="Message">
@@ -173,8 +173,8 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 56 0 0}I'm gonna do some jogging on the way back. You wanna join?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="SEL_045_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure...]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, дякую.]]></Option>
   </Dialog>
   <Dialog id="49" name="MSG_046_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 57 0 0}Good answer. It's dark, so watch out for cars.[n]{f 1 1}]]></Page>
