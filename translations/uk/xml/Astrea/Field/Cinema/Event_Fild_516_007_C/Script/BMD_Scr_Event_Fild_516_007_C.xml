@@ -2,51 +2,51 @@
 <BMD source="BMD_Scr_Event_Fild_516_007_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Cinema\Event_Fild_516_007_C\Script\BMD_Scr_Event_Fild_516_007_C.uasset" dialogs="26">
   <Speakers>
     <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
-    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
-    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
-    <Speaker id="4" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="5" rawBytes="41 69 67 69 73">Aigis</Speaker>
-    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
-    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
-    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джунпей Іорі</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="4" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
     <Speaker id="9" rawBytes="4D 65 74 69 73">Metis</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}It's a strong enemy! Please watch your health![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Це сильний ворог! Будь ласка, бережіть своє життя![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_0_1" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}We can't let our guard down against this enemy! I'll do everything I can to support you![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Ми не можемо втрачати пильність перед цим ворогом! Я зроблю все, що в моїх силах, щоб підтримати вас![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_000_0_2" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Enemy incoming! Be cautious of what they do![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}Ворог наближається! Будьте обережні з тим, що вони роблять![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}We have no data on this opponent...! Don't let your guard down![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}Ми не маємо даних про цього ворога!.. Не втрачайте пильності![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_MONAD_BTL_YUKARI_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}No matter what shows up, I'll do this![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}Що б не з'явилося, я зроблю це![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_MONAD_BTL_YUKARI_1" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 8 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}All right, come and get me![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 8 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}Гаразд, підійди і схопи мене![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_MONAD_BTL_JUNPEI_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}Alright! Make sure you watch me in action![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}Гаразд! Переконайся, що ти бачиш мене в дії![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_MONAD_BTL_JUNPEI_1" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2117 0 0}Well, then... Time to do this![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_MONAD_BTL_SANADA_0" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 9 -1 -1 0 0}{f 3 1 3 0 -1 3116 0 0}Looks like this'll be interesting. Let's go![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 9 -1 -1 0 0}{f 3 1 3 0 -1 3116 0 0}Здається, це буде цікаво. Ходімо![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_MONAD_BTL_SANADA_1" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 3 0 -1 3116 0 0}I can't afford to lose. Now, come get me![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 3 0 -1 3116 0 0}Я не можу дозволити собі програти. А тепер, дістаньте мене![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_MONAD_BTL_MITSURU_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4117 0 0}There will always be an opening to strike. Let's take it down![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4117 0 0}Завжди буде можливість завдати удару. Давайте знищимо його![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_MONAD_BTL_MITSURU_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 8 -1 -1 0 0}{f 3 1 3 0 -1 4117 0 0}Get ready! Incoming![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 8 -1 -1 0 0}{f 3 1 3 0 -1 4117 0 0}Приготуватися! Наближається![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_MONAD_BTL_FUKA_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Unused[n]{f 1 1}]]></Page>
@@ -55,28 +55,28 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Unused[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_MONAD_BTL_AEGIS_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}The enemy is within range. Commencing battle.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Ворог в межах досяжності. Починаємо бій.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_MONAD_BTL_AEGIS_1" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}A powerful reading, as expected...! I'm going all out![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Потужний показник, як і очікувалося!.. Я викладуся на повну![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_MONAD_BTL_AMADA_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 8 -1 -1 0 0}{f 3 1 3 0 -1 7118 0 0}It looks strong... We can do this![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 8 -1 -1 0 0}{f 3 1 3 0 -1 7118 0 0}Виглядає сильним... Ми зможемо це зробити![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_MONAD_BTL_AMADA_1" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 8 -1 -1 0 0}{f 3 1 3 0 -1 7118 0 0}All right, I'll take you on![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 8 -1 -1 0 0}{f 3 1 3 0 -1 7118 0 0}Гаразд, я з тобою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_MONAD_BTL_KOROMARU_0" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 3 0 -1 8002 0 0}Grr... Arf![n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 3 0 -1 8002 0 0}Гр-р... Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_MONAD_BTL_KOROMARU_1" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 3 0 -1 8002 0 0}Grrrrr...[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 3 0 -1 8002 0 0}Гр-р-р-р-р...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_MONAD_BTL_ARAGAKI_0" type="Message">
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 -1 0 0}{f 3 1 3 0 -1 9109 0 0}Well... Time to do this. Hope you're ready.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_MONAD_BTL_ARAGAKI_1" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 -1 0 0}{f 3 1 3 0 -1 9109 0 0}Talk about a pain... Don't let your guard down.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 -1 0 0}{f 3 1 3 0 -1 9109 0 0}Поговоримо про біль... Не втрачай пильності.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_MONAD_BTL_METIS_0" type="Message">
     <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 2 52 -1 0 0}{f 3 1 3 0 -1 30111 0 0}No matter who I'm up against, I'll always protect my sister![n]{f 1 1}]]></Page>
@@ -85,9 +85,9 @@
     <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 2 52 -1 0 0}{f 3 1 3 0 -1 30111 0 0}Just try it! I'll take you down![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_MONAD_BTL_AEGIS_2" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6117 0 0}This seems like a tough target. Be careful, everyone![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6117 0 0}Здається, це важка мішень. Будьте обережні![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_MONAD_BTL_AEGIS_3" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6118 0 0}Let's work together on this. I'll give this my all as well![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6118 0 0}Давайте працювати разом над цим. Я теж зроблю все, що в моїх силах![n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
