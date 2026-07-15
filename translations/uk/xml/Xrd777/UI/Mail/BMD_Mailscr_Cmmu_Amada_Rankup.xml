@@ -2,11 +2,11 @@
 <BMD source="BMD_Mailscr_Cmmu_Amada_Rankup.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\Mail\BMD_Mailscr_Cmmu_Amada_Rankup.uasset" dialogs="6">
   <Dialog id="0" name="MND_000_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like Amada wants to hang out...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I meet up with him?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи зустрітися мені з ним?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Meet with Amada]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Let's head to where Amada is.[n]{f 1 1}]]></Page>
