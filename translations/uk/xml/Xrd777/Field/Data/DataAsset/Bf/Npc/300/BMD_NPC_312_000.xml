@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_312_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_312_000.uasset" dialogs="28">
   <Speakers>
-    <Speaker id="0" rawBytes="53 74 79 6C 69 73 68 20 53 74 75 64 65 6E 74">Stylish Student</Speaker>
+    <Speaker id="0" rawBytes="53 74 79 6C 69 73 68 20 53 74 75 64 65 6E 74">Стильна учениця</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 312}My parents always nag me to, like, study for exams and stuff. They're so annoying![n]{f 1 1}]]></Page>
@@ -22,7 +22,7 @@
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}What are you buying?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I see.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зрозумів.]]></Option>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 312}I need new clothes. The summer fashions are almost here.[n]{f 1 1}]]></Page>
