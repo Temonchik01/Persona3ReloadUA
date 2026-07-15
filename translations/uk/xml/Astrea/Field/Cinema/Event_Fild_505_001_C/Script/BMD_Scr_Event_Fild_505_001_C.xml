@@ -9,8 +9,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}That was our first encounter with a tough enemy... Do you think we'll be able to progress at our current strength?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}We'll be fine.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}З нами все буде гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Невпевнений...]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}{f 3 1 3 0 -1 5116 0 0}It's reassuring to see you so confident.[n]{f 1 1}]]></Page>
@@ -26,8 +26,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}Now that we've secured a supply route, we should be clear to proceed so long as we stay cautious.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_006_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's head back.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's keep going.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ходімо назад.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Йдемо далі.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 50 0 0}{f 3 1 3 0 -1 5116 0 0}All right. No good will come of pushing ourselves too hard, I suppose. Let's resume once we're ready.[n]{f 1 1}]]></Page>
@@ -69,7 +69,7 @@
   <Dialog id="17" name="SEL_017_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}It's an enemy.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}It might be an ally.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не впевнений.]]></Option>
   </Dialog>
   <Dialog id="18" name="MSG_018_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}{f 3 1 3 0 -1 5028 0 0}That'd be the logical conclusion... But what is it after?[n]{f 1 1}]]></Page>
@@ -126,9 +126,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}Well, now that we've taken down the enemy, what should we do next? Keep going?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="SEL_033_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's keep exploring.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Давайте продовжимо досліджувати.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's head back for a bit.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Невпевнений...]]></Option>
   </Dialog>
   <Dialog id="34" name="MSG_034_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 50 0 0}{f 3 1 3 0 -1 5025 0 0}All right then! No objections here.[n]{f 1 1}]]></Page>
@@ -165,7 +165,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 50 0 0}Well, I haven't made much progress on that front... Sorry, Aigis.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="SEL_043_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't worry about it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не переймайся.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's a shame...]]></Option>
   </Dialog>
   <Dialog id="44" name="MSG_044_0_0" type="Message">
@@ -208,7 +208,7 @@
   </Dialog>
   <Dialog id="54" name="SEL_054_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, I do.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No, I don't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'll worry about that later.]]></Option>
   </Dialog>
   <Dialog id="55" name="MSG_055_0_0" type="Message">
