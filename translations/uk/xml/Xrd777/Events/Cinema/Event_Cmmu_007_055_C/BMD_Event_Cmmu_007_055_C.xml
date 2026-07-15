@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_007_055_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_055_C\BMD_Event_Cmmu_007_055_C.uasset" dialogs="23">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 69 2D 63 68 61 6E 27 73 20 4F 77 6E 65 72">Mii-chan's Owner</Speaker>
-    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="0" rawBytes="4D 69 69 2D 63 68 61 6E 27 73 20 4F 77 6E 65 72">Господарка Міі</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1701}Аввв, моя хороша... Здається ти трішки схудла за цей час.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1701}Ця крихітка— єдина, хто може скасти мені компанію...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1701}Ця крихітка— єдина, хто може скласти мені компанію...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_3_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1701}Мені так було самотньо, коли Міі-чян зникла... Не знаю, як мені вам віддячити.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1701}Мені так було самотньо, коли Міі зникла... Не знаю, як мені вам віддячити.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_001_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Самотньо...[n]{f 1 1}]]></Page>
@@ -25,7 +25,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Пані...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1701}Ну що, Міі-чян, пішли-но додомцю?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1701}Ну що, Міі, пішли-но додомцю?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_004_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 1701}Гречно дякую вам обом.[n]{f 1 1}]]></Page>
@@ -34,9 +34,9 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Здається, жити це не заняття для одного.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_006_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти може маєш рацію.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You might be right.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки немаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не знаю.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_007_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 22 15 7}Так.[n]{f 1 1}]]></Page>
@@ -49,7 +49,7 @@
   </Dialog>
   <Dialog id="11" name="MSG_008_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 5 13 22 5 7}Чи не так?[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 7 0 25 25}Все що я знаю про життя від вас, пане ...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 7 0 25 25}Все що я знаю про життя від вас, пане {f 4 2}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_008_3_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Це дуже тяжка справа.[n]{f 1 1}]]></Page>
@@ -68,7 +68,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Проте, Я розумію одну річ.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_010_1_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Я почуваюсь щасливою, коли я разом з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Я почуваюсь щасливою, коли я разом з вами, пане {f 4 2}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аїґіс сором'язливо посміхається...[n]{f 1 1}]]></Page>
