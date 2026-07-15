@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldHit_AbyssOfTime_GateKeeper.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_AbyssOfTime_GateKeeper.uasset" dialogs="5">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_YESNO" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm ready.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я готовий.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's hold off.]]></Option>
   </Dialog>
   <Dialog id="1" name="MSG_TARTAROS_BTL_MITSURU" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4116 0 0}It's enemy territory up ahead. Are you ready for battle?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4116 0 0}Попереду ворожа територія. Ти готовий до бою?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_TARTAROS_BTL_FUKA_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}The enemy is strong. Please make sure you're ready before fighting![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Ворог сильний. Будь ласка, переконайся, що ти готовий до бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_TARTAROS_BTL_MITSURU" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4001 0 0}Are you ready?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4001 0 0}Попереду ворожа територія. Ти готовий до бою?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_TARTAROS_BTL_FUKA_5" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Are you fully prepared?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Ти у повній готовності?[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
