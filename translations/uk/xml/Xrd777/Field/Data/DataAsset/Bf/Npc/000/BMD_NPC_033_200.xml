@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_033_200.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_033_200.uasset" dialogs="177">
   <Speakers>
-    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="2" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
-    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджо</Speaker>
-    <Speaker id="4" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="6" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="2" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="4" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="6" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7068 0 0}Oh, hello, {f 4 1}-san.[n]{f 1 1}]]></Page>
@@ -33,7 +33,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}What do you guys do so late at night?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вчитися.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Study.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Goof off.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Adult activities.]]></Option>
   </Dialog>
@@ -262,7 +262,7 @@
   </Dialog>
   <Dialog id="59" name="SEL_056_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, they are.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}They're pure torture.]]></Option>
   </Dialog>
   <Dialog id="60" name="MSG_057_0_0" type="Message">
@@ -298,7 +298,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Am I being helpful?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="68" name="SEL_069_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I guess so.]]></Option>
   </Dialog>
   <Dialog id="69" name="MSG_070_0_0" type="Message">
@@ -371,7 +371,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}What's going to happen to us...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="84" name="MSG_089_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Гав! Гав![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="85" name="MSG_090_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Haha, are you telling me not to worry, Koromaru? You're such a brave dog.[n]{f 1 1}]]></Page>
@@ -519,7 +519,7 @@
   </Dialog>
   <Dialog id="121" name="SEL_134_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Good.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Добре.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Okay.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Pretty bad.]]></Option>
   </Dialog>
   <Dialog id="122" name="MSG_135_0_0" type="Message">
@@ -543,9 +543,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Are you spending Christmas with someone special, {f 4 1}-san?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="127" name="SEL_141_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це секрет.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's a secret.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
   </Dialog>
   <Dialog id="128" name="MSG_142_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7108 0 0}Wow... You sound like an adult...[n]{f 1 1}]]></Page>
@@ -554,7 +554,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 3 0 -1 7123 0 0}Oh, come on... Now I'm really curious.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="130" name="MSG_143_0_1" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7080 0 0}А, зрозуміло...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7080 0 0}Oh, I see...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Well, it's not too late for you to find someone... That feels kinda wrong though.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="131" name="MSG_144_0_0" type="Message">
@@ -632,9 +632,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}They're so insensitive... Do they think that they can just write whatever they want as long as it sells?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="148" name="SEL_161_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's capitalism.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не знаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
   </Dialog>
   <Dialog id="149" name="MSG_162_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7026 0 0}I guess... Maybe some of them have a sense of ethics.[n]{f 1 1}]]></Page>
@@ -705,14 +705,14 @@
   </Dialog>
   <Dialog id="166" name="SEL_180_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}You're right.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
   </Dialog>
   <Dialog id="167" name="MSG_181_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7082 0 0}I haven't really thought about my future because I'm so young...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}But I think this is as good an opportunity as any for me to start...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="168" name="MSG_182_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7095 0 0}А, зрозуміло...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7095 0 0}Oh, I see...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Well, I guess the future's different for everyone... It's a little beyond me right now though.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="169" name="MSG_183_0_0" type="Message">
@@ -721,8 +721,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}I wonder if that day will really come.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="170" name="SEL_184_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не знаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
   </Dialog>
   <Dialog id="171" name="MSG_185_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7040 0 0}Thank you. Sorry, I was just a little scared...[n]{f 1 1}]]></Page>
@@ -740,7 +740,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}I'm taking Koromaru for a walk while I can since I don't think there'll be time tonight.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="175" name="MSG_0131_1_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="176" name="MSG_187_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}{f 3 1 3 0 -1 7117 0 0}We have to put an end to the Dark Hour... for my mother, Aragaki-san, and myself.[n]{f 1 1}]]></Page>

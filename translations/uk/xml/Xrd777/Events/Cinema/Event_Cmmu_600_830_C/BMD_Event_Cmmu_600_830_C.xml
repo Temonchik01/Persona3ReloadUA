@@ -2,8 +2,8 @@
 <BMD source="BMD_Event_Cmmu_600_830_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_830_C\BMD_Event_Cmmu_600_830_C.uasset" dialogs="25">
   <Speakers>
     <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
-    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="2" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="2" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}I have detected a gaze upon us for an estimated seven minutes now.[n]{f 1 1}]]></Page>
@@ -12,7 +12,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 2 4 25 25}Oh, sorry... I just wanted to watch. Was I bothering you?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не переймайся.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't worry about it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}This isn't a show.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I can stare too...]]></Option>
   </Dialog>

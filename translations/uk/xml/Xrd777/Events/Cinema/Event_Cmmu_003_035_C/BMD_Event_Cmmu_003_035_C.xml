@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_003_035_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_003_035_C\BMD_Event_Cmmu_003_035_C.uasset" dialogs="11">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Why do you have these flowers?[n]{f 1 1}]]></Page>
@@ -20,7 +20,7 @@
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Well, I don't hate you.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ну, не зовсім.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No, not exactly.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}You're acting like a baby.]]></Option>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">

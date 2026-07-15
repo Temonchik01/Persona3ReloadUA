@@ -4,8 +4,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like Mitsuru isn't in the lounge...[n]Should I go look for her?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти за нею]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Go look for her]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Let's head to where Mitsuru is.[n]{f 1 1}]]></Page>

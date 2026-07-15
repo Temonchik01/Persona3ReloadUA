@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_002_200_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_002_200_C\BMD_Event_Cmmu_002_200_C.uasset" dialogs="35">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="1" rawBytes="43 68 69 6C 64">Дитина</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="1" rawBytes="43 68 69 6C 64">Child</Speaker>
     <Speaker id="2" rawBytes="43 68 69 6C 64 27 73 20 4D 6F 74 68 65 72">Child's Mother</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
@@ -29,7 +29,7 @@
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's a relief.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Що таке?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's wrong?]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_008_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 13 7 5 2}Yeah. Kinda looked like he was lost again, so I was worried for a second there...[n]{f 1 1}]]></Page>
@@ -54,7 +54,7 @@
   </Dialog>
   <Dialog id="14" name="SEL_013_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'll go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Удачі.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Good luck.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}What's the magic word?]]></Option>
   </Dialog>
   <Dialog id="15" name="MSG_014_0_0" type="Message">
@@ -76,23 +76,23 @@
   </Dialog>
   <Dialog id="19" name="MSG_017_3_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}I guess it'll all balance out if you start relying on me more, too.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Принаймні мені так здається.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}At least, that's what I think.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_018_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Точно... Я хотіла тобі дещо віддати.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Oh, right... I wanted to give you something.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}That's actually why I wanted to hang out today.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MND_019_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: *Unused message labels.  *If this appears, it is a bug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_020_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Ти знаєш, що це, так? Це прикраса для мого телефону.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Я отримала її під час церемонії відкриття Місячного мосту.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}You know what it is, right? It's the strap from my cell phone.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}I got it at the opening ceremony for the Moonlight Bridge.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_020_3_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}It's been my special keepsake for many years...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Мій тато купив її мені.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Я говорила з брелоком, що висів на ній, коли залишалася в кімнати наодинці.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Because my dad bought it for me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}I used to talk to the little charm attached to it when I was alone in my room.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_020_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Haha... You must think I'm nuts, huh?[n]{f 1 1}]]></Page>
@@ -116,7 +116,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can feel the tight bond[n]between me and Yukari...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="SYS_026_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Соціальний зв'язок «Закохані» досяг максимального рівня! Тепер ви можете створити {f 0 1 35}Кібелу{f 0 1 27} — мати землі![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Lovers Social Link reached its maximum level! You can now fuse {f 0 1 35}Cybele{f 0 1 27}, the earth mother![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_027_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}Oh, right, so as we were saying... It'd be nice to go someplace a little further from home.[n]{f 1 1}]]></Page>

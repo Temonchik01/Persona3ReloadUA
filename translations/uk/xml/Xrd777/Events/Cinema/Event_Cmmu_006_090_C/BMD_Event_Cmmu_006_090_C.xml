@@ -64,11 +64,11 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 1 0}{f 3 1 1 0 0 28 0 0}...I-I hope you understood what I meant just now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_012_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут краще підбирати слова обережно...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I better choose my words carefully here...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут краще підбирати слова обережно...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, {f 0 1 2}у мене вже є{f 0 1 27}[n]{f 0 1 2} особливі стосунки з іншою людиною{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I better choose my words carefully here...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, {f 0 1 2}I have a special{f 0 1 27}[n]{f 0 1 2}relationship with another person already{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_011_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 1 0}{f 3 1 0 0 0 29 0 0}......[n]{f 1 1}]]></Page>
@@ -95,7 +95,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}...Sorry, I don't know what to say.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_019_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 1 0}{f 3 1 1 0 0 37 0 0}Ну...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 1 0}{f 3 1 1 0 0 37 0 0}Um...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 1 0}{f 3 1 0 0 0 38 0 0}......[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 1 0}{f 3 1 1 0 0 39 0 0}{f 4 23 0 6 1 25 25}...I love you.[n]{f 1 1}]]></Page>
   </Dialog>
@@ -135,7 +135,7 @@
   </Dialog>
   <Dialog id="32" name="MND_027_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can sense Fuuka's determination.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається ми зблизилися один з одним...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems we've grown closer...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_028_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 52 0 0}So, if it's all right with you, {f 4 1}-kun...[n]{f 1 1}]]></Page>
@@ -144,7 +144,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 55 0 0}{f 4 23 0 6 1 25 25}But... I think it'd be fun to cook with friends.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="SEL_029_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not confident.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}What are you gonna make?]]></Option>
   </Dialog>

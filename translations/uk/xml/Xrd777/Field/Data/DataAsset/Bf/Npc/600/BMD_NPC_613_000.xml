@@ -8,9 +8,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 613}Oh, wait... Are you going out with someone?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Секрет.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I am.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nope.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's a secret.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 613}Aww... Bummer.[n]{f 1 1}]]></Page>

@@ -4,9 +4,9 @@
     <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_DOOR_FORWARD" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти у Монаду]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}.{f 0 5 65278}{f 2 1}Перейти до найвіддаленішої точки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}.{f 0 5 65278}{f 2 1}Не зараз]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter Monad]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Jump to our furthest point]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not right now]]></Option>
   </Dialog>
   <Dialog id="1" name="MND_CARD_SINGLE" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1} реагує...[n]{f 1 1}]]></Page>
@@ -84,7 +84,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Схоже, тут більше нічого немає. Хочеш повернутися назад?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_RETURN_00" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти з Монади]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave Monad]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Stay longer]]></Option>
   </Dialog>
   <Dialog id="22" name="MSG_RETURN_FUKA_10" type="Message">
@@ -103,7 +103,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Елізабет чекає за цим місцем.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="SEL_BTL_START" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вступити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Get ready first]]></Option>
   </Dialog>
   <Dialog id="27" name="MND_NOT_OPEN_20" type="Message">

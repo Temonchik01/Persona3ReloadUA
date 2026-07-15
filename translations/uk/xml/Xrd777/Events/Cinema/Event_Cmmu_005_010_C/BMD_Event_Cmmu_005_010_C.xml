@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_005_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_005_010_C\BMD_Event_Cmmu_005_010_C.uasset" dialogs="36">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="1" rawBytes="52 61 6D 65 6E 20 53 68 6F 70 20 4F 77 6E 65 72">Власник раменної</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="52 61 6D 65 6E 20 53 68 6F 70 20 4F 77 6E 65 72">Ramen Shop Owner</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}So, {f 4 1}, um...[n]{f 1 1}]]></Page>
@@ -95,7 +95,7 @@
   </Dialog>
   <Dialog id="27" name="SEL_016_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Very.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not at all.]]></Option>
   </Dialog>
   <Dialog id="28" name="MSG_017_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}I see...[n]{f 1 1}]]></Page>
@@ -118,13 +118,13 @@
   </Dialog>
   <Dialog id="33" name="MND_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I saw an unexpected side of Mitsuru.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MSG_021_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Oh, I didn't notice the time.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}We should be going.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми вирішили повернутися до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We decided to go back to the dorm.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

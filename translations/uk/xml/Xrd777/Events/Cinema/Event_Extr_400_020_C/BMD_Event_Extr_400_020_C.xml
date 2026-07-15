@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Extr_400_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_400_020_C\BMD_Event_Extr_400_020_C.uasset" dialogs="16">
   <Speakers>
-    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Шюджі Ікуцукі</Speaker>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Thanks for being so patient. That just about concludes your checkup.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Sorry yours ended up taking so much longer than everyone else's.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Настав час.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's about time.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's all right.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
@@ -30,7 +30,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}How are you feeling about it? Do you have any concerns about your power?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_006_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зовсім ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}None at all.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}You could say that.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">

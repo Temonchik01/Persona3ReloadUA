@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_160_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_160_010_C\BMD_Event_Main_160_010_C.uasset" dialogs="17">
   <Speakers>
-    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Фарос</Speaker>
+    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Pharos</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Hi, how are you doing?[n]{f 1 1}]]></Page>
@@ -17,7 +17,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}But isn't it strange, that there are those who would wish to bring about the end?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}No one wants that.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Who cares?]]></Option>
   </Dialog>
@@ -46,7 +46,7 @@
   <Dialog id="10" name="SEL_008_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}But I don't grow flowers.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Thanks for the warning.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не розумію.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't understand.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Really? From where I'm standing, it seems like you're surrounded by colorful flowers.[n]{f 1 1}]]></Page>

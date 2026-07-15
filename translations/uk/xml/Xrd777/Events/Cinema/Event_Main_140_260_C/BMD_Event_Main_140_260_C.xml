@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_140_260_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_260_C\BMD_Event_Main_140_260_C.uasset" dialogs="50">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
     <Speaker id="1" rawBytes="47 69 72 6C 20 69 6E 20 47 72 65 65 6E">Girl in Green</Speaker>
     <Speaker id="2" rawBytes="47 69 72 6C 20 69 6E 20 4F 72 61 6E 67 65">Girl in Orange</Speaker>
-    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 1 0 0}Ooh! Target sighted![n]{f 1 1}]]></Page>
@@ -71,7 +71,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 22 0 0}{f 5 21 0 1002}You guys seem a little young. Are you still in high school?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's right.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Nope. Not us.]]></Option>
   </Dialog>
   <Dialog id="21" name="MSG_015_0_0" type="Message">
@@ -105,7 +105,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 34 0 0}{f 5 21 0 1002}...So, what do you guys want, anyway?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="SEL_023_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нічого особливого.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nothing.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}We came to hit on you.]]></Option>
   </Dialog>
   <Dialog id="31" name="MSG_024_0_0" type="Message">
@@ -128,7 +128,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 41 0 0}{f 5 21 0 1001}Yeah, let's get outta here.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="SEL_030_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Wait...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}See you later.]]></Option>
   </Dialog>
   <Dialog id="38" name="MSG_031_0_0" type="Message">

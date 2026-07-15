@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Extr_410_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_410_030_C\BMD_Event_Extr_410_030_C.uasset" dialogs="42">
   <Speakers>
-    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Шюджі Ікуцукі</Speaker>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
     <Speaker id="1" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E4 BC 8A E7 B9 94 20 E9 A0 86 E5 B9 B3">（ＳＥ）伊織 順平</Speaker>
     <Speaker id="2" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E5 B2 B3 E7 BE BD 20 E3 82 86 E3 81 8B E3 82 8A">（ＳＥ）岳羽 ゆかり</Speaker>
     <Speaker id="3" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E7 9C 9F E7 94 B0 20 E6 98 8E E5 BD A6">（ＳＥ）真田 明彦</Speaker>
     <Speaker id="4" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E6 A1 90 E6 9D A1 20 E7 BE 8E E9 B6 B4">（ＳＥ）桐条 美鶴</Speaker>
     <Speaker id="5" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E5 B1 B1 E5 B2 B8 20 E9 A2 A8 E8 8A B1">（ＳＥ）山岸 風花</Speaker>
-    <Speaker id="6" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="7" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="8" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="9" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="10" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджо</Speaker>
+    <Speaker id="6" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="7" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="8" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="9" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="10" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Sorry for calling you all again so soon, but I brought something special today.[n]{f 1 1}]]></Page>
@@ -68,7 +68,7 @@
   </Dialog>
   <Dialog id="15" name="SEL_013_5_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}You're asking a lot.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Is it dangerous?]]></Option>
   </Dialog>
   <Dialog id="16" name="MSG_013_3_0" type="Message">
@@ -124,7 +124,7 @@
     <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 42 0 0}How does that sound, {f 4 1}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="SEL_022_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не заперечую.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't mind.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Looking forward to this.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Sounds like a pain.]]></Option>
   </Dialog>

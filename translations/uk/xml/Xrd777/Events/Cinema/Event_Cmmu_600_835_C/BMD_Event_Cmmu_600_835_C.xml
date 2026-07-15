@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_600_835_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_835_C\BMD_Event_Cmmu_600_835_C.uasset" dialogs="24">
   <Speakers>
-    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="1" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="1" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Sorry to bother you like this... I just had a hard time focusing when I tried doing my homework alone...[n]{f 1 1}]]></Page>
@@ -21,8 +21,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}It must be tough for you guys having to think about tests at a time like this.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Трошки...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe a little...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Gets me fired up even more.]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">

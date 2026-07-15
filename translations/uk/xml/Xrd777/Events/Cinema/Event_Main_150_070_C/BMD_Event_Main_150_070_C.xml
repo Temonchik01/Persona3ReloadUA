@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_150_070_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_150_070_C\BMD_Event_Main_150_070_C.uasset" dialogs="8">
   <Speakers>
-    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Фарос</Speaker>
+    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Pharos</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Добрий вечір.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Good evening.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Things are really starting to liven up around here.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 1 25 25}So, how are you getting along with everyone?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Непогано.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not bad.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Who cares about them?]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">

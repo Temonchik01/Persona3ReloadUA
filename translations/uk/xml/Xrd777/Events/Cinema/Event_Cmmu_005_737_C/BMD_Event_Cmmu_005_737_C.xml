@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_005_737_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_005_737_C\BMD_Event_Cmmu_005_737_C.uasset" dialogs="9">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 1 0 0}It feels nice, being able to pour tea for someone else like this...[n]{f 1 1}]]></Page>
@@ -10,7 +10,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 5 0 25 25}How about you, then? Are you having a good time?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_010_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a bit tense.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'd like a refill...]]></Option>
   </Dialog>

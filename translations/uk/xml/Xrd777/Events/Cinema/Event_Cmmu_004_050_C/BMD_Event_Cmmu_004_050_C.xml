@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_004_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_004_050_C\BMD_Event_Cmmu_004_050_C.uasset" dialogs="47">
   <Speakers>
-    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="1" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Офіцер Куросава</Speaker>
+    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="1" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Officer Kurosawa</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}All right, I think it's finally time for me to pay you back for everything.[n]{f 1 1}]]></Page>
@@ -32,7 +32,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 5 21 0 10}I don't know what he's up to, but I'm hoping you might have an idea.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки не маю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not a clue.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}He feels guilty.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}He looks up to you.]]></Option>
   </Dialog>
@@ -80,7 +80,7 @@
   </Dialog>
   <Dialog id="19" name="SEL_018_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}You're dropping it?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Слава Богу...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Thank goodness...]]></Option>
   </Dialog>
   <Dialog id="20" name="MSG_019_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 5 21 0 10}...I have no idea why the two of you would look so relieved to hear this.[n]{f 1 1}]]></Page>

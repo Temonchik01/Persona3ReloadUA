@@ -3,11 +3,11 @@
   <Speakers>
     <Speaker id="0" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Female Student's Voice</Speaker>
     <Speaker id="1" rawBytes="56 6F 69 63 65 20 6F 6E 20 74 68 65 20 54 56">Voice on the TV</Speaker>
-    <Speaker id="2" rawBytes="4D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Голос учня</Speaker>
-    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджо</Speaker>
+    <Speaker id="2" rawBytes="4D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Male Student's Voice</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_AfterSchool_General" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Заняття на сьогодні завершено.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Class has ended for today.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_AfterSchool_Test_End" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've finished today's exams.[n]{f 1 1}]]></Page>
@@ -47,7 +47,7 @@
   </Dialog>
   <Dialog id="10" name="MND_INFO_0514" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the teacher in the nurse's[n]office gives out strange medicine.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, я колись це перевірю...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should check it out sometime...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_Call_GoToHOME_0420" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems that something important[n]will be happening at the dorm...[n]{f 1 1}]]></Page>

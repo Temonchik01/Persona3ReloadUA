@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Extr_410_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_410_020_C\BMD_Event_Extr_410_020_C.uasset" dialogs="20">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 27 73 20 56 6F 69 63 65">Голос Юкарі</Speaker>
-    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 27 73 20 56 6F 69 63 65">Yukari's Voice</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Yamagishi-san, are you in there?[n]{f 1 1}]]></Page>
@@ -51,7 +51,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 1 -1 0 0}{f 3 1 1 0 0 19 0 0}That's not true at all.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_012_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 20 0 0}Га?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 20 0 0}Huh?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_013_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 1 -1 0 0}{f 3 1 1 0 0 21 0 0}I was told that a Persona is the power of the soul, also known as your other self.[n]{f 1 1}]]></Page>

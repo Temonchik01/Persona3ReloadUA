@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_003_740_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_003_740_C\BMD_Event_Cmmu_003_740_C.uasset" dialogs="22">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Heh, my thumb's gettin' a little greener every day, don't ya think?[n]{f 1 1}]]></Page>
@@ -35,7 +35,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}I never follow through on anything, and even I pulled it off! That counts for somethin', right?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти справді подорослішав.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You've really grown up.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Hope you learned your lesson.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_008_0_0" type="Message">

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_010_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_010_050_C\BMD_Event_Cmmu_010_050_C.uasset" dialogs="19">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}Oh, it's you.[n]{f 1 1}]]></Page>
@@ -15,7 +15,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 4 25 25}Did you find this?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}It was in his desk.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
@@ -48,7 +48,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 0 25 25}Let's just keep this between us for now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="SEL_011_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Хороша ідея.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Good idea.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That sounds like a pain.]]></Option>
   </Dialog>
   <Dialog id="12" name="MSG_012_0_0" type="Message">
