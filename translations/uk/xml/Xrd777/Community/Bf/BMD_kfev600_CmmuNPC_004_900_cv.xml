@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_kfev600_CmmuNPC_004_900_cv.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Community\Bf\BMD_kfev600_CmmuNPC_004_900_cv.uasset" dialogs="12">
   <Speakers>
-    <Speaker id="0" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Hidetoshi Odagiri</Speaker>
+    <Speaker id="0" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Хідетоші Одаґірі</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Oh, it's you, {f 4 1}-kun.[n]{f 1 1}]]></Page>
@@ -19,8 +19,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}This may sound odd, but do you think this country is headed in the right direction?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think so.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I doubt it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Думаю, так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Сумніваюся.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}I see. Well, I feel differently.[n]{f 1 1}]]></Page>
@@ -47,7 +47,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 27 0 0}...You're not going to laugh and tell me I'm dreaming?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe a little.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Трошки.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I won't do that.]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_008_0_0" type="Message">
