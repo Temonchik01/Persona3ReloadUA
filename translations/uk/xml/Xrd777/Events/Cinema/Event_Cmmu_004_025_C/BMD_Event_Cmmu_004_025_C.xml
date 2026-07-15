@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_004_025_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_004_025_C\BMD_Event_Cmmu_004_025_C.uasset" dialogs="56">
   <Speakers>
-    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
     <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69 20 28 53 45 29">Fuuka Yamagishi (SE)</Speaker>
     <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69 20 28 53 45 29">Junpei Iori (SE)</Speaker>
     <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F 20 28 53 45 29">Mitsuru Kirijo (SE)</Speaker>
@@ -9,10 +9,10 @@
     <Speaker id="5" rawBytes="28 53 45 29 20 4B 65 6E 20 41 6D 61 64 61">(SE) Ken Amada</Speaker>
     <Speaker id="6" rawBytes="41 69 67 69 73 20 28 53 45 29">Aigis (SE)</Speaker>
     <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75 20 28 53 45 29">Koromaru (SE)</Speaker>
-    <Speaker id="8" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
-    <Speaker id="9" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="10" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="11" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="8" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="9" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="10" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джунпей Іорі</Speaker>
+    <Speaker id="11" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
     <Speaker id="12" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61 20 28 53 45 29">Akihiko Sanada (SE)</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
@@ -130,12 +130,12 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}I've really gotta show my gratitude. To my parents, and to everyone here.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_027_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}Well...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}Ну-у...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}All this talk about my parents reminded me of some things from the past, like why I'm here right now.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}I guess I feel like I remember my reason for fighting.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="SEL_028_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't really get it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не дуже розумію.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Glad to hear it.]]></Option>
   </Dialog>
   <Dialog id="35" name="MSG_029_0_0" type="Message">
@@ -147,7 +147,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 4 0 25 25}I remembered after you suggested we share with everyone.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="SEL_031_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}You're exaggerating.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти перебільшуєш.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it again sometime.]]></Option>
   </Dialog>
   <Dialog id="38" name="MSG_032_0_0" type="Message">
