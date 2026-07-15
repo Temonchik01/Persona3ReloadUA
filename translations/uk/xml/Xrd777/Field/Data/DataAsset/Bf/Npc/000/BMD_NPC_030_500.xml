@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_030_500.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_030_500.uasset" dialogs="65">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_Temperance" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Right now, the Temperance Arcana[n]may help me grow even more...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Looks like there's only educational manga here. Man, I wish they had some shonen stuff...[n]{f 1 1}]]></Page>
@@ -33,8 +33,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}C'mon, let's read it.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll pass.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я пас.]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2079 0 0}Hey, guess what! I just borrowed some more of that manga from last time.[n]{f 1 1}]]></Page>
@@ -55,8 +55,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}You wanna read some more of it?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll pass.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я пас.]]></Option>
   </Dialog>
   <Dialog id="14" name="MSG_008_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2002 0 0}Yo! I got the rest of that manga![n]{f 1 1}]]></Page>
@@ -76,8 +76,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}You up for it? If you want, I can bring 'em out now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_011_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll pass.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я пас.]]></Option>
   </Dialog>
   <Dialog id="19" name="MSG_012_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2009 0 0}It's pretty relaxing just reading manga here, y'know?[n]{f 1 1}]]></Page>
@@ -99,8 +99,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}You wanna get in on some of this manga action?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="SEL_015_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll pass.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я пас.]]></Option>
   </Dialog>
   <Dialog id="25" name="MSG_016_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2132 0 0}Aw yeah! That's what I like to hear![n]{f 1 1}]]></Page>
@@ -141,8 +141,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Wanna head up?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="SEL_022_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="37" name="MSG_023_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Hey, uh... You think we should check on those planters up there?[n]{f 1 1}]]></Page>
@@ -160,7 +160,7 @@
   </Dialog>
   <Dialog id="41" name="SEL_026_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I can help.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="42" name="MSG_027_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Hey, wanna head to the roof and work on those planters?[n]{f 1 1}]]></Page>
@@ -175,8 +175,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}So how 'bout it? You're free, right?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="SEL_030_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, поїхали.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="46" name="MSG_031_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}Hey, if you're gonna do some gardening, I'll come too.[n]{f 1 1}]]></Page>
@@ -194,8 +194,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}C'mon, let's build up a sweat and release some indoor fins. Or, wait... What're they called?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="SEL_034_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, поїхали.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="51" name="MSG_035_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2117 0 0}Sweet! Let's get to it.[n]{f 1 1}]]></Page>
@@ -220,34 +220,34 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}C'mon, it might be fun![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="SEL_SEED_CHOOSE" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 0}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 1}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 2}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 3}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 4}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 5}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 6}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 7}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 0}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 1}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 2}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 3}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 4}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 5}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 6}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 7}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
   <Dialog id="59" name="MND_SEED_THINK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I plant...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що посадити...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MND_SEED_DAY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like it can be harvested on {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати з {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="SEL_PLANT_CHOOSE" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Plant it]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Don't plant it]]></Option>
   </Dialog>
   <Dialog id="62" name="MND_NO_PLANT_DORMITORY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, I don't think I've planted[n]anything in the rooftop planters yet...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, то, здається, я ще[n]нічого не садив у кашпо...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="63" name="MND_PLANT_CAN_NOT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I won't be able to harvest it[n]before the Promised Day, January 31st...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що я не зможу зібрати його[n]до Обіцяного дня, 31 січня...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="64" name="MND_PLANT_OK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There should still be produce in the rooftop[n]planter that has yet to be harvested.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should harvest those first...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще має[n]бути урожай, який потрібно зібрати.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я маю зібрати його першим...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
