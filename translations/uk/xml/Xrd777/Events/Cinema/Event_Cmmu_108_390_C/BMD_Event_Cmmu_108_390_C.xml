@@ -16,7 +16,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}Even if your life is predestined, I think you should give it your all while on that path.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}You have a point.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У цьому є сенс.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's just giving up.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Sounds like an excuse.]]></Option>
   </Dialog>
@@ -27,7 +27,7 @@
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga seems very happy.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we became a lot closer today.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стали значно ближчими сьогодні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 3 0 -1 11252 0 0}I know it's not a philosophy that everyone will agree with, but... Don't get the wrong idea.[n]{f 1 1}]]></Page>
@@ -36,7 +36,7 @@
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga has fallen silent.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we didn't get any closer today...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми не стали ближчими сьогодні...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_008_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 3 0 -1 11226 0 0}{f 5 13 11 15 108}Hm... Maybe. But think about it. When you come to a crossroads, you have to make a decision.[n]{f 1 1}]]></Page>
@@ -45,13 +45,13 @@
   </Dialog>
   <Dialog id="9" name="MND_009_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga is smiling bashfully.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I learned a little more about him today.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я дізнався про нього трохи більше сьогодні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 3 0 -1 11251 0 0}Well, I have to continue my preparations. I think I'll check for some books on the way back.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}Oh, if you need help with your studies, feel free to ask. I can teach you my studying techniques.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The two of us talked for a while longer[n]before I headed back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми ще трохи поговорили,[n]а потім я повернувся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
