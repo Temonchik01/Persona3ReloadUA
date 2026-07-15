@@ -32,8 +32,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Aigis to the film festival?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_006_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Invite to the movies]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't invite]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Запросити в кіно]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не запрошувати]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6024 0 0}The... movies?[n]{f 1 1}]]></Page>
@@ -54,6 +54,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Aigis seems serious...[n]I should leave her be.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_Temperance" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Right now, the Temperance Arcana[n]may help me grow even more...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
