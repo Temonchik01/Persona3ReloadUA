@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_005_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_005_080_C\BMD_Event_Cmmu_005_080_C.uasset" dialogs="112">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="1" rawBytes="4D 61 6E 27 73 20 56 6F 69 63 65">Man's Voice</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="4D 61 6E 27 73 20 56 6F 69 63 65">Чоловічий голос</Speaker>
     <Speaker id="2" rawBytes="57 65 6C 6C 2D 44 72 65 73 73 65 64 20 4D 61 6E">Well-Dressed Man</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
@@ -26,8 +26,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Somewhere far away, where no one knows who you are?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}...I see. So you feel that way too sometimes.[n]{f 1 1}]]></Page>
@@ -63,7 +63,7 @@
   </Dialog>
   <Dialog id="16" name="MND_009_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru seems to trust me.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}While we're on the topic, there's something I'd like to ask you...[n]{f 1 1}]]></Page>
@@ -77,7 +77,7 @@
   </Dialog>
   <Dialog id="20" name="MND_012_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru seems to trust me.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_013_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}While we're on the topic, there's something I'd like to ask you...[n]{f 1 1}]]></Page>
@@ -181,7 +181,7 @@
   </Dialog>
   <Dialog id="50" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 -1 0 0}{f 3 1 0 0 0 62 0 0}{f 5 13 4 15 5}...![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 63 0 0}{f 4 23 0 1 0 25 25}Thank you, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 63 0 0}{f 4 23 0 1 0 25 25}Дякую, {f 4 1}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MSG_031_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 64 0 0}{f 5 21 0 2}Who the hell are you!?[n]{f 1 1}]]></Page>
@@ -313,7 +313,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 117 0 0}But... when he mentioned my father, and you... I couldn't help myself.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="87" name="SEL_055_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't sweat it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не переймайся.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}You were awesome.]]></Option>
   </Dialog>
   <Dialog id="88" name="MSG_056_0_0" type="Message">
@@ -392,7 +392,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 148 0 0}{f 5 21 0 2}Grandpa! Grandpa![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="109" name="MSG_069_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 -1 0 0}{f 3 1 1 0 0 149 0 0}Ah...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 -1 0 0}{f 3 1 1 0 0 149 0 0}А...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="110" name="MSG_069_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 -1 1 0}{f 3 1 1 0 0 150 0 0}I-I...[n]{f 1 1}]]></Page>
