@@ -4,23 +4,23 @@
     <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_WIN_COMMON_FUKA_10" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}There might be a treasure chest up ahead, but I sense an enemy presence there, too.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If you're worn out from battling, don't push yourself too hard. Take some time to recuperate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}Попереду може бути скриня зі скарбами, але я відчуваю присутність ворога і там.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Якщо ти втомився від битви, не перенапружуйся. Відпочинь трохи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_WIN_COMMON_FUKA_11" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}It looks as though you've defeated all of the Shadows in this area.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}All we have to do now is open that treasure chest. Let's do it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Схоже, ти переміг усіх тіней у цій місцевості.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Залишилося лише відкрити скриню зі скарбами. Давай зробимо це![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_WIN_RETURN" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Return to the Desert of Doors]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Continue]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Продовжити]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_WIN_RETURN_FUKA_00" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Understood.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please be careful. It's easy to get lost here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Зрозуміло.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, будь обережним. Тут легко загубитися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_WIN_RETURN_FUKA_10" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Understood. I'll continue to provide support.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If it gets dangerous, don't hesitate to retreat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Зрозуміло. Я продовжу надавати підтримку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Якщо стане небезпечно, без вагань відступайте.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
