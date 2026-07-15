@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldSupport_DungeonTalk_Special.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Dungeon\SupportTalk\BMD_FldSupport_DungeonTalk_Special.uasset" dialogs="796">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
-    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
-    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="4" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
-    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
-    <Speaker id="6" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджо</Speaker>
+    <Speaker id="4" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="6" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
     <Speaker id="7" rawBytes="4D 65 74 69 73">Metis</Speaker>
   </Speakers>
   <Dialog id="0" name="AST_DNG_LIMITED_102_0_00" type="Message">
@@ -96,7 +96,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 33 0 0}Hm... I'm afraid I haven't the faintest idea what you mean. Do you, Koromaru?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="AST_DNG_LIMITED_105_0_10" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 34 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 34 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="AST_DNG_LIMITED_105_0_10" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 35 0 0}Come on, Koromaru. Don't answer like you know what's going on.[n]{f 1 1}]]></Page>
@@ -166,7 +166,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 57 0 0}Hey! I told you to stop running ahead![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="49" name="AST_DNG_LIMITED_109_0_00" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 58 0 0}*pant* *pant*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 58 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="AST_DNG_LIMITED_109_0_10" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 59 0 0}Huh... I'm just thinking, we won't have many more chances to go on walks anymore.[n]{f 1 1}]]></Page>
@@ -264,7 +264,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 95 0 0}Well, I'll make sure you don't regret it. Let's do it, Aigis-san![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="79" name="AST_DNG_LIMITED_215_0_00" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 96 0 0}*pant* *pant*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 96 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="80" name="AST_DNG_LIMITED_215_0_10" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 97 0 0}It's easy to tell when Koro-chan is happy. He must like being paired with you.[n]{f 1 1}]]></Page>
@@ -330,7 +330,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 119 0 0}I comprehend.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="100" name="AST_DNG_LIMITED_306_0_00" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 120 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 120 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="101" name="AST_DNG_LIMITED_306_0_10" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 121 0 0}You don't have to show me how it's done. I already know how to fight.[n]{f 1 1}]]></Page>
@@ -392,13 +392,13 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 141 0 0}"Once we get out of here"...? Ha... Yes, I'm sure you'll find your way out.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="120" name="AST_DNG_LIMITED_312_0_00" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 142 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 142 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="121" name="AST_DNG_LIMITED_312_0_10" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 143 0 0}Yeah, I know.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="122" name="AST_DNG_LIMITED_312_0_10" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 144 0 0}Woof![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 144 0 0}Grrr...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="123" name="AST_DNG_LIMITED_312_0_10" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 145 0 0}Hehe, of course you would say that.[n]{f 1 1}]]></Page>
@@ -455,7 +455,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1010 0 0}It feels like we've been apart for a long time, doesn't it?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="136" name="AST_DNG_LIMITED_416_0_10" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1011 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1011 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="137" name="AST_DNG_LIMITED_416_0_10" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1012 0 0}Hehe... I think we can all agree on that.[n]{f 1 1}]]></Page>
@@ -661,7 +661,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 877 0 0}Koro-chan seems so happy. Maybe he's glad to be with everyone again.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="195" name="AST_DNG_REGULAR_017_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 878 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 878 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="196" name="AST_DNG_REGULAR_018_03_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 278 0 0}So not only are we stuck in time, we're also, like, going back...? What's that all about?[n]{f 1 1}]]></Page>
@@ -698,7 +698,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 691 0 0}Something like that in a place where time doesn't flow normally... What's it mean?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="205" name="AST_DNG_REGULAR_020_06_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 692 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 692 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="206" name="AST_DNG_REGULAR_020_06_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 693 0 0}Oh, I'm sorry, Koro-chan. I didn't mean to worry you.[n]{f 1 1}]]></Page>
@@ -726,7 +726,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 880 0 0}The Dark Hour was one thing, but what'll happen if we're here for too long...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="213" name="AST_DNG_REGULAR_021_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 881 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 881 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="214" name="AST_DNG_REGULAR_021_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 882 0 0}Oh![n]{f 1 1}]]></Page>
@@ -767,7 +767,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 289 0 0}Don't wanna kill the mood or nothin'.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="225" name="AST_DNG_REGULAR_023_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 884 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 884 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="226" name="AST_DNG_REGULAR_023_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 885 0 0}Koro-chan's staring at Aigis.[n]{f 1 1}]]></Page>
@@ -927,7 +927,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1046 0 0}They say they want to leave this place, but...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="270" name="AST_DNG_REGULAR_033_11_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1047 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1047 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="271" name="AST_DNG_REGULAR_033_11_1" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1048 0 0}Oh, because that makes sense.[n]{f 1 1}]]></Page>
@@ -1066,7 +1066,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 580 0 0}Aigis, let's hurry and progress the expedition. We need to get to the bottom of this, quickly.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="309" name="AST_DNG_REGULAR_042_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 901 0 0}*pant* *pant*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 901 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="310" name="AST_DNG_REGULAR_042_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 902 0 0}I wonder what Koro-chan thinks about not being able to leave this place.[n]{f 1 1}]]></Page>
@@ -1141,7 +1141,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 909 0 0}Koro-chan? Um, I don't think there's anything there...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="331" name="AST_DNG_REGULAR_047_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 910 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 910 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="332" name="AST_DNG_REGULAR_048_03_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 321 0 0}We got so far, but nothing's really changed. Wish something excitin' would happen...[n]{f 1 1}]]></Page>
@@ -1221,7 +1221,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 918 0 0}Maybe he was inspired by what we saw in your past![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="354" name="AST_DNG_REGULAR_052_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 919 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 919 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="355" name="AST_DNG_REGULAR_052_09_1" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 920 0 0}Heh, whatever you say, buddy. If you're fired up, then so am I![n]{f 1 1}]]></Page>
@@ -1239,7 +1239,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 707 0 0}Hehe... That thought reminds me of when Aigis started attending.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="359" name="AST_DNG_REGULAR_053_06_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 708 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 708 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="360" name="AST_DNG_REGULAR_053_06_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 709 0 0}Great idea, Koro-chan! We can go on your usual walk route to get there.[n]{f 1 1}]]></Page>
@@ -1299,7 +1299,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 921 0 0}You've covered a lot of ground. Are you sure none of you are tired?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="377" name="AST_DNG_REGULAR_056_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 922 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 922 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="378" name="AST_DNG_REGULAR_056_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 923 0 0}Hehe... Koro-chan, as ready as ever![n]{f 1 1}]]></Page>
@@ -1339,7 +1339,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 925 0 0}Yeah, I know. You don't have to bark at me like that.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="389" name="AST_DNG_REGULAR_058_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 926 0 0}Woof![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 926 0 0}Grrr...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="390" name="AST_DNG_REGULAR_058_09_1" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 927 0 0}Tch, you just have all the answers, don't you?[n]{f 1 1}]]></Page>
@@ -1363,7 +1363,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 791 0 0}I bet there's still a lot left to go in this place, so let's try to pace ourselves.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="396" name="AST_DNG_REGULAR_060_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 928 0 0}*pant* *pant*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 928 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="397" name="AST_DNG_REGULAR_060_09_1" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 929 0 0}Ha... Koromaru appears quite spirited, as per usual.[n]{f 1 1}]]></Page>
@@ -1432,7 +1432,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 931 0 0}You've traveled so far down... Please keep being careful.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="416" name="AST_DNG_REGULAR_065_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 932 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 932 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="417" name="AST_DNG_REGULAR_066_02_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 211 0 0}Ugh, I'm not even as good in archery anymore? This is the absolute worst.[n]{f 1 1}]]></Page>
@@ -1524,7 +1524,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 935 0 0}Koro-chan's tail is really going... Maybe he's happy to be with everyone.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="443" name="AST_DNG_REGULAR_073_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 936 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 936 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="444" name="AST_DNG_REGULAR_074_02_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 216 0 0}Oh, come on... Still nothing?[n]{f 1 1}]]></Page>
@@ -1584,7 +1584,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 804 0 0}Yeah, I think we all know it, even if we don't always see it.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="460" name="AST_DNG_REGULAR_077_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 937 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 937 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="461" name="AST_DNG_REGULAR_077_09_1" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 938 0 0}Ah, the dog of destiny—my fated friend! What's up, buddy?[n]{f 1 1}]]></Page>
@@ -1652,7 +1652,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 941 0 0}I guess if I'd found Junpei a little earlier, I could've met up with Koromaru, too.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="479" name="AST_DNG_REGULAR_081_04_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 942 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 942 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="480" name="AST_DNG_REGULAR_081_04_1" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 943 0 0}Yeah... We were this close, huh?[n]{f 1 1}]]></Page>
@@ -1686,7 +1686,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 810 0 0}I need to try harder so I can keep up.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="489" name="AST_DNG_REGULAR_083_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 944 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 944 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="490" name="AST_DNG_REGULAR_083_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 945 0 0}Koro-chan, are you hungry? Just hold on for a little longer, okay?[n]{f 1 1}]]></Page>
@@ -1715,7 +1715,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 948 0 0}Hm... It seems he would like someone to scratch his rear.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="498" name="AST_DNG_REGULAR_085_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 949 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 949 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="499" name="AST_DNG_REGULAR_086_02_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 228 0 0}We haven't seen the sky in a while... Which is kind of a strange thought to have.[n]{f 1 1}]]></Page>
@@ -1729,7 +1729,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 721 0 0}Let me know if you ever need help with anything. I'll do whatever I can.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="502" name="AST_DNG_REGULAR_086_06_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 722 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 722 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="503" name="AST_DNG_REGULAR_086_06_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 723 0 0}Hehe... I think Koro-chan wants to help out too.[n]{f 1 1}]]></Page>
@@ -1739,7 +1739,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 614 0 0}I couldn't explain why specifically. It's just a feeling I have...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="505" name="AST_DNG_REGULAR_087_05_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 615 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 615 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="506" name="AST_DNG_REGULAR_087_05_1" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 616 0 0}You too? Well, that is certainly validating.[n]{f 1 1}]]></Page>
@@ -1782,7 +1782,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 618 0 0}She's rather... unique, but we've met many unique people over the past year.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="518" name="AST_DNG_REGULAR_089_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 950 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 950 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="519" name="AST_DNG_REGULAR_089_09_1" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 951 0 0}Koromaru's got so much energy. I guess going on all those walks has paid off.[n]{f 1 1}]]></Page>
@@ -1841,7 +1841,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1097 0 0}I don't comprehend...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="535" name="AST_DNG_REGULAR_093_11_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1098 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1098 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="536" name="AST_DNG_REGULAR_093_11_1" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1099 0 0}Right!? You get me.[n]{f 1 1}]]></Page>
@@ -1954,7 +1954,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 957 0 0}It doesn't look like it's on this floor, though...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="567" name="AST_DNG_REGULAR_100_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 958 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 958 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="568" name="AST_DNG_REGULAR_101_02_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 236 0 0}Well, this'll be the fourth memory now. Wish they'd start making sense sometime soon...[n]{f 1 1}]]></Page>
@@ -1976,7 +1976,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 829 0 0}He sounded angry, but... also sad. Nothing like my mom. So why...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="574" name="AST_DNG_REGULAR_102_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 959 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 959 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="575" name="AST_DNG_REGULAR_102_09_1" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 960 0 0}I don't have anything in my hand, so there's no need to nudge it, Koromaru.[n]{f 1 1}]]></Page>
@@ -1988,7 +1988,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 962 0 0}Oh, are you trying to comfort me? Haha... I'm sorry if I worried you.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="578" name="AST_DNG_REGULAR_102_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 963 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 963 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="579" name="AST_DNG_REGULAR_102_11_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1106 0 0}I'll do whatever I can to help my sister... so I don't get left behind.[n]{f 1 1}]]></Page>
@@ -2057,7 +2057,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 965 0 0}Especially for you, Koro-chan. Let Aigis know whenever you need water, okay?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="597" name="AST_DNG_REGULAR_106_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 966 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 966 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="598" name="AST_DNG_REGULAR_106_11_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1109 0 0}From what we've seen, I predict the next door will be much further ahead.[n]{f 1 1}]]></Page>
@@ -2096,7 +2096,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 968 0 0}Maybe that means something, like... He's confident in his own strength![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="608" name="AST_DNG_REGULAR_108_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 969 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 969 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="609" name="AST_DNG_REGULAR_109_04_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 510 0 0}It's unnerving, being trapped here, but if we view this as a chance to focus on training, it'll all be worthwhile.[n]{f 1 1}]]></Page>
@@ -2127,7 +2127,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 970 0 0}Koro-chan doesn't seem to like it when the scenery is suddenly different.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="618" name="AST_DNG_REGULAR_110_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 971 0 0}Woof...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 971 0 0}Woof woof![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="619" name="AST_DNG_REGULAR_111_03_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 394 0 0}Stay sharp out there, guys! One mistake can cost you everything![n]{f 1 1}]]></Page>
@@ -2239,7 +2239,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 643 0 0}Either way, we'll have to catch it to find out. Let's go, Aigis.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="650" name="AST_DNG_REGULAR_117_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 974 0 0}Grrr...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 974 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="651" name="AST_DNG_REGULAR_117_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 975 0 0}Koro-chan's been on edge ever since he saw that shadowy figure...[n]{f 1 1}]]></Page>
@@ -2275,7 +2275,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 849 0 0}Spears are great in battle, but they can be kinda heavy to carry...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="660" name="AST_DNG_REGULAR_120_11_0" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1119 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1119 0 0}Woof.[n]{f 1 1}]]></Page>
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1120 0 0}I'm fine. Nothing's wrong...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="661" name="AST_DNG_REGULAR_121_02_0" type="Message">
@@ -2335,7 +2335,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 648 0 0}Despite its inconvenience, this situation has provided a valuable experience.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="677" name="AST_DNG_REGULAR_124_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 980 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 980 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="678" name="AST_DNG_REGULAR_124_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 981 0 0}Koro-chan's right behind you all, just like he was last year.[n]{f 1 1}]]></Page>
@@ -2422,7 +2422,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 415 0 0}Hey, what're you tryin' to say!?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="703" name="AST_DNG_REGULAR_129_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 983 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 983 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="704" name="AST_DNG_REGULAR_129_09_1" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 984 0 0}What is it, Koromaru? Did you find some Shadows?[n]{f 1 1}]]></Page>
@@ -2434,7 +2434,7 @@
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 986 0 0}Oh, is that what it is? Well... Maybe later. We should stay focused for now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="707" name="AST_DNG_REGULAR_129_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 987 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 987 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="708" name="AST_DNG_REGULAR_129_11_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1128 0 0}What to say, what to say...?[n]{f 1 1}]]></Page>
@@ -2455,7 +2455,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 550 0 0}Oh, a classic Sanada-san-ism! Totally flies over your head if you're not into boxing![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="713" name="AST_DNG_REGULAR_130_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 988 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 988 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="714" name="AST_DNG_REGULAR_130_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 989 0 0}Koro-chan seems down... Maybe he has something on his mind.[n]{f 1 1}]]></Page>
@@ -2522,7 +2522,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 420 0 0}Lookin' like crap just makes you feel even worse, y'know?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="732" name="AST_DNG_REGULAR_136_03_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 422 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 422 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="733" name="AST_DNG_REGULAR_136_03_1" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 423 0 0}Yeah? You get me, bud? 'Preciate you, I really do, Koromaru![n]{f 1 1}]]></Page>
@@ -2573,7 +2573,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 995 0 0}Koro-chan never leaves Aigis's side... Maybe he's protecting her.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="747" name="AST_DNG_REGULAR_139_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 996 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 996 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="748" name="AST_DNG_REGULAR_140_02_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 263 0 0}Hurry, we have to catch up...[n]{f 1 1}]]></Page>
@@ -2637,7 +2637,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 998 0 0}He really seems like a leader...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="766" name="AST_DNG_REGULAR_143_09_1" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 999 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 999 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="767" name="AST_DNG_REGULAR_144_04_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 560 0 0}It's finally showed itself to us. Now we just chase it down—all there is to it.[n]{f 1 1}]]></Page>
@@ -2654,7 +2654,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 668 0 0}All that's left is to confirm it with our own eyes. Let's go, Aigis.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="771" name="AST_DNG_REGULAR_145_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1000 0 0}Grrrrr...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1000 0 0}Grrr![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="772" name="AST_DNG_REGULAR_145_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1001 0 0}Koro-chan seems restless, even with that strong enemy defeated.[n]{f 1 1}]]></Page>
@@ -2674,7 +2674,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 868 0 0}It's weird to think this is technically all one day, even though it feels so long.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="777" name="AST_DNG_REGULAR_147_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1003 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1003 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="778" name="AST_DNG_REGULAR_147_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1004 0 0}Koro-chan's always so bold and confident... He's amazing.[n]{f 1 1}]]></Page>
@@ -2696,7 +2696,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 870 0 0}I want to get to the end, but I also kind of don't...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="784" name="AST_DNG_REGULAR_149_09_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1005 0 0}*pant* *pant*[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1005 0 0}(whine)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="785" name="AST_DNG_REGULAR_149_09_1" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1006 0 0}Koro-chan's staring at Aigis. What's he trying to say to her...?[n]{f 1 1}]]></Page>
