@@ -1,336 +1,336 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_007_737_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_737_C\BMD_Event_Cmmu_007_737_C.uasset" dialogs="78">
   <Speakers>
     <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_024_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 1 0 0}Виявляється, що шкода від шкідників значно менше, ніж я прогнозувала.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 21 7 4}Проте ми не прийняли жодних мір щодо них. Як це так сталось?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 1 0 0}There appears to be less damage from pests than the data in my predictions suggests.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 21 7 4}We haven't taken any specific measures against them. What is the cause of this?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_025_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 3 0 0}А? Це ж...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 4 0 0}Погляньте, пане ! Он там личиника божої корівки! Вона така маленька та чарівна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 3 0 0}Oh? This is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 4 0 0}Look, {f 4 2}-san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_026_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай позбудемось її.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай вона собі буде.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, прибери її від мене.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just leave it alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please keep it away from me.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_027_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 5 0 0}Ні, не можна.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 6 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 7 0 0}От чому вони так добре ростуть.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 5 0 0}No, we mustn't.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 6 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 7 0 0}This must the reason why they've been growing so well.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_028_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 8 0 0}Погоджуюсь. Не варто заважати їй, коли вона їсть.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 9 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 10 0 0}Це пояснює чому немає шкідників тут.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 21 7 7}Гречно дякуємо вам, пані боже корівко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 8 0 0}Agreed. We wouldn't want to interrupt it while it's eating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 9 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 10 0 0}That would explain why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 21 7 7}Thank you very much, little ladybug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_029_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 12 0 0}Ви виглядаєте кепсько. Проте не хвилюйтесь. Вона вас не вкусить...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 13 0 0}Я перенесу її на інше листя.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 12 0 0}You don't look so well. You don't have to worry about it biting you though...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 13 0 0}I will move it to another leaf then.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_029_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 0 0 0 14 0 0}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 15 0 0}...Вона ніяк не вгамується.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 16 0 0}Здається божій корівці довподоби бути поруч з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 15 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 16 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_030_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 17 0 0}Навіть у цих малих садженцях так багато життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 18 0 0}Ніхто не читає їм лекцій. Вони просто роблять, що можуть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 17 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 18 0 0}There's no one to teach them. They're just doing the best they can...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 0 0 0 19 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_031_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 20 0 0}Перепрошую, я відволіклась. Нумо продовжимо нашу роботу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 20 0 0}My apologies, I got distracted. Let's keep working.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_032_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я доглянув за рослинами з Аіґіс...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_033_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 21 0 0}Чекайте, пане . Не забудьте окропіти рослини отрутою.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 22 0 0}Шкідникам варто померти.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 21 0 0}Excuse me, {f 4 2}-san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 22 0 0}Pests deserve no mercy.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_034_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Завдяки нашим зусиллям схоже [n]рослини виростуть добре.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_035_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 13 22 1 7}Сканування стану завершено. Проблем не виявлено.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 24 0 0}На цьому наша місія завершується. Нумо повертатись назад.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 13 22 1 7}Status reads all green. No problems to report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 24 0 0}That concludes our mission for today. We should head back now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_036_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Як і очікувала, шкода від шкидників не вагома. Яке полегшення.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 21 7 4}{f 4 23 0 7 0 25 25}Проте ми не прийняли жодних мір щодо них. Що відбувається...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}There isn't as much damage from pests as I was expecting. That's a relief.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 21 7 4}{f 4 23 0 7 0 25 25}But we haven't taken any special measures. What's going on...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_037_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 27 0 0}А? Це ж...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 28 0 0}Погляньте, пане ! Он там личиника божої корівки! Вона така маленька та чарівна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 27 0 0}Oh? This is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 28 0 0}Look, {f 4 2}-san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="SEL_038_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай позбудемось її.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай вона собі буде.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, прибери її від мене.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just leave it alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please keep it away from me.]]></Option>
   </Dialog>
   <Dialog id="16" name="MSG_039_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 29 0 0}Ні, не варто![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 30 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 31 0 0}Це пояснює, чому майже немає сліду шкідників.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 29 0 0}No, we can't![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 30 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 31 0 0}That explains why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_040_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 32 0 0}Угу. Не варто заважати їй, коли вона їсть.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 33 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 34 0 0}Це пояснює, чому майже немає сліду шкідників.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 21 7 7}Гречно дякуємо вам, пані боже корівко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 32 0 0}Yes. We wouldn't want to interrupt it while it's eating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 33 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 34 0 0}That explains why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 21 7 7}Thank you very much, little ladybug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_041_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 202 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 7 3 25 25}Перепрошую. ви боїтесь комах? Я перенесу її на інше листя..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 202 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 7 3 25 25}I'm sorry. Are you uncomfortable with insects? I'll move it to another leaf.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_041_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 0 0 0 37 0 0}{f 4 23 0 7 0 25 25}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 38 0 0}...Вона ніяк не вгамується.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 39 0 0}Здається божій корівці довподоби бути поруч з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 38 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 39 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_042_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 40 0 0}Навіть у цих малих садженцях так багато життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 41 0 0}Ніхто не читає їм лекцій. Вони просто роблять, що можуть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 40 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 41 0 0}There's no one to teach them. They're just doing the best they can...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 0 0 0 42 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_043_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 7 1 25 25}Перепрошую, я відволіклась. Нумо продовжимо?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 7 1 25 25}Sorry, I got distracted. Shall we keep going?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_044_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я доглянув за рослинами з Аіґіс...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_045_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 44 0 0}Ох, пане , погляньте...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 202 -1 0 0}{f 3 1 1 0 0 45 0 0}{f 4 23 0 7 3 25 25}Може це грубо вставляти свої 5 копійок, але ми не можемо дати їм знищити наш врожай.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 1 25 25}Нумо дамо цій божій корівці трошки допомоги.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh, {f 4 2}-san, look over there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 202 -1 0 0}{f 3 1 1 0 0 45 0 0}{f 4 23 0 7 3 25 25}It may be rude to interfere, but we can't let them ruin our harvest.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 1 25 25}Let's give the ladybug some assistance this time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_046_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Завдяки нашим зусиллям схоже [n]рослини виростуть добре.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_047_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 5 13 22 1 7}Сканування стану завершено. Проблем не виявлено.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 48 0 0}На цьому наша місія завершується. Нумо повертатись назад.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 5 13 22 1 7}Status reads all green. I don't see any problems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 202 -1 0 0}{f 3 1 1 0 0 48 0 0}That should be enough for today. Let's head back now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_072_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 1 0 0}Виявляється, що шкода від шкідників значно менше, ніж я прогнозувала.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 21 7 4}Проте ми не прийняли жодних мір щодо них. Як це так сталось?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 1 0 0}There appears to be less damage from pests than the data in my predictions suggests.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 21 7 4}We haven't taken any specific measures against them. What is the cause of this?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_073_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 3 0 0}А? Це ж...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 4 0 0}Погляньте, пане ! Он там личиника божої корівки! Вона така маленька та чарівна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 3 0 0}Oh? This is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 4 0 0}Look, {f 4 2}-san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="SEL_074_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай позбудемось її.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай вона собі буде.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, прибери її від мене.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just leave it alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please keep it away from me.]]></Option>
   </Dialog>
   <Dialog id="29" name="MSG_075_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 5 0 0}Ні, не можна.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 6 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 7 0 0}От чому вони так добре ростуть.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 5 0 0}No, we mustn't.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 6 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 7 0 0}This must the reason why they've been growing so well.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_076_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 8 0 0}Погоджуюсь. Не варто заважати їй, коли вона їсть.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 9 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 10 0 0}Це пояснює, чому майже немає сліду шкідників.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 21 7 7}Гречно дякуємо вам, пані боже корівко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 8 0 0}Agreed. We wouldn't want to interrupt it while it's eating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 9 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 10 0 0}That would explain why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 21 7 7}Thank you very much, little ladybug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_077_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 12 0 0}Ви виглядаєте кепсько. Проте не хвилюйтесь. Вона вас не вкусить...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 13 0 0}Я тоді перенесу її на інше листя.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 12 0 0}You don't look so well. You don't have to worry about it biting you though...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 13 0 0}I will move it to another leaf then.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_077_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 14 0 0}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 15 0 0}...Вона ніяк не вгамується.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 16 0 0}Здається божій корівці довподоби бути поруч з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 15 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 16 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_078_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 17 0 0}Навіть у цих малих садженцях так багато життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 18 0 0}Ніхто не читає їм лекцій. Вони просто роблять, що можуть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 17 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 18 0 0}There's no one to teach them. They're just doing the best they can...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 19 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MSG_079_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 20 0 0}Перепрошую, я відволіклась. Нумо продовжимо нашу роботу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 20 0 0}My apologies, I got distracted. Let's keep working.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MND_080_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я доглянув за рослинами з Аіґіс...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MSG_081_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 21 0 0}Чекайте, пане . Не забудьте окропіти рослини отрутою.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 22 0 0}Шкідникам варто померти.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 21 0 0}Excuse me, {f 4 2}-san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 22 0 0}Pests deserve no mercy.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MND_082_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Завдяки нашим зусиллям схоже [n]рослини виростуть добре.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MSG_083_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 13 22 1 7}канування стану завершено. Проблем не виявлено.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 24 0 0}На цьому наша місія завершується. Нам варто повертатись назад.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 13 22 1 7}Status reads all green. No problems to report.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 24 0 0}That concludes our mission for today. We should head back now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="MSG_084_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Як і очікувала, шкода від шкидників не вагома. Яке полегшення.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 21 7 4}{f 4 23 0 7 0 25 25}Проте ми не прийняли жодних мір щодо них. Що відбувається...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}There isn't as much damage from pests as I was expecting. That's a relief.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 21 7 4}{f 4 23 0 7 0 25 25}But we haven't taken any special measures. What's going on...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_085_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 27 0 0}А? Це ж...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 28 0 0}Погляньте, пане ! Он там личиника божої корівки! Вона така маленька та чарівна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 27 0 0}Oh? This is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 28 0 0}Look, {f 4 2}-san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="SEL_086_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай позбудемось її.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай вона собі буде.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, прибери її від мене.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just leave it alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please keep it away from me.]]></Option>
   </Dialog>
   <Dialog id="42" name="MSG_087_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 29 0 0}Ні, не варто![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 30 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 31 0 0}Це пояснює, чому майже немає сліду шкідників.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 29 0 0}No, we can't![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 30 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 31 0 0}That explains why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="MSG_088_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 32 0 0}Yes. We wouldn't want to interrupt it while it's eating.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 33 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 34 0 0}Це пояснює, чому майже немає сліду шкідників.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 21 7 7}Гречно дякуємо вам, пані боже корівко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 33 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 34 0 0}That explains why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 21 7 7}Thank you very much, little ladybug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_089_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 2 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 7 3 25 25}Перепрошую. ви боїтесь комах? Я перенесу її на інше листя...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 2 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 7 3 25 25}I'm sorry. Are you uncomfortable with insects? I'll move it to another leaf.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="MSG_089_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 37 0 0}{f 4 23 0 7 0 25 25}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 38 0 0}...Вона ніяк не вгамується.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 39 0 0}Здається божій корівці довподоби бути поруч з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 38 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 39 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MSG_090_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 40 0 0}Навіть у цих малих садженцях так багато життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 41 0 0}Ніхто не читає їм лекцій. Вони просто роблять, що можуть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 40 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 41 0 0}There's no one to teach them. They're just doing the best they can...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 0 0 0 42 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="47" name="MSG_091_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 7 1 25 25}Перепрошую, я відволіклась. Нумо продовжимо?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 7 1 25 25}Sorry, I got distracted. Shall we keep going?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="MND_092_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я доглянув за рослинами з Аіґіс...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="49" name="MSG_093_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 44 0 0}Ох, пане , погляньте...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 2 -1 0 0}{f 3 1 1 0 0 45 0 0}{f 4 23 0 7 3 25 25}Може це грубо вставляти свої 5 копійок, але ми не можемо дати їм знищити наш врожай.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 1 25 25}Нумо дамо цій божій корівці трошки допомоги.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh, {f 4 2}-san, look over there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 2 -1 0 0}{f 3 1 1 0 0 45 0 0}{f 4 23 0 7 3 25 25}It may be rude to interfere, but we can't let them ruin our harvest.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 1 25 25}Let's give the ladybug some assistance this time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MND_094_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Завдяки нашим зусиллям схоже [n]рослини виростуть добре.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MSG_095_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 5 13 22 1 7}Сканування стану завершено. Проблем не виявлено.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 48 0 0}[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 5 13 22 1 7}Status reads all green. I don't see any problems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 48 0 0}That should be enough for today. Let's head back now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MSG_305_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 1 0 0}Виявляється, що шкода від шкідників значно менше, ніж я прогнозувала.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 21 7 4}Проте ми не прийняли жодних мір щодо них. Як це так сталось?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 1 0 0}There appears to be less damage from pests than the data in my predictions suggests.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 21 7 4}We haven't taken any specific measures against them. What is the cause of this?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="53" name="MSG_307_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 3 0 0}А? Це ж...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 4 0 0}Погляньте, пане ! Он там личиника божої корівки! Вона така маленька та чарівна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 3 0 0}Oh? This is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 4 0 0}Look, {f 4 2}-san! I've sighted a ladybug larva! It's very small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="54" name="SEL_308_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай позбудемось її.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай вона собі буде.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, прибери її від мене.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just leave it alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please keep it away from me.]]></Option>
   </Dialog>
   <Dialog id="55" name="MSG_311_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 5 0 0}Ні, не можна.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 6 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 7 0 0}От чому вони так добре ростуть.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 5 0 0}No, we mustn't.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 6 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 7 0 0}This must the reason why they've been growing so well.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="MSG_313_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 8 0 0}Погоджуюсь. Не варто заважати їй, коли вона їсть.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 9 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 10 0 0}Це пояснює чому немає шкідників тут.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 21 7 7}Я перенесу її на інше листя.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 8 0 0}Agreed. We wouldn't want to interrupt it while it's eating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 9 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 10 0 0}That would explain why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 21 7 7}Thank you very much, little ladybug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MSG_318_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 12 0 0}Ви виглядаєте кепсько. Проте не хвилюйтесь. Вона вас не вкусить...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 13 0 0}Я перенесу її на інше листя.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 12 0 0}You don't look so well. You don't have to worry about it biting you though...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 13 0 0}I will move it to another leaf then.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="MSG_318_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 0 0 0 14 0 0}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 15 0 0}...Вона ніяк не вгамується.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 16 0 0}Здається божій корівці довподоби бути поруч з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 15 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 16 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="59" name="MSG_323_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 17 0 0}Навіть у цих малих садженцях так багато життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 18 0 0}Ніхто не читає їм лекцій. Вони просто роблять, що можуть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 17 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 18 0 0}There's no one to teach them. They're just doing the best they can...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 0 0 0 19 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MSG_324_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 20 0 0}Перепрошую, я відволіклась. Нумо продовжимо нашу роботу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 20 0 0}My apologies, I got distracted. Let's keep working.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="MND_326_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="62" name="MSG_328_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 21 0 0}Чекайте, пане . Не забудьте окропіти рослини отрутою.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 22 0 0}Шкідникам варто померти.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 21 0 0}Excuse me, {f 4 2}-san. Please apply the repellant on that end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 22 0 0}Pests deserve no mercy.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="63" name="MND_329_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Завдяки нашим зусиллям схоже [n]рослини виростуть добре.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="64" name="MSG_330_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 13 22 1 7}Сканування стану завершено. Проблем не виявлено.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 24 0 0}На цьому наша місія завершується. Нумо повертатись назад.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 13 22 1 7}Status reads all green. I don't see any problems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 24 0 0}That concludes our mission for today. We should head back now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="65" name="MSG_332_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}Як і очікувала, шкода від шкидників не вагома. Яке полегшення.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 21 7 4}{f 4 23 0 7 0 25 25}Проте ми не прийняли жодних мір щодо них. Що відбувається...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 7 1 25 25}There isn't as much damage from pests as I was expecting. That's a relief.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 21 7 4}{f 4 23 0 7 0 25 25}But we haven't taken any special measures. What's going on...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="66" name="MSG_335_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 7 0 25 25}А? Це ж...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 28 0 0}Погляньте, пане ! Он там личиника божої корівки! Вона така маленька та чарівна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 7 0 25 25}Oh? This is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 28 0 0}Look, {f 4 2}-san! There's a ladybug larva! It's so small and adorable.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="67" name="SEL_336_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай позбудемось її.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай вона собі буде.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, прибери її від мене.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get rid of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just leave it alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please keep it away from me.]]></Option>
   </Dialog>
   <Dialog id="68" name="MSG_339_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 29 0 0}Ні, не варто![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 30 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 31 0 0}Це пояснює, чому майже немає сліду шкідників.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 29 0 0}No, we can't![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 30 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 31 0 0}That explains why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="69" name="MSG_342_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 32 0 0}Угу. Не варто заважати їй, коли вона їсть.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 33 0 0}Божі корівки- природні хижаки комах, які шкодять рослинам...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 34 0 0}Це пояснює чому немає шкідників тут.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 21 7 7}Гречно дякуємо вам, пані боже корівко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 32 0 0}Yes. We wouldn't want to interrupt it while it's eating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 33 0 0}Ladybugs are the natural predators of pests that damage plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 34 0 0}That explains why there weren't any harmful insects around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 21 7 7}Thank you very much, little ladybug.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="70" name="MSG_346_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 6 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 7 3 25 25}Перепрошую. ви боїтесь комах? Я перенесу її на інше листя..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 6 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 7 3 25 25}I'm sorry. Are you uncomfortable with insects? I'll move it to another leaf.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="71" name="MSG_346_5_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 0 0 0 37 0 0}{f 4 23 0 7 0 25 25}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 38 0 0}...Вона ніяк не вгамується.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 39 0 0}Здається божій корівці довподоби бути поруч з вами, пане .[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 38 0 0}...It won't stay still.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 39 0 0}It looks like the ladybug would prefer to be near you, {f 4 2}-san.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="72" name="MSG_351_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 40 0 0}Навіть у цих малих садженцях так багато життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 41 0 0}Ніхто не читає їм лекцій. Вони просто роблять, що можуть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 40 0 0}Even in just these tiny planters, there is so much life...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 41 0 0}There's no one to teach them. They're just doing the best they can...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 0 0 0 42 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="73" name="MSG_352_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 7 1 25 25}Перепрошую, я відволіклась. Нумо продовжимо?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 43 0 0}{f 4 23 0 7 1 25 25}Sorry, I got distracted. Shall we keep going?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="74" name="MND_354_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я доглянув за рослинами з Аіґіс...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aigis...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="75" name="MSG_356_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 44 0 0}Ох, пане , погляньте...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 6 -1 0 0}{f 3 1 1 0 0 45 0 0}{f 4 23 0 7 3 25 25}Може це грубо вставляти свої 5 копійок, але ми не можемо дати їм знищити наш врожай.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 1 25 25}Нумо дамо цій божій корівці трошки допомоги.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 6 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh, {f 4 2}-san, look over there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 6 -1 0 0}{f 3 1 1 0 0 45 0 0}{f 4 23 0 7 3 25 25}It may be rude to interfere, but we can't let them ruin our harvest.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 46 0 0}{f 4 23 0 7 1 25 25}Let's give the ladybug some assistance this time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="76" name="MND_357_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Завдяки нашим зусиллям схоже [n]рослини виростуть добре.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="77" name="MSG_358_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 5 13 22 1 7}Сканування стану завершено. Проблем не виявлено.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 48 0 0}На цьому наша місія завершується. Нумо повертатись назад.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 47 0 0}{f 5 13 22 1 7}Status reads all green. I don't see any problems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 6 -1 0 0}{f 3 1 1 0 0 48 0 0}That should be enough for today. Let's head back now.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
