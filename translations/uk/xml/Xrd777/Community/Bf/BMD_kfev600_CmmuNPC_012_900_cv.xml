@@ -2,7 +2,7 @@
 <BMD source="BMD_kfev600_CmmuNPC_012_900_cv.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Community\Bf\BMD_kfev600_CmmuNPC_012_900_cv.uasset" dialogs="5">
   <Speakers>
     <Speaker id="0" rawBytes="46 61 6D 69 6C 69 61 72 20 4D 61 6E">Familiar Man</Speaker>
-    <Speaker id="1" rawBytes="4D 61 69 6B 6F 27 73 20 44 61 64">Maiko's Dad</Speaker>
+    <Speaker id="1" rawBytes="4D 61 69 6B 6F 27 73 20 44 61 64">Тато Маїко</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 1 12 0}Hm? You're...[n]{f 1 1}]]></Page>
@@ -13,7 +13,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 4 12 0}Do you have a minute to talk? I've been dwelling a little on what happened...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a bit busy today...]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
