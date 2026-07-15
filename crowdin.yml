@@ -1,22 +1,21 @@
 files:
-  # 1. Main Dialogue & Event XMLs
   - source: /xml/**/*.xml
     translation: /translations/%two_letters_code%/xml/**/%original_file_name%
-    # Your custom parser for the BMD files
+    content_segmentation: 0
     translatable_elements:
-      - "/BMD"
-      - "/BMD/Speakers"
-      - "/BMD/Speakers/Speaker"
-      - "/BMD/Dialog"
-      - "/BMD/Dialog/Page"
-      - "/BMD/Dialog/Option"
-      
-  # 2. System Text & Data Tables (dt_xml)
+      - /BMD
+      - /BMD/Speakers
+      - /BMD/Speakers/Speaker
+      - /BMD/Dialog
+      - /BMD/Dialog/Page
+      - /BMD/Dialog/Option
   - source: /dt_xml/**/*.xml
     translation: /translations/%two_letters_code%/dt_xml/**/%original_file_name%
-    
-    # Custom XML Parser for Data Tables
+    content_segmentation: 0
     translatable_elements:
-      - "/P3RDataTableText"
-      - "/P3RDataTableText/Text"
-      - "/P3RDataTableText/Text/Translation"
+      - /P3RDataTableText
+      - /P3RDataTableText/Text
+      - /P3RDataTableText/Text/Translation
+      - /P3RDataTableFStrings
+      - /P3RDataTableFStrings/String
+      - /P3RDataTableFStrings/String/Translation
