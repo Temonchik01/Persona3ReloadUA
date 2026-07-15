@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_316_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_316_000.uasset" dialogs="39">
   <Speakers>
-    <Speaker id="0" rawBytes="45 61 72 6E 65 73 74 20 53 74 75 64 65 6E 74">Earnest Student</Speaker>
+    <Speaker id="0" rawBytes="45 61 72 6E 65 73 74 20 53 74 75 64 65 6E 74">Сумлінний учень</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 316}I heard Yamagishi-san fainted again, and she's taking days off from school...[n]{f 1 1}]]></Page>
@@ -65,7 +65,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 316}Guys never seem to be able to do much in home economics.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="SEL_011_3_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}True...]]></Option>
   </Dialog>
   <Dialog id="16" name="MSG_011_5_0" type="Message">
@@ -83,7 +83,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 316}Sorry to ask this so suddenly, but do you like chemistry?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm neutral about it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I hate it.]]></Option>
   </Dialog>
@@ -122,7 +122,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 316}Do you wash your lab coat after experiments?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="SEL_024_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't.]]></Option>
   </Dialog>
   <Dialog id="31" name="MSG_025_0_0" type="Message">
@@ -137,7 +137,7 @@
   </Dialog>
   <Dialog id="34" name="SEL_028_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, it's gross.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
   </Dialog>
   <Dialog id="35" name="MSG_029_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 316}I know they work with paint, but they should still clean up after themselves.[n]{f 1 1}]]></Page>
