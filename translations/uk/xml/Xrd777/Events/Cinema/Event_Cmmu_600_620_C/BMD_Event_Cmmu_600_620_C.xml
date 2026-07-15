@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_600_620_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_620_C\BMD_Event_Cmmu_600_620_C.uasset" dialogs="108">
   <Speakers>
-    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Kenji Tomochika</Speaker>
-    <Speaker id="1" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Kazushi Miyamoto</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
-    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="4" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Кенджі ТомочікаКенджі Томочіка</Speaker>
+    <Speaker id="1" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="4" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
     <Speaker id="5" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Female Student's Voice</Speaker>
-    <Speaker id="6" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Yuko Nishiwaki</Speaker>
-    <Speaker id="7" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+    <Speaker id="6" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="7" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Чіхіро Фушімі</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Okay, let's hurry up and get this over with.[n]{f 1 1}]]></Page>
@@ -117,7 +117,7 @@
   </Dialog>
   <Dialog id="30" name="SEL_030_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Bring it on.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No way.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Та ні.]]></Option>
   </Dialog>
   <Dialog id="31" name="MSG_031_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Whaaat, you too? This could've been our ticket to stardom...[n]{f 1 1}]]></Page>
@@ -208,7 +208,7 @@
   <Dialog id="52" name="SEL_052_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I do, but it's a secret.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I love pockets!]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
   </Dialog>
   <Dialog id="53" name="MSG_053_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 86 0 0}You make it sound so mysterious, but I bet you've just been stuffing bread pieces from lunch in there.[n]{f 1 1}]]></Page>
