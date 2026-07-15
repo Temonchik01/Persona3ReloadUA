@@ -4,7 +4,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Фуука хоче провести час разом...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_000_5_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені зустрітися з нею?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені піти з нею?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зустрітися з Фуукою]]></Option>
@@ -14,10 +14,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гайда до Фууки...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]{f 2 4 2} Персоні, {f 0 1 35}{f 2 4 5}{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні {f 2 4 2}, {f 0 1 35}{f 2 4 5}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_004_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що можу стати ближчим[n]до {f 2 4 0} скоро...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це може бути гарною можливістю[n]поглибити свій зв'язок з {f 2 4 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}UNUSED[n]{f 1 1}]]></Page>
