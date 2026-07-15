@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Tutorial_Battle_022.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Battle\BMD_Tutorial_Battle_022.uasset" dialogs="3">
   <Speakers>
-    <Speaker id="0" rawBytes="46 75 6C 6C 20 41 6E 61 6C 79 73 69 73">Full Analysis</Speaker>
+    <Speaker id="0" rawBytes="46 75 6C 6C 20 41 6E 61 6C 79 73 69 73">Повний аналіз</Speaker>
   </Speakers>
   <Dialog id="0" name="TRL_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 25}Press {f 1 3 109} while on the Analyze screen to use Fuuka's skill, {f 0 1 2}Full Analysis{f 0 1 27}. Doing so will deplete her SP.[n]{f 1 1}]]></Page>
@@ -10,6 +10,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Carrying out a Full Analysis will reveal the enemy's weakness. Use it to battle more effectively.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="TRL_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Note that a Full Analysis can only be done {f 0 1 2}after everyone—both allies and enemies—has ended their turn in the first round{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Майте на увазі, що Повний аналіз можна {f 0 1 2}лише використати після того, як всі, союзники та вороги, завершили свій перший хід{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
