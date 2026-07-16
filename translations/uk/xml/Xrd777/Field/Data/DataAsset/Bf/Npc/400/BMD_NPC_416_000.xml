@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_416_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\400\BMD_NPC_416_000.uasset" dialogs="28">
   <Speakers>
-    <Speaker id="0" rawBytes="54 61 78 69 20 44 72 69 76 65 72">Taxi Driver</Speaker>
+    <Speaker id="0" rawBytes="54 61 78 69 20 44 72 69 76 65 72">Таксист</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 416}I envy you students. It's a new term for you guys.[n]{f 1 1}]]></Page>
@@ -9,7 +9,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}The same thing?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you okay?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Усе гаразд?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 416}Yeah... Every season, I pick up the guys who miss the last train.[n]{f 1 1}]]></Page>
@@ -29,7 +29,7 @@
   </Dialog>
   <Dialog id="6" name="SEL_006_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why not?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Oh well.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ну добре.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 416}I ain't about to lecture my customers. If I did, no one would wanna ride in my cab.[n]{f 1 1}]]></Page>
