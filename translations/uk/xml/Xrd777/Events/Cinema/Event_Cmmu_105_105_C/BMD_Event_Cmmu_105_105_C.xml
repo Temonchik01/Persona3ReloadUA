@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_105_105_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_105_C\BMD_Event_Cmmu_105_105_C.uasset" dialogs="7">
   <Speakers>
-    <Speaker id="0" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+    <Speaker id="0" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Kazushi Miyamoto</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 1 0 0}Гееей, {f 4 1}![n]{f 1 1}]]></Page>
@@ -11,7 +11,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 3 0 0}Я хотів би про дещо з тобою поговорити.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд, слухаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Okay, let's hear it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Про що йдеться?]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
