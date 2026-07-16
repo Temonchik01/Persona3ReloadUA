@@ -4,7 +4,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like Elizabeth has some new[n]requests. Should I go see her now...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Don't go]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
