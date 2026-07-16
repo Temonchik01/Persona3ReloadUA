@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_160_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_160_020_C\BMD_Event_Main_160_020_C.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 27 73 20 56 6F 69 63 65">Mitsuru's Voice</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}It's me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}I'm sorry to disturb you, but do you have a moment?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Coming...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just a minute.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 3 0 0}Good morning.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 4 0 0}There's actually something I need to tell everyone.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 5 0 0}...But, I think it would be best if you saw it for yourself.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 6 0 0}So I'd like for all of us to meet in the command room tonight.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 7 0 0}I'll see you then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}That's okay. Just listen through the door.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}There's something I need to tell everyone, so let's all meet in the command room tonight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}That's all I wanted to say. I'll see you then.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
