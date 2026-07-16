@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_100_040_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_040_B\BMD_Event_Main_100_040_B.uasset" dialogs="12">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 42 6F 79">Загадковий хлопчик</Speaker>
+    <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 42 6F 79">Mysterious Boy</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Вітаю.[n]{f 1 1}]]></Page>
@@ -20,14 +20,14 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«{f 4 3}»...[n]Я правильно написав?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_003_4_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Переписати]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Go with this]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Rewrite it]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 4 3}... Ти впевнений?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I am.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дай-но зміню дещо.]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_006_0_0" type="Message">
