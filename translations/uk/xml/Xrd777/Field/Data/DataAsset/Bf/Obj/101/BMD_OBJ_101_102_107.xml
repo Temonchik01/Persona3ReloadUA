@@ -3,18 +3,18 @@
   <Speakers>
     <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
     <Speaker id="1" rawBytes="54 65 61 63 68 65 72 27 73 20 56 6F 69 63 65">Голос вчительки</Speaker>
-    <Speaker id="2" rawBytes="4D 73 2E 20 4F 75 6E 69 73 68 69">Пані Оуніші</Speaker>
+    <Speaker id="2" rawBytes="4D 73 2E 20 4F 75 6E 69 73 68 69">Ms. Ounishi</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет хімії.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Всередині можуть бути небезпечні хімікати.[n]Краще не заходити без дозволу...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зайти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не входити]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Я чую голоси всередині...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
