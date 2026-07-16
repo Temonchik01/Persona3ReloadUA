@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_401_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\400\BMD_NPC_401_000.uasset" dialogs="35">
   <Speakers>
-    <Speaker id="0" rawBytes="4C 65 69 73 75 72 65 6C 79 20 42 75 73 69 6E 65 73 73 6D 61 6E">Leisurely Businessman</Speaker>
+    <Speaker id="0" rawBytes="4C 65 69 73 75 72 65 6C 79 20 42 75 73 69 6E 65 73 73 6D 61 6E">Неквапливий бізнесмен</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 401}I was in a meeting and I heard someone talk about those Apathy Syndrome guys...[n]{f 1 1}]]></Page>
@@ -14,7 +14,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 401}You know this place is called Paulownia Mall, right? Well, you know how it got that name?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
@@ -67,7 +67,7 @@
   </Dialog>
   <Dialog id="13" name="SEL_013_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I did.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I didn't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I know her.]]></Option>
   </Dialog>
   <Dialog id="14" name="MSG_014_0_0" type="Message">
@@ -148,8 +148,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 401}Ouch... It still hurts.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="SEL_029_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you all right?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What happened?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти в порядку?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що сталось?]]></Option>
   </Dialog>
   <Dialog id="30" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 401}Thanks for your concern... You're a nice guy, unlike the kids I saw earlier...[n]{f 1 1}]]></Page>
