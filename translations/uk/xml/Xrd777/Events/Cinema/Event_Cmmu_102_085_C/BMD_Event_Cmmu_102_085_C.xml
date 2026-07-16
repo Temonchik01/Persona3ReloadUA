@@ -3,7 +3,7 @@
   <Speakers>
     <Speaker id="0" rawBytes="4D 61 6C 65 20 54 65 61 63 68 65 72 27 73 20 56 6F 69 63 65">Голос учителя</Speaker>
     <Speaker id="1" rawBytes="4F 64 61 67 69 72 69 27 73 20 56 6F 69 63 65">Голос Одаґірі</Speaker>
-    <Speaker id="2" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Хідетоші Одаґірі</Speaker>
+    <Speaker id="2" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Hidetoshi Odagiri</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Не будь таким упертим! Просто внеси його ім’я до списку![n]{f 1 1}]]></Page>
@@ -48,7 +48,7 @@
   </Dialog>
   <Dialog id="12" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Одаґірі дуже піклується про мене.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стаємо кращими друзями.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_012_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}«Я прикрию тебе»... Ти починаєш впливати на мене.[n]{f 1 1}]]></Page>
