@@ -120,7 +120,7 @@
   <Dialog id="25" name="MND_029_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Animal Othello"...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This looks like a game where you play[n]Othello against cutely drawn animals.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..![n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The elephant begins to bawl[n]after I beat it in Othello...![n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I keep playing, and the cute animals[n]continue to weep when they lose...[n]{f 1 1}]]></Page>
   </Dialog>
@@ -446,7 +446,7 @@
     <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Picture anyone you wish to intensify your relationship with and click the button below.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="110" name="MND_237_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про кого мені думати...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="111" name="MND_251_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I'll think about {f 2 4 0}[n]and click the button...[n]{f 1 1}]]></Page>
@@ -494,7 +494,7 @@
     <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Picture anyone you wish to intensify your relationship with and click the button below.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="125" name="MND_249_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про кого мені думати...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="126" name="MSG_259_0_0" type="Message">
     <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Praying... Current progress: 3%[n]Continue focusing while you wait.[n]{f 1 1}]]></Page>
@@ -564,40 +564,40 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't think of anyone I want[n]a stronger relationship with...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="143" name="MND_217_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fortune[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="144" name="SEL_218_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari Takeba{f 4 27 2 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka Yamagishi{f 4 27 6 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru Kirijo{f 4 27 5 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis{f 4 27 7 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Team Manager{f 4 27 106 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Treasurer{f 4 27 109 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Classmate{f 4 27 101 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Student Council{f 4 27 102 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Track Team{f 4 27 105 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Art Club{f 4 27 108 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Transfer Student{f 4 27 112 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Old Couple{f 4 27 103 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Rival Athlete{f 4 27 115 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Girl at the Shrine{f 4 27 110 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Dying Young Man{f 4 27 117 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Gourmet King{f 4 27 116 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Businessman{f 4 27 113 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Unusual Monk{f 4 27 114 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Online Game{f 4 27 107 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі Такеба{f 4 27 2 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Фуука Ямаґіші{f 4 27 6 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру Кіріджьо{f 4 27 5 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аіґіс{f 4 27 7 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Менеджерка команди{f 4 27 106 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Скарбниця{f 4 27 109 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Однокласник{f 4 27 101 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Учнівська рада{f 4 27 102 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Спортивний гурток{f 4 27 105 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Художний гурток{f 4 27 108 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Школяр-іноземець{f 4 27 112 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Стара пара{f 4 27 103 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Суперник-спортсмен{f 4 27 115 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дівчинка біля храму{f 4 27 110 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вмираючий юнак{f 4 27 117 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Король гурманів{f 4 27 116 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Бізнесмен{f 4 27 113 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Незвичайний монах{f 4 27 114 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Онлайн гра{f 4 27 107 0}]]></Option>
   </Dialog>
   <Dialog id="145" name="MND_220_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про кого мені думати...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="146" name="MND_222_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't think we could get any[n]closer than we already are...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="147" name="MND_233_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with[n]{f 2 4 0} has grown stronger...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що мій зв'язок з[n]{f 2 4 0} став міцнішим...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="148" name="MND_265_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with[n]the monk has grown stronger...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що мій зв'язок з[n]монахом став міцнішим...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="149" name="MND_262_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my bond with Bunkichi-san[n]and Mitsuko-san has grown stronger...[n]{f 1 1}]]></Page>
@@ -611,6 +611,6 @@
   </Dialog>
   <Dialog id="152" name="SEL_263_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Use the matchmaking site]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
 </BMD>
