@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_116_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_050_C\BMD_Event_Cmmu_116_050_C.uasset" dialogs="22">
   <Speakers>
-    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Нодзомі Суеміцу</Speaker>
+    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Nozomi Suemitsu</Speaker>
     <Speaker id="1" rawBytes="42 69 74 74 65 72 2D 4C 6F 6F 6B 69 6E 67 20 4D 61 6E">Похмурий чоловік</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
@@ -27,8 +27,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Правда ж, {f 4 2}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ага.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Перепрошую, що?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вибач, що?]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 5 13 19 15 116}Бачите?! {f 4 2} теж так вважає![n]{f 1 1}]]></Page>
