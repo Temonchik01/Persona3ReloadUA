@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_kfev175_NPC_306_700.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev175\BMD_kfev175_NPC_306_700.uasset" dialogs="4">
   <Speakers>
-    <Speaker id="0" rawBytes="43 6C 75 62 2D 44 69 74 63 68 69 6E 67 20 53 74 75 64 65 6E 74">Учень, що ухиляється від гуртків</Speaker>
+    <Speaker id="0" rawBytes="43 6C 75 62 2D 44 69 74 63 68 69 6E 67 20 53 74 75 64 65 6E 74">Club-Ditching Student</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}О, ти той хлопець, що перевівся. Ти збираєшся вступити в гурток чи щось таке?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так, планую.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Все ще думаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm still thinking about it.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_001_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}Та невже? Але ти не зможеш вступити одразу. Я чув, що багато з них переповнені.[n]{f 1 1}]]></Page>
