@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_317_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_317_000.uasset" dialogs="41">
   <Speakers>
-    <Speaker id="0" rawBytes="4C 61 7A 79 20 53 74 75 64 65 6E 74">Lazy Student</Speaker>
+    <Speaker id="0" rawBytes="4C 61 7A 79 20 53 74 75 64 65 6E 74">Лінивий учень</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 317}Everyone I know is in a club, but...[n]{f 1 1}]]></Page>
@@ -31,7 +31,7 @@
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I didn't say you did.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Okay.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Добре.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}It's all your fault.]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
@@ -93,7 +93,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 317}Think I've got that Apathy Syndrome thing?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_019_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I doubt it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Сумніваюся.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Get better soon.]]></Option>
   </Dialog>
