@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_112_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_112_010_C\BMD_Event_Cmmu_112_010_C.uasset" dialogs="29">
   <Speakers>
-    <Speaker id="0" rawBytes="42 65 62 65">Бебе</Speaker>
+    <Speaker id="0" rawBytes="42 65 62 65">Bebe</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ятта, так! Це поки моя найкраща швейна робота![n]{f 1 1}]]></Page>
@@ -11,7 +11,7 @@
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я маю привітатись.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Краще не заважати.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Better leave him alone.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}О!? Бонжур, {f 4 2}![n]{f 1 1}]]></Page>
@@ -47,7 +47,7 @@
   </Dialog>
   <Dialog id="12" name="SEL_011_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, запиши мене.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, дякую.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_012_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Хонто!? Справді!?[n]{f 1 1}]]></Page>
