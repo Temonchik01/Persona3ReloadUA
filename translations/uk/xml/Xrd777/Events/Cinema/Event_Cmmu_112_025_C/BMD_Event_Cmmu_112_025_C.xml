@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_112_025_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_112_025_C\BMD_Event_Cmmu_112_025_C.uasset" dialogs="17">
   <Speakers>
-    <Speaker id="0" rawBytes="42 65 62 65">Бебе</Speaker>
+    <Speaker id="0" rawBytes="42 65 62 65">Bebe</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Адзукі дуже смачні. Червона квасоля така оішіі![n]{f 1 1}]]></Page>
@@ -41,7 +41,7 @@
   </Dialog>
   <Dialog id="10" name="MND_006_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Бебе дуже вдячний.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're growing closer...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Ой, поглянь на час![n]{f 1 1}]]></Page>
@@ -60,6 +60,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Ми продовжимо нашу японську пригоду іншим разом! Я обов'язково повернуся, {f 4 2}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_012_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Бебе[n]та повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Бебе[n]і повернувся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
