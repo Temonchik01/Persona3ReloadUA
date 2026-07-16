@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_220_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_220_010_C\BMD_Event_Main_220_010_C.uasset" dialogs="33">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 1 0 0}Yo![n]{f 1 1}]]></Page>
@@ -14,7 +14,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 4 0 0}Only one more year of high school... Ya think there's anything interesting on the horizon?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Definitely.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Напевно.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}You never know.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
