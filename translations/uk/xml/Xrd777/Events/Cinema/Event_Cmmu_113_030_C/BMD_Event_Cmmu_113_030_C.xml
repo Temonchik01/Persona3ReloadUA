@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_113_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_113_030_C\BMD_Event_Cmmu_113_030_C.uasset" dialogs="10">
   <Speakers>
-    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">Президент Танака</Speaker>
+    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">President Tanaka</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Сьогодні я розповім тобі кумедну історію...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 113 0 25 25}У наш час навіть школярі вже знають, як купувати акції онлайн. А ти як? Цікавишся торгівлею на біржі?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Трошки.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe a little.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not at all.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 13 16 15 113}Оце правильно! Якщо тримати всі гроші в банку, то твій невеликий прибуток просто з’їдять шалені комісії![n]{f 1 1}]]></Page>
@@ -33,13 +33,13 @@
   </Dialog>
   <Dialog id="7" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Президент Танака дав мені[n]дуже пристрасну пораду...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я розумію його трохи краще тепер...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I understand him a little better now...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_006_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Ти дотримуєшся своєї обіцянки? Ти ж нікому нічого не розповів, правда?[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 2 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 113 2 25 25}Бо якщо ти зрадиш мою довіру — я знайду, де ти живеш, і дзвонитиму у двері щоночі![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно. Пора повертатися до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно, тому я повернуся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
