@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_103_100_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_103_100_C\BMD_Event_Cmmu_103_100_C.uasset" dialogs="32">
   <Speakers>
-    <Speaker id="0" rawBytes="42 75 6E 6B 69 63 68 69">Бункічі</Speaker>
-    <Speaker id="1" rawBytes="4D 69 74 73 75 6B 6F">Міцуко</Speaker>
+    <Speaker id="0" rawBytes="42 75 6E 6B 69 63 68 69">Bunkichi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 6B 6F">Mitsuko</Speaker>
     <Speaker id="2" rawBytes="28 53 45 29 20 42 75 6E 6B 69 63 68 69">(SE) Бункічі</Speaker>
     <Speaker id="3" rawBytes="28 53 45 29 20 4D 69 74 73 75 6B 6F">(SE) Міцуко</Speaker>
   </Speakers>
@@ -48,7 +48,7 @@
   </Dialog>
   <Dialog id="11" name="SEL_008_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Але... чому?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ну добре.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Oh well.]]></Option>
   </Dialog>
   <Dialog id="12" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 6 15 103}Саме такої реакції я й очікував, ! Тебе отак здивувати було варте того![n]{f 1 1}]]></Page>
@@ -74,7 +74,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Урешті-решт, він же був учителем![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це правда.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's true.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ви впевнені?]]></Option>
   </Dialog>
   <Dialog id="20" name="MSG_015_0_0" type="Message">
@@ -94,7 +94,7 @@
   <Dialog id="24" name="MND_017_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це, мабуть, щось дуже[n]важливе для них обох...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Їхня глибока вдячність торкнулась мого серця...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="SYS_018_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Соціальний зв'язок «Ієрофант» досяг свого максимального рівня! Тепер ви можете створити Корю — вартівника природу![n]{f 1 1}]]></Page>
@@ -117,6 +117,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми спілкувалися до заходу сонця...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_024_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з літнім подружжям[n] і повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з літнім подружжям[n]і повернувся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
