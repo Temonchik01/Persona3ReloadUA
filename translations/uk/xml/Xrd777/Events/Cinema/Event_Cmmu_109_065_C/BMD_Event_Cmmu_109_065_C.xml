@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_109_065_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_065_C\BMD_Event_Cmmu_109_065_C.uasset" dialogs="19">
   <Speakers>
-    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Чіхіро Фушімі</Speaker>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
     <Speaker id="1" rawBytes="47 61 75 64 79 20 57 6F 6D 61 6E">Хвалькувата жінка</Speaker>
     <Speaker id="2" rawBytes="4E 65 72 76 6F 75 73 20 4D 61 6E">Знервований чоловік</Speaker>
   </Speakers>
@@ -24,7 +24,7 @@
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Щось змінилося?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Тобто?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What do you mean?]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Звісно, я все ще думаю, що це здебільшого правда... але сумніви в мене таки є...[n]{f 1 1}]]></Page>
