@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_106_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_106_080_C\BMD_Event_Cmmu_106_080_C.uasset" dialogs="28">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Yuko Nishiwaki</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Е-е, вибач, що вечірка зрештою вийшла у мене вдома...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Я ходила купувати речі, які можуть стати у пригоді під час тренувань, але в мене закінчились гроші.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Все гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's fine.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}У тебе гарна кімната.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Речі для дітей?]]></Option>
   </Dialog>
@@ -41,8 +41,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Гмм... А ти любиш дітей?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Правда? Я теж! Мені подобається їхня щирість і старанність. Хочеться допомагати їм іще більше.[n]{f 1 1}]]></Page>
@@ -69,7 +69,7 @@
   <Dialog id="16" name="SEL_012_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хлопчика.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дівчинку.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Байдуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't care.]]></Option>
   </Dialog>
   <Dialog id="17" name="MSG_013_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 5 13 12 5 106}Розумію... Хлопчика, кажеш?[n]{f 1 1}]]></Page>
@@ -96,7 +96,7 @@
   </Dialog>
   <Dialog id="24" name="MND_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко, здається, замислилася.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_021_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}До речі, ти більше схожий на тата чи на маму?[n]{f 1 1}]]></Page>
