@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_108_085_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_085_C\BMD_Event_Cmmu_108_085_C.uasset" dialogs="25">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 4 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}You're awake! Oh, thank goodness![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I kept calling your name, but you wouldn't wake up, so I...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My head is throbbing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I don't see any cuts on your head, so I don't think you'll need stitches.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Can you remember your name?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's okay, I'm fine.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course. It's Keisuke.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 11 15 108}That's wonderful to hear. Really, it's such a relief.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Keisu— Hey, that's me! Come on, that's not funny![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}A-Are you okay!? Is your vision still blurry?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Well, your pupils aren't dilated, so I don't think you have a concussion.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I was worried that when you fell, you hit your head or your face, and I...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}A-Anyway, do you remember what happened?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't.]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}The box... I was the one who put it up there.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 10 25 25}We have a maid who cleans our house, so I don't do much cleaning myself. And I just got lazy and put it up there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}A box fell and hit you on the head.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 10 25 25}And I was the one who put it up there.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}We have a maid who cleans our house, so I don't do much cleaning myself. And I just got lazy and put it up there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}It's all my fault. I'm so sorry...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}All I could think about was what would happen if you didn't wake up. I was so scared.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}I felt so helpless seeing my friend in trouble and not being able to do anything.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}I'm not a doctor...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Do you think you want to be one?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't beat yourself up about it.]]></Option>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 0 0 0 20 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}When I was younger, my dad told me a sad story.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}About how he lost a good friend... He just collapsed one day, even though they played together all the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_013_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Seeing you lying there, I understood how my dad must've felt losing someone he was so close to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}You're really tough, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_014_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Ms. Toriumi told me about what happened to your parents.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}But me... My parents are always there when I get home. Maybe I take them for granted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_014_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}You know, seeing you lying there, I think I understood what it must feel like to lose someone close to you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga seems to care about me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 10 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Do I... want to be a doctor? But I'd be doing exactly what my dad wants.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_016_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Ah, sorry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 1 1 25 25}We should get going. Can you walk? Here, you can lean on me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga and I left school together.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

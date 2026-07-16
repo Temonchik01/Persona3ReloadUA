@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_CmmuNPC_262_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Community\Bf\BMD_CmmuNPC_262_000.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 155 -1 0 0}{f 3 1 1 0 4 1 0 0}...Anyway, my friends and I are really into the dessert they serve at the café there.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 155 -1 0 0}{f 3 1 1 0 4 2 0 0}Oh! Do you wanna come with us after school sometime, Mitsuru-senpai?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 155 -1 0 0}{f 3 1 1 0 4 3 0 0}Yes, of course.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 155 -1 0 0}{f 3 1 1 0 4 4 0 0}I'd like to try this "special strawberry parfait" you mentioned.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 11 155 -1 0 0}{f 3 1 1 0 4 5 0 0}Okay, cool! It's a date, then![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 155 -1 0 0}{f 3 1 1 0 4 6 0 0}If you have any other recommendations, I'd love to hear them, Yukari.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 155 -1 0 0}{f 3 1 1 0 4 7 0 0}Oh, there's this new place one city over.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 155 -1 0 0}{f 3 1 1 0 4 8 0 0}If you have any other recommendations, I'd love to hear them, Yukari.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 155 -1 0 0}{f 3 1 1 0 4 9 0 0}Hm... Oh, there's this new place one city over.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

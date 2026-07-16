@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_160_170_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_160_170_C\BMD_Event_Main_160_170_C.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="46 61 6D 69 6C 69 61 72 20 56 6F 69 63 65">Familiar Voice</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 1 0 0}Man, Chidori wasn't at the station today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 2 0 0}Maybe I should check again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 6 25 25}{f 4 21 3 10}Nah, on second thought, I better stay put. The operation's tonight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 4 0 0}Hm, the operation, huh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 5 0 0}When it comes down to it, we're fightin' to protect her, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 6 0 0}Wow, thinkin' about it like that kinda fires me up...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 1 25 25}Maybe we really are, like, heroes of justice...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 8 0 0}Alright![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}Don't move.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 10 0 0}Huh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 11 0 0}Wait, that voice...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 12 0 0}Ahhh![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

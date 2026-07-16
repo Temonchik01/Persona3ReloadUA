@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_102_102_106.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_102_106.uasset" dialogs="40">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 6F 74 65">Note</Speaker>
+    <Speaker id="1" rawBytes="4C 65 74 74 65 72 20 66 72 6F 6D 20 49 6B 75 74 73 75 6B 69">Letter from Ikutsuki</Speaker>
+    <Speaker id="2" rawBytes="53 74 69 63 6B 79 20 4E 6F 74 65">Sticky Note</Speaker>
+    <Speaker id="3" rawBytes="43 61 72 64">Card</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}牛乳やスポーツドリンクが入っている。[n]{f 1 5 0}誰かの買い置きだろうか…[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fridge is stuffed full[n]of food and ingredients...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_066_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like the[n]{f 4 4 1 37 1 0} will fit...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing that belongs to me inside...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_NEXT_EMPTY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a notice inside the fridge.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Next fridge clearance date: {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}"[n]The fridge might have space on this date...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a bit of space...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My {f 4 4 1 37 1 0} is chilling inside...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have anything I want to chill...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, I have[n]a {f 4 4 1 37 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I chill it in the fridge...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Chill it]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I put a {f 4 4 1 37 1 0} in the fridge.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should come back and get[n]it {f 0 1 2}tomorrow or later{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_TAIYAKI_GET" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The {f 4 4 1 37 1 0} I put inside[n]here earlier is sufficiently chilled...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_MYSTERYFOOD_GET" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put in the fridge a long time[n]ago looks completely different now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_MYSTERYFOOD_GET2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I left it in the fridge for too long.[n]I should be more careful next time...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_GET_0601_0616" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside here earlier is gone...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A note has been left in the spot[n]where I left the taiyaki...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_GET2_0601_0616" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"To whoever had that taiyaki in here. Sorry, I couldn't help myself..."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"My bad! So here, I'll trade you some cup ramen. -Junpei"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_GET_0617_0630" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside here earlier is gone...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...A note is in its place. Looks[n]like it's from the chairman...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_GET2_0617_0630" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"Dear {f 4 1},[n]I apologize for eating your taiyaki."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"I had bought the same kind, but I forgot that I had put mine somewhere else..."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"I'll make sure to buy another one for you. In the meantime, please accept this as an apology."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"P.S. I hope you don't find my love for taiyaki... FISHY."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_GET_0730_0802" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside[n]here earlier is chilled...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's something with a sticky[n]note on it next to the taiyaki...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_GET2_0730_0802" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}"To {f 4 1}-kun. For all your hard work on your club activities! -Yukari"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_GET3_0730_0802" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's from Yukari. I'll gladly accept it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_GET_0914_0926" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside here earlier is gone...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A note has been left in the spot[n]where I left the taiyaki...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_GET2_0914_0926" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"To {f 4 1}. Sorry, I accidentally ate your taiyaki thinking it was for me."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Take this in exchange. -Sanada"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_GET_0927_1025" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside[n]here earlier is chilled...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Next to it are some snacks[n]with a note attached.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_GET2_0927_1025" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"I got these as a gift. Anyone can have them. -Aragaki"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_GET3_0927_1025" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like no one has claimed them[n]yet. I guess I'll take one for now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MND_GET_1026_1111" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside here earlier is gone...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A note has been left behind instead...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_GET2_1026_1111" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"I ate the taiyaki. It's probably yours, right {f 4 2}?"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Taiyaki as a late night snack is the best! Thanks for chilling it for me!"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Just kidding. Sorry for eating it. Take this instead and let's call it even, alright? -Junpei"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MND_GET_1224_1225" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside[n]here earlier is chilled...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...There is a card tucked under it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_GET2_1224_1225" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}"Dear {f 4 1}-san. Merry Christmas from Amada."[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}"If you'd like, please take some of this chocolate too."[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}"Someone from the shrine gave these to Koromaru. But since dogs can't eat chocolate..."[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}"It seemed like Koromaru wanted you to have them, so here you go."[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}"(I took one for myself too.)"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MND_GET3_1224_1225" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll gladly accept it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_GET_0110_0121" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside[n]here earlier is chilled...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a note on a basket[n]next to the taiyaki...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_GET2_0110_0121" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"To everyone in the dorm,[n]If you'd like, each of you can take one."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"I was given these by an acquaintance when I was taking my college entrance exams."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Please remember to rehydrate while doing your own studying. -Mitsuru"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_GET3_0110_0121" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are bottled drinks in the basket.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll gladly accept one...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MND_GET_0122_0131" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The taiyaki I put inside[n]here earlier is chilled...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a large number of[n]{f 4 4 1 37 1 1} next to it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_GET_0122_0131" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Dear all,[n]Here's a little something for you."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}"Let's get through January 31st no matter what! -Fuuka"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MND_GET3_0122_0131" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll gladly accept one...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MND_068_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should remember to give it to Elizabeth[n]sometime {f 0 1 2}tomorrow or later{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MND_069_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, Elizabeth[n]said she wanted a chilled taiyaki...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should bring this {f 4 4 1 37 1 1} to her...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

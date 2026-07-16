@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_110_310_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_110_310_B\BMD_Event_Main_110_310_B.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Did we make it in time?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 3 4 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}...Hey, wait! Why're we still moving!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}We're going too fast! We need to put on the brakes, or...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 1 0 0 4 0 0}What are you waiting for!? You're coming up on the next train, fast![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Dammit! I don't know how to stop this thing![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}We have no choice!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave it to me!]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Aaaaaah![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

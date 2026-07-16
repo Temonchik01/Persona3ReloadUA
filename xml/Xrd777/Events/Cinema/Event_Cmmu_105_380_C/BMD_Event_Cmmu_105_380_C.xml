@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_105_380_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_380_C\BMD_Event_Cmmu_105_380_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Kazushi Miyamoto</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 3 0 -1 10891 0 0}Dude, my knee just keeps getting worse...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}The stairs were killing my knee...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 3 0 -1 10872 0 0}Man, why do I even bother anymore? What's the point of going through all this pain just to win...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's just who you are.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}For your nephew.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Figure it out yourself.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 3 0 -1 10855 0 0}{f 5 13 8 30 105}Yeah... Yeah, you're right! I hate losing! Er, was the answer that simple?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 4 23 0 105 1 25 25}Sorry for getting all whiny on you... That's not me. Thanks for the wake-up call. I'm good now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Miyamoto looks grateful.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we became a lot closer today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 3 0 -1 10855 0 0}{f 5 13 8 15 105}Y-Yeah! If I give up now, he might never find the courage to walk on his own two feet...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}But I can barely deal with my own problems right now... Can I even help him with his?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Miyamoto seems lost in thought.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I learned a little more about him today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 3 0 -1 10887 0 0}C'mon, dude, don't be like that... I couldn't figure out anything, so that's why I came to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}We're friends... Right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Miyamoto looks sad.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we didn't get any closer today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 3 0 -1 10850 0 0}Guess all I've got now is my last resort: divine intervention.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}After we finish eating, I'm gonna stop by the shrine. I'll make sure to toss in more coins than usual when praying.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After seeing Miyamoto off to the[n]shrine, I headed back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

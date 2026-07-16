@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_160_120_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_160_120_C\BMD_Event_Main_160_120_C.uasset" dialogs="21">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="4" rawBytes="43 6C 61 73 73 6D 61 74 65 27 73 20 56 6F 69 63 65">Classmate's Voice</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1581}Class, we have another new transfer student joining us today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1581}Go ahead and introduce yourself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 3 0 0}My name is Aigis. I am pleased to meet you all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1581}Aigis-san...? I've never heard a name like that... Maybe she's a foreigner.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1581}Let's see, anything else I should know? Hm? "Humanoid"... "tactical weapon"...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 6 0 0}What!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 5 21 0 1581}...Clearly, that's a mistake.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1581}It just goes to show, you can't believe everything you read.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 9 0 0}Y-Yeah, you got that right![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 21 0 1581}Let's see. You can sit, um... Are there any open seats?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1581}Ooh, there's a spot, right next to him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 21 0 1581}Okay, off you go.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 13 0 0}Uh, Ms. Toriumi, someone already sits there. He just ditched today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 21 0 1581}...Which means he's not here. So now it's yours.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 5 21 0 1581}All right, take your seat.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 16 0 0}This spot is perfect.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 17 0 0}My highest priority is to be with him at all times.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 18 0 0}Aigis![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 19 0 0}What is it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 20 0 0}Uh, Yukari, why'd you stand up?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 21 0 0}Uh, why—?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 22 0 0}...Ugh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 5 21 0 1581}Good to see everyone's getting along so well.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 5 21 0 1581}But, do me a favor and save the drama for after class.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_018_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 1 -1 0 0}{f 3 1 1 0 0 25 0 0}Gimme a break...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldInitScript_304_101.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Init\F304\BMD_FldInitScript_304_101.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_DUNGE_FUKA_START" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}Я фіксую серйозну присутність нагорі! Це має бути наша ціль![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Він ховається у {f 0 1 2}великій кімнаті на третьому поверсі{f 0 1 27}. Йдіть туди і вистежте його![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_DUNGE_SHOWER_FUKA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5056 0 0}Пробачте... Я відчула лише одну Тінь.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}І я не хочу приносити ще більше поганих новин на додачу до цього, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}але всередині будівлі піднявся бар'єр... Ви не зможете потрапити туди таким чином.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_DUNGE_SHOWER_FUKA2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}Тож ми можемо звинуватити цю Тінь у тому, що вона нас тут замкнула...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_DUNGE_SHOWER_FUKA3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я спробую знайти спосіб зламати цей бар'єр. Тим часом, будь ласка, зберіться на другому поверсі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_DUNGE_204BREAK_HANSE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Усі в порядку?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Здається, якщо розбити не те дзеркало, Тінь нападе на вас.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Спробуйте розбити {f 0 1 2}дзеркало в номері 205{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm certain that will trigger something. Please head there right away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_DUNGE_HANSEI1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Усі в порядку?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Здається, якщо розбити не те дзеркало, Тінь нападе на вас.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Спробуйте розбити дзеркало {f 0 1 2}яке не показує ваше відображення{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_DUNGE_HANSEI2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}З вами все гаразд?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Схоже, це було не те дзеркало. Ця тінь налаштована серйозно...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}У темряві може бути важко сказати, але пам'ятай: ти шукаєш {f 0 1 2}дзеркало яке не показує твоє відображення{f 0 1 27}![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Продовжуйте шукати. Я зроблю все можливе, щоб визначити його місцезнаходження![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_DUNGE_HANSEI3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}З усіма все гаразд? Сподіваюся, ви пробачите мені, що я не дуже допомогла...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Але я нарешті отримала дані! Треба розбити {f 0 1 2}дзеркало в номері 304{f 0 1 27}![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 0 1 2}Номері 304{f 0 1 27} знаходиться недалеко. Будь ласка, поспішіть і знайдіть його![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

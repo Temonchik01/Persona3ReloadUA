@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_NPC_315_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_315_000.uasset" dialogs="40">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 53 75 70 65 72 66 61 6E">Mitsuru Superfan</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}{f 4 1}-kun, when you were absent, there was an election for student council president.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Kirijo-senpai's speech was sooo cool! I voted for her![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Everyone else looks so small compared to Kirijo-senpai.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}*sigh* Kirijo-senpai...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I heard you were invited to the student council. Kirijo-senpai said so...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}*sigh* I'm so jealous of you... I wish I could get invited.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}You think I should talk to her or something...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Are you involved in the student council?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I am.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not yet.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}*sigh* I'm so jealous...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Huh? How could you waste such an opportunity!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}You'd get to work with Kirijo-senpai! Why wouldn't you join the student council!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}The other night, I had a dream about Kirijo-senpai.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}She drove me around on her motorcycle, and we cruised around town at midnight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}It was so cool! I wish I could ride with her like that for real![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I would be happy just to be run over by Kirijo-senpai! Bring on her burning hot wheels![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Everyone's talking about ghosts and whatnot... I guess they're all really scared.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I'm fine, though![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}If a ghost gave me trouble, Kirijo-senpai would cut it right in half![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}To see her fight with a sword... I don't know if I could take it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Did you hear?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I heard.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I haven't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't want to hear.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Ah... Of course you would have heard.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}...That any man who hopes to get with Kirijo-senpai would have to be as intelligent as she is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Kirijo-senpai would want a man who likes to study.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Maybe I should study more...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}If I became the smartest in my class, she might accept me, even though I'm a girl...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Whatever![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}A man like you has absolutely no chance of getting together with Kirijo-senpai![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I wonder if Kirijo-senpai is fluent in French...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}It would be so cool if she is, with the way she looks and all...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Just imagining it gives me goosebumps! Or, as Kirijo-senpai would say, "La chair de poule."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I was walking around the other day, and this weird guy walked up to me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}He didn't wear a shirt, and he had weird tattoos... I tried to look away, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I accidentally looked right into his eyes![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}They were the coldest eyes I'd ever seen... And then he smiled at me![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}God, even thinking about it gives me shivers all down my back...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}If only it had been Kirijo-senpai! I would have fainted on the spot![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}This will be called...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}The "Pretend Like I Was Just Walking and When Kirijo-senpai Comes Out, I'll Get Close to Her" strategy![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}That's my plan... But I'm all nervous now...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I know I'm overthinking this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}You saw Kirijo-senpai in a bathing suit at Yakushima!? Did you get any pictures!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SEL_017_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Well, where are they, then!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Don't toy with me, or I'll sign up for the revenge request website![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Oh... Some help you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I don't care about the culture festival if I can't see Kirijo-senpai there.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I was hoping she'd dress as a man and dance with me... But I guess that won't happen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}For me, the culture festival is over before it even begins.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}How's it going with the student council?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Any special moments with Kirijo-senpai— I mean, do you participate in the student council activities?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="SEL_022_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Why couldn't it be me...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Huh? How could you waste such an opportunity!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Ohhh! I wish I could switch with you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I've been thinking... Normally, if someone is hurt somewhere, they'll bring in someone new, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}That means, if anyone in student council is hurt, I might have a chance to get in...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}H-Hey, what's with that look!? You act like I'm a criminal or something![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I'm not that bad! I-I'll get her without any cheating![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I heard Kirijo-senpai's father passed away... It must be very tough on her...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I wish I could help her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I hate this! I don't want to see Kirijo-senpai so depressed![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Senpai! If there's anything I can do, I'd do it at once![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Even though I can't do much, I'll put my all into supporting you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}...That's what I wish I could bring myself to say to her face...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Kirijo-senpai has cheered up a little, which is good, but... I still feel awkward.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I couldn't help her at all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}It's almost Christmas, and you know what that means—presents![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I've got a great idea! I'm going to give Kirijo-senpai a gift![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Could you play Santa for me, and give her my present?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="SEL_032_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No way in hell.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't want to.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Geez, I was just kidding... You don't have to look so serious.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}She might avoid me if I did that... But it would be worth it to give her a gift![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}My plan called "Give Kirijo-senpai a Present" didn't work.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Which makes sense, if you think about it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I mean, Kirijo-senpai lives in a dorm, right? The security there must be pretty tight...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}I went up to the front door, but I couldn't get in.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Kirijo-senpai was in a kimono over New Year's!? Did you get any pictures!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="SEL_036_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+  </Dialog>
+  <Dialog id="37" name="MSG_037_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Well, where are they, then!? Don't joke about something like this! I'll knock you silly![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Oh... Some help you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Oh, no... Kirijo-senpai will graduate pretty soon...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Everyone's scared that the world might end, but this is a REAL problem![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}How can I go on without her...?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

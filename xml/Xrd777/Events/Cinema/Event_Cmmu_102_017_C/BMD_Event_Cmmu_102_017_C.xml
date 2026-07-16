@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_102_017_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_102_017_C\BMD_Event_Cmmu_102_017_C.uasset" dialogs="14">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="44 69 73 63 69 70 6C 69 6E 61 72 79 20 43 6F 6D 6D 69 74 74 65 65 20 52 65 70 2E">Disciplinary Committee Rep.</Speaker>
+    <Speaker id="2" rawBytes="54 72 65 61 73 75 72 65 72">Treasurer</Speaker>
+    <Speaker id="3" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+    <Speaker id="4" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Hidetoshi Odagiri</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}All right, everyone. This is who I've been talking to you about. He'll be joining us in student council starting today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Ah, so he's {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I'm Hidetoshi Odagiri. I supervise the disciplinary committee.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I'm Chihiro Fushimi, the treasurer.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I'm a first-year, and um, I'm still learning the ropes, so please be patient with me, {f 4 1}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nice to meet you.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll do my best.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 0 0 0 6 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}You must be quite talented to be hand-picked by the president herself.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}I look forward to working with you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I would certainly hope so.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}You must be quite talented to be hand-picked by the president herself.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I look forward to working with you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I think I made a good[n]impression on Odagiri.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I joined the student council and[n]got to know the members.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I hope I get along with everyone here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}It's getting late. Introductions will be enough for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}What we want from you is to assist us as necessary.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}From now on, you have my permission to enter the student council room whenever you wish.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Your time is your own after school, but try to remember the student council every now and then.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}We meet on {f 0 1 2}Mondays, Wednesdays, and Fridays{f 0 1 27}. But we don't meet on days before tests.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Thanks for coming today, {f 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with the student council[n]members and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

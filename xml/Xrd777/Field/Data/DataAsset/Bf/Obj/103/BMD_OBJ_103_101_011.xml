@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_103_101_011.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\103\BMD_OBJ_103_101_011.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's the police station's bulletin board...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There isn't any new information.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's the police station's bulletin board...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There are posters regarding traffic safety[n]and reminders of recent crimes in the area.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It's the bulletin board with details[n]about the missing people.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The missing person was found with Apathy[n]Syndrome. I didn't rescue them in time...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}It seems there is no one missing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Information of a new missing person[n]has been posted on the bulletin board...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There are missing people who[n]haven't been rescued yet...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}View currently missing people]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}View past missing people]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Finish viewing]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}No one has been found yet...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}（Ｖ）　[n]（Ｖ）　[n]（Ｖ）　[n]（Ｖ）　[n]（Ｖ）　[n]（Ｖ）[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

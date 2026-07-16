@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_102_151_001.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_151_001.uasset" dialogs="19">
+  <Dialog id="0" name="SEL_SEED_CHOOSE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 0}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 1}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 2}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 3}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 4}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 5}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_SEED_GROWTH" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like the produce can be harvested...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_SEED_THINK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I plant...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_SEED_PLANTED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I planted the {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_SEED_HARVEST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I can harvest them[n]from {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27} onwards.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_SEED_DAY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like it can be harvested on {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_PLANT_CHOOSE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Plant]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't plant]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MND_PLANT_AGAIN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I plant something...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_SEED_TUTORIAL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's the rooftop planter that[n]I was told to take care of.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_NO_PLANT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Nothing is planted in the soil of the planter.[n]Looks like we can plant some seedlings...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_NO_PLANT_DORMITORY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, I don't think I've planted[n]anything in the rooftop planters yet...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_PLANT_ALREADY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The {f 4 4 1 37 0 0} has been planted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_PLANT_MORE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The harvest has increased. Maybe it's[n]because I studied how to grow them well...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_PLANT_CAN_NOT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I won't be able to harvest it[n]before the Promised Day, January 31st...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I often took care of the plants[n]here with my dormmates...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Through cultivating the crops together, I was[n]able to deepen the bonds with my friends...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I took care of the plants together[n]with my dormmates now and then.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to that, we were able to[n]harvest some high-quality produce...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_034_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Nothing has been planted[n]in the rooftop planter...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_PLANT_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There should still be produce in the rooftop[n]planter that has yet to be harvested.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should harvest those first...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_PLANT_LAST_DAY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll come harvest these if we get[n]through the Promised Day safely...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

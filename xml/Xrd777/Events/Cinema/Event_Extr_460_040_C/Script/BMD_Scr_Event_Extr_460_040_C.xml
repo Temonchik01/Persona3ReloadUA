@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Scr_Event_Extr_460_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_460_040_C\Script\BMD_Scr_Event_Extr_460_040_C.uasset" dialogs="14">
+  <Dialog id="0" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari Takeba{f 4 27 2 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei Iori{f 4 27 3 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Akihiko Sanada{f 4 27 4 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru Kirijo{f 4 27 5 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis{f 4 27 7 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ken Amada{f 4 27 8 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru{f 4 27 9 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Shinjiro Aragaki{f 4 27 10 0}]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Skill Recall[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I choose...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Junpei?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Yukari?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Sanada?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Mitsuru?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Koromaru?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Aigis?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Amada?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Aragaki?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'd like to use the store's service...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}However, there is no one[n]who has a skill to recall.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_600_827_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_827_C\BMD_Event_Cmmu_600_827_C.uasset" dialogs="26">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 0 0 0 1 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Mitsuru... That section won't be covered on the exam.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Oh... Sorry. I'm having some difficulty concentrating.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 6 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Guess that's to be expected with everything going on... I'm not immune to it either.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 6 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Sorry, {f 4 1}. I know we're the ones who invited you to study, but... Well, just look at us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's not your fault.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}We need to press on.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Wanna sing a song?]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Heh... We're making you worry, aren't we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Definitely feels like we're the ones getting the most worked up about it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}I do understand that... But not everyone can carry themselves like you do.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 4 1 25 25}But I suppose as your senpais, we should be showing you a little more dignity.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}You do have a point.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}You're so relaxed, it's almost scary.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}If you're hiding how you really feel, I'd say you're doing a good job of it. But in your case...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Yes, I doubt it's an act. This is just who he is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Well, we can't let ourselves be outdone, now can we?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Rain or shine, this is still the last exam we'll ever take as high school students. All the more reason to give it our all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}You're right—there's no excuse for slacking. It's time to prove what these last three years have led up to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Ooh, I see the fire in your eyes. At this rate, I may have to relinquish my position as top student.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 5 0 25 25}That said, test results are but a single measure. What truly matters is that we continue to improve ourselves.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 5 1 25 25}May we both make this a triumphant finale to our time here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="SEL_014_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Back to normal, I see.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Talk about a heated rivalry...]]></Option>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}Sorry for causing you concern. Rest assured, we're both in the right mindset now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Heh, and who's the one who stoked the flames? I expect you'll see this study session through to make up for that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Well, I think we've dallied enough. We'll need to make up for lost time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can sense a strong motivation[n]from Mitsuru and Sanada...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I'm focusing better than usual...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Whoa... Didn't realize so much time had passed. Guess I was in the zone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}I don't think I've been able to focus this well in a long while. I've just finished reviewing the material.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SEL_021_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You two were serious, huh?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I could barely keep up...]]></Option>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Serious? Heh, not even close. But I guess that means we've earned a bit of your respect back.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Heh, that so? Well, I guess that means we've earned a bit of your respect back.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}We're almost through this. Keep at it, you two.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Cool, guess that's that. Now all we gotta do is ace the exams.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

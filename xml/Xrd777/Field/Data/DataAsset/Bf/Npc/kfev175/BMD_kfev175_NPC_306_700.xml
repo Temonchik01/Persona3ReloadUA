@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_kfev175_NPC_306_700.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev175\BMD_kfev175_NPC_306_700.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 6C 75 62 2D 44 69 74 63 68 69 6E 67 20 53 74 75 64 65 6E 74">Club-Ditching Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}Oh, you're that transfer student. You gonna join a club or something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm planning to.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm still thinking about it.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}Oh yeah? You won't be able to join right away though. I hear a lot of them are at max capacity.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}Well, just keep an eye out for an open spot. They might start recruiting again in late April.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}Well, club activities suck anyway. You have to socialize and be considerate of other people.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 306}I guess it's a good way to make new friends, but I also just wanna enjoy high school, you know?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

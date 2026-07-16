@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_100_320_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_320_C\BMD_Event_Main_100_320_C.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="49 67 6F 72">Igor</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}It's so good to see you again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}You lost consciousness after awakening to your "power."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Ooh, I see that it was Orpheus who heeded your call. Very interesting...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}That was the power of Persona... The manifestation of your psyche.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Persona?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}My psyche?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't understand.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}A Persona is a facet of your personality that surfaces as you react to external stimuli...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}You can think of it as a mask that protects you as you brave many hardships.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A mask?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't get it.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}The power of a Persona is the power of one's soul... And the soul is fueled by the depth of one's bonds.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}As you form these bonds by becoming involved with others, your own Social Links will gradually develop.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}The strength of these Social Links will foster the growth of your Persona abilities.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Please remember this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Now, then...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Time marches on in your world.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}I shouldn't keep you here any longer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Next time we meet, you will come here of your own accord.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Until then...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Farewell.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_170_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_170_060_C\BMD_Event_Main_170_060_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Pharos</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Hi, it's been a while.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Three seasons have passed since we met...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Time goes by so quickly, and in that time, many things change.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}But at the same time, some things in this world will always remain the same...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Don't you agree?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_001_5_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Everything changes.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}If that's what you say, then it must be true.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Hmmm...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}If that's what you think, then maybe you're right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Hehe, I know what you mean.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}No matter how hard we try, we can't predict the future.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Talking with you has stirred up certain memories...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}...Like that tower, for one.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}It's been on my mind a lot lately.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 3 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}I wonder... Will our relationship stay the same?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Or, will it evolve...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 3 -1 -1 0 0}{f 3 1 0 0 0 17 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}No matter what the future holds, you and I will always be friends.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}...That much is certain.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}For some reason... Pharos is smiling sadly.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I sense a stronger bond with him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}I'll see you again. But until then, good night.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

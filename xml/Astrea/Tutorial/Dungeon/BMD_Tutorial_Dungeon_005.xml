@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_005.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_005.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="52 65 74 75 72 6E 69 6E 67 20 66 72 6F 6D 20 74 68 65 20 41 62 79 73 73 20 6F 66 20 54 69 6D 65">Returning from the Abyss of Time</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can use the stairs in the Desert of Doors to return to the dorm. Doing so will fully restore your HP and SP.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}{f 0 1 2}The layout of the Abyss of Time will change{f 0 1 27} each time you enter it. {f 0 1 2}Treasure chests you have already found can be rediscovered{f 0 1 27} as well, so returning could be a good idea if you find yourself stuck.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

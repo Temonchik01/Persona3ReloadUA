@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_140_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_020_C\BMD_Event_Main_140_020_C.uasset" dialogs="23">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="4" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 1 0 0}...And that's the summary of what happened on the night of the 7th.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 2 0 0}These Shadows seem to be quite a bit more formidable than the ordinary ones.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I see. So our enemies are growing stronger as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Well, it's not all bad news. In fact, I called today's meeting because—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 5 0 0}Hold on.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 6 0 0}Before we go on, I'd like to ask Kirijo-senpai something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 7 0 0}Oh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 8 0 0}I know I'm not the only one thinking this. So much has been happening lately...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 9 0 0}I feel like I've just been getting dragged along without really understanding anything. But now, I want answers.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 10 0 0}So I'm gonna ask you straight out.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 11 0 0}You've been hiding something from us, haven't you, Senpai?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 12 0 0}You're always acting like you don't know anything about the Dark Hour or Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 13 0 0}But they're connected to that {f 0 1 33}accident ten years ago{f 0 1 27}, aren't they?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 14 0 0}What accident?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 1 -1 0 0}{f 3 1 1 0 0 15 0 0}Y-Yukari-chan...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 16 0 0}There was an explosion near our school, and a lot of people died.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 17 0 0}It must've been big news back then. You know about it, don't you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 18 0 0}...Yes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 19 0 0}Luckily, no students were injured. But something is off here.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 20 0 0}At the time of the incident, there were several unexplained absences.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 21 0 0}Seems like more than just a coincidence to me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 22 0 0}What do you mean?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 23 0 0}Well, I dug up some old school records, and found something interesting.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 24 0 0}Those students weren't just absent. They all suddenly collapsed and had to be sent to the hospital![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 25 0 0}Sounds familiar, doesn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 26 0 0}Remember those girls who bullied Fuuka? They had to be hospitalized too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 1 -1 0 0}{f 3 1 0 0 0 27 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 28 0 0}I want an explanation![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 29 0 0}What really happened on the day of that accident?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 30 0 0}The Kirijo Group built our school, so you have to know something![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 31 0 0}Tell me the truth![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 32 0 0}I wasn't trying to hide anything from you. It just never seemed relevant.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 1 -1 0 0}{f 3 1 1 0 0 33 0 0}But...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}It's okay. It's not your fault.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 35 0 0}All right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 36 0 0}I'll tell you everything.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 37 0 0}Shadows have many mysterious abilities.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 38 0 0}Some research indicates they can even affect time and space.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 39 0 0}We think of them as our enemies, but what if we could somehow use them to our advantage?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 40 0 0}They could be a source of unimaginable power, couldn't they?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_020_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 0 0 0 41 0 0}What...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 42 0 0}Fourteen years ago, one man pursued that very line of thinking.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 43 0 0}He was the former leader of the Kirijo Group, Kouetsu Kirijo.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 44 0 0}...My grandfather.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

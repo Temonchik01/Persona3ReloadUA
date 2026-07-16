@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_002_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_002_020_C\BMD_Event_Cmmu_002_020_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Hmm... Lilies are too fragrant, and roses aren't really my thing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 2 1 25 25}Maybe gerberas...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Oh, sorry![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I'm redecorating my room, and was thinking of getting some flowers to go with it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I think I'll go with the gerberas. What color do you think should I get?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cute pink.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Pure white.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Bright red.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's a gerbera?]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 13 7 15 2}You think so? I like pink too![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I guess we have the same taste, huh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Then it's decided! I'll get these.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}White? Isn't that kinda boring?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Bright red? Wouldn't that stand out too much?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Are you serious?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 2 3 25 25}Come on, you should know this kind of stuff.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Hmm... Come to think of it, gerberas by themselves might be a little plain...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}What other flowers do you think would look nice?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 2 6 25 25}Oh wait, you've never seen my room, have you? Well then, why am I even asking you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's mean.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Invite me over, then.]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 5 13 7 5 2}Hehe... But it's the truth![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}You wish! I'm not falling for that trick.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 2 1 25 25}Haha, you're as bad as Junpei.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}To be honest, any flowers would be fine if they were from you, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 11 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 2 11 25 25}...Just kidding! Ahaha.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems to be full of laughter today.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems we've grown closer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SYS_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Not used[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Wow, look at the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Gosh, what should I get...? I'm actually a pretty indecisive person.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Hmmm... A ranunculus wouldn't be bad either...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After hanging out with Yukari,[n]I decided to return to the dorm...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

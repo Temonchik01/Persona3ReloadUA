@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BtlEvent701.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\701\BMD_BtlEvent701.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_701_000" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}I've never seen one this big before, but there's no time... We have to end this, now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_701_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 2 -1 0 0}Ngh... It called in reinforcements! Just what we needed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_701_2_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 3 1 1 0 2 1 0 5}It sped up the monorail!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_701_2_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 8 -1 50 0 0}{f 3 1 1 0 2 2 0 5}There's even less time until impact now! Hurry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_701_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}Hurry how!? Arrgh, we gotta take it down soon...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_701_2_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}The monorail is going even faster now! You're running out of time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_701_3_1" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}Oh man, we're in deep shit here...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_701_1_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 1 0 2 3 0 5}Hey! Are you all right!? Say something![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

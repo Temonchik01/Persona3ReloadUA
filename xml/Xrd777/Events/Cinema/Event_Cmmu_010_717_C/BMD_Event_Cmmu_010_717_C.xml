@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_010_717_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_010_717_C\BMD_Event_Cmmu_010_717_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}It's nice that we don't have as much crap to deal with up here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}There aren't as many weeds or pests on the roof, and no moles or other critters that'll dig our plants up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_010_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Still gotta watch out, though...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 10 1 25 25}Some hungry asshole might try to help himself to the whole crop.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Normally, that wouldn't happen.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They're getting executed.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sorry about that...]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 10 1 25 25}Yeah. Normally...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 10 1 25 25}...Didn't know you were so hot-blooded.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 10 0 25 25}Most of us here are decent and mature enough that we'd ask before doin' something like that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_013_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 10 1 25 25}...With one exception.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 10 0 25 25}Nah, you're fine. You're the one growin' 'em, after all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Just know when to hold back. Don't end up like a certain other dumbass around here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}...I mentioned I did a bit of gardening back at the orphanage, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}If someone sneaks a bite, it's no big deal, but this one time some older kids stole our whole crop...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_015_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Aki got so pissed when that happened.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}He went after 'em all by himself, even though they were twice as tall as he was...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_015_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}...Then again, that's probably not much different from how he is now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}He hasn't changed at all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Compare that to these guys, growing bigger every day...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tended the plants with Aragaki...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}This should be good for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to the care we put in, it looks[n]like the plants will grow nicely...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}You can head on back.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}I'll stay and finish up. You can thank me by helpin' out again sometime.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_NPC_003_500.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_003_500.uasset" dialogs="57">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_Temperance" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Right now, the Temperance Arcana[n]may help me grow even more...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4061 0 0}I've already read most of the books here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Oh, are you here to look for a book, too? The ones in this section are a little difficult though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_500_0802_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4009 0 0}Today seems like a good day to simply rest and spend the night in peace and quiet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Perhaps I should read a book tonight, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}I hear reading has been proven to relieve stress. If you've the time, would you care to join me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading together with Mitsuru might[n]help improve my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4104 0 0}Do you have a book to read? If you'd like, I could lend you something from my collection.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, please.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4103 0 0}Oh, would you like to read a book, too?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Then shall we read together? You could choose a book from here if you want.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_500_0802_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4104 0 0}Oh, you're here to read as well? I had assumed you'd be exhausted after the tournament.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}I see you're quite engaged in both academics and sports. Let's read together again, shall we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_004_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading together with Mitsuru might[n]help improve my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}There are a couple biographies I recommend. What do you think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not today.]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}If you're not too busy, would you care to join me, {f 4 1}?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Actually, I'd love to hear your opinion on this one book.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_500_0802_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}I know you must be tired after the tournament, but do you have some time to spare tonight?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Actually, I'd love to hear your opinion on this one book.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like there's a book[n]Mitsuru wants me to read.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading together with Mitsuru might[n]help improve my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru might gain a new ability soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Whenever you have time is fine. So, what do you say?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}I just wanted to take a break from everything, to just sit down and read...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Would you care to join me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_500_0802_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}I can't say if it'll be a good change of pace from your tournament, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If you're in the mood, shall we read together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Mitsuru will gain any[n]more skills even if we read together...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But if I spend time reading with her,[n]my {f 4 30 0 1 1 0} might improve.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If you don't mind, I could lend you another one of my recommendations.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="SEL_014_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll think about it.]]></Option>
+  </Dialog>
+  <Dialog id="21" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4062 0 0}All right, I'll go grab that book for you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4113 0 0}I see. Well, let me know if you ever feel like reading together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4104 0 0}Did you need something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading together with Mitsuru might[n]help with my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But it doesn't seem like Mitsuru will gain[n]any more skills even if we read together...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading together with Mitsuru might[n]help improve my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Is this about us reading together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="SEL_021_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, let's.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="28" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}Oh, it's you. Do you have some time to spare right now?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}The company heads gifted me some quality tea leaves. I'd be happy to serve you a cup.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}In order to better appreciate the tea blend, it's better to brew enough for two, you see.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_500_0616_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}Oh, it's you. Do you have some time to spare right now?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}Now that the kitchen has been cleaned up, I was considering putting it to use.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}I happen to have some quality tea leaves from the company heads. I'd be happy to serve you a cup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_500_0831_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}Oh, it's you. Do you have some time to spare right now?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}I happen to have some quality tea leaves from the company heads. I'd like to serve you a cup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_501_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}There are only five more days until the next full moon... So think of this as a little stress reliever.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru asked me to join her for tea.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend some time with Mitsuru?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}What do you say?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="SEL_025_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's have tea.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No, thank you.]]></Option>
+  </Dialog>
+  <Dialog id="35" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4066 0 0}If you have the time, would you care to join me for some tea again?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I'd like to brew a different blend this time. It also happens to be one of my favorites.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_500_0831_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4074 0 0}There's going to be a full moon soon... Though I doubt you're nervous about it at all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If you'd like, we could have tea together. I've prepared a different blend from last time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MND_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru asked me to join her for tea.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend some time with Mitsuru?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If you don't mind, I'd like you to join me for a cup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="SEL_029_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, I'll have some tea.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a bit busy today...]]></Option>
+  </Dialog>
+  <Dialog id="40" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}Ah, {f 4 1}. If you're free, why don't you join me for some tea?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I'm planning to change things up this time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_500_0831_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}Oh, {f 4 1}. If you're available, how about joining me for some tea?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}With our next battle coming up, it wouldn't be such a bad idea to relax a bit, don't you agree?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I'm planning to change things up this time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can sense Mitsuru's quiet determination.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru might gain a new ability soon...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend some time with Mitsuru?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Before I start brewing the tea, there's something I want to do. Would you like to join me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="SEL_033_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, I'd love some tea.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll think about it.]]></Option>
+  </Dialog>
+  <Dialog id="45" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}I'm thinking of taking a break from everything... A cup of tea would be nice.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Would you like to join me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MND_035_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Mitsuru will gain any more[n]new skills even if we spend time together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If we have any leftovers again, they're all yours. What do you say?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="SEL_037_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'd love to, madam.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No, thank you.]]></Option>
+  </Dialog>
+  <Dialog id="49" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4038 0 0}Wonderful. I'll start the preparation.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4113 0 0}All right. Then let's head to the kitchen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4113 0 0}...Very well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_041_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4103 0 0}Oh? Did you want to have some tea after all?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MND_042_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Mitsuru will gain any more[n]new skills even if we spend time together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MND_043_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend some time with Mitsuru?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_044_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I'll pour you a cup if you have the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="SEL_045_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please and thank you.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+</BMD>

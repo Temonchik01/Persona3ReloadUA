@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_109_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_030_C\BMD_Event_Cmmu_109_030_C.uasset" dialogs="32">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+    <Speaker id="1" rawBytes="47 61 72 69 73 68 20 53 74 75 64 65 6E 74">Garish Student</Speaker>
+    <Speaker id="2" rawBytes="4C 61 7A 79 20 53 74 75 64 65 6E 74">Lazy Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}A treasurer who's not even good at math... Doesn't that sound pathetic?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I never even wanted this job... Someone else entered me into the running. I didn't think I would actually get elected though...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}...Oh! But I don't regret joining the student council or anything.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}If I hadn't joined, then I wouldn't have met such kind people, like you, or the president.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 150}...Shut up. You're distracting us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Oh...! I-I'm... I'm sorry...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}{f 5 21 0 150}If you're gonna flirt with each other, go do it outside.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 100}I'm so tired of this. I can't even pick up my pencil anymore.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 100}...But if you give me a kiss, maybe I can study for another thirty minutes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 150}What're you going on about now...?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 150}C'mon, you gotta take this seriously. Don't you want us to go to the same college?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 100}Just gimme a kiss! Please![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 13 0 0}{f 5 21 0 150}...All right, fine.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}They're really gonna kiss...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}...Do they not know where they are!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They have no shame.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They're gonna kiss...?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Where did they go?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 5 13 9 5 109}That's right, {f 4 1}-san! I agree![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}This is supposed to be a place of learning. And they're still just kids![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}That's not what's important right now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}This is supposed to be a place of learning. And they're still just kids...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}I don't know! And I don't want to know![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}This is supposed to be a place of learning. And they're still just kids...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}So I say this, as a member of the student council...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}That kind of inappropriate behavior should not be tolerated at school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}We should notify the student council president right away, and discuss this at our next meeting![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="SEL_020_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I agree.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's kind of extreme...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You don't like kissing?]]></Option>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 5 13 9 5 109}If you're on my side, {f 4 1}-san, then I have nothing to fear![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}...I'm sorry. I shouldn't be raising my voice in the library...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}What do you mean by that? You... You really don't think it's a big deal!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Ah... I'm sorry. I shouldn't be raising my voice in the library...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Th-That's not the point here! I'm just trying to say that there's a time and place for everything![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}...Oh no, I...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}I shouldn't be raising my voice in the library...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}I-I don't mind if I get in trouble, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}I don't want you to get criticized too, {f 4 1}-san...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can tell Chihiro is concerned about me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Oh, I didn't notice the time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Um... I think I'm going to be stuck here for a while, so... you don't need to wait for me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with Chihiro, then[n]headed back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

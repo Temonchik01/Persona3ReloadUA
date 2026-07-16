@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BtlEvent802.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\802\BMD_BtlEvent802.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_802_1_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 2 1 0 5}The enemy's attacks are growing stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_802_1_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 1 0 2 2 0 5}If you're being overwhelmed by the enemy's assault, protect yourselves by guarding.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_802_1_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 1 0 2 3 0 5}When you guard, even if your weakness is struck, you can avoid being knocked down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_802_1_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 1 0 2 4 0 4}Try and make use of that in battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_802_2_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 5 0 5}The enemy's attacks are growing stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_802_2_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 6 0 5}If you're being overwhelmed by the enemy's assault, protect yourselves by guarding.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_802_2_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 7 0 5}If you're guarding, then even if your weakness is struck, you can avoid being knocked down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_802_2_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 8 0 5}Try and make use of that in battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="TRL_802_1_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By guarding against an enemy attack, you can halve damage received.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="TRL_802_1_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Furthermore, you will avoid being knocked down, even if your weakness is struck.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="TRL_802_1_3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If an enemy is winding up for a powerful attack, or if you think your weakness will be targeted, try guarding to play it safe.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

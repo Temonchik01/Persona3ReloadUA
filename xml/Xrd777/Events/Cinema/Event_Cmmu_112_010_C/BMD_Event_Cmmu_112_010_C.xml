@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_112_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_112_010_C\BMD_Event_Cmmu_112_010_C.uasset" dialogs="29">
+  <Speakers>
+    <Speaker id="0" rawBytes="42 65 62 65">Bebe</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Yatta, yes! This is my finest sewing work yet![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The foreign exchange student I met[n]at the bookstore is busy sewing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I should say hi.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Better leave him alone.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Oh!? Bonjour, {f 4 2}-dono![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 1 25 25}I haven't seen you since the bookstore![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Hm, who's there!? Who dares enter the sacred home economics room?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Oh!? Bonjour, {f 4 2}-dono![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}You came![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}What a pleasant surprise! I am so happy to see you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What are you doing?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You know my name?]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}I am training in the art of sewing![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Oui, I asked the teacher.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 1 25 25}And from what I hear, you and I are in the same grade! How lucky![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I am in this fashion club in order to hone my sewing craft.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 1 25 25}Would you like to join me, {f 4 2}-dono? It is tanoshii—very fun![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}If I may be so bold, would you sign up for my club?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, I'll join.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Honto!? Really!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}But club activities are very easy![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}You could just come by whenever you feel like! Onegaishimasu—please...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bebe's starting to beg...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}How am I supposed to say[n]no now? Guess I'll just join...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Katajikenai—many thanks! I am thrilled to have a new member![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 1 0 25 25}I am here on {f 0 1 2}Tuesdays, Wednesdays, and Fridays{f 0 1 27}. But it may be closed when we have exams.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}I have not made any good tomodachi—friends, so it is very sabishii—very lonely. Maybe it is because I do not fit in.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_015_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}But now you are here, {f 4 2}-dono! The divine fates have brought us together![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I ended up joining the fashion club.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've gotten to know Bebe,[n]the foreign exchange student.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Whoa! Look at the time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_017_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Well then, au revoir, {f 4 2}-dono.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_017_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}...Oh, that's right![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 1 0 25 25}I was wondering, what is the best way to say bye to a friend? As in, what is the most culturally accepted?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="SEL_018_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just a simple "See you later."{f 2 9 1 1 611}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A cool and chummy "Peace out."{f 2 9 1 1 612}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A stately "Until we meet again."{f 2 9 1 1 613}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A theatrical, intense "I'll be back."{f 2 9 1 1 614}]]></Option>
+  </Dialog>
+  <Dialog id="24" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}I understand perfectly! See you later![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}I understand perfectly! Peace out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}I understand perfectly! Until we meet again![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}I understand perfectly! I'll be back![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with Bebe[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

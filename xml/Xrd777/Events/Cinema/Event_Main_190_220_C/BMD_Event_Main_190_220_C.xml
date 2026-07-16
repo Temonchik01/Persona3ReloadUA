@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_190_220_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_190_220_C\BMD_Event_Main_190_220_C.uasset" dialogs="30">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
+    <Speaker id="3" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="4" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="5" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We transferred to a tour bus[n]after arriving at Kyoto Station.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The sun has already set...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Higashiyama-Sanjo, Godaigo Inn...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 1 0 0}And here we are![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 2 0 0}Whoooa, nice place![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 3 0 0}Yeah, this part of town is pretty fancy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Hey, what's that umbrella for?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fashion.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}In case the roof leaks.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Wanna get under it?]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Ah, I see. So, that's the style here in Kyoto, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 11 1 25 25}So, which way to the geishas? You think we can ask them to put on a show?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Huh? But this is the first floor! Guess these old Kyoto buildings have all sorts of surprises.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 11 1 25 25}So, which way to the geishas? Think we can ask them to put on a show?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I get the feeling it's for good luck, you know?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}So, which way to the geishas? Think we can ask them to put on a show?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 11 0 0}Oh, that's right, I forgot about that! Hope it's not too pricey![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 2 -1 0 0}{f 3 1 1 0 0 12 0 0}Keep dreamin', Junpei.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 13 0 0}The stone area outside is filled with water.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 14 0 0}Is this one of those open-air hot springs I've heard about?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yep!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's the courtyard.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you find out?]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 2 -1 0 0}{f 3 1 1 0 0 15 0 0}Wha— N-No, Aigis! A bath wouldn't be so out in the open like this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_5_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 2 -1 0 0}{f 3 1 1 0 0 16 0 0}Come on, don't lie to her![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 2 -1 0 0}{f 3 1 1 0 0 17 0 0}Right, this is the courtyard. Wanna go out for a walk later, Aigis?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 2 -1 0 0}{f 3 1 1 0 0 18 0 0}N-No! Aigis, you can't go in there![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 2 -1 0 0}{f 3 1 1 0 0 19 0 0}A bath wouldn't be so out in the open like this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_5_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 2 -1 0 0}{f 3 1 1 0 0 20 0 0}Come on, don't lie to her![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 21 0 0}So, Ryoji. Where was your old school plannin' to go for their trip?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 22 0 0}Probably somewhere cool like another country, I bet. Kyoto's so typical, don't ya think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Hm? Me?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}A trip... Hmm, did we even have one?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 25 0 0}How do you not know? That's an event most people tend to remember.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_019_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}It is?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_020_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 5 21 0 1}All right, you can all chat later. You're blocking the hallway.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 5 21 0 1}Girls, your rooms are that way. Go on and get yourselves unpacked.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 29 0 0}You heard her.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_022_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 2 -1 0 0}{f 3 1 1 0 0 30 0 0}We'll see you later, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 2 -1 0 0}{f 3 1 1 0 0 31 0 0}Yeah, we'll see you later, {f 4 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_024_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 2 -1 0 0}{f 3 1 1 0 0 32 0 0}Yes, I shall see you later, Yukari-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_025_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 2 -1 0 0}{f 3 1 1 0 0 33 0 0}Okay, okay, enough of this![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 2 -1 0 0}{f 3 1 1 0 0 34 0 0}Aigis, you're with us! Junpei, guys' room![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 2 -1 0 0}{f 3 1 1 0 0 35 0 0}Maaan.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_027_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 2 -1 0 0}{f 3 1 1 0 0 36 0 0}Maaan.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

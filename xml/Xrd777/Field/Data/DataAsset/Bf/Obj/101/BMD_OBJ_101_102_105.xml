@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_101_102_105.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\101\BMD_OBJ_101_102_105.uasset" dialogs="25">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Exam results have been posted here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Midterm exam results for the first[n]term have been posted here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Final exam results for the first[n]term have been posted here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Midterm exam results for the second[n]term have been posted here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Final exam results for the second[n]term have been posted here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I scored the highest in my grade.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'm in the top ten.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I earned a pretty high score.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I scored a little higher than average.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'm closer to the bottom than the top.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Look at second-years' results]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Look at third-years' results]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Whose name should I look for?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stop looking]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari scored about average.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari scored above average.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Junpei's score is quite low.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Junpei's score is average.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka did well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Aigis scored below average.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Aigis did not take the test.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="SEL_020_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stop looking]]></Option>
+  </Dialog>
+  <Dialog id="21" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru scored the highest.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Sanada did well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Sanada's score is very high.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bulletin Board[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

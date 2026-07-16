@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldHit_Tartarus_Battle_Elizabeth.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_Battle_Elizabeth.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Елізабет</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_ELIZABETH_TALK" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Дякую за чудовий час.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}А тепер, будь ласка, пройди до входу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Мені треба дещо обдумати.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Побачимося знову в Оксамитовій кімнаті.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_000" type="Message"/>
+  <Dialog id="2" name="MND_001" type="Message"/>
+  <Dialog id="3" name="SEL_000" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні]]></Option>
+  </Dialog>
+</BMD>

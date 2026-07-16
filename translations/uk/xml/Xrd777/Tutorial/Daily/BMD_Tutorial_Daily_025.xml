@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Daily_025.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Daily\BMD_Tutorial_Daily_025.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="52 65 63 65 69 76 69 6E 67 20 49 6E 76 69 74 65 73 20 6F 6E 20 44 61 79 73 20 4F 66 66">Receiving Invites on Days Off</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Some of your Social Links might invite you to hang out on days when you don't have school. Spending time with friends will give you a chance to build your relationships.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Saying yes to an invitation will {f 0 1 2}automatically fill your schedule for that afternoon{f 0 1 27}, and your free time will be dedicated to that hang-out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}If someone sends you an invite message, you don't need to respond immediately. However, the hang-out will no longer be available if you don't respond the day you receive the invitation.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

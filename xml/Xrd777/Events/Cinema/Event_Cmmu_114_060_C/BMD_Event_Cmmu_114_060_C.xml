@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_114_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_060_C\BMD_Event_Cmmu_114_060_C.uasset" dialogs="21">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Oh, it's you...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 114 3 25 25}Hey, can ya help me out, kid...? I don't feel so good...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Dammit... I can't believe I let this happen... How pathetic...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Ugh... I'm in bad shape...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you okay?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You should go home.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I just told you I'm in bad shape, didn't I!? Don't piss me off, kid. It's making my headache worse...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I'm not gonna waste my breath repeating myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 5 13 17 15 114}Yeah, you're right, kid... I should go home and sleep...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}But, even if I go home...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I completely forgot I have a memorial service to conduct... Reciting the Heart Sutra with a hangover is gonna be rough...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Back in the day, all I needed was a cold shower, and I'd be fine no matter how much I drank. I guess I'm gettin' old, huh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}It's always in times like these... ah... when it's hardest to be alone...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You live by yourself?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Do you have any coworkers?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}You act like you don't care about others, kid, but you sure can be nosy when you want to.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}I got all these gaudy rings on now, but I used to wear a wedding ring, ya know.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 17 5 114}Hm? You asking if there are other monks at my temple?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}My temple's small, and I don't depend on nobody but myself. I'm the only one there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}If ya think about it, it's better to be alone... Less stress.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}You don't hafta wait for someone else to get outta the bathroom when ya need to go. My son took forever in there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}...Yeah, livin' alone is the way to achieve peace and serenity![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}...Everything we see has form. No form has permanence. It's all in constant motion.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}Form has no self... Its true face is that of "emptiness."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}And yet, form is emptiness, and emptiness is form. No two things in this world are the same.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Well, to put it simply...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_8_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}No matter how hard you try to live your life right, someone else can always mess it up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Because form is emptiness, and emptiness is form...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 114 1 25 25}Maybe getting involved with you messed up my life a bit, too. Heheh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Contrary to his words, I can sense[n]feelings of affection from Mutatsu.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I understand[n]Mutatsu a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}I'm gonna go home, kid... My head's killin' me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Oh, yeah, about the memorial service... It was a seventh-day memorial.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Kid was only nineteen... A random murder victim. What a harsh world we live in...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}You be careful on your way home too, kid.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to Mutatsu[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

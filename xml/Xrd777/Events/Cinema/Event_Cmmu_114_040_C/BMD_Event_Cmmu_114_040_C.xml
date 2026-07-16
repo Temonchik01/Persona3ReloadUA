@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_114_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_040_C\BMD_Event_Cmmu_114_040_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I was just thinkin' you might show up... and here you are.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 114 2 25 25}Hey, don't get the wrong idea, kid. It's not like I was lookin' forward to seein' ya or anything.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Anyway, what's the deal with your hair, kid?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 114 0 25 25}Doesn't it get in your eyes? Is that the style nowadays...? My son kept his hair long, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 114 1 25 25}You should cut it. No, better yet, shave it all off... Give the bald look a try.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, that might look cool.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, I dunno...]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 13 17 15 114}You got a good attitude, kid. You do get what I'm sayin', don't ya?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I'm not talkin' about fashion here, y'know. I'm sayin' you'd be better off without your hair.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}The hell is that supposed to mean? Is that a yes or a no?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}What, you're not givin' me a clear answer 'cause I'm bald?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Oh, sure, you're young and good-lookin' now, but just you wait...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I mean, look at me. I'm old and ugly... My cheeks sag like a damn bulldog's.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}That's life, kid. People get old. Someday you'll be just like me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}One day in the future, you'll see your mug in the mirror and think...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}"Damn, I was handsome back in the day..."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Here's a little trick so you don't lose hope in the future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}...Just don't expect nothin'. Simple, eh? And that way you won't ever be disappointed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}You're gonna lose your hair eventually, kid, so why bother with it now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_006_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Bald is beautiful. You just wake up in the mornin' and go. No fuss.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}You'll need a hat for the winter, but I say go for it. I'll spot you money for a shave, and some clippers if you're short.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I saw through Mutatsu's harsh[n]words and felt his kindness.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I understand[n]Mutatsu a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}What, is all my talkin' putting you to sleep?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Well, ya can't sleep here, kid. Go home and rest in your own bed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to Mutatsu[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

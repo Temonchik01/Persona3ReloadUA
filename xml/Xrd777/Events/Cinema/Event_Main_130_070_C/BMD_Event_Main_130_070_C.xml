@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_130_070_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_130_070_C\BMD_Event_Main_130_070_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Hello, everyone.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I gathered you all here because I wanted to let you know how my research has been going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}It concerns the Shadows that have been appearing during full moons.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Now, I want you to listen closely. It might be hard to follow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 22 0 222 25 25 20}Shadows can be divided into twelve categories, according to their characteristics.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}This, we've known for a while. We can think of it like their class or order.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 22 0 222 33 25 20}I've classified the special Shadows we've seen so far and, well, it's simply fascinating![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 8 0 0}Wh-Why're you so excited about it...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 9 0 0}So...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Ah, right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Those four Shadows belonged to Categories I through IV, in order of their appearance![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}They may have looked different than the more common ones, but the classification scheme still applies.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 13 0 0}And that's something we should be excited about?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 1 -1 0 0}{f 3 1 1 0 0 14 0 0}Oh, I get it. There are twelve in all.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 1 -1 0 0}{f 3 1 1 0 0 15 0 0}And eight we haven't seen yet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 4 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}That's exactly right, Yamagishi-kun! You're quite sharp.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 17 0 0}Oh, uh, okay. But, what are they after?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 4 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}That's a good question, and that's what we haven't figured out yet: their motive.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 4 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}They don't kill their prey; they feed on their minds.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 4 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}Now, it could be considered predation, but is it really? Is there actually an underlying intent behind their behavior?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 4 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 22 0 222 34 25 37}The purpose of the Shadows as a whole... That's what we need to consider.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 22 0 0}This is interesting.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 23 0 0}But no matter what their intent, we still have to beat the rest of 'em.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 24 0 0}I agree.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 25 0 0}That's about all we can do at this point.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 26 0 0}Eight more, huh? Lucky us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 1 -1 0 0}{f 3 1 1 0 0 27 0 0}According to the data, each one has been stronger than the last. That means we better start training harder.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 28 0 0}We'll manage. We've got plenty of time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 29 0 0}But why does Tartarus even exist in the first place...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 1 -1 0 0}{f 3 1 0 0 0 30 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 0 0 0 31 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The puzzle pieces are falling[n]into place, one by one...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Those large Shadows that only[n]appear on the full moon...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I wonder what their purpose is...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Eight more remain...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We have a long road ahead of us.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

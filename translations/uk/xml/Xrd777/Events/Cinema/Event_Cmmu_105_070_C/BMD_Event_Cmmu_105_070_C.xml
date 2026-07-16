@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_105_070_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_070_C\BMD_Event_Cmmu_105_070_C.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 65 63 6F 6E 64 2D 59 65 61 72 20 43 6C 75 62 20 4D 65 6D 62 65 72">Член гуртка з другого курсу</Speaker>
+    <Speaker id="1" rawBytes="54 68 69 72 64 2D 59 65 61 72 20 43 6C 75 62 20 4D 65 6D 62 65 72">Член гуртка з третього курсу</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="3" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1001}Тобі не здається, що Міямото останнім часом якийсь повільний?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1002}Ага, вже не тягне свого звичного темпу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1001}Він серйозно думає, що з таким темпом дійде до національних?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 4 0 0}Раз вам нема чим зайнятись, то може допоможете мені з пранням?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 2 101 -1 0 0}{f 3 1 1 0 0 5 0 0}Тільки й вміють, що язиками тріпати...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 6 0 0}Кадз! Тренер кличе тебе в кабінет![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 7 0 0}Добре! Зараз буду![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 0 0 0 8 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 101 -1 0 0}{f 3 1 1 0 0 9 0 0}Гей, {f 4 1}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 101 -1 0 0}{f 3 1 1 0 0 10 0 0}Хоча... забудь. Думаю, на сьогодні з нас досить.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Після тренування я рушив[n] назад до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

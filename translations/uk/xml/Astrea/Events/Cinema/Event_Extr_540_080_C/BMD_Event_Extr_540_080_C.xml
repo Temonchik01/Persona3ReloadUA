@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_540_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_540_080_C\BMD_Event_Extr_540_080_C.uasset" dialogs="14">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 3 1 3 0 -1 7117 0 0}All right! That should do it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}What do you think? You could never tell how bad of a shape it was in before, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You get a gold star!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вражає!]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}{f 3 1 3 0 -1 7003 0 0}Come on, you don't have to say it like I'm a little kid.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 3 1 3 0 -1 7096 0 0}Hehe... Yeah, I guess.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}{f 3 1 3 0 -1 7132 0 0}I've been thinking I should do this kind of thing more.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}Before, if something was broken, I wouldn't really think about it much.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}But lately, I've started feeling like I should fix them up so they can keep being used.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's wonderful.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}We'll take good care of it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I should take after you.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 3 1 3 0 -1 7026 0 0}I only started thinking about it recently, so I'm probably not that good at it yet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 3 1 3 0 -1 7026 0 0}Yeah. As long as I have it, I'll fix it up as many times as it needs.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}{f 3 1 3 0 -1 7046 0 0}Well, if there's ever anything you need fixed, we can do it together![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 4 23 0 1 1 25 25}But I don't think I can promise that it'll always turn out well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}Everything falls apart eventually... That's why we have to take care of it all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 4 23 0 1 1 25 25}And if we take care of things well enough in the first place, they won't need as much fixing later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Amada-san seems to have come[n]to a profound understanding...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}{f 3 1 3 0 -1 7028 0 0}But I have to admit... It's kind of disappointing this turned out to be just some regular book.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}I mean, I could still read the pages before, so I kind of already knew that...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}I guess I was expecting something special since we found it in the Abyss of Time. Oh well.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

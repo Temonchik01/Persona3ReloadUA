@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_200_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_200_040_C\BMD_Event_Main_200_040_C.uasset" dialogs="13">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="43 68 69 64 6F 72 69">Chidori</Speaker>
+    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 52 -1 0 0}{f 3 1 1 0 0 1 0 0}Chidori! What's going on!? Talk to me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 213 2 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 52 -1 0 0}{f 3 1 1 0 0 3 0 0}Doing this doesn't make any sense![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 52 -1 0 0}{f 3 1 1 0 0 4 0 0}I mean, I know I'm not that smart, and I've done a lot of stupid things...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 52 -1 0 0}{f 3 1 1 0 0 5 0 0}But this? This is wrong! We shouldn't be fighting each other![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}{f 3 1 1 0 0 6 0 0}Junpei-kun! Look out![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 7 52 -1 0 0}{f 3 1 1 0 0 7 0 0}Whoa![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 52 -1 0 0}{f 3 1 1 0 0 8 0 0}Hey, that was close! You coulda killed someone there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 213 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Tch...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 52 -1 0 0}{f 3 1 1 0 0 10 0 0}Chidori...! Why!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 52 -1 0 0}{f 3 1 1 0 0 11 0 0}Get back, Junpei! Talking won't solve anything now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 52 -1 0 0}{f 3 1 1 0 0 12 0 0}It's too dangerous![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 5 52 -1 0 0}{f 3 1 1 0 0 13 0 0}I know how you feel, Junpei-kun! But please, just back up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_022_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 31 2 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 213 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Medea...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

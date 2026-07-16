@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_100_200_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_200_C\BMD_Event_Main_100_200_C.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Hmm... He's still sleeping.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}The Dark Hour occurs every day at 12 midnight. You could say it's the "hidden" hour.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}During this time, an ordinary person transmogrifies into a coffin, and is oblivious to all that occurs.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 4 0 0}Then, he must be...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}As you can see, he's retained his human form.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}He may be asleep, but he's definitely experiencing the Dark Hour.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}The only question that remains is whether or not he has the potential.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Though come to think of it, he must... If he didn't, they would've preyed on him by now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 9 0 0}Scary...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}In any case, we should continue to monitor him for a few more days.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 11 0 0}Yes, sir.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 51 -1 0 0}{f 3 1 1 0 0 12 0 0}I feel kinda bad, though, spying on him like this...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

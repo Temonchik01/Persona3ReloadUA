@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_105_055_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_055_C\BMD_Event_Cmmu_105_055_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Kazushi Miyamoto</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 4 101 -1 0 0}{f 3 1 1 0 0 1 0 0}Wh-Whoa! {f 4 1}![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 105 0 25 25}Man... I keep running into you at the weirdest times.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Back from the hospital?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Did you ditch?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 13 8 5 105}You remembered what we talked about last time? Nothing gets past you, eh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 4 0 0}No way. I'd never do that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 5 0 0}So, yeah... I just got back from the hospital.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 6 0 0}They had the results from my last exam.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 105 3 25 25}And well... {f 4 1}, I...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 8 0 0}Agh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 9 0 0}You gotta be kidding... Why can't I... stand up!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Take my shoulder!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll carry you!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll go get help!]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 8 15 105}Ngh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 105 1 25 25}Thanks.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 4 101 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 13 8 5 105}Dude! What the hell!? I'm not a kid![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 105 0 25 25}I appreciate the offer, though. Could I maybe just borrow your shoulder instead?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 14 0 0}W-Wait! I don't want to cause a scene![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 105 3 25 25}Please, it's fine. Could you maybe just lend me a shoulder?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 16 0 0}Funny, huh? All from just crouching down to tie my shoes...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 105 3 25 25}Good thing you were around. If it were anyone else, then the rest of the team would've found out.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 105 1 25 25}Thanks, man. I'm really grateful to have you as a friend.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Miyamoto seems to really appreciate me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming closer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 3 1 1 0 0 19 0 0}Alright, I'm gonna go train by myself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 105 0 25 25}Even if practice is over, I can't skip out on training. The big meet's not that far off.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 105 1 25 25}You're heading home, right? Then we'll train together next time. Take it easy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with Miyamoto[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

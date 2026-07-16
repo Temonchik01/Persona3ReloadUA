@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_IwatoStationArcade.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_IwatoStationArcade.uasset" dialogs="33">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="5" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_BOSS" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hang on a sec.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_OUT_STOP_SOUTH" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's no need to return[n]to the station right now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_OUT_STOP_EAST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The dorm should be in[n]the opposite direction...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_OUT_STOP_STAIR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head to the dorm for now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_OUT_STOP" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}If we don't deal with them now, they're liable to make a move.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Our target's just ahead. Let's get ready to fight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_GOTO_STATION" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_FUKA_LETS_GO" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Good luck.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_STATION_STOP" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}It's dangerous to fight with such a small group. You should bring more people with you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_SHOP_STOP_YUKARI" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Hey, what are you doing?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}C'mon, let's get going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_SHOP_STOP_AEGIS" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We do not have time to waste.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Please focus on making the necessary preparations.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_SHOP_STOP_JUNPEI" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Dude! C'mon, already![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_DAIMAP_TEST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This map looks like it can help me[n]find my way. Where should I go...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_DAIMAP_TEST" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Gekkoukan High School]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Paulownia Mall]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Port Island Station]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Naganaki Shrine]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Student Dorm]]></Option>
+  </Dialog>
+  <Dialog id="13" name="SEL_SHOP_SHOTCUT" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Iwatodai Station]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}2F]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Town Map]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MND_FLD_ORDER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Where should I go...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_HIT_BURGERSHOP_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are several objects that look[n]like coffins inside the store...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_HIT_BURGERSHOP_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Did someone forget their meal...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_HIT_BOOKSTORE_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The used bookstore is closed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_HIT_TAKOYAKI_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This seems to be a takoyaki[n]shop, but it's closed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_HIT_STAIRS_EAST_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like these stairs lead[n]to the second floor.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's late... I should really[n]head to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_HIT_STAIRS_WEST_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like these stairs lead[n]to the second floor.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's late... I should really[n]head to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_HIT_COFFIN_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It won't budge...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_HIT_COFFIN_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Where did everyone go...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MND_HIT_COFFIN_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What's this doing here...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_HIT_COFFIN_04" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I wonder what's in these things...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_HIT_COFFIN_05" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Is this... a coffin?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_HIT_COFFIN_06" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}These things are everywhere...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_SHOP_STOP_YUKARI_ADD" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Where do you think Amada-kun could have gone...?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Oh, sorry. We should probably focus on the enemies right in front of us, shouldn't we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_SHOP_STOP_AEGIS_ADD" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Our target is within our immediate vicinity. Therefore, we should focus on the task at hand.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Let us finish making all necessary preparations and subsequently engage the enemy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_SHOP_STOP_JUNPEI_ADD" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2001 0 0}I'm kinda worried about Aragaki-san and everything...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}C'mon, let's wrap this up quick.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_OUT_STOP_ADD" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4008 0 0}If we don't deal with them now, they're liable to make a move.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Our target's just ahead. Let's get ready to fight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_HIT_BURGERSHOP_ADD_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8010 0 0}Bark![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_HIT_BURGERSHOP_ADD_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Koromaru-san says, "Two of us are missing. Where are they?"[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

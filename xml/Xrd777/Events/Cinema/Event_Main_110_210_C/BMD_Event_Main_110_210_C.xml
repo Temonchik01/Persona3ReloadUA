@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_110_210_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_110_210_C\BMD_Event_Main_110_210_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 0 0 0 1 0 0}Hrm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 2 0 0}You're still at it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 3 0 0}Yes. You never know when an enemy might appear.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 4 0 0}But... I thought you couldn't scan outside of Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 51 -1 0 0}{f 3 1 1 0 0 5 0 0}To be honest, I am indeed lacking in that area...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 0 25 25}Maybe this is the best Penthesilea can do in terms of data-gathering.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 7 0 0}Though I must say, the power of Persona seems to be much more diverse than I once thought.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 8 0 0}We even have someone who can switch Personas in the midst of battle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 9 0 0}There's something special about his ability...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 10 0 0}And it hasn't even been that long since his awakening.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 11 0 0}Yeah, I was surprised too.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 12 0 0}But in the end, it's up to him whether or not he reaches his full potential.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 0 0 0 13 0 0}Hm...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 5 4 0}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 51 -1 0 0}{f 3 1 1 0 0 14 0 0}It's a Shadow![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 15 0 0}What!? You actually found one?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 51 -1 0 0}{f 3 1 1 0 0 16 0 0}Wait, something's not right. The reading is too big.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 51 -1 0 0}{f 3 1 1 0 0 17 0 0}I've never detected an enemy of this size...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 18 0 0}Wait... Is it like that huge one from last month!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 19 0 0}I think so.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 51 -1 0 0}{f 3 1 1 0 0 20 0 0}Well then, this is gonna be fun.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 2 0 25 25}I'll wake up the others.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_103_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_103_060_C\BMD_Event_Cmmu_103_060_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="42 75 6E 6B 69 63 68 69">Bunkichi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 6B 6F">Mitsuko</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 3 -1 -1 0 0}{f 3 1 0 0 0 1 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}...Oh, look, dear! {f 4 2}-chan's here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}Try and perk up for the boy, all right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I understand their reasoning...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}But if... if they really go through with this...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}If we lose that tree... it would be like losing our son all over again...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're overthinking it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please don't fight.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}You'll understand once you're a parent, {f 4 2}-chan. We can't help thinking of our children.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}For me, that tree is my son. My son who passed away... That's what remains of him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 6 15 104}We're fine. We're not fighting. I was just fussing...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 2 1 25 25}Sorry, {f 4 2}-chan. For making you worry.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Apparently, the rumor about cutting down the persimmon tree was true.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}So, we went to the school together to say our goodbyes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Unfortunately, that just reminded my dear of the pain we felt the day our son died...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cheer up.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm sure it'll be okay.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}See, dear? That's exactly what I said![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 1 25 25}If you keep crying all the time, then what'll your admirers think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Right, {f 4 2}-chan?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Oh my... Don't make fun of this wrinkled old lady.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can sense the elderly[n]couple's appreciation.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're growing closer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Stop by again anytime, all right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}My wife would always be happy to see such a handsome young man.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Here, take this for when you get hungry.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bunkichi-san stuffed a delicious-looking[n]bread into my pocket.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted with the elderly couple[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

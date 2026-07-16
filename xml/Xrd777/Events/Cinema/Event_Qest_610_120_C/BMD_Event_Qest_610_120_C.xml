@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Qest_610_120_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_610_120_C\BMD_Event_Qest_610_120_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+    <Speaker id="1" rawBytes="41 6E 6E 6F 75 6E 63 65 6D 65 6E 74">Announcement</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Phew...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Flowing stairs that pose an obstacle to those who dare to reach another floor... So this is an "escalator."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 202 3 25 25}A simple contraption at first glance, but one false step will leave one mired in an exhausting ordeal...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}To all customers: For your own safety, and the safety of others, please do not move in the opposite direction of the escalators. Thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Oh my...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 202 0 25 25}It seems that these "customers" may come to harm. We'd best exercise caution ourselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}And what is this...!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 202 0 25 25}Please watch your step! There is a pitfall just ahead.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}...Where is it?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't see one.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Why, it's right over here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}There, in the center of this fenced-off area.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}It's marked with eye-catching signs, proclaiming in bold print, "Do Not Enter"![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 202 3 25 25}Humans are frequently drawn to what has been forbidden...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}This is a crafty snare, one that defies the common notion that pitfalls must be hidden.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Flowing stairways, pitfalls employing high-level psychological tactics...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Human authorities truly go to great lengths in their quest to preserve the town's law and order.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}I'm very moved by their dedication to the cause.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Let us carry on, our thoughts with the unsung heroes who give their love and lives to this town...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

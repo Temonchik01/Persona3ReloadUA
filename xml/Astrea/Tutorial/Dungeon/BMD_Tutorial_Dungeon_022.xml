@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_022.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_022.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 6F 6E 61 64 20 44 6F 6F 72 73">Monad Doors</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Sometimes {f 0 1 2}Monad doors{f 0 1 27} will appear in the Abyss of Time. Defeating the special enemy in one will trigger a special Shuffle Time, where {f 0 1 2}Major Arcana cards appear more frequently{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 22}From left to right, the three doors increase in both difficulty and value of items rewarded. Consecutive battles will sometimes await you, so be prepared before entering a door.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 23}Defeating these enemies will also reveal {f 0 1 2}the layout of the current and next floor{f 0 1 27} upon leaving. Once this is done, the power within the doors will be released, sealing them shut.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The Monad door is an unstable contraption. When one appears on a floor, the door will lose power and become inaccessible if you move to another floor, even if you return to it later.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

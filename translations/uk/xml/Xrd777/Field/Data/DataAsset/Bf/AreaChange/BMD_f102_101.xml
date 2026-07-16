@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_f102_101.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\AreaChange\BMD_f102_101.uasset" dialogs="4">
+  <Dialog id="0" name="INTO_HOME_SEL" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Іди всередину]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Побути на вулиці ще трохи]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_GOINTO_HOME" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже майже ніч...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_HELP_GOINTO_HOME" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо я зараз повернуся до гуртожитку, то не встигну[n]нічого зробити до того, як стемніє.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_GOINTO_HOME_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Треба йти всередину...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

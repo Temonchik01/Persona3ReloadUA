@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_NPC_693_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\600\BMD_NPC_693_000.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 77 65 61 74 79 20 4D 61 6E">Sweaty Man</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}Are you here to pick up chicks?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}You're doing it wrong! You have to be more subtle or it'll put them off![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}I'm here today with the intention of getting a girlfriend, too! That makes us rivals, doesn't it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}Those girls were kinda harsh... You shouldn't argue with them when they're like that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}Just agree with what they say and shower them with compliments! This is a very basic technique.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}Looks like she already has a boyfriend... Tough luck.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}"It's lame to hit on girls at the beach," they said...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}Whoa, did you get a girlfriend!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 693}How could you make such a cutie cry!? Hurry up and go after her![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

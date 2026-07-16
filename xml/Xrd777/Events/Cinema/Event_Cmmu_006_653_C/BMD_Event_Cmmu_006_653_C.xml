@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_006_653_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_006_653_C\BMD_Event_Cmmu_006_653_C.uasset" dialogs="22">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 1 0 0}Wow, look at all the decorations...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 2 0 0}And they're so elaborate too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 3 0 0}...Oh, over there! Those trees are made entirely of lights.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 4 0 0}They're so beautiful...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They sure are.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}So, what's next?]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 5 0 0}Brrr. It's a bit chilly, but I'm really glad we came.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 6 0 0}Um...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 6 1 25 25}It's just... such a wonderful night, isn't it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 8 0 0}Um, I'm not sure...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 40 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 6 3 25 25}Sorry. I didn't really think about what to do after we got here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 10 0 0}I, um... I'm happy just being with you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 11 0 0}Should we go inside? It's getting a little cold out here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 12 0 0}I don't want you to catch a cold.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I talked with Fuuka for a long time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 13 0 0}I'm having such a good time today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 14 0 0}It's like a dream. I've come through here so many times before, but today it feels special.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 15 0 0}Oh, that's right, um...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 16 0 0}These are for you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 6 0 25 25}I was thinking of you when I made them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: (Item name) received.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 18 0 0}I was originally planning to bake a cake in the spirit of Christmas, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 19 0 0}I'm not that good at baking yet, and I didn't want it to taste bad.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 20 0 0}But, I think you'll really like these...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 40 0 0}{f 3 1 1 0 0 21 0 0}So, um...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_010_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 40 0 0}{f 3 1 1 0 0 22 0 0}New Year's Eve is just around the corner.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 40 0 0}{f 3 1 1 0 0 23 0 0}If I were still my old self, I wouldn't have wanted to think about that... Especially on a day like this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_010_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 24 0 0}But I'm a lot different now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_010_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 25 0 0}Now, I know that time is precious, and I don't want to give up on the future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 40 0 0}{f 3 1 1 0 0 26 0 0}Meeting you was the best thing that ever happened to me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 27 0 0}Thank you for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 1 0 0 28 0 0}Having you with me on this special day... I couldn't be happier.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 40 0 0}{f 3 1 0 0 0 29 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I shared a tender moment with Fuuka...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

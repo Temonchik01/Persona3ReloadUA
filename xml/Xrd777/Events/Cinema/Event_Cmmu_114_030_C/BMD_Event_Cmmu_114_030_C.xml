@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_114_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_030_C\BMD_Event_Cmmu_114_030_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I thought your face looked familiar... You here again, kid?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Even Buddha's not that forgiving. Alright, that's it. I'm gonna hand you over to the bouncer and...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Well, there's no Buddha in this world, so... Stop lookin' at me like that and sit down, kid.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}...So tell me, is it that fun hanging out with an old monk whose own wife and kid left him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}How come you're always alone when I see ya? Don'tcha got any friends?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I can't say I don't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't have any friends.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}What the hell's that supposed to mean? Either ya do or ya don't. Don't get smart with me, kid.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}What would you call a "friend," anyway? Where do you draw the line between "friend" and "acquaintance"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 13 17 15 114}Either ya like being alone, or ya got problems... In any case, well said. No hesitation whatsoever.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Don't worry if ya don't got any friends. Most of life's troubles come from human relationships anyway.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}...Let's define a "friend" as... someone you hold dear.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}The way I see it, no one in this world ever really cares for others...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}People always want somethin' out of a relationship. They only really love themselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}You don't call someone who doesn't like you your friend, do ya? No, 'cause you know you won't get nothin' from 'em.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Which means, in this world, there's no one you can truly hold dear.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}At the end of the lonely road of love, kid, you're the only one left standin' there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}But, you see those gals over there, the ones on the dance floor?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}If you can bring one of 'em over here, I'll be your friend in return. Eh? Whaddaya think? I know you can do it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I felt Mutatsu's warped trust in me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I understand[n]Mutatsu a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}...Too tired to go talk to 'em, eh? Heh, you look like you're gonna doze off any second now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Go home for now, kid. Besides, I know you're gonna come again anyway, even if I tell you not to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to Mutatsu[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

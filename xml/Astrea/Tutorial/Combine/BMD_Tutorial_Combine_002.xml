@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Combine_002.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Combine\BMD_Tutorial_Combine_002.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 65 72 73 6F 6E 61 20 46 75 73 69 6F 6E">Persona Fusion</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can fuse multiple Personas in your possession to create a new Persona.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The newly fused Persona will typically be of a higher level than its base Personas. Keep in mind that all base Personas will be lost during fusion.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

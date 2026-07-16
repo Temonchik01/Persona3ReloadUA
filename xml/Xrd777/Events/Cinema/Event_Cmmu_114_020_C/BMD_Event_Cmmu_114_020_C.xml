@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_114_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_020_C\BMD_Event_Cmmu_114_020_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 6F 6E 6B">Monk</Speaker>
+    <Speaker id="1" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Hey, I remember you...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I thought I told you not to come back here... Hmph, damn kids...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Well, I don't care as long as you don't get on my nerves. Have a seat.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}What'cha doin' here today, kid?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I came to see you, old man.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}None of your business.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}...Quit jokin' around, kid. Heh, that's a good one.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 13 17 15 114}Ha, you're absolutely right! It ain't any of my business![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}But watch your mouth, kid. I am your elder after all...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}If you were my son, I'd give you a swift kick in the ass.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 114 0 25 25}You don't have to revere me, but at least show some proper respect.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}How should I address you?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Show respect?]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 17 5 114}Mutatsu... That's my Buddhist name, not my real one, of course.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Hmph, you're not too bright are ya, kid? This is just one of those things you gotta learn on your own.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}If you're gonna address me, call me by my Buddhist name, Mutatsu.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}But that's Mutatsu-san to you.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}The world's not a forgiving place, kid. You gotta show other people respect.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I was lectured by Mutatsu...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can sense the kindness[n]behind his harsh words.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I understand[n]Mutatsu a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SYS_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused label.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Well, I don't really care what happens to somebody else's kid, but...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}...Go home already, will ya? And this time, don't come back again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to Mutatsu[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

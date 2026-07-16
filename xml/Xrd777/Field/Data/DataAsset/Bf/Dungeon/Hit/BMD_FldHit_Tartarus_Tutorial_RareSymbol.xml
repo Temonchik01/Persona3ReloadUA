@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_Tartarus_Tutorial_RareSymbol.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_Tutorial_RareSymbol.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_RARE01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4098 0 0}Wait! Is that Shadow up ahead a...!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_RARE01_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}Please wait a moment! The Shadow up ahead might be a...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_RARE02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}Well, now... That Shadow took off like a bandit, didn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Those ones are fairly rare... I suppose we can simply call them "rare Shadows."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}They can be tough to catch, but the potential rewards are worth the trouble.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_RARE02_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4085 0 0}It seems to have turned left up ahead. Why don't you try tracking it down?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_RARE02_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Wow, it took off quickly, didn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I believe that's an unusual breed called a "rare Shadow."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}They're real fast on the run, but catching them apparently yields big rewards.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_RARE02_02_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}It looks like it made a left up ahead. Would you mind pursuing it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_RARE03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4001 0 0}Is something the matter? Track down that rare Shadow before it gets away.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_RARE03_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Please try tracking down that rare Shadow first.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_RARE04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4113 0 0}Ah, it seems to have escaped... I told you it'd be tough to catch, didn't I?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Well, the next time you see one, I want you to try engaging it in battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_RARE04_F" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5113 0 0}Oh, it got away... They really are fast, aren't they?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If you see one again, try your best to catch up to it and fight it.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

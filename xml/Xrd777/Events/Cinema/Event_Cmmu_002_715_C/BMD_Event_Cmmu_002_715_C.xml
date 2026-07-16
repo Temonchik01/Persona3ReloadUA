@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_002_715_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_002_715_C\BMD_Event_Cmmu_002_715_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 4 25 25}Whoa, that teaser was so dramatic! It's like the stuff from overseas.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 1 25 25}This series is known for having a strong female protagonist.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 3 25 25}I've been curious about it for a while, but I heard it also has horror elements...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sounds exciting.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you scared?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yikes...]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 4 25 25}Wait, really!? You're totally fine with that stuff?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}That's actually perfect! I'll try to push through, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 4 25 25}N-No way! I've been totally looking forward to this![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 1 25 25}It's just... this kind of thing is way more fun to watch with someone else, y'know?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 4 25 25}Wait, you're bad with horror too?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 1 25 25}I-I mean! I'm totally cool with that stuff. You'll be fine as long as we watch it together![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 4 25 25}Oh wait, it's starting! Man, the tension is palpable...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 0 25 25}That cliffhanger really made me wanna know what happens next! I guess it was more zombies than horror, huh.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 1 25 25}The main girl was just an ordinary person, but she stood so strong in the face of adversity... I love that![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 1 25 25}{f 5 13 7 1 2}I feel like I was able to focus on the story thanks to you, {f 4 1}-kun. I'll let you know when I borrow the next one.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By observing the main character, I've begun to[n]understand the {f 4 30 1 1 1 0} of an adult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 1 25 25}Whew... I'm gonna head off to bed. Good night![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 0 25 25}This series always has such crazy plot twists.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 2 25 25}When the main girl's best friend betrayed her... I was like, "WHAT!?"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 3 25 25}Being backstabbed by the one person you trusted most is just horrible.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 1 0 25 25}What would you do if that happened to you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's whatever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'd never recover.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Forgive and forget.]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 1 1 25 25}Ahaha... You're not bothered by anything, huh? But that's just something special about you, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 1 3 25 25}I find it quite difficult to think like that...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 1 3 25 25}It wasn't really a betrayal, but I was reminded of a time a girl I was close to suddenly started avoiding me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 1 3 25 25}Yeah... Even without a dramatic betrayal, I'd be hurt if a friend started treating me differently.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 1 3 25 25}That happened to me once. A girl I was close to suddenly started avoiding me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 1 4 25 25}{f 4 1}-kun... That's awfully admirable. You sound just like the main character.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 1 3 25 25}To be honest... there was once a girl I was close to who suddenly started avoiding me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 23 0 1 3 25 25}It wasn't a full-blown betrayal or anything, but I was so hurt by that. It's hard to forgive and forget.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 1 4 25 25}Shoot, it's starting! It's so fast-paced, we really need to pay attention.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 4 25 25}No way! It's just gonna end like that!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}{f 4 23 0 1 6 25 25}Ugh, it happens every time, but they're so good at leaving you hanging...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 1 2 25 25}{f 5 13 7 1 2}I need to know how it ends. Let's watch more next time, okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By observing the main character, I've begun to[n]understand the {f 4 30 1 1 1 0} of an adult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}{f 4 23 0 1 1 25 25}It's getting pretty late... We'd better head back to our rooms.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_120_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_120_040_C\BMD_Event_Main_120_040_C.uasset" dialogs="21">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}Hey, Yuka-tan, you ever check out the student message boards and stuff?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}You know how last week that girl was found by the front gate?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}Well, now they're sayin' it was an angry spirit from this one ghost story that did it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 2 3 25 25}C'mon, nobody really believes that stuff. Right...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 3 0 25 25}What's this ghost story about?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 2 4 25 25}What!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 2 3 25 25}I-It's probably made up. We don't need to go into details, do we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 4 0 25 25}I'm interested. Go on, tell us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 2 6 25 25}Ngh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 0 25 25}You got it. Here goes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 0 25 25}Good evening and welcome to Junpei's Believe It, or Don't.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 901 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 3 25 25}There are many strange things in this world...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 901 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 3 25 25}Legend has it, late at night, after everyone has gone home...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 901 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 4 25 25}A maniacal ghost roams the halls and devours anyone caught in its grasp![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 0 25 25}The other day, this friend of mine—let's call him "Witness A."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 901 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 3 25 25}Anyway, he said to me, "Hey, Iori, I saw something weird the other day."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 0 25 25}He sounded so serious, so I asked him what he'd seen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 901 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 1 3 25 25}He told me he saw the girl from 2-E.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 901 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 1 3 25 25}And claims he watched her go into the school on the night before the incident![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 901 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 1 1 25 25}I told him, "I don't believe it. Not even for a second!"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 1 0 25 25}That girl from 2-E ain't the type to go wanderin' around at night![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 1 0 25 25}But Witness A was as white as a sheet. He swore to me it was true![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 1 0 25 25}Then, it hit me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_6_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 3 10 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 901 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 1 4 25 25}If the girl was found unconscious at school, then maybe the ghost really did make her its dinner![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 901 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 1 4 25 25}It all made sense! She went to the school at night, and walked right into its deadly trap![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 901 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 23 0 1 4 25 25}I felt a chill run down my spine, and I broke into a cold sweat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 1 0 25 25}Yes, there truly are some strange things in this world...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 901 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 0 25 25}Believe it... or don't.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 29 0 0}{f 4 23 0 3 0 25 25}...What do you think, Akihiko?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 1 3 25 25}Seriously? Not one word about my amazing performance just now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_010_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 1 -1 0 0}{f 3 1 1 0 0 31 0 0}{f 4 23 0 4 0 25 25}I'm not so interested in the ghost part, but it does sound like it's worth investigating.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 32 0 0}{f 4 23 0 1 1 25 25}So you're afraid of ghosts huh, Yuka-tan? Didn't know you were such a chicken.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 33 0 0}{f 4 23 0 2 2 25 25}What!? Who're you calling a chicken!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 4 23 0 2 2 25 25}Fine then. Let's investigate it.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 23 0 2 2 25 25}Each of us will ask around for the rest of the week and gather information.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 1 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 2 2 25 25}This ghost story is just a bunch of nonsense! I'll show you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 1 -1 0 0}{f 3 1 1 0 0 37 0 0}{f 4 23 0 3 1 25 25}Sounds good to me. The story is a bit unnerving, isn't it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 1 -1 0 0}{f 3 1 1 0 0 38 0 0}{f 4 23 0 2 4 25 25}Huh...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_015_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 1 -1 0 0}{f 3 1 1 0 0 39 0 0}{f 4 23 0 4 1 25 25}We'll leave it to you guys, then.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 1 -1 0 0}{f 3 1 1 0 0 40 0 0}{f 4 23 0 4 1 25 25}Would've been too scary for me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 1 -1 0 0}{f 3 1 1 0 0 41 0 0}{f 4 23 0 2 6 25 25}Whaaat?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

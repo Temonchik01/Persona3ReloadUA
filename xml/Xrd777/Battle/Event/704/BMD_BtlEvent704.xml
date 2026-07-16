@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BtlEvent704.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\704\BMD_BtlEvent704.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_704_000" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}This one's from the Lovers Arcana... It's the source of the mind manipulation.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_704_100" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 2 1 0 2}Unforgivable... I'll never forgive you for that![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_704_001" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}Y-Yukari-chan...!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_704_200" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 1 0 2 2 0 6}This mist...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_704_210" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 3 0 6}Please be careful! That mist can hypnotize you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_704_220" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 4 0 6}It's the same as before. Look out for the enemy's psychological attack![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_704_300" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 5 -1 50 0 0}{f 3 1 1 0 2 5 0 6}Watch out! It's dangerous to get hit by that attack while you're charmed![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_704_310" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 2 6 0 6}Please support each other while you're fighting![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

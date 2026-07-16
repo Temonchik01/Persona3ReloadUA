@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_109_055_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_055_C\BMD_Event_Cmmu_109_055_C.uasset" dialogs="21">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}...Oh, that reminds me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I think I'm slowly starting to get over my fear of men.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}So far, I can only talk to boys I know, but... I can almost look them in the eye![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}But with you, {f 4 1}-san, I... I think I can do even better![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}As long as it's nothing too scary... G-Go ahead![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I make the wrong move[n]here, I might upset her.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I do...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold her hand]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Kiss her{f 2 9 1 1 72}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Speak to her softly]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 13 9 15 109}Oh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 109 1 25 25}Your hand...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_005_0_0" type="Message" />
+  <Dialog id="7" name="MND_006_0_0" type="Message" />
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}It's so rugged... and strong... and warm...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 0 0 0 9 0 0}{f 4 23 0 109 0 25 25}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}It... It's almost like... we're a couple...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 1 0}{f 3 1 1 0 0 11 0 0}I-I'm so sorry! I can't believe I said something so inappropriate![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 1 0}{f 3 1 1 0 0 12 0 0}Ah, um, uh... Sh-Should we get going!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I held Chihiro's hand until it was time[n]to part, then went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 0 0 0 13 0 0}Hm...?[n]{f 1 2 30}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Wh-What do you think you're doing!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}W-We aren't even officially dating... Why would you do this!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 109 2 25 25}D-Do you think it's funny? Just what kind of girl do you think I am!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's an uncomfortable[n]tension between us...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Our relationship is becoming unstable...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}I can't believe you would do something like that, {f 4 1}-san... I was wrong about you![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}And e-even if I did feel the same way about you... that still doesn't make it okay...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Having been left alone, I decided[n]to go back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Huh? Oh... Um...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 109 3 25 25}Is that it...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}I-I would've been okay holding hands...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 1 0}{f 3 1 1 0 0 22 0 0}Oh! N-Nothing![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I walked with Chihiro until it was[n]time to head in a different direction.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_600_750_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_750_C\BMD_Event_Cmmu_600_750_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 1}-kun, perfect timing. Would you mind heading to the rooftop with me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What is it?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}A quick answer. I like that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Now, now. No need to be so modest. We're all friends here, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Haha, no need to be so wary of me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}It isn't anything important... I just wanted to show you something.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}And I just so happen to have the key to the rooftop.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Now then... Shall we go?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

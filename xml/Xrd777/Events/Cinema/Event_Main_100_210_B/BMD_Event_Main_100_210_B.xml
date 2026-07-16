@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_100_210_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_210_B\BMD_Event_Main_100_210_B.uasset" dialogs="13">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 4F 6C 64 20 47 65 6E 74 6C 65 6D 61 6E">Mysterious Old Gentleman</Speaker>
+    <Speaker id="1" rawBytes="49 67 6F 72">Igor</Speaker>
+    <Speaker id="2" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Welcome to the Velvet Room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}My name is Igor. I am delighted to make your acquaintance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}This is Elizabeth. She's a resident here, like myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Pleased to meet you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}This place exists between dream and reality, mind and matter...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Only those who have signed the contract can enter this place.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}That's the document I signed at the dorm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}From now on, you shall be welcome here as a guest in the Velvet Room.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}You are destined to hone your unique ability, and you will require my assistance to do so.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I only ask one thing in return...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Abide by your contract, and assume full responsibility for the choices you make.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All right.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't understand.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Is this a dream?]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}...That is fine, for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Precisely... You are fast asleep in the real world as we speak.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}This visit of yours is merely a dream.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}However, you will come here of your own accord sooner or later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Hold on to this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message" />
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Until we meet again...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

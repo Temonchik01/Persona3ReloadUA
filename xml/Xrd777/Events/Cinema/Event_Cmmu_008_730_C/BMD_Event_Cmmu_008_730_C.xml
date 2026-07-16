@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_008_730_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_008_730_C\BMD_Event_Cmmu_008_730_C.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Amada seems calm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We passed the time[n]drinking coffee together...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 159 -1 0 0}{f 3 1 1 0 0 1 0 0}Sometimes adding milk and sugar is nice. But I usually take it black, of course.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 159 -1 0 0}{f 3 1 1 0 0 2 0 0}If you feel like meeting up for coffee again, just let me know.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

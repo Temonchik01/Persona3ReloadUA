@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_116_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_060_C\BMD_Event_Cmmu_116_060_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Nozomi Suemitsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The restaurant is filled with[n]the familiar smell of fish.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}...Seven, eight, nine...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Shoot, I'm coming up short on my counts. I have to find one more new person...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Damn it all! Why doesn't anyone take me seriously?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I'm not gonna lose to my brother again! I'll show him... I'll show them all![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Wha—!? What's... going ooon?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 5 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 5 25 25}Uggh... Hrrrghghh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Suemitsu ran to the restroom![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}It's over... The baby came out good and healthy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Hey, c'mon, {f 4 2}-kun! It's your job to laugh at the Gourmet King's dumb jokes! Hohohohoho![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 116 3 25 25}I don't get it. I was fine up until a minute ago, then suddenly I felt sick.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Does this happen a lot?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Did you eat too much?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you sick?]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 19 5 116}Yeah, every once in a while, my body sort of "rewinds" the meal on me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}...The words "overeating" and "leftovers" do NOT exist in my vocabulary![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 13 19 15 116}What do you mean? Look at all the nutrition I'm taking in! I'm the paragon of health... Well, except for this gut.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Hey, don't you worry about me. This is a trial I have to face before I'm reborn, anyway.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 116 0 25 25}If I want my place in Paradise after this world ends, I have to prove my worth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}It'd mean a lot to me if you considered, uh... coming to Paradise with me, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Suemitsu seems comfortable[n]having me as a friend.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship is stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Gah! The noodles got soggy while my stomach was giving me trouble![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 0 25 25}You'll have to wait till next time to hear about Paradise![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_011_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}But for now, let's just focus on our ramen![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Sir! Can I get some rice and dry seaweed!? I'll salvage this ramen by turning it into a rice soup![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I finished my meal with Suemitsu[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

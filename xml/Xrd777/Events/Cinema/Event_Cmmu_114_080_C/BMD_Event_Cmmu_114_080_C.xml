@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_114_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_080_C\BMD_Event_Cmmu_114_080_C.uasset" dialogs="36">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 1 0 0}...You're late... What kept ya, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mutatsu stinks of alcohol[n]more than he usually does...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He must have been drinking a lot.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 2 0 0}Don't you think it's... *hic* rude to make sum'one wait?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 1 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 114 2 25 25}Didn't Dad tell you not to do that, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Dad?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's my first time hearing it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 4 0 0}{f 5 13 17 15 114}"Dad"? Did you jush call me "Dad"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 5 0 0}You alwaysh call me an ol' bastard, but you're only nice whenever ya need sum money...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 6 0 0}{f 5 13 17 5 114}...Huh? *hic* It'sh the first time I'm telling you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 7 0 0}Oh... Thas right, I guess it is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 8 0 0}...Tch, Ignorin' me? Well, *hic* I guessh I can't ecshpect much from a kid of your generation.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 9 0 0}I thought you got in an' dropped dead somewhere or somethin'...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 10 0 0}Don't make me worry like that...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 11 0 0}Where the hell were ya wanderin' around? Iss late![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I was with a friend.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I was studying.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}None of your business.]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 1 0}{f 3 1 1 0 0 12 0 0}{f 5 13 17 5 114}A friend, huh? A girl? It's a girl, ain't it? Even though you're still sponging off your parents...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 114 0 25 25}Hmph, well, like father, like son, I guess...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 1 0}{f 3 1 1 0 0 14 0 0}Studyin'!? What, you wanna go to college so you can work at some big company?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 114 0 25 25}Don't bother... Even if you busht your ass... Don'tcha remember what you and your mom did to me...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 16 0 0}{f 5 13 17 5 114}W-Well, thas true... *hic* It's none of my business...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 1 0}{f 3 1 1 0 0 17 0 0}But watch your mouth! Who the hell do you think raished you, huh!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 18 0 0}Uh... Hmm...? YOU...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Wh-What the...? All this time, I thought you were... I guess my eyesight is getting bad after all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems Mutatsu was worried about me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I understand[n]Mutatsu a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...Spending all my time with clients... Missing anniversaries and birthdays...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 114 0 25 25}I wonder if they felt the same way I did, when I was waiting for you earlier...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SEL_018_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Who's "they"?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What're you talking about?]]></Option>
+  </Dialog>
+  <Dialog id="22" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}My wife and son... We were all together back when I was still a businessman.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_019_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}It's already been four years now... since they left me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Before I became a monk... I was a plain ol' businessman. The three of us were just a typical family.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_020_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}But, they both left me... My wife and my son... It's been four years now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}I used to stay out past midnight all the time, and my wife and I would always fight about it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}...Now when I go home, I don't know what to do with myself, so I just come here and drink every night.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="SEL_022_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Do you miss your family?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you running away?]]></Option>
+  </Dialog>
+  <Dialog id="28" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}O-Of course not! They're the ones that abandoned me y'know!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Besides... after all this time... I don't know how to face them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_025_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 5 13 17 5 114}Yeah... You're absolutely right. I shaved my head, but that was just for show...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}I get drunk to avoid facing my problems... So, yeah, I guess you could say I'm runnin' away.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}...She hasn't contacted me since then. They must've gotten over me already.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_027_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 3 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}{f 4 23 0 114 3 25 25}I have no idea where they are... Or if they'd even wanna see me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 4 23 0 114 0 25 25}It's too much of a hassle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Alright, kid, enough of the depressing talk. Let's get outta here. I wanna go home and take a shower.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I left the club with Mutatsu.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

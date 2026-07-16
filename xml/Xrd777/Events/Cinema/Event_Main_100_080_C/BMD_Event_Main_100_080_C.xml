@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_100_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_080_C\BMD_Event_Main_100_080_C.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 1 0 0}It's Takeba. Are you awake?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Good morning.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 2 0 0}Hello? Please answer the door, or I'm going to get in trouble![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 2 -1 0 0}{f 3 1 1 0 0 3 0 0}Good morning. Did you sleep okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 4 0 0}I've been asked to show you the way to school.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 5 0 0}Are you ready to go?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, I'm ready.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I can find it myself.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 2 -1 0 0}{f 3 1 1 0 0 6 0 0}Great! Let's head out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 2 -1 0 0}{f 3 1 1 0 0 7 0 0}Uh... Didn't expect you to turn me down.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 0 25 25}You don't want to risk being late on the first day, do you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 2 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 1 25 25}C'mon, hurry and get ready![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

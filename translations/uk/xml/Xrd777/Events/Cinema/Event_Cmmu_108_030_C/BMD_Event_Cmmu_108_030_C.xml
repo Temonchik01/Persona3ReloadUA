@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_108_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_030_C\BMD_Event_Cmmu_108_030_C.uasset" dialogs="21">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 6C 75 62 20 41 64 76 69 73 6F 72">Club Advisor</Speaker>
+    <Speaker id="1" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="3" rawBytes="4D 61 6C 65 20 43 6C 75 62 20 4D 65 6D 62 65 72">Male Club Member</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The scratching of pencils echoes[n]throughout the art room...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's been so fun that the hours flew by.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 200}Everyone. Attention, please![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 200}I have an announcement, regarding the recent Bay Area art contest...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 200}Hiraga-kun's painting was selected for consideration in the final round![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 4 -1 -1 0 0}{f 3 1 0 0 0 4 0 0}...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Wow![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}{f 5 21 0 100}Your piece was really good! You might even win![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Please, it's all thanks to my paintbrush. I was lucky to use my dad's quality raccoon-hair one.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}It really helped apply the paint to the canvas, so I'm sure that's the only reason the judges even noticed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You've got talent.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You got lucky.]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 13 11 15 108}Th-Thank you, {f 4 1}-kun![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}But I've only been painting for about two years now, so I never imagined my piece would go so far.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Y-Yeah, you're probably right, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}I mean, I've only been painting for two years now, so I had to have gotten lucky.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}You should have more confidence in yourself. You've been practicing so hard.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 100}She's right. Everyone knows how late you stay.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Thanks, guys. But I should be supporting all of you, not the other way around.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}I'm sorry, {f 4 1}-kun. I should be setting a better example for new members like you.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 1 25 25}I may not be much of an artist or a leader, but I hope we can keep working to improve our skills together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can feel a sense of solidarity with Hiraga...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}I've come this far... I might as well continue this for as long as I can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_016_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Oh, look at the time. Time to head home, everyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I cleaned up and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

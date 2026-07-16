@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_110_025_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_110_025_C\BMD_Event_Cmmu_110_025_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 69 6B 6F">Maiko</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I love going out to eat![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}'Cause when I go with my mom and dad, everybody gets along![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}We used to have so much fun together![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 2 25 25}Why would they get a divorce?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They fell out of love.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's probably your fault.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}They don't... love each other!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Nnn...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}But... what did I do!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Nnn...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I tried asking, but they said it was a grown-ups' problem...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}I... I don't want them to get a divorce![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Mom and Dad must hate me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}No! Divorce is stupid! I hate it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Waaaaaaaaah![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...She's sobbing loudly.[n]What should I do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Calm her down]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Wait for her to finish]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Nnngh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Nnngh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Sorry... I know it's awkward for you if I cry...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 0 25 25}I'll try not to...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maiko is doing her best to smile...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're growing closer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="SYS_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}I have to go home now...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Thank you for playing with me today![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After seeing Maiko home,[n]I headed back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

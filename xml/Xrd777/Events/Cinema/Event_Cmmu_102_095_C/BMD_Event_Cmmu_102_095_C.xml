@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_102_095_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_102_095_C\BMD_Event_Cmmu_102_095_C.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Hidetoshi Odagiri</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I'm sorry to drag you up here, but I wanted to tell you something.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}The cigarette butt incident is going to be dropped. It seems interrogating every student in the school raised a few concerns.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I wanted to be student council president next year, and that teacher promised to endorse me if I agreed to help him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}But I lost any hope of achieving that when I spoke up against him, not to mention the student body isn't so fond of me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I rambled on about rules and fairness, but all I really proved was that I was desperate for power.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't blame yourself.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What matters is you realized it.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 0 0 0 6 0 0}{f 5 13 5 15 102}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Now I understand why the president asked you to join the student council.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}You aren't just feeding me sympathy or empty words. You genuinely mean what you say.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 13 5 15 102}I see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Now I understand why the president asked you to join the student council.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}You don't say things to put people down. You're just honest with them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 10 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}The system only works if you have people's trust, and trust isn't something you can force on anyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}When that teacher doubted you, I felt backed into a corner by a fool who simply had more power than I did.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}I felt like the truth was being distorted and that I might lose a friend as a consequence.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 0 25 25}If it wasn't for you, I would've become a tyrant. So thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Odagiri seems truly grateful.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Don't you dare repeat what I just said to anyone.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}I realize it's out of my usual character. And I'm sure everyone would just make fun of me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 1 0 25 25}J-Just promise, okay? I'll see you later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with Odagiri[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

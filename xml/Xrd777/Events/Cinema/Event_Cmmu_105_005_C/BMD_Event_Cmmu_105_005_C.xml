@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_105_005_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_005_C\BMD_Event_Cmmu_105_005_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1581}{f 4 1}-kun, I have a favor to ask of you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1581}It's about our track and field team. They don't have enough members, unfortunately.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1581}The coach came crying to me about how they can't carry on like this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1581}Please! Do your teacher a favor, would you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ms. Toriumi looks pretty desperate...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I get the feeling she won't[n]let me leave unless I say yes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Okay, I'll join the track team.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I really don't want to...]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1581}Really!? You'll do it!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1581}{f 4 21 1581 7}Thank you! Yes! Just scored me a free lunch![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 5 21 0 1581}{f 4 21 1581 11}Ah, forget that last part.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1581}Okay then, don't forget to turn in your membership application after school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1581}Sorry, can't hear you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I ended up joining the[n]track and field team.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I have no choice, so I'll[n]go to the field after school today.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

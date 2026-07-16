@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_Tartarus_HighRare.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_HighRare.uasset" dialogs="19">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_HIGHRARE_DEFEAT_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}The Shadow has been eliminated.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I don't sense any other enemies nearby. Let's keep moving.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_HIGHRARE_DEFEAT_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}The Shadow has been defeated.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm not sensing any other enemies. Let's move on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_HIGHRARE_ESCAPE_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Wait, the Shadow is making a move...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_HIGHRARE_ESCAPE_MITU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 6 -1 50 0 0}...I don't sense it anymore. It seems it ran away.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There don't appear to be other enemies around either. Well, let's keep moving.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_HIGHRARE_ESCAPE_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Oh! I'm sensing movement from the Shadow![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_HIGHRARE_ESCAPE_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}...I don't detect it anymore. I guess it ran away...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There don't seem to be any other enemies around here, so let's move on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_HIGHRARE_STEAL_MITU_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}What!? It's ransacking the treasure chest![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}A Shadow that goes after treasure chests... I wonder why...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Also, it may be a coincidence, but there are more chests than usual on this floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_HIGHRARE_STEAL_FUKA_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}It's... stealing from the treasure chest!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Why would a Shadow do that? I wonder if it's searching for something...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Oh, and there are more chests than usual on this floor. Is that just a coincidence?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_HIGHRARE_STEAL_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}More chests, huh?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just a "coincidence"?]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_HIGHRARE_STEAL_MITU_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Hm... It would seem that the Shadow came specifically for the treasure chests.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}If that's the case, we could take advantage of its obsession with treasure.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_HIGHRARE_STEAL_FUKA_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Well, by the looks of it... the Shadow came here for those treasure chests.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If it loves treasure so much, maybe we could use that to our advantage![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SYS_HIGHRARE_STEAL_00" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Greedy Shadows appear on floors with many treasure chests. They will scurry around and open the treasure chests one after another.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}They are quick and nearly impossible to catch on foot. Take advantage of their obsession and intercept them on their way to treasure chests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_HIGHRARE_STEAL_MITU_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}First, look for a treasure chest that the Shadow has yet to get its hands on.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}If we take its beloved treasure first, it will likely try to come after us.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Once it gets close, we'll be able to strike![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_HIGHRARE_STEAL_FUKA_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}First, find a treasure chest that the Shadow hasn't gotten to yet.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It might come looking for us if we take the treasure it was after.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If it does, then we'll have a chance to fight it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_HIGHRARE_BLOCK_MITU_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Are you giving up on catching that Shadow?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_HIGHRARE_BLOCK_MITU_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}All right, then. Carry on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_HIGHRARE_BLOCK_FUKA_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Oh, are you done trying to catch that Shadow?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_HIGHRARE_BLOCK_FUKA_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Okay, keep trying, then. You can do it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="SEL_HIGHRARE_BLOCK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I won't give up!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I guess I should keep trying.]]></Option>
+  </Dialog>
+</BMD>

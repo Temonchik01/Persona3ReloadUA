@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_OBJ_102_102_108.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_102_108.uasset" dialogs="18">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут і шкільні роздруківки, і газетні[n]вирізки, і написані від руки таблички.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Не залишати особисті речі в холі»[n]«Не шуміти пізно вночі»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже це правила гуртожитку...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут і шкільні роздруківки, і газетні[n]вирізки, і написані від руки таблички.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Не брати з холодильника [n]без дозволу». «Якщо ви це зробили, [n]обов'язково відшкодуйте це.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що є нові [n]доповнення до правил проживання в гуртожитку...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Подивитися на дошку оголошень]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус кожного]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти в Тартар сьогодні]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я маю поговорити з тими, хто[n]може піти сьогодні ввечері...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, всі можуть піти сьогодні ввечері.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що наступні люди вже мають плани[n]і не можуть піти сьогодні ввечері:[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SYS_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SYS_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SYS_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SYS_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1},[n]{f 2 4 2}, {f 2 4 3}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SYS_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2},[n]{f 2 4 3}, {f 2 4 4}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SYS_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2},[n]{f 2 4 3}, {f 2 4 4}, {f 2 4 5}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SYS_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2}, {f 2 4 3},[n]{f 2 4 4}, {f 2 4 5}, {f 2 4 6}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SYS_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2}, {f 2 4 3},[n]{f 2 4 4}, {f 2 4 5}, {f 2 4 6}, {f 2 4 7}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Різні розклади та контактна[n]інформація написані тут.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Всі, скоріш за все, в[n]командному штабі. Треба поговорити з Міцуру[n] і вирушати в Тартар...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, не всі можуть піти сьогодні ввечері.[n]Чи варто мені все ж таки йти в Тартар...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SEL_017_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти в Тартар]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+</BMD>

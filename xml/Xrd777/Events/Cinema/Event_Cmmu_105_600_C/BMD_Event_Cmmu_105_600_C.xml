@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_105_600_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_600_C\BMD_Event_Cmmu_105_600_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Kazushi Miyamoto</Speaker>
+    <Speaker id="1" rawBytes="53 6F 6C 64 69 65 72 20 41">Soldier A</Speaker>
+    <Speaker id="2" rawBytes="53 6F 6C 64 69 65 72 20 42">Soldier B</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 5 13 8 10 105}A war movie, huh? Sounds pretty heavy. Alright, let's do this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_900_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}Don't you die, Ryan! You swore we'd go back home together! You swore![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_901_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}Hey man, don't gimme that look. You know I... I can't live without your smile... bro...ther...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_902_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}Ryan...? Ryan! Ryaaaaaaan![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel braver after watching the[n]fearless soldiers in that movie.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 5 0 0}Dude, that was insane! I wish I had that kind of fire in me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 22 0 105 25 25 20}{f 4 23 0 105 1 25 25}Okay, I'll see you later![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with Miyamoto[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_104_101_002.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\104\BMD_OBJ_104_101_002.uasset" dialogs="16">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 6C 65 61 6E 69 6E 67 20 4C 61 64 79">Cleaning Lady</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Someone seems to be[n]cleaning the restroom.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I enter the restroom...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you can't come in here! I'm still scrubbing the floors.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Huh? You're not here to use the toilet?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ohhh, okay! So you're here to help out, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Wow! You even brought your own brush? You really came prepared, didn'tcha?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Well, all right, then! Why don'tcha start from the other corner?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I'll be helping the cleaning lady.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}One tile just won't get clean...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Scrub harder]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Use soap]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}No matter how hard I scrub,[n]the grime won't come off...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I do...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Even with soap on the brush,[n]the grime won't come off...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I do...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Scrub harder]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Give up]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I gave it all my strength, and[n]the grime is beginning to lift![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The tile is completely clean![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Just as I was about to throw in[n]the towel, the grime began to lift![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The tile is completely clean![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Wow! You could eat off that floor![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Do you help clean the school restrooms after lunch or something? You really know your stuff![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Thanks, kid! Just leave the rest of it to me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I successfully helped clean the restroom...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Sorry, kid. I've only got the one brush here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}If you really wanna help, you'll hafta come back with your own cleaning supplies.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I had my own cleaning equipment,[n]maybe I could help her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+</BMD>

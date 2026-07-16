@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_CmmuNPC_264_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Community\Bf\BMD_CmmuNPC_264_000.uasset" dialogs="158">
+  <Speakers>
+    <Speaker id="0" rawBytes="48 69 64 65 74 6F 73 68 69 20 4F 64 61 67 69 72 69">Hidetoshi Odagiri</Speaker>
+    <Speaker id="1" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+    <Speaker id="2" rawBytes="4B 69 6E 64 2D 4C 6F 6F 6B 69 6E 67 20 55 70 70 65 72 63 6C 61 73 73 6D 61 6E">Kind-Looking Upperclassman</Speaker>
+    <Speaker id="3" rawBytes="53 74 65 72 6E 2D 4C 6F 6F 6B 69 6E 67 20 53 74 75 64 65 6E 74">Stern-Looking Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Hello, {f 4 1}-kun. Are you on patrol as well?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 1 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}...Just kidding. I plan on enjoying myself on this trip.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}I only hope there won't be any trouble while—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}Hey there, Odagiri-kun! Have you tried these complimentary snacks?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}They're sooo tasty![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}No, I haven't had the chance—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}There's nothing left.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}Aren't those snacks supposed to be limited to one per person?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Oh, really? Oops... I ate them all. Sorry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}...I figured.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}I'll just pretend there weren't any in the first place.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}Sorry, Odagiri-kun. I'll check out the gift shop later to see if they'll have more snacks there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 1}{f 3 1 1 0 4 13 0 0}N-No need. It's not like I wanted to try some or anything...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Hello, {f 4 1}-kun. Are you on patrol as well?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 1 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}...Just kidding. I plan on enjoying myself on this trip.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}I only hope there won't be any trouble while—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}Hey there, Odagiri-kun! Have you tried these complimentary snacks?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}They're sooo tasty![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}No, I haven't had the chance—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}There's nothing left.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}Aren't those snacks supposed to be limited to one per person?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Oh, really? Augh... I ate them all. Sorry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}...I figured.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}I'll just pretend there weren't any in the first place.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}Sorry, Odagiri-kun. I'll check out the gift shop later to see if they'll have more snacks there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 1}{f 3 1 1 0 4 13 0 0}N-No need. It's not like I wanted to try some or anything...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}{f 4 1}-kun, you're here, too? Oh, right, you're a second-year, huh.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}By the way, have you tried these complimentary snacks?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}They're sooo tasty![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}...You know, I haven't had the chance to try any.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Care to explain why the plate is empty? Normally, these snacks are limited to one per person.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Oh, really? Augh... I ate them all. Sorry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}...I figured.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}I'll just pretend there weren't any in the first place.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Sorry, Odagiri-kun. I'll check out the gift shop later to see if they'll have more snacks there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 1}{f 3 1 1 0 4 10 0 0}N-No need. It's not like I wanted to try some or anything...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}As a member of the disciplinary committee, I need to remain vigilant even on a trip like this.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}I only hope there won't be any trouble while—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}Hey there, Odagiri-kun! Have you tried these complimentary snacks?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}They're sooo tasty![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}No, I haven't had the chance to—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}There's nothing left.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Aren't those snacks supposed to be limited to one per person?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}Oh, really? Augh... I ate them all. Sorry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}...I figured.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}I'll just pretend there weren't any in the first place.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}Sorry, Odagiri-kun. I'll check out the gift shop later to see if they'll have more snacks there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 1}{f 3 1 1 0 4 12 0 0}N-No need. It's not like I wanted to try some or anything...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Oh, hey, {f 4 1}-kun. I must say, the tour today wore me out.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}I was looking forward to going sightseeing around this historical city, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}Yeah, it was one thing after another today.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}Some of the older ladies in our tour group passed out right in front of us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}I'm glad you were there, Keisuke. Thanks to you, the situation wasn't nearly as bad as it could've been.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Nevertheless, it was a shocking turn of events...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Yeah... Even the tour guide passed out.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}The way you took charge and directed traffic was really impressive though, Odagiri-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Have you ever considered becoming a police officer in the future?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}Huh...? No, I hadn't given it any thought before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}...Let's head to the hot springs. I'm covered in sweat after that whole ordeal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 1 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}You didn't have to get involved in that mess... But I suppose you'll never break your habit of meddling, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}Haha, the same goes to you. Pretty sure you were the first to leap into action.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Oh, hey, {f 4 1}-kun. I must say, the tour today wore me out.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}I was looking forward to going sightseeing around this historical city, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}Yeah, it was one thing after another today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}Some of the older ladies in our tour group passed out right in front of us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}I'm glad you were there, Keisuke. Thanks to you, the situation wasn't nearly as bad as it could've been.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Nevertheless, it was a shocking turn of events...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_037_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Yeah... Even the tour guide passed out.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}The way you took charge and directed traffic was really impressive though, Odagiri-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Have you ever considered becoming a police officer in the future?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}Huh...? No, I hadn't given it any thought before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}...Let's head to the hot springs. I'm covered in sweat after that whole ordeal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 1 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}You didn't have to get involved in that mess... But I suppose you'll never break your habit of meddling, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_040_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}Ha, the same goes to you. Pretty sure you were the first to leap into action.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_041_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Hi, {f 4 1}-kun. How was your tour today?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}We ran into some trouble on ours. I wanted to visit the temples, but...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}Some of the older ladies in our tour group passed out right in front of us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_042_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}I'm glad you were there, Keisuke. Thanks to you, the situation wasn't nearly as bad as it could've been.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Nevertheless, it was a shocking turn of events...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_043_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Yeah... Even the tour guide passed out.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}The way you took charge and directed traffic was really impressive though, Odagiri-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}Have you ever considered becoming a police officer in the future?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_044_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Huh...? No, I hadn't given it any thought before.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}...Let's head to the hot springs. I'm covered in sweat after that whole ordeal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_045_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 1 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}You didn't have to get involved in that mess... But I suppose you'll never break your habit of meddling, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_046_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}Haha, the same goes to you. Pretty sure you were the first to leap into action.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_048_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}It was one thing after another today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}Some of the older ladies in our tour group passed out right in front of us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_047_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}It's been a long day... I was looking forward to going sightseeing around this historical city, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_049_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}I'm glad you were there, Keisuke. Thanks to you, the situation wasn't nearly as bad as it could've been.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Nevertheless, it was a shocking turn of events...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_050_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Yeah... Even the tour guide passed out.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}The way you took charge and directed traffic was really impressive though, Odagiri-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}Have you ever considered becoming a police officer in the future?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_051_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Huh...? No, I hadn't given it any thought before.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}...Let's head to the hot springs. I'm covered in sweat after that whole ordeal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_052_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 1 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}You didn't have to get involved in that mess... But I suppose you'll never break your habit of meddling, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_053_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}Haha, well, the same goes to you. Pretty sure you were the first to leap into action.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_054_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Hey, {f 4 1}-kun. Do you happen to see any tears in my pants at all?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}...Maybe that was a bit much.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_055_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}The Kamogawa River has a nice ambience, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}You see, Odagiri-kun was trying to skip rocks across its surface, but he lost his footing and—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_056_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Can we please drop the topic?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Besides, I'd say you're partially at fault for challenging me to hit the opposite bank, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_057_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Aw... Don't you want to see if it's possible? The wind was blowing in the perfect direction and all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_058_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}What's the point in doing that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_059_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Because... it'd make me happy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_060_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}But I'm asking what good would come out of doing all that? It was still pointless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_061_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}Don't you remember our elementary school days? We used to practice skipping rocks all the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_062_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}...Yes, but we're in high school now. You're a third-year, for crying out loud.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_063_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}...Looked like you were going all out, though—to the point where you slipped and fell.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_064_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 14 0 0}...Again, can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_065_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 15 0 0}Oooh, you're sooo scary, Odagiri-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_066_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 16 0 0}To think, one of the last memories I make on this trip would make me feel so pathetic...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_067_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 17 0 0}It's not a big deal. I guess that other bank was just a bit farther than we thought.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_068_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Hey, {f 4 1}-kun, uh... Do you happen to see any tears in my pants at all?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}...Maybe that was a bit much.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_069_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}The Kamogawa River has a nice ambience, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}You see, Odagiri-kun was trying to skip rocks across its surface, but he lost his footing and—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_070_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Can we please drop the topic?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Besides, I'd say you're partially at fault for challenging me to hit the opposite bank, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_071_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Aw... Don't you want to see if it's possible? The wind was blowing in the perfect direction and all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_072_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}What's the point in doing that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_073_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Because... it'd make me happy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_074_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}But I'm asking what good would come out of doing all that? It was still pointless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_075_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}Don't you remember our elementary school days? We used to practice skipping rocks all the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_076_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}...Yes, but we're in high school now. You're a third-year, for crying out loud.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_077_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}...It looked like you were going all out, though—to the point where you slipped and fell.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_078_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 14 0 0}...Again, can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_079_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 15 0 0}Oooh, you're sooo scary, Odagiri-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_080_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 16 0 0}To think, one of the last memories I make on this trip would make me feel so pathetic...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_081_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 17 0 0}It's not a big deal. I guess that other bank was just a bit farther than we thought.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_082_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}You there. Do you happen to see any tears in my pants at all?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}...Maybe that was a bit much.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_083_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}The Kamogawa River has a nice ambience, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}You see, Odagiri-kun was trying to skip rocks across its surface, but he lost his footing and—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_084_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Can we please drop the topic?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Besides, I'd say you're partially at fault for challenging me to hit the opposite bank, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_085_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Aw... Don't you want to see if it's possible? The wind was blowing in the perfect direction and all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_086_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}What's the point in doing that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_087_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Because... it'd make me happy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_088_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}But I'm asking what good would come out of doing all that? It was still pointless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_089_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}Don't you remember our elementary school days? We used to practice skipping rocks all the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MSG_090_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}...Yes, but we're in high school now. You're a third-year, for crying out loud.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_091_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}...It looked like you were going all out, though—to the point where you slipped and fell.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_092_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 14 0 0}...Again, can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_093_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 15 0 0}Oooh, you're sooo scary, Odagiri-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_094_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 16 0 0}To think, one of the last memories I make on this trip would make me feel so pathetic...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_095_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 17 0 0}Hey, it's not a big deal. I guess that other bank was just a bit farther than we thought.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_096_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}You there. Do you happen to see any tears in my pants at all?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 2 0 0}...Maybe that was a bit much.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_097_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 3 0 0}The Kamogawa River has a nice ambience, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 4 0 0}You see, Odagiri-kun was trying to skip rocks across its surface, but he lost his footing and—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_098_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 5 0 0}Can we please drop the topic?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 6 0 0}Besides, I'd say you're partially at fault for challenging me to hit the opposite bank, Keisuke.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_099_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 7 0 0}Aw... Don't you want to see if it's possible? The wind was blowing in the perfect direction and all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_100_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}What's the point in doing that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MSG_101_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 9 0 0}Because... it'd make me happy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MSG_102_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 10 0 0}But I'm asking what good would come out of doing all that? It was still pointless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_103_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 11 0 0}Don't you remember our elementary school days? We used to practice skipping rocks all the time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_104_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 12 0 0}...Yes, but we're in high school now. You're a third-year, for crying out loud.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_105_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 13 0 0}...It looked like you were going all out, though—to the point where you slipped and fell.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_106_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 2 -1 -1 0 0}{f 3 1 1 0 4 14 0 0}...Again, can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MSG_107_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 4 15 0 0}Oooh, you're sooo scary, Odagiri-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MSG_108_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 3 -1 -1 0 0}{f 3 1 1 0 4 16 0 0}To think, one of the last memories I make on this trip would make me feel so pathetic...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MSG_109_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 4 17 0 0}It's not a big deal. I guess that other bank was just a bit farther than we thought.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MSG_110_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}Hey, are my pants dirty?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}A deer ate the treat I had in my pocket...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MSG_111_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}I didn't know there were deer in Kyoto. But you know, with the deer treat, Odagiri-kun was...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MSG_112_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}Can we not talk about it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}If you hadn't said you wanted to ride a deer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MSG_113_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}Didn't you want to ride it, too? It seems like its horns would make perfect handlebars...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MSG_114_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}And what would be the point of riding it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MSG_115_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}I don't know... It'd be cool?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MSG_116_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}No, it wouldn't.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MSG_117_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}But we did all sorts of things like that when we were in elementary school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MSG_118_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}Yes... And now we're in high school. You're a third-year.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MSG_119_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}But... the deer treat...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MSG_120_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}...Can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MSG_121_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}You're a scary guy, Odagiri-kun...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_122_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}Hey, are my pants dirty?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}A deer ate the treat I had in my pocket...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_123_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}I didn't know there were deer in Kyoto too. Odagiri-kun, you know, deer crackers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_124_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}Can we not talk about it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}If you hadn't said you wanted to ride a deer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_125_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Didn't you want to ride it, too? It seems like its horns would make perfect handlebars...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_126_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}And what would be the point of riding it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_127_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}I don't know... It'd be cool?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MSG_128_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}No, it wouldn't.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="MSG_129_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}But we did all sorts of things like that when we were in elementary school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="MSG_130_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}Yes... And now we're in high school. You're a third-year.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="MSG_131_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}But... the deer treat...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="MSG_132_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 102 0 -1 -1 0 0}...Can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="MSG_133_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}You're a scary guy, Odagiri-kun...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="134" name="MSG_134_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Hey, are my pants dirty?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}A deer ate the treat I had in my pocket...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="MSG_135_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}I didn't know there were deer in Kyoto too. Odagiri-kun, you know, deer crackers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="MSG_136_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Can we not talk about it?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}If you hadn't said you wanted to ride a deer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="MSG_137_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}Didn't you want to ride it, too? It seems like its horns would make perfect handlebars...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="MSG_138_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}And what would be the point of riding it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="MSG_139_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}I don't know... It'd be cool?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="MSG_140_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}No, it wouldn't.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="MSG_141_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}But we did all sorts of things like that when we were in elementary school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="MSG_142_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Yes... And now we're in high school. You're a third-year.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="MSG_143_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}But... the deer treat...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="MSG_144_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}...Can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="145" name="MSG_145_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}You're a scary guy, Odagiri-kun...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="146" name="MSG_146_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Hey, are my pants dirty?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}A deer ate the treat I had in my pocket...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="147" name="MSG_147_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}I didn't know there were deer in Kyoto too. Odagiri-kun, you know, deer crackers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="MSG_148_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Can we not talk about it?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}If you hadn't said you wanted to ride a deer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="MSG_149_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Didn't you want to ride it, too? It seems like its horns would make perfect handlebars...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="MSG_150_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}And what would be the point of riding it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="151" name="MSG_151_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}I don't know... It'd be cool?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="152" name="MSG_152_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}No, it wouldn't.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="153" name="MSG_153_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}But we did all sorts of things like that when we were in elementary school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="154" name="MSG_154_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Yes... And now we're in high school. You're a third-year.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="155" name="MSG_155_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}But... the deer treat...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="156" name="MSG_156_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}...Can we please change the subject?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="157" name="MSG_157_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}You're a scary guy, Odagiri-kun...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

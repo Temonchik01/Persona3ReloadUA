@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_130_180_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_130_180_C\BMD_Event_Main_130_180_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 61 6C 65 20 59 6F 75 6E 67 20 4D 61 6E">Pale Young Man</Speaker>
+    <Speaker id="1" rawBytes="47 69 72 6C 20 69 6E 20 61 20 44 72 65 73 73">Girl in a Dress</Speaker>
+    <Speaker id="2" rawBytes="49 6E 74 65 6C 6C 69 67 65 6E 74 20 42 6F 79">Intelligent Boy</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}That was faster than I expected.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 213 0 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Quite a show, I must admit.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}They've been rather busy these last few months, haven't they?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}And it seems they've gained new recruits, too. Their fighting style is most fascinating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Not to mention they've made several forays into the tower...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Well, Jin? Are they our enemy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}How 'bout we go ask our "buddy"? Gonna be seein' him real soon.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Ah, yes. An excellent idea.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 0 25 25}Considering that he shares our fate, it would be prudent to seek his opinion.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 5 25 25}After all, we don't have much time left...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_120_210_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_120_210_C\BMD_Event_Main_120_210_C.uasset" dialogs="31">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="2" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 56 6F 69 63 65">Mysterious Voice</Speaker>
+    <Speaker id="3" rawBytes="50 61 6C 65 2D 46 61 63 65 64 20 47 69 72 6C">Pale-Faced Girl</Speaker>
+    <Speaker id="4" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 51 -1 0 0}{f 3 1 1 0 0 1 0 0}Hey, here he is![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 51 -1 0 0}{f 3 1 1 0 0 2 0 0}Man, we were worried about you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sorry about the wait.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm glad you two are safe.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 3 0 0}I don't think we should enter Tartarus this way again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 4 0 0}Oh yeah! Did you hear a voice on your way here?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 5 0 0}Uh, kinda like—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}Who's there...? Are you... human?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 51 -1 0 0}{f 3 1 1 0 0 7 0 0}Th-That's it! That's the voice![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 51 -1 0 0}{f 3 1 1 0 0 8 0 0}Wait, didn't that come from behind us...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 3 4 0}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 9 0 0}Ah...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 10 0 0}Are you Fuuka Yamagishi?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 2 -1 0 0}{f 3 1 1 0 0 11 0 0}Y-Yes![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 51 -1 0 0}{f 3 1 1 0 0 12 0 0}Wow, you're alive! That's awesome![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 51 -1 0 0}{f 3 1 1 0 0 13 0 0}Never fear, the heroes are here![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 51 -1 0 0}{f 3 1 1 0 0 14 0 0}Good to see you're okay.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 4 0 25 25}Come with us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 2 -1 0 0}{f 3 1 1 0 0 16 0 0}Thank you so much... I...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't worry, you're safe now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you okay?]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_5_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 10 2 -1 0 0}{f 3 1 1 0 0 17 0 0}Y-Yes, I'll be fine... Sorry, I'm just so relieved.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 51 -1 0 0}{f 3 1 1 0 0 18 0 0}Looks like I made the right call then. I'll see if I can contact Mitsuru.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 19 0 0}What is this place? One second I was at school, and then...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 51 -1 0 0}{f 3 1 1 0 0 20 0 0}Uhhh... It's kind of a long story. We can explain after we get outta here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 21 0 0}Mitsuru, can you hear me?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 0 0 0 22 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 51 -1 0 0}{f 3 1 1 0 0 23 0 0}No good. All I hear is static.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 24 0 0}Oh, are you hurt anywhere?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 25 0 0}You've probably seen the monsters wanderin' around, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_018_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 26 0 0}So there is something dangerous in here, then.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 27 0 0}I've gotten by without them finding me so far.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 28 0 0}Wait, you've avoided them this entire time!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 51 -1 0 0}{f 3 1 1 0 0 29 0 0}How is that possible?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_020_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 30 0 0}Umm, it's hard to describe, but... I can sort of tell where they are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 51 -1 0 0}{f 3 1 1 0 0 31 0 0}Whaddaya mean? Are you saying you're psychic or somethin'?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 32 0 0}She has the same power as Mitsuru.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 33 0 0}Actually, she might be even stronger.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 34 0 0}Mitsuru's Persona was always more combat-focused to begin with.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_023_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 2 -1 0 0}{f 3 1 1 0 0 35 0 0}"Persona"...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_024_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 36 0 0}Hang on to this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_025_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 2 -1 0 0}{f 3 1 1 0 0 37 0 0}Huh!? W-Wait, is this... Is this a gun!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_026_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 38 0 0}Think of it as a lucky charm. It doesn't actually fire bullets.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_027_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 2 -1 0 0}{f 3 1 1 0 0 39 0 0}Um, okay...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_028_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 51 -1 0 0}{f 3 1 1 0 0 40 0 0}All right, let's get outta here![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

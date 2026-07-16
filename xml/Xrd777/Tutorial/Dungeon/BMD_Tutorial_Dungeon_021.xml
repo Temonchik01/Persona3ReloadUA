@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_021.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Dungeon\BMD_Tutorial_Dungeon_021.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 73 73 69 6E 67 20 50 65 72 73 6F 6E 73">Missing Persons</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 20}Sometimes you will encounter {f 0 1 2}missing persons{f 0 1 27} who have wandered into Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Missing persons cannot be rescued {f 0 1 2}after a full moon{f 0 1 27}, so it's best to save anyone you find as soon as possible.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can {f 0 1 2}receive a reward at the police station{f 0 1 27} the day after a successful rescue, so don't forget to stop by.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can {f 0 1 2}ask Elizabeth{f 0 1 27} where the missing persons are located. Seek her advice regularly to rescue those who are lost in Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

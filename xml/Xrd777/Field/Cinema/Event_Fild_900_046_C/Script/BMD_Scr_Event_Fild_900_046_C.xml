@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Scr_Event_Fild_900_046_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_900_046_C\Script\BMD_Scr_Event_Fild_900_046_C.uasset" dialogs="22">
+  <Dialog id="0" name="MND_CARD_INFO_01" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The {f 4 4 1 0 1 0} is reacting...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_CARD_INFO_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The {f 4 4 1 0 1 0} and[n]{f 4 4 1 0 1 1} are reacting...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_CARD_INFO_03" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The card in my hand is reacting...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="PFM_CARD_INFO_PRIESTESS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The High Priestess Major Arcana card[n]has been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="PFM_CARD_INFO_EMPRESS_EM" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Empress and Emperor Major Arcana[n]cards have been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="PFM_CARD_INFO_HIERO_LOVE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Hierophant and Lovers Major Arcana[n]cards have been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="PFM_CARD_INFO_CHARI_JUST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Chariot and Justice Major Arcana[n]cards have been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="PFM_CARD_INFO_HERMIT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Hermit Major Arcana card[n]has been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="PFM_CARD_INFO_FORT_STREN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Fortune and Strength Major Arcana[n]cards have been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="PFM_CARD_INFO_HANGEDMAN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Hanged Man Major Arcana card[n]has been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="PFM_CARD_INFO_VARIOUS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Multiple Major Arcana cards[n]have been added to Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SYS_DETAIL_PRIESTESS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}High Priestess: {f 0 1 2}All-Out Attack{f 0 1 27} damage will increase until you leave Tartarus for the day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SYS_DETAIL_EMPRESS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Empress: The {f 0 1 36}En{f 0 1 27}, {f 0 1 36}Ag{f 0 1 27}, and {f 0 1 36}Lu{f 0 1 27} of Personas in your possession will increase by 2.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SYS_DETAIL_EMPEROR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Emperor: The {f 0 1 36}St{f 0 1 27} and {f 0 1 36}Ma{f 0 1 27} of Personas in your possession will increase by 2.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="SYS_DETAIL_HIEROPHAN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hierophant: The {f 0 1 2}level{f 0 1 27} of your {f 0 1 2}currently equipped Persona{f 0 1 27} will increase by {f 0 1 2}1{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SYS_DETAIL_LOVERS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Lovers: Increases {f 0 1 2}Social Link bonuses{f 0 1 27} for Persona fusions until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SYS_DETAIL_CHARIOT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Chariot: Your {f 0 1 34}maximum HP{f 0 1 27} will increase by {f 0 1 2}10{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SYS_DETAIL_JUSTICE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Justice: You will be able to {f 0 1 2}pick one additional card{f 0 1 27} from Shuffle Time until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="SYS_DETAIL_HERMIT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hermit: Your {f 0 1 34}maximum SP{f 0 1 27} will increase by {f 0 1 2}7{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="SYS_DETAIL_FORTUNE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fortune: All current party members' {f 0 1 34}maximum HP{f 0 1 27} will increase by {f 0 1 2}8{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="SYS_DETAIL_STRENGTH" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Strength: All current party members' {f 0 1 34}maximum SP{f 0 1 27} will increase by {f 0 1 2}5{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SYS_DETAIL_HANGEDMAN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hanged Man: Obtain {f 0 1 2}1{f 0 1 27} {f 0 1 39}Incense Card{f 0 1 27}, which {f 0 1 2}increases a Persona stat{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

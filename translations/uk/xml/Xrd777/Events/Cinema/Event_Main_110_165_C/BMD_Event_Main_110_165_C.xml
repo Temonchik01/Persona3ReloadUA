@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_110_165_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_110_165_C\BMD_Event_Main_110_165_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Не можу повірити, що в поліцейському відділку продають зброю.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Крім того, вони дали нам лише 5000 єн! Хіба це не скупо? Ми ж, наче, світ рятуємо...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}От лайно! Уже так пізно?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 2 0 25 25}Я пропущу повторний показ «Самотнього шьоґуна»! Я мушу йти![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}А як же покупки?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Добре.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}А-а-а, до речі, про це...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 2 1 25 25}Решту я лишаю тобі, Лідере! Зустрінемося знову сам-знаєш-де![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Крутяк. Решту я лишаю тобі![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 2 0 25 25}Знаю, саме я привів тебе сюди, але ти ще побачиш мене сам-знаєш-де.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Тут безліч магазинів, тож тобі варто оглянути їх, поки не пізно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 2 1 25 25}Гаразд, побачимося в гуртожитку![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SYS_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}По всьому місту є різноманітні заклади та магазини.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завітайте до них, щоб знайти корисні речі, які допоможуть вам дослідити Тартар, і зустріти нові соціальні зв'язки.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

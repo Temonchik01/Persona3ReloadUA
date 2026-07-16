@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_190_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_190_010_C\BMD_Event_Main_190_010_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 68 61 72 6F 73">Pharos</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Good morning.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}This is the first time we've talked during the day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Isn't this weather lovely? This really is the start of a new day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}...For both of us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}All the fragments of my memory are finally back together.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I understand my purpose now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}The time has come.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 3 25 25}I know this is going to hurt, but there's something I have to tell you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}This is goodbye... for you and me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}In my eyes, our friendship was a miracle. I want you to know that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}But even miracles don't last forever.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 3 25 25}If only they did.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I guess that's true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nothing can last forever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It doesn't matter.]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Maybe you're right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 0 25 25}Even if eternity does exist, how would we ever know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}It'd be no different than if it didn't exist.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}You're right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}What's most important is the experience.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}I'll always treasure the time we had together.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Today may be the end, but the bond between us can never be severed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 1 0 25 25}Remember that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Pharos is looking at me with teary eyes...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I sense a strong bond[n]between Pharos and me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SYS_008_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Death Social Link reached its maximum level! You can now fuse {f 0 1 35}Thanatos{f 0 1 27}, the bringer of death![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}It was fun while it lasted.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}So long.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

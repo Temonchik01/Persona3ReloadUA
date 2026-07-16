@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_110_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_110_050_C\BMD_Event_Main_110_050_C.uasset" dialogs="26">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="4" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}All right, everyone's here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Heck yeah! Let's get right into it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Now, I'd like your undivided attention.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}For a long time, Kirijo-kun and Sanada-kun were the only Persona-users we had.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}But that number has recently jumped to five.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}So, here's the plan.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Starting tonight at 12 AM, I'd like us to finally begin exploring {f 0 1 33}Tartarus{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_020_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Uhh... So I asked this yesterday, but what is that Tartar thing again?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_021_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}...It's Tartarus. You seriously haven't seen it, Junpei?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}I mean...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}It's no surprise you haven't seen it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Tartarus only appears during the Dark Hour, after all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_024_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Only during the Dark Hour...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_025_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Just like the Shadows... Interesting, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_025_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}The goal of our club—SEES—is to fight those Shadows. However...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Simply defeating Shadows during the Dark Hour isn't enough.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}We must get to the root of the problem. We need to destroy the Dark Hour itself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_025_2_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Uh, I don't really get it...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}You're sayin' if we run around Tartarus, we can somehow get rid of the Dark Hour?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_025_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}We don't know for certain.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Sorry I can't give you a better answer, but investigating the mysteries of that tower is part of our job.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_025_4_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}The bottom line is: we need more information.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Everything we encounter there will be a vital clue for us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_025_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}The exploration of Tartarus is of utmost importance. Consider it our top priority.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_025_6_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Our society, while remaining blissfully unaware of the Shadows, is slowly but surely succumbing to their influence.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}I would go as far as to say that the fate of the world rests on the shoulders of you Persona-users.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_025_7_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}...That's one hell of a responsibility, but the heroes of justice will prevail![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_025_8_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}It's also the perfect spot for us to train and improve our skills.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}{f 4 23 0 4 0 25 25}That place is like a nest of Shadows, you know.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_026_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}Whoa... Their nest, huh...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_027_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}But Senpai... what about your injury?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_028_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Akihiko's still recovering from his wounds. He'll accompany us, but won't participate in the exploration.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_029_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}...Yeah, I know.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_030_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Relax, ol' Junpei's got your backs![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_031_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}I'm not so sure about this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_032_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}What about you, Mr. Chairman?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_033_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}I'll stay here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 6 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}{f 4 23 0 221 6 25 25}Not much point anyway, since I can't summon a Persona...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

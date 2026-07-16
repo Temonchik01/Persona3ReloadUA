@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldNPC_Entrance_Fuka.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Fuka.uasset" dialogs="67">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="2" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Add to party]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Remove from party]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check progress]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What is the status of the target?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's everyone's status?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head toward the station]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Commence operation]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_FUKA_BACK_UP_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll support you all from here. Is there anything I can do for you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_FUKA_BACK_UP_RE_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Is there anything else?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_FUKA_ANALYSIS_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I believe the highest you've gotten is floor {f 2 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_FUKA_ANALYSIS_GO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}For now, please try going as high up as you can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_FUKA_ANALYSIS_STOP" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}We managed to get as far as we can for the time being. I guess we can say mission accomplished?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}Great job, everybody.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_FUKA_ANALYSIS_STOP_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We've climbed to the very top of the tower, so we accomplished our objective, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}After everything we've gone through, we couldn't find anything in Tartarus—not even a single clue.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}But why... do I feel so uneasy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_FUKA_ANALYSIS_STOP_5" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We've climbed as far as we can go for now... But it seems like there's still quite a ways to go before we're done.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I wonder what lies ahead...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_FUKA_ANALYSIS_STOP_L" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Looks like we've gotten as far as we can go.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I guess all we have to do now is wait until January 31st...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_FUKA_THEURGIA_BEFORE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}I'll be here to provide backup from now on.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}When I'm geared up just like everyone else, it really gets me psyched up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_FUKA_BACK_UP_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_FUKA_MEMBER_LACK" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}It's dangerous to go with the party as is. Please add more teammates to your lineup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_FUKA_LETS_GO_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Please be careful out there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_FUKA_BACK_UP_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}I sense that... the enemies are even stronger than last time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Brace yourselves for some tough battles ahead. I'll also do my best to support you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_FUKA_BACK_UP_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}...I'm sorry. I shouldn't be hesitating at a time like this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_FUKA_BACK_UP_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5028 0 0}Even though he's all alone, he'll still stand against us...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Let's head out once we've finished our preparations. He should be waiting for us up ahead.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_FUKA_BACK_UP_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5116 0 0}The top is just up ahead...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We finally made it... We finally conquered this tower.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_FUKA_BACK_UP_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Just a little farther...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Until our final battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_FUKA_BACK_UP_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}Let's focus on the Shadow right now. Please choose who will join you on the front lines.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_FUKA_ANALYSIS_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'm picking up the target's signal from a spot somewhere below here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}But it's kind of like... multiple readings overlapping? I can't really tell for sure.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}What on earth could it be...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We don't know what we're up against this time either, so be ready for anything.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_FUKA_LETS_GO_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll get ready to provide support, so you can head on over.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_FUKA_LETS_GO_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Let's get going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_1103_MITURU_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4088 0 0}Well then, we're off.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_1103_IKUTUKI_01" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}{f 3 1 3 0 -1 14210 0 0}All right. Be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_1103_MITURU_02" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Let's go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_FUKA_BACK_UP_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5003 0 0}This will be our final battle... Let's get through this, together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_FUKA_ANALYSIS_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}The Shadow is floating in the air, showing no signs of movement.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}If we get close, it'll turn into a bloodbath. Make sure you're fully prepared for battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_0613_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}From now on, I'll be providing support in Kirijo-senpai's stead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll do my best to make exploration easier on everyone in any way I can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_0623_0707_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}Little by little, I'm starting to get used to providing support.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}You can count on me to have your back.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_0709_0717_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}The last battle really did a number on you the other day...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}The enemies have gotten stronger, too, so I'll do everything I can to support you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_0718_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}I've only ever seen Yakushima in pictures, but I hear it's supposed to be a beautiful place. Isn't this exciting?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Oh, but we have to focus on exploring Tartarus right now. Let's pull it together and move out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_0724_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}I wonder how they managed to build Aigis...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}The Kirijo Group's technology is really impressive— Oh, um, sorry. Now's not the time to be thinking about all that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_0725_0805_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}Amada-kun is really put together. And he speaks so politely, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'm sure his parents really cared about him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_0806_0809_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}Having to attend summer school is... kind of depressing, honestly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}But maybe I'll be able to concentrate with everyone around. Let's just do our best.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_0810_0820_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Looks like I'll be able to provide Koro-chan backup the same way I do for everyone else.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}He seems to understand human speech, and we're all able to figure out what he's feeling.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}He's a really smart dog. Isn't that right, Koro-chan?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_0821_0827_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}Summer vacation really went by in a flash, didn't it? This year especially...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I guess maybe that's because we were busy every day, one way or another.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_0828_0902_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}Amada-kun sure is amazing, isn't he? Even though he's so young, he's really determined.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}It makes me want to do my best to support him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_0903_0904_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}Now that Aragaki-senpai's joined us, we've gained even more firepower.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}I guess that only makes choosing your party lineup harder, but this is something only a leader can do.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_0906_0918_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}It seems that Kirijo-senpai is also looking into Strega.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}But I wonder... Just where did that girl get an Evoker?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_0919_1003_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Now there's just three Shadows remaining...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}The end of our battle is in sight. I'll back you up, all the way to the very end.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_1005_1016_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5089 0 0}Sanada-senpai and Amada-kun are starting to pick themselves up. We should follow their example...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll be all right. As always, I'll provide backup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_1019_1102_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Once we defeat the next Shadow, Tartarus should disappear for good.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Keep up the hard work, and don't lose focus until the very end.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_1106_1109_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5089 0 0}Just what have we been doing all this time...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}We believed that this was it, that this would be the end...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_1110_1117_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5089 0 0}There's no way Kirijo-senpai's okay... considering everything that happened.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}I'm worried about her, but giving her some space might be what's best for now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_1121_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}If you're sorry about what happened during the school trip, it's okay. I'm not upset anymore.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Since Kirijo-senpai, um... executed you guys on our behalf.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Anyway, let's focus on the task at hand and get back to exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_1121_FUKA_DUNGE_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}It looks like Kirijo-senpai's recovered... Thank goodness.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}I knew she could overcome her grief.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_1122_1127_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5089 0 0}Is Junpei-kun going to be okay...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}I've been trying to think of something that could make him feel better, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}...I guess it's not easy to bounce back after what happened.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_1203_1213_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5089 0 0}I can't stop thinking about Ryoji-kun's words...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}I'm sorry, I'll try to concentrate.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_1219_1225_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5096 0 0}I know things are tense right now, but I'm really looking forward to Christmas...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}Because... I want to spend it with you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 1 0}S-Sorry... I just feel so flustered even though I'm the one who said all that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_0101_0114_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5116 0 0}It's a new year.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}The Promised Day is fast approaching...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I can't let my nerves get the best of me right now... Let's go about this like usual.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_0115_0130_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5116 0 0}We'll do everything we can to protect our ordinary, everyday lives and our future— No, we must.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We don't have much time left until the Promised Day. Let's keep building up our strength for the final battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_0131_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5116 0 0}It's the Promised Day... The day we fight Nyx for our future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}As long as we stand together, I believe we can overcome anything.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Let's make it through this, make it to tomorrow... so we can meet up on graduation day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_HANYOU1_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5075 0 0}On days we go to Tartarus, I have a smaller dinner.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}I get really sleepy after eating a big meal.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Oh, I'm not tired right now though. You don't have to worry about me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_HANYOU1_FUKA_DUNGE_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Every few floors, the Shadows seem a little different.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}It might be a good idea to change up your party lineup every now and then. That way, it'll be easier to target an enemy's weakness.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_HANYOU2_FUKA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5076 0 0}I always find it thrilling whenever everyone attacks the Shadows all at once.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}You should execute those attacks when you get the chance![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_HANYOU2_FUKA_DUNGE_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5067 0 0}Everyone on standby is also warming up for their turn.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We'll be able to swap out teammates at any time, so please try not to overexert yourself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_FUKA_LOVER_INPARTY" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Y-You're too close...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}It... It'd be too embarrassing if you could hear how loudly my heart is beating.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_FUKA_TODAY_COMMU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}Looks like we'll be together the whole day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}Hehe, let's explore as much as we can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_FUKA_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}I'm feeling pretty good today. I'll be sure to support everyone as best as I can![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_101_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_101_010_C\BMD_Event_Cmmu_101_010_C.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Kenji Tomochika</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Yo, what's up?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}Hey man, I'm gonna get some ramen after school. You wanna come?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why are you asking me?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why so out of the blue?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}No reason, really. Just don't have anything to do later.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Plus I figured we could finish our chat from this morning.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}So how 'bout it, man? Let's get some ramen at the mall and talk.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'm going to hang out with[n]my classmate after school.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}According to Igor, the strength of a[n]Social Link is the strength of a Persona.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...I decided to go with him.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

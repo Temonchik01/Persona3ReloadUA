@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_113_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_113_060_C\BMD_Event_Cmmu_113_060_C.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">President Tanaka</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 1 25 25}Just the other day, my high school organized a class reunion.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sounds fun.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sounds like a hassle.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 5 13 16 15 113}I had a splendid time! I laugh just thinking about it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 3 25 25}Indeed it was. I had to pay for transportation and of course my hotel room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}I doubt you'd understand how I feel, since you're still in high school, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}A class reunion is a very important event. It's the perfect opportunity to show everyone how pathetic their lives turned out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 1 25 25}Like that cad who made fun of me for eating plain rice... Or the ingrate who threw my holey socks in the trash.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 1 25 25}Now, they both look at me with envy. What they make in a year, I make in a month![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 1 25 25}My business is doing great, and I'd say I have a satisfying private life as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 1 25 25}Let me take you under my wing, as our exclusive model. It's a once-in-a-lifetime opportunity![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 1 25 25}Don't think I would extend this offer to just anyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}President Tanaka is opening up to me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I understand him a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 1 25 25}Oh, remember that 40,000 yen you gave me? I'd say you've gotten your money's worth at this point.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 1 25 25}My time is worth at least 100,000 yen per hour, you know![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 1 25 25}Just think of all the free advice I've given you! You can thank me later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting late, so I'll go back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

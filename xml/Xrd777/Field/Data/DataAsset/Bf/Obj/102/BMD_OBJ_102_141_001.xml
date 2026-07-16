@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_102_141_001.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_141_001.uasset" dialogs="31">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a bank of consoles.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't know how to use it.[n]It seems very advanced...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a bank of consoles.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are others in the room right now,[n]so I shouldn't watch the videos...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a bank of consoles.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A surveillance camera seems to have[n]turned itself on and recorded a video...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But there are others in the room right[n]now, so I shouldn't watch it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a bank of consoles.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A surveillance camera seems to have[n]turned itself on and recorded a video...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I watch the video recording...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Watch]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a bank of consoles.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There seems to be a new recording.[n]Should I watch the video...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are no new recordings.[n]Should I rewatch an old video...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Which one should I watch...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MND_008_1_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Console Deck[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_008_2_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My whole body hurts... I should[n]go back to my room and rest...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="12" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+  </Dialog>
+  <Dialog id="13" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="14" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="15" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+  </Dialog>
+  <Dialog id="16" name="SEL_014_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="17" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="18" name="SEL_016_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+  </Dialog>
+  <Dialog id="19" name="SEL_017_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="20" name="SEL_018_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="21" name="SEL_019_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="22" name="SEL_020_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="23" name="SEL_021_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="24" name="SEL_022_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="25" name="SEL_023_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="26" name="SEL_024_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Next page]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="27" name="SEL_025_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}First page]]></Option>
+  </Dialog>
+  <Dialog id="28" name="SEL_026_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="29" name="SEL_027_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="30" name="SEL_028_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ikutsuki's video]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+</BMD>

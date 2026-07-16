@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_006_740_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_006_740_C\BMD_Event_Cmmu_006_740_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Yes, this looks good.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}Just to be safe, we should adjust the amount of fertilizer and make sure they get enough sun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 1 25 25}They look like they're growing fine now. What a relief...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's all thanks to you, Fuuka.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I worked hard too.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's too early to relax.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Oh, I only lent a helping hand. I'm sure tending them is important...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}But it's all thanks to the plants themselves for being so strong.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Of course. They wouldn't be this healthy without you taking such good care of them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}That's why they've grown up to be so strong![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}That's true. If we get a streak of bad weather, they might get sick again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}It sure is a lot of work to raise healthy plants...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 1 25 25}But I think they'll be fine if we make sure to look after them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}You know, after I treated the plants when they were sick, I kept coming back here to check on them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}I noticed that the spots where we had cut off the leaves were already sprouting new ones.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}And in just a little while, they were healthy and green all over again![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Maybe I'm making a big deal of this, but it made me realize that life is actually quite amazing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}It didn't matter that they had been weakened, or had damaged parts...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Just giving them a little support was enough for them to show how strong they really are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}We could learn from this.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's keep at it.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 5 13 3 1 6}Yes, it really gave me hope. I think in a lot of ways, we're just like them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}I'm not sure how to say it, but... I hope I can be as resilient as these plants are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 5 13 3 1 6}Yes. If we hadn't had to take care of them like this, I never would have noticed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 1 1 25 25}I'm not sure how to say it, but... I hope I can be as resilient as these plants are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_011_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka is looking tenderly at the[n]plants we've grown together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}I think I'll check on the plants one more time, just to show my appreciation.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Maybe if I keep thanking them, they'll grow even healthier.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}All right, that should do it. Shall we head back down?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

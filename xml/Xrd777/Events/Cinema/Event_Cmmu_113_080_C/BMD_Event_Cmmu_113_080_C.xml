@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_113_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_113_080_C\BMD_Event_Cmmu_113_080_C.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">President Tanaka</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 1 25 25}I'm used to being accosted by people, but recently I had an interesting encounter...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}It was a young man not much older than you. Do you know what he said to me?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}He said, "Thank you."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You must've misheard.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why would he say that?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}{f 5 13 16 5 113}I thought the same thing, so I asked him to repeat himself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 0 25 25}But sure enough, that's what he said. I was shocked someone would actually thank me for selling fake products.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 1 25 25}{f 5 13 16 15 113}I'm not proud of this or anything, but I couldn't care less what our customers think.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Don't you know who I am? I'm the president of a company that sells fake products![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 0 25 25}But then, he told me he quit his part-time job and was going to study to become a public prosecutor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 0 25 25}He wants to punish businessmen like me for bending the rules.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 3 25 25}He said I was an example of a negative role model, even though I wasn't aware of it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 0 25 25}Maybe I'm overreacting, but what if he does become a public prosecutor and puts me behind bars?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 3 25 25}I suppose that means I wouldn't be able to give you my advice anymore...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}President Tanaka looks torn...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I understand him a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 0 25 25}...My shareholders oughta take a leaf out of that boy's book.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 3 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 3 25 25}Apparently, kids these days aren't as naive as we thought...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting late, so I'll go back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_109_570_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_570_C\BMD_Event_Cmmu_109_570_C.uasset" dialogs="30">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+    <Speaker id="1" rawBytes="54 61 6B 6F 79 61 6B 69 20 56 65 6E 64 6F 72">Takoyaki Vendor</Speaker>
+    <Speaker id="2" rawBytes="47 61 6D 65 20 41 74 74 65 6E 64 61 6E 74">Game Attendant</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 1 0 0}Oh, that yukata looks nice.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 2 0 0}I don't have one myself though... How do you feel about yukatas, {f 4 1}-san?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I like them.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I like what you have on.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 13 9 15 109}That makes sense. A yukata would be perfect for the summer festival.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 13 9 5 109}Really? I think a yukata would be more appropriate for the summer festival.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 6 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 109 4 25 25}Oh, but... you were, um, giving me a compliment, weren't you...? Sorry. And, thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 6 0 0}I'd like to get a yukata, but whenever I have money, I end up spending it on books.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 7 0 0}Which reminds me, I got a new manga recently.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 109 1 25 25}It's really easy to get into, and the story makes you feel all warm inside.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 6 -1 0 0}{f 3 1 1 0 0 9 0 0}Oh... Sorry! We were talking about yukatas, weren't we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 10 0 0}Mmm, something smells delicious... It must be takoyaki.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 11 0 0}Um, do you think we should order some?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 12 0 0}I don't think I can finish them by myself, so maybe we can split them?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 13 0 0}Excuse me. Can I get one order of takoyaki, please?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 10}Ya sure can![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 15 0 0}...Here you go, one order of takoyaki![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 16 0 0}Today, I'm using a special ingredient in place of the octopus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 17 0 0}Takoyaki without octopus... I'm a little scared to try it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 109 1 25 25}But it smells so good... I guess we're about to find out what's inside.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 19 0 0}Here you go. They're hot, so be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 20 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 109 1 25 25}It's so good! It's all juicy inside...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 109 0 25 25}But I can't figure out what she put in them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 23 0 0}Wow, look at all the masks![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 24 0 0}That cat one is cute! I just want to pet it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 25 0 0}Oh, a hyottoko mask! It looks so weird... Like an octopus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 26 0 0}Now I feel like I'm really in the summer festival spirit.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 27 0 0}{f 5 21 0 11}Hey, you two! Wanna try your hand at a lucky draw?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 28 0 0}{f 5 21 0 11}Make some nice memories, whaddaya say? Odds are lookin' good—lots of winning tickets left![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 29 0 0}A lucky drawing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 30 0 0}That could be fun. Shall we give it a try?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The box is filled with[n]triangular lottery tickets...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Pick from the top]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Dig down to the bottom]]></Option>
+  </Dialog>
+  <Dialog id="22" name="MSG_016_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 31 0 0}{f 5 21 0 11}Congratulations, you won![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 32 0 0}{f 5 21 0 11}Wow, you must have incredible luck to win on your first try![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 33 0 0}{f 5 21 0 11}Here's your prize. Enjoy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: (Item name) received.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_018_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 34 0 0}{f 5 21 0 11}Congratulations, you won![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 35 0 0}{f 5 21 0 11}Wow, you must have incredible luck to win on your first try![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 36 0 0}{f 5 21 0 11}Here's your prize. Enjoy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: (Item name) received.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 37 0 0}Wow, you actually got a prize![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 38 0 0}This might be the first time I've seen someone win at a game like this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 6 -1 0 0}{f 3 1 1 0 0 39 0 0}Oh, look at the time... It feels like it went by so fast.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 40 0 0}{f 4 23 0 109 1 25 25}Thank you for joining me today. I had so much fun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_021_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 6 -1 0 0}{f 3 1 1 0 0 41 0 0}If any other events come up, um... maybe we could go together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After seeing Chihiro home,[n]I went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

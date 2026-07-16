@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BtlEvent732.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\732\BMD_BtlEvent732.uasset" dialogs="14">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_732_0_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 1 0 5}All right. Next, let's go over a useful approach for defeating enemies.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_732_0_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 2 0 5}Most enemies have an elemental affinity that they have low resistance to. Targeting weaknesses is one of the best ways to deal damage.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_732_0_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}{f 3 1 1 0 2 3 0 5}Not only that, it can also knock enemies down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_732_0_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 4 0 5}Knocking down an enemy creates an opening, letting you continue your offense.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_732_0_5" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 2 5 0 3}Weaknesses, huh? Got it! I'll show you how it's done...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_732_0_6" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 2 6 0 2}Wait! ...Let me handle this one.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_732_0_7" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 5 -1 -1 0 0}{f 3 1 1 0 2 7 0 2}Just point it to my head... then pull the trigger...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_732_0_8" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 2 8 0 2}I can do this...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_732_0_9" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 2 9 0 3}Whoa! You're not so bad yourself, Yuka-tan![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_732_0_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}{f 3 1 1 0 2 10 0 5}That's it, Takeba.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_732_0_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 11 0 5}You give it a try as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_732_0_12" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}{f 3 1 1 0 2 12 0 5}Well done. You struck the enemy's weakness.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_732_0_13" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 13 0 5}Keep that up and finish off the rest.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="TRL_732_1_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Enemies can have weaknesses to certain affinities. Hitting an enemy's weakness will knock them down, allowing you to act again.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_116_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_030_C\BMD_Event_Cmmu_116_030_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Nozomi Suemitsu</Speaker>
+    <Speaker id="1" rawBytes="52 61 6D 65 6E 20 53 68 6F 70 20 4F 77 6E 65 72">Ramen Shop Owner</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The restaurant is filled with[n]the familiar smell of fish.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}That enough appetizers?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}'Scuse me, sir! Two bowls of the usual today! And as always, make sure one of 'em is extra large![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1001}...Comin' right up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Our bowls were replaced[n]with two new, fresh ones.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Once you taste this, my friend, there is no going back.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Tan-Tan-Tan Noodles! Yes! That's three—count 'em—three Tans![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}This is the crown jewel of the secret menu here—even better than the Hagakure Bowl![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}The simple, salt-based broth, complemented by the rich, spicy miso sauce... It's like a microcosm of the miracle of creation![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Wow![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The incredible flavor[n]melts away my troubles![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}It's all about that secret menu! Although... how will people find it if it's too secret?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 116 1 25 25}Ah, whatever. The harder I think about it, the hungrier I'm gonna get.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Oh, sir! Don't toss out that first bowl, all right? That soup and I have unfinished business![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}This is a huge honor for you, you know. You're only the second person to taste this after me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Don't forget to blow on the noodles to cool them off.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can really feel Suemitsu's kindness.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship is stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}What a lucky guy you are. I mean, you get to be friends with me![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 116 3 25 25}And just so you know, you wouldn't be getting this with my younger brother, because the Gourmet King's brother is not the Gourmet King![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}So? Do you "get me," hm? Who am I? Go on, I wanna hear it come out of your mouth![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nozomi Suemitsu.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}The Gourmet King.]]></Option>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Uh, well... Yeah, I guess that's true... All looks and no brains, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 5 13 19 15 116}My word, not so loud! Are you trying to embarrass me? Here, have some of my boiled egg. I had a couple of bites, but it's still good![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Ack! No more talking! The food's gonna be a chewy, flavorless mess if we don't eat up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_014_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 1}{f 3 1 1 0 0 19 0 0}Sir! Sir! You saved that first bowl, right? 'Cause I'm gonna be needing it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Suemitsu and I finished our ramen,[n]and I went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

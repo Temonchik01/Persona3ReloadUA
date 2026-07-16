@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Mailscr_Cmmu_Mitsuru_Emperor.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\Mail\BMD_Mailscr_Cmmu_Mitsuru_Emperor.uasset" dialogs="5">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I need to go to the faculty office to complete[n]the paperwork for joining the student council.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I head to the faculty office right now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_000_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should introduce myself to the rest[n]of the student council now that I've joined.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I head to the student[n]council room right now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Go]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

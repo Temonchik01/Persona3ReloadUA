@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_MilitaryDungeon.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_MilitaryDungeon.uasset" dialogs="35">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="44 69 61 72 79 20 54 65 78 74">Diary Text</Speaker>
+    <Speaker id="2" rawBytes="4A 6F 75 72 6E 61 6C 20 54 65 78 74">Journal Text</Speaker>
+    <Speaker id="3" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="6" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_DUNGE_FUKA_B2FKAISI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10069 0 0}I sense the target two blocks ahead of you![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10070 0 0}It seems to be moving slowly downward.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10071 0 0}Don't let it get away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_DUNGE_FUKA_B3FKAISI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10072 0 0}This place...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10073 0 0}It seems it was some kind of armory during the war.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10074 0 0}I've never seen so many weapons lying around before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10075 0 0}They were all designed to kill people...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10076 0 0}Having to kill others to survive...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10077 0 0}It's hard to believe a time like that is part of our history.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_DUNGE_FUKA_B4FKAISI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10078 0 0}The target's gaining speed! It's continuing down the tunnel![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10079 0 0}Hurry and chase it down![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_DUNGE_FUKA_B5FKAISI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10080 0 0}The target's stopped![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10081 0 0}It turned around! It's waiting for us one block down![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10082 0 0}Please be careful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_DUNGE_FUKA_B1FNOTFUL" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5006 0 0}It's too dangerous to go without more people![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_DUNGE_TOBIRA_HAZIKI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The door's too heavy to open.[n]I think we're trapped...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_DUNGE_B2FLU_BED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...That skeleton used to be somebody.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_DUNGE_B2FRU_COBWEB" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are cobwebs[n]stretching over the boxes...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_DUNGE_B2FLD_CAMPIN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like canned food.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_DUNGE_B2FRD_DESK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tables and boxes clutter the room...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_DUNGE_FUKA_B8FHE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 1 10084 0 0}The target's up ahead![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 1 10085 0 0}Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, I'm ready.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on.]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MND_DUNGE_B2F_SKELETON_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a diary next to the skeleton's hand.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_DUNGE_B2F_SKELETON_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"We have toiled until our fingers bled in hopes of protecting our country... protecting my family..."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"We've failed."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"But while the temptation to succumb to despair is strong, we cannot afford that luxury."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}"The sky may boil crimson, but we shall persevere."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_DUNGE_B2F_SENSYAPART" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Stacks of heavy artillery are stored here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_DUNGE_B2F_TAIHOU" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a huge, wheeled cannon.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_DUNGE_B2F_CYLINDER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}These weapon parts look complicated...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_DUNGE_B3F_WHEEL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Some kind of large disk is resting here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_DUNGE_B3F_SKELETON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a skeleton crushed[n]under the machinery...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_DUNGE_B3F_SKELETON2_" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A diary with a desiccated lock[n]is lying near the skeleton.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_DUNGE_B3F_SKELETON2_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}"In the hopes that this message will reach my loved ones, I have sealed this journal for its protection."[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}"We few survivors have ensured the completion of our goal."[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}"So many of our cohorts will never know our success... I pray their spirits find rest in the wake of this turmoil."[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}"To my mother, my wife, and my children: please do not think that I have abandoned you."[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}"If securing your futures means giving my life, then I will have done so happily. Honor my memory by living."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_DUNGE_FUKA_B21F_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10074 0 0}I've never seen so many weapons lying around before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10075 0 0}They were all designed to kill people...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_DUNGE_FUKA_B21F_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10076 0 0}Having to kill others to survive...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10077 0 0}It's hard to believe a time like that is part of our history.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_DUNGE_FUKA_B21F_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10072 0 0}This place...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_DUNGE_FUKA_B21F_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10073 0 0}It seems it was some kind of armory during the war.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_DUNGE_AEGIS_B21F_01" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 1 20667 0 0}These tread marks... They're new.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_DUNGE_SANADA_B21F_01" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 1 20665 0 0}These tracks on the ground seem to be made recently...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_DUNGE_JUNPEI_B21F_01" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 1 20664 0 0}Huh? Why the hell are there tread marks?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_DUNGE_MITSURU_B21F_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4067 0 0}These might belong to our target... Let's keep an eye out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_DUNGE_MITSURU_B21F_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4067 0 0}These could belong to the target... Stay alert, everyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_DUNGE_ML_MEDAL_GET_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What's that on the ground...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MND_DUNGE_ML_MEDAL_GOT_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I haven't seen anything like this before...[n]I should hold onto it for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_DUNGE_ML_MEDAL_GET_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Something's on the desk.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MND_DUNGE_ML_MEDAL_GOT_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_DUNGE_B3F_SKELETON2_" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...What are all these documents?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldNPC_Entrance_Yukari.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Yukari.uasset" dialogs="82">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay on standby for now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let me think about it.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check progress]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay on standby for now.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ask about the target]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head to Club Escapade]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head toward the station]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Commence operation]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_YUKARI_PARTY_IN_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Ready to go?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_YUKARI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}All right, let's go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_YUKARI_PARTY_OUT_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Wanna get going? I'm ready when you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_YUKARI_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Okay...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_YUKARI_PARTY_OVER_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}It looks like there's no more room...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_YUKARI_PARTY_CHANGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Want me to switch with someone?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_YUKARI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Okay, let's go.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_YUKARI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}All right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_YUKARI_PARTY_OUT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}C'mon, let's get going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_YUKARI_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Okay... Be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_YUKARI_PARTY_OVER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Oh, there isn't any room...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_YUKARI_TUTORIAL_BEFO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}So this is Tartarus...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_YUKARI_TUTORIAL_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1110 0 0}I'm exhausted...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Let's call it a day, okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_YUKARI_THEURGIA_BEFO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Oh, by the way, do you know what those numbers on our new armbands mean?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}If it's the order that we joined SEES, shouldn't yours and mine be reversed?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Maybe it's kinda random? I mean, there's no number two...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_YUKARI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Okay.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_YUKARI_PARTY_IN_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1028 0 0}Them again, of course...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Fine. Bring it on. We're not gonna lose![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_YUKARI_PARTY_OUT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}They can try to stop us all they want, but it's not gonna work. Our goal is too important...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}So let's go get this over with, all right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_YUKARI_PARTY_IN_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}That... Honestly, that sucked, but... let's just keep going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_YUKARI_PARTY_OUT_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}We have to stay focused.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_YUKARI_PARTY_IN_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}I really don't get how they can think the way they do.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}But whatever the reason, they're serious about it, so we'll have to be even more serious.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_YUKARI_PARTY_OUT_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1116 0 0}Let's deal with this quickly. Our real enemy is still ahead, after all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'm ready to go when you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_YUKARI_PARTY_IN_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}This is finally it. The place Ryoji-kun was talking about...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}...I'm ready. Let's go.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_YUKARI_PARTY_OUT_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}I have so many things running through my mind right now...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}But, most of all, that we're definitely going to win this. Right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_YUKARI_PARTY_IN_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Okay, are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_YUKARI_PARTY_OUT_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}This is really it, huh...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_YUKARI_PARTY_IN_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1110 0 0}This place is so creepy...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}But we have to do this... So let's just do it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_YUKARI_PARTY_OUT_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1033 0 0}I'm going, no matter what.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_YUKARI_CANT_PARTY_OU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}No, I'm not sitting on the sidelines today. I'm going![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_YUKARI_PARTY_IN_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}So much has happened, but this is finally it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}All right, I'm ready when you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_YUKARI_PARTY_IN_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}Tartarus, right? C'mon, let's get going![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}I'm ready whenever.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_YUKARI_PARTY_IN_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I didn't even know there were cables underground here. Well, you learn something new every day...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_YUKARI_PARTY_IN_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Amada-kun isn't here either... I wonder what happened...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Uh, sorry. I'm ready when you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_YUKARI_PARTY_IN_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1028 0 0}I honestly have no sympathy for those two, but still...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Sorry, this is no time for that. Let's put an end to this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_YUKARI_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Yeah, let's go.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_YUKARI_PARTY_OUT_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}Let's put everything we have into this![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Ready, Leader?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_YUKARI_PARTY_OUT_TKJ" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Looks like we'll have to go through those two first...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Hey, you ready to go?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_YUKARI_PARTY_OUT_CHI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1028 0 0}I can't believe he just took off like that...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}C'mon, we have to go after him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_0425_0508_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}How each battle goes is gonna depend on your orders, Leader.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}So don't be afraid to boss us around.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_0510_0514_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}That Shadow on the monorail was way tougher than any other Shadow we've fought, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I hope we don't run into any more like that...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_0523_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1095 0 0}It's great having Sanada-senpai back.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}He can help make up for how much a certain someone else drags us down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_0602_0605_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1123 0 0}Ghost stories are obviously made up. Junpei's just being stupid, as usual.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}For one thing, ghosts definitely aren't real.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_0606_0607_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I never would've thought it'd all turn out to be something like this...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}This is no time to be making stupid jokes like that "Believe It, or Don't" stuff...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_0613_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1095 0 0}Now that Fuuka's handling support, Kirijo-senpai can fight again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}That means we have more options for new battle strategies and stuff, so that's good.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_0623_0707_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1095 0 0}It seems like Fuuka's getting used to this! That's a relief, huh? So let's keep doing our job well, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_0709_0717_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}It's summer, but it doesn't seem like what season it is affects Tartarus at all...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Actually, it'd probably kinda suck if it got hot and cold in Tartarus too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_0718_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Did you see how excited Junpei was?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I hope he doesn't get carried away in Yakushima and do something even dumber than usual...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_0724_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}An "anti-Shadow weapon," huh...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I gotta say, Aigis isn't exactly what I would've expected an "anti-Shadow weapon" to look like.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}A human-looking weapon's kinda weird, but she seems like she'll be a strong ally, so I'm all for it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_0725_0805_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1095 0 0}Amada-kun's really mature for his age.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I can definitely think of someone who could learn a thing or two from him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_0806_0809_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Now we're gonna have Tartarus at night and summer school during the day...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Going to Tartarus is already tiring enough even when I don't do anything during the day...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_0810_0820_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I wonder who those Strega guys are...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}They even knew about Tartarus... We better be careful about them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_0821_0827_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}We're almost done with August.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Summer break's almost over, but it doesn't seem like we're anywhere near done with Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Well, let's just keep doing the best we can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_0828_0902_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I can't believe Amada-kun's gonna be fighting with us now...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I don't really know how I feel about this, but he volunteered himself, so...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_0903_0904_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Sanada-senpai looks so happy now that Aragaki-senpai's back.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}It seems like he trusts Aragaki-senpai a lot.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_0906_0918_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}That Chidori girl is so... What word am I looking for...? "Mysterious," I guess?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I hope we can get a lot out of her, but I kinda doubt that's gonna happen any time soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_0919_1003_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1009 0 0}I'm gonna give it all I've got to make sure I'm totally ready for the next operation![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Let's all do our best today![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_1005_1016_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}I know Aragaki-senpai's gone, but I think part of me still hasn't totally accepted that yet...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}*sigh* And I know I can't just keep feeling like this forever, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_1019_1102_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}Finally, the next Shadow's the last one![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}So let's get as strong as we can right now to make sure we win.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_1106_1109_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1028 0 0}It wasn't that long ago that I thought we'd never have to come here again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Why did this have to happen...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_1110_1117_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1028 0 0}I wonder if Kirijo-senpai will be okay...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Believe me, I know how she feels, but at least when we're fighting...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I don't mean to sound cold, but it'd be dangerous for all of us if one of us couldn't fight properly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_1121_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Maybe I won't heal you in battle anymore, as punishment for peeping...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}I'm just kidding. That would be pretty bad, wouldn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Besides, you're never gonna do anything like that ever again, right? Right!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_1121_YUKARI_DUNGE_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1025 0 0}Me and Mitsuru-senpai have decided that we're going to keep fighting.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}We're both gonna do our best, so let's all do our best.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_1122_1127_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}I don't think I've ever seen Junpei so sad before...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Knowing that you're only alive because someone you love sacrificed their self for you...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I can't even imagine how that must feel...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_1203_1213_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}I keep thinking about everything Ryoji-kun said, and I get so anxious...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I can focus when I'm fighting, but once the battle's over, I start thinking about it again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I know I've gotta snap out of this, but my brain doesn't seem like it's gonna let me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_1219_1225_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Well, not that I expected anything different, but Tartarus isn't exactly in the Christmas spirit.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}But it doesn't matter. I can be happy anywhere as long as I'm with—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Oh, um, uhh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Hahaha! I almost said something really embarrassing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_0101_0114_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}Now that Aigis is back safe, we can all put everything we've got into fighting again![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I bet this month is gonna fly by in no time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}So let's get as strong as we can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_0115_0130_YUKARI_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1086 0 0}We're getting close to the day of the fight...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I know it'll be scary, but let's stay calm when we face Nyx and not chicken out or anything, okay?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Actually, what am I telling you for? I should be more worried about Junpei...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_0131_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1116 0 0}I'm actually not as nervous as I thought I'd be. It just feels like, "It's finally here," y'know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Well, I guess it has been a whole month. And it'd be a little late to get cold feet now, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}All right, {f 4 1}-kun, I'll be counting on you tonight, just like always![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_TEST_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Exploring Tartarus before exams is the worst...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I get so tired after coming here that I can't study. I just fall asleep on my notes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}*sigh* I know there isn't really anything we can do about it, but still...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_HANYOU1_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}Even just being inside Tartarus is exhausting for some reason, isn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Do you think it's 'cause we're getting a workout, doing all this?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Well, I guess it doesn't matter. I was just curious.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_HANYOU2_YUKARI_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}You know when you hit an enemy's weak point and they fall down?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Some of them look so funny like that, it almost makes me wanna laugh.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}But it wouldn't be so funny if we got attacked while we were laughing, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_YUKARI_LOVER_INPARTY" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 3 0 -1 1111 0 0}Hey! You're standing too close![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 1 0}Um, back up a little. My face gets all red when you're that close...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_YUKARI_TODAY_COMMU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1131 0 0}Haha, it's kinda funny seeing you again so soon since we were just hanging out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_YUKARI_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1096 0 0}I'm feeling great today! C'mon, let's get moving![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_005_600_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_005_600_C\BMD_Event_Cmmu_005_600_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="50 72 69 6E 63 65 20 66 72 6F 6D 20 41 6E 6F 74 68 65 72 20 43 6F 75 6E 74 72 79">Prince from Another Country</Speaker>
+    <Speaker id="2" rawBytes="56 69 6C 6C 61 67 65 20 47 69 72 6C">Village Girl</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 1 0 0}Today, they're showing the "Eternal Love" series... It appears to be a set of classic romances.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 2 0 0}Now that I think about it, I may never have seen such a straightforward love story before...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 5 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 5 1 25 25}Well, this should be something of an experience. Let's make the most of it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_900_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}There's something I need to tell you... I'm sorry I couldn't say this sooner, but I'm actually a prince from another country.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_901_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}Forgive me for not being more honest with you. But believe me when I say that my love could not be more real![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_902_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}But... I love you, too! Wherever you go, I'll be right by your side![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems love takes many forms...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've learned the difference[n]between love and infatuation...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 5 -1 0 0}{f 3 1 1 0 0 7 0 0}...Is that really the standard for "eternal love"?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 5 -1 0 0}{f 3 1 1 0 0 8 0 0}In the final scene, how did the man so conveniently determine where the woman was?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_002_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 5 -1 0 0}{f 3 1 1 0 0 9 0 0}And why would he wait until the last moment to announce that he's secretly a prince?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 5 5 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 5 5 25 25}Why couldn't he tell her sooner? That's simply lackluster storytelling![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 11 0 0}And not only that, but the film ended just as the two began to settle down. Nothing to show of what comes after.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 5 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 5 3 25 25}If the writers knew how royalty actually lived, they wouldn't have called that a happy ending.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_002_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 5 -1 0 0}{f 3 1 1 0 0 13 0 0}In fact, that's when the most difficult part begins.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 5 -1 0 0}{f 3 1 0 0 0 14 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 5 -1 0 0}{f 3 1 1 0 0 15 0 0}Er— My apologies. I didn't intend to be overly critical...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 5 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 5 3 25 25}I just... couldn't help but compare it to my own life.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 5 -1 0 0}{f 3 1 1 0 0 17 0 0}In a way, I suppose that means I must have enjoyed it quite a bit.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru and I returned to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

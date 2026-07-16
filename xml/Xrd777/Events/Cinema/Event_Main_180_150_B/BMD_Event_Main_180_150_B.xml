@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_180_150_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_180_150_B\BMD_Event_Main_180_150_B.uasset" dialogs="24">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 69 6E">Jin</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="3" rawBytes="54 61 6B 61 79 61">Takaya</Speaker>
+    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="5" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ngh... We still lost...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}So, us experiments can't even stand up to a naturally awakened Persona...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 3 0 0}Experiments...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 5 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}For us, it's not so simple... Our powers weren't awakened naturally. We can't even use 'em without straining our bodies.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 5 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Don't you remember what your dead pal was carrying...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 52 -1 0 0}{f 3 1 1 0 0 6 0 0}So, you were giving Shinji the suppressants...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}You guys don't have the slightest clue what'll happen if the Dark Hour disappears... do you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}It won't matter for normal people, since they don't remember anything anyway...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}But without the Dark Hour, even Persona-users like us will—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 0 0 0 10 0 0}...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Jin... That's enough.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Now then... Ordinarily, we would withdraw here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_3_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}But that is not an option tonight.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}This body, ephemeral though it may be... is worthless without my power.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_5_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Therefore, I've only one choice... I shall prove my existence here and now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 0 0 0 16 0 0}...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 2 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}...!? What are you doing!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Don't be so reckless![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 2 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Jin!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 3 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...Sorry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}But... I haven't forgotten what you said to me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}You win... Go on and defeat the Shadow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Maybe then you'll see what you've been fightin' for this whole time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 52 -1 0 0}{f 3 1 1 0 0 24 0 0}Wait a sec![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 52 -1 0 0}{f 3 1 1 0 0 25 0 0}Don't tell me you're gonna jump...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}I'd rather die than surrender to you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_015_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 212 10 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_015_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 2 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Take a good look! This is how we live![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_016_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 52 -1 0 0}{f 3 1 1 0 0 28 0 0}They jumped...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_017_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 52 -1 0 0}{f 3 1 1 0 0 29 0 0}What the hell...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_018_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 52 -1 0 0}{f 3 1 1 0 0 30 0 0}Don't let it get to you. They chose how they wanted to go out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 31 0 0}...We're not done here yet.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 32 0 0}Our real target is waiting... Let's just focus on that for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

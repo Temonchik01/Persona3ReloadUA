@@ -1,0 +1,29 @@
+DT XML pipeline
+===============
+
+Translators edit only:
+  dt_xml\...
+
+Use:
+  export_dt_xml.bat   Rebuilds dt_xml from tools\dt\source
+  repack_dt.bat       Imports dt_xml into UnrealEssentials\P3R\Content\L10N\en
+
+DT uassets are written to L10N\en because UI DT replacements are only picked up there.
+
+DT_SystemTextName is risky: broad test edits broke save/load UI and language resolution. Edit it carefully and test in game after repacking.
+
+This pipeline is separate from BMD:
+  BMD XML: xml\...
+  DT XML:  dt_xml\...
+
+Supported DT source templates live under:
+  tools\dt\source\...
+
+XML layout:
+  dt_xml\fstrings\...  Unreal TextProperty/FString-style DTs
+  dt_xml\text\...      P3R cooked text-block-style DTs
+
+For fstrings XML, technical namespace/key rows are hidden from export. Technical value rows
+such as CONFIG_* are hidden too. The importer still restores them from tools\dt\source and
+rejects manual edits to non-translatable technical values.
+

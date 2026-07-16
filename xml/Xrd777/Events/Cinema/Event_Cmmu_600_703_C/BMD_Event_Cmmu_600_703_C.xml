@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_600_703_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_703_C\BMD_Event_Cmmu_600_703_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 1 0 0}We'd been keeping the rooftop off-limits, but recently decided to open it up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 2 0 0}The chairman wanted to start a small garden here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 3 0 0}Wow... I had no idea there was something like this up here. Is it for growing vegetables?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 2 10 25 25}Oh boy, I can hear him now... "Eat your veggies, peas!"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 1 -1 0 0}{f 3 1 1 0 0 5 0 0}Thaaat sounds about right... With a terrible smirk plastered on his face.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 6 0 0}I hear you're the one taking care of it, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 5 1 25 25}Looks like it's shaping up quite nicely. The chairman was right to put you in charge.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 8 0 0}I've been told it was left in your care, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 9 0 0}I know it sounds like a lot of work, but it might be nice to try growing a thing or two.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 10 0 0}Uh, are you okay doin' this all on your own?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_004_5_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's no problem.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I could use some help.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're in charge now.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 11 0 0}Oh yeah? You like this kinda stuff? Gotta admit, looks kinda fun.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 12 0 0}Maybe we'll be rakin' in the harvest after a while. When that time comes... "lettuce" celebrate![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 1 -1 0 0}{f 3 1 1 0 0 13 0 0}...Why don't you use that energy to help him with the garden?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 1 -1 0 0}{f 3 1 1 0 0 14 0 0}Why don't you help him out, Junpei? It's not like you've got anything better to do.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 1 -1 0 0}{f 3 1 1 0 0 15 0 0}Yeah, definitely saw that one coming... But I guess it does look kinda fun.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 3 1 25 25}Maybe all the vitamins from the veggies will make my skin all silky smooth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 1 -1 0 0}{f 3 1 1 0 0 17 0 0}Hehe... That would be a sight to see.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 1 -1 0 0}{f 3 1 1 0 0 18 0 0}What, me!? No no, bad idea.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 3 3 25 25}I tried to grow morning glories for a project in elementary school... Not a single one lived.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 3 0 25 25}But hey, maybe this is my chance to give it another shot. I can help out from time to time, I guess...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 1 -1 0 0}{f 3 1 1 0 0 21 0 0}The more time and care you put into this kind of work, the better the results.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 1 -1 0 0}{f 3 1 1 0 0 22 0 0}Cooperating with someone on this may be worth your time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 1 -1 0 0}{f 3 1 1 0 0 23 0 0}I might be a bit interested as well...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Having someone help me with the[n]garden might affect the end result...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 1 -1 0 0}{f 3 1 1 0 0 24 0 0}That wraps up this area. Let's head back down.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_105_075_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_075_C\BMD_Event_Cmmu_105_075_C.uasset" dialogs="16">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 6F 6D 65 6F 6E 65 27 73 20 56 6F 69 63 65">Чийсь голос</Speaker>
+    <Speaker id="1" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Гей, {f 4 1}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 2 0 0}Ходімо додому разом.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 3 0 0}Тренер сказав, що моя форма погіршилась.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 4 0 0}Я знаю, ти нічого не сказав. Просто... здається, він сам усе зрозумів.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Як твоє коліно?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вдасться приховати?]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 8 5 105}Болить, звісно, але сьогодні я таки дотягнув до кінця тренування.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 6 0 0}А-ага! Все ще болить, але, ну... думаю, вдасться прикинутись, ніби все нормально.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 7 0 0}Він сказав, що якщо я поранений — мене відсторонять. Та я сказав, що зі мною все нормас.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 105 2 25 25}Я вже тричі пропускав тренування цьогоріч! Маю добряче постаратись![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 9 0 0}Інакше я не зможу виконати обіцянку, яку дав племіннику![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Тобі треба загартуватися!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У такому стані не перемогти.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Тобі треба зробити паузу...]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 101 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 8 15 105}Точно! Врешті-решт перемагає найвитриваліший![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 3 101 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 5 13 8 5 105}І справді. Я й так уже добряче відстав через ці пропуски.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 12 0 0}Я знаю, ти бажаєш добра, але цей варіант не для мене.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 13 0 0}Я вирішив ризикнути заради племінника.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 14 0 0}Навіть якщо зіпсую коліно назавжди...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 15 0 0}Якщо так станеться... хочу, щоб саме ти став наступним капітаном, {f 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Міямото поділився своїм рішенням.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 16 0 0}Це, ну... не надто весела тема.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 101 -1 0 0}{f 3 1 1 0 0 17 0 0}А-але це просто найгірший варіант![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 18 0 0}Я виконаю свою обіцянку — виграю змагання, потім національний турнір! А вже потім займуся коліном![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 2 101 -1 0 0}{f 3 1 1 0 0 19 0 0}Мене вже нічого не зупинить![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Частину шляху додому[n]я пройшов з Міямото.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

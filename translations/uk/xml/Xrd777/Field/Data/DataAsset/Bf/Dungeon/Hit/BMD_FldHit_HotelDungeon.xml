@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldHit_HotelDungeon.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_HotelDungeon.uasset" dialogs="182">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_DUNGE_YUKARI_KAGAMI2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1117 0 0}Я так і знала! Тепер ми зможемо дістатися до Тіні, правда?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_DUNGE_FUKA_KAGAMI2F_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}Га!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Насправді, печатка все ще ціла! Але це мало б...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_DUNGE_MITSURU_KAGAMI" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Не панікуйте. Ти можеш вловити якісь подібні сигнали?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_DUNGE_SANADA_KAGAMI2" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Так, мабуть, ми щось пропустили...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_DUNGE_FUKA_KAGAMI2F_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 4 25 6}Га!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5073 0 0}Насправді, печатка все ще ціла! Але це мало б...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_DUNGE_YUKARI_KAGAMI2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Я так і знала! Тепер ми зможемо дістатися до Тіні, правда?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_DUNGE_FUKA_KAGAMI2F_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Га!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_DUNGE_YUKARI_KAGAMI2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Я так і знала! Тепер ми зможемо дістатися до Тіні, правда?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_DUNGE_FUKA_KAGAMI2F_" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Га!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_DUNGE_FUKA_KAGAMIHIN" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5088 0 0}Я більше не отримую сигнал від того дзеркала. Схоже, це спрацювало![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_DUNGE_FUKA_TOPPA_1" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5088 0 0}Основний сигнал повністю зник! Печатка повинна бути зламана![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_DUNGE_MITSURU_TOPPA_" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4085 0 0}Чудово! Тоді кімната цілі має бути доступною зараз.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Все ж, ми відстаємо. Ходімо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_DUNGE_SANADA_TOPPA_G" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3115 0 0}Саме час. Тепер ми нарешті можемо зустрітися з ворогом віч-на-віч.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Давайте віддячимо йому за всі клопоти, які він нам завдав.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_DNG_MIRROR_BREAK_YUK" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ну ж бо! Давайте покінчемо з ним![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_DNG_MIRROR_BREAK_JUN" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}Чорт... Юка-тан виглядає досить розпаленою.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_DNG_MIRROR_BREAK_SAN" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Я вважаю, що вона права. Мої кулаки теж прагнуть дії.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_DNG_MIRROR_BREAK_MIT" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Я розумію, як ти себе почуваєш, але тримай себе в руках. Ми не можемо дозволити собі втратити концентрацію проти такого ворога.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_DUNGE_KAGAMI_NOMAL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це дзеркало досить велике...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_DUNGE_HIERO_HIT0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Гм... Таке велике дзеркало було б зручним, але я не впевнений щодо цього дизайну...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_DUNGE_IIDESUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Я відчуваю сильну присутність за цими дверима![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ти готовий?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_DUNGE_KOWASANA_AKAND" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}На цих дверях потужна печатка![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Ти повинен зламати печатку, перш ніж зможеш битися з Тінню.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}У нас будуть великі неприємності, якщо Темна Година закінчиться, перш ніж ти переможеш її. Будь ласка, поспішай![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_DUNGE_HIERO_HIT11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}Чому це не може вже скінчитися? Я хочу додому і прийняти душ...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_DUNGE_HIERO_HIT12" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 3 0 -1 3091 0 0}Не виходить, так? Чорт, де ж воно може бути?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_DUNGE_HIERO_HIT13" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4121 0 0}Схоже, там його немає... Давайте продовжимо шукати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_DUNGE_HIERO_HIT21" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1142 0 0}Воно повністю прозоре... Чому вони його так спроектували?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_DUNGE_HIERO_HIT22" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Це трохи моторошно, що воно прозоре, але, мабуть, так нам легше буде... Схоже, там нічого немає.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_DUNGE_HIERO_HIT23" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4092 0 0}Гм, я нічого не бачу... Доведеться все перевернути догори ногами.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_DUNGE_HIERO_HIT31" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1110 0 0}Блііін, навіть двері у ванній кімнаті надто екстравагантні. Мабуть, всередині все так само, еге ж?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_DUNGE_HIERO_HIT32" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Може, воно всередині? Хоча там немає місця, де його можна було б сховати...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_DUNGE_HIERO_HIT41" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1107 0 0}У цій кімнаті все таке вишукане. Навіть телевізор виглядає елітним.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_DUNGE_HIERO_HIT42" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2073 0 0}А що, якщо в телевізорі була б Тінь!? Так, точно, ніби таке коли-небудь трапиться...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_DUNGE_HIERO_HIT51" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1143 0 0}Це все таке огидне. Серйозно, хто б хотів спати в такому місці?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_DUNGE_HIERO_HIT52" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3091 0 0}Не тут, так? Я б хотів вже покласти цьому край...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_DUNGE_HIERO_HIT61" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1114 0 0}Вони дійсно захопилися цією темою, чи не так? Трохи одноманітно, не вважаєш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_DUNGE_HIERO_HIT62" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4060 0 0}Нічого... Доведеться перевіряти все.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_DUNGE_HIERO_HIT72" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2133 0 0}Якби вона була тут весь час, ми б отримали Тінький лід на палочці.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_DUNGE_HIERO_HIT73" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3122 0 0}Тут нічого... Де ми ще не дивилися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_DUNGE_HIERO_HIT8" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Hierophant's Chamber HIT 8: Backup[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MND_DUNGE_KAGAMI_SIRABER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що мені робити з цим дзеркалом?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="SEL_MIRROR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зламати]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не чіпати]]></Option>
+  </Dialog>
+  <Dialog id="40" name="MND_DUNGE_KAGAMI_MATIGAI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мій розум починає туманитися...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MND_DUNGE_KAGAMI_HAKAIZU" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, я вже розбив це дзеркало.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MND_DUNGE_KAGAMI_HAKAIZU" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, я вже розбив це дзеркало.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_DUNGE_BOSS_ALL_IRU2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Тінь чекає за цими дверима![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ти готовий?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="SEL_BATTLE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я готовий.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз.]]></Option>
+  </Dialog>
+  <Dialog id="45" name="MND_DUNGE_HOUOU_DOOR_HAZ" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Двері не відчиняються.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, їх тримає потужна сила.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_DUNGE_HOUOU_FUKA_1" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}!..[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Що!..?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Я все ще відчуваю Тінь у цій кімнаті![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Вона відрізняється від тієї, яку щойно перемогли![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Але де вона? Може, ховається?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_DUNGE_HOUOU_FUKA_2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Я все ще відчуваю Тінь у цій кімнат![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Мабуть, вона ховається... Спробуй знайти її![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_DUNGE_KAGAMI_YUKARI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 3 0 -1 1137 0 0}Гм?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}Гей... Це тільки мені здається, чи з цим дзеркалом щось не так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MND_BOSSROOM_OBJECT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Нічого в цьому не здається[n]особливо незвичайним.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MND_DUNGE_HOUOUNOMA_TOIR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже на ванну.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MND_DUNGE_HOUOUNOMA_BED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це досить велике ліжко.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MND_DUNGE_GARASU_MAE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}IЧерез вікно я бачу ванну кімнату.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_DUNGE_GARASU_ATO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1091 0 0}Гей! Чого ти так витріщаєшся?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MND_DUNGE_SYAWASITU_MAE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}З ванної кімнати все ще[n]доноситься запах мила.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_DUNGE_SYAWASITU_ATO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1076 0 0}Що ти... Нам немає чого тут робити! Ходімо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MND_DUNGE_SYAWASITU_PTAL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі виглядає не дуже щасливою...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MND_DUNGE_SYAWASITU_REPE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі кидає на мене крижаний погляд...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_DUNGE_SYAWASITU_ATO1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1110 0 0}Ргх... Доходить до того, що від самого перебування тут у мене болить голова...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_DUNGE_AORI_JYUNPEI1" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}«Тут, позаду»? Ооо... Чи сталося щось... гаряче, поки ми були розлучені?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_DUNGE_SYAWASITU_ATO2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}...Знаєш, я вже майже знала, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Ти думаєш не тим місцем, чи не так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_DUNGE_AORI_JYUNPEI2" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2053 0 0}Е-е... Вибачте, пані...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_DUNGE_AORI_SANADA1" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3103 0 0}Гм? Ця ванна кімната нещодавно використовувалася... Але в Темну Годину?.. Хто...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_DUNGE_SYAWASITU_ATO3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Це не має значення! А тобі що до того?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_DUNGE_AORI_SANADA2" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 -1 -1 0 0}Що!..? Що я сказав?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_DUNGE_SYAWASITU_ATO4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}(зітхання) Нічого. Давай просто підемо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MND_DUNGE_HEYA_HURO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже на ванну кімнату.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MND_DUNGE_HEYA_TV" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Телевізор, схоже, не працює.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_DUNGE_HAIRUNA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Сигнал надходить з великої кімнати на третьому поверсі. Давайте швидше, поки ніхто не постраждав![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_DUNGE_HAIRUNA_Y" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1123 0 0}Що ти робиш? Ми навіть не на тому поверсі! Давай, нам треба розібратися з Тінню![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_DUNGE_HAIRUNA_J" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2061 0 0}Гей, я б не відволікався, якщо не хочеш прочухана від Юка-тан...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_DUNGE_HAIRUNA_S" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3005 0 0}Сигнал надходить з третього поверху, чи не так? Ми повинні розібратися з Тінню.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_DUNGE_HAIRUNA_M" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}Немає часу на відпочинок. Дуже важливо, щоб ми знищили ціль якомога швидше.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_DUNGE_HAIRUNA_3F_1" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Я не думаю, що це правильна кімната... Вона повинна бути просторішою.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_DUNGE_HAIRUNA_3F_2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Це не вона... Сигнал надходить з іншої кімнати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_DUNGE_HAIRUNA_3F_3" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5037 0 0}Ні, це не та... Є якась кімната побільше?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_DUNGE_HAIRUNA_3FY" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Гей, здається, я бачила великі двері раніше... Може, варто перевірити?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_DUNGE_HAIRUNA_3FJ" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Ми ж проходили повз підозріле місце раніше? Може, це воно?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_DUNGE_HAIRUNA_3FS" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Кімнат не так вже й багато. Зрештою ми її знайдемо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_DUNGE_HAIRUNA_3FM" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Ми шукаємо особливо велику кімнату, так? Вона може відрізнятися від інших кімнатrooms.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_DUNGE_HAIRUNA2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Печатка зламана![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, прямуйте до Тіні![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MND_DUNGE_ELEVATOR_TUKAE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, ліфт не працює...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_DUNGE_ELEVATOR_YUKAR" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Він не працює. Доведеться піднятися сходами.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_DUNGE_ELEVATOR_FUKA" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5074 0 0}Мабуть, він не працює, бо зараз Темна Година. Будь ласка, скористайтеся сходами![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_DUNGE_FUKA_HAJIKI" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Я отримую сигнал з великої кімнати на третьому поверсі. Будь ласка, поспішіть![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_DUNGE_FUKA_HAJIKI2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5110 0 0}Печатка оточує всю будівлю. Схоже ніяк не вибратися...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_DUNGE_YUKARI_HAJIKI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Іншими словами, ми не вийдемо, поки ця Тінь не зникне. Що ж, мене це влаштовує![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_DUNGE_FUKA_HAJIKI3" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Печатка зламана, тож прямуйте до цілі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MND_DUNGE_1F_PANEL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, це список вільних номерів.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_DUNGE_PANEL_YUKARI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}Що це? Це номери кімнат?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MND_DUNGE_1F_UKETUKE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}За стійкою реєстрації стоїть труна...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_DUNGE_UKETUKE_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2108 0 0}Ой, ці номери досить дорогі. Добре знати раніше...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MND_DUNGE_1F_ZIHANKI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Автомат здається[n]не працює...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_DUNGE_ZIHANKI_YUKARI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}Вони не працюють під час Темної Години. Ходімо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_DUNGE_ZIHANKI_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2124 0 0}Чорт забирай, вони беруть надбавку за напої!? Не те, щоб я купував, але все одно...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_DUNGE_ZIHANKI_MITSUR" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4059 0 0}Зараз Темна Година. Ти нічого не зможеш купити.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MND_DUNGE_1F_MATIAISITU" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}За завісою стоїть стілець.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MND_DUNGE_2F_HININ" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це мабуть гість готелю...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_DUNGE_HININ_YUKARI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1090 0 0}Що—!? Гей, на що ти там дивишся!? Ну добре, продовжуємо! ![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_DUNGE_HININ_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2127 0 0}Отже, е-е... це практично доводить, що це за готель, так? Це не тільки моя брудна уява?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_DUNGE_HININ_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3104 0 0}«Планування сім'ї»?.. Що продає цей автомат?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MND_DUNGE_2F_HARIGAMI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут на стіні висить плакат.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MND_DUNGE_3F_HININ" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Автомат здається[n]не працює...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MND_DUNGE_3F_HARIGAMI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут на стіні висить плакат.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_DUNGE_101_MIRROR_YUK" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Це звичайне дзеркало, так? А в попередньому було щось дивне?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MND_DUNGE_ROOM101_ISU" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей стілець має спинку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_DUNGE_ROOM101_ISU_Y" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1076 0 0}Давай но, зараз не час розслаблятися![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MND_DUNGE_ROOM201_SHOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MND_DUNGE_ROOM201_BED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MND_DUNGE_ROOM202_BEDHUT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MND_DUNGE_ROOM203_BED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MND_DUNGE_ROOM203_SOFA" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MND_DUNGE_ROOM204_KARAOK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MND_DUNGE_ROOM205_BEDHUT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MND_DUNGE_ROOM301_SHOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MND_DUNGE_ROOM302_ISU" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це стілець у формі серця.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MND_DUNGE_ROOM303_BED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кругле ліжко.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MND_DUNGE_ROOM303_OKE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MND_DUNGE_ROOM304_HITO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MND_DUNGE_ROOM305_SHOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MND_DUNGE_ROOM305_SOFA" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей гість перетворився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MND_DUNGE_LOCKED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Двері зачинені.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MND_DUNGE_LOCKED_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Щось заважає відкрити двері.[n]Можливо, це труна всередині кімнати...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_DUNGE_LOCKED_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2061 0 0}Я спробував відкрити ці двері, але вони не відчиняються. Мабуть, вони зачинені на замок.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_DUNGE_LOCKED_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3067 0 0}Наразі перебувати в зачиненій кімнаті може бути безпечніше для всіх, хто там знаходиться.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_DUNGE_LOCKED_MITSURU" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4073 0 0}Я сам перевірив це недавно. Вони зачинені.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MND_DUNGE_FRIDGE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це невеликий холодильник.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_DUNGE_2FONLY" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Будь ласка, розбийте дзеркало на цьому поверсі, перш ніж рухатися далі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MSG_DUNGE_205BREAK" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}Гм, схоже, воно не відображає все... Хочеш спробувати розбити його?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="MSG_DUNGE_205BREAK_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Ми не можемо знати напевно, чи це те саме, але хочеш спробувати розбити його і перевірити?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="MSG_DUNGE_2FMR_BLOCK1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1060 0 0}Це дзеркало виглядає цілком нормальним, але вирішувати тобі, Лідере.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="MSG_DUNGE_2FMR_BROKEN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Якщо цей не працює, давай спробуємо розбити дзеркало в кімнаті 205, добре?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="MSG_DUNGE_CHECK_ANOTHER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1116 0 0}Гей, а давай перевіримо дзеркало в кімнаті навпроти?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="MSG_DUNGE_2FMR_BLOCK2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Сигнал надходить з третього поверху. Спробуйте пошукати в тих кімнатах![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="134" name="MSG_DUNGE_2FMR_BLOCK3" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Немає потреби розбивати ще дзеркала. Йди за Тінню![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="MSG_DUNGE_YUKARI_BED" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}Ця штука займає так багато місця... З огляду на її форму, це не дивно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="MSG_DUNGE_JYUNPEI_BED" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2108 0 0}О, це той тип, що обертається? Е-е, я просто припускаю, я ж нічого про це не ...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="MSG_DUNGE_SANADA_BED" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Гм, ця кругла форма... Для чого вона потрібна?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="MSG_DUNGE_MITSURU_BED" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4061 0 0}На перший погляд вона може здатися розкішною, але насправді її виготовлення залишає бажати кращого.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="MSG_DUNGE_YUKARI_BEDR" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Мені це здається надто кричущим. Але цікаво, як це виглядає, коли воно обертається...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}...Ні, тоді це буде просто кричуще і вульгарне. У будь-якому разі, рухаймося далі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="MND_DUNGE_ITEMGET" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут щось є...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="MSG_DUNGE_YUKARI_SOFA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Ця людина може застудитися, спавши тут так... Але, мабуть, ми не можемо її перенести...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="MSG_DUNGE_YUKARI_3P" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1022 0 0}Е-е, {f 4 1}? Давай продовжимо, добре?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="MSG_DUNGE_JYUNPEI_3P" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2101 0 0}Зачекай хвилинку... Раз, два, тр!.. Е-е-е, так, у будь-якому разі... Сьогодні ввечері у нас якась місія, правильно?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="MSG_DUNGE_YUKARI_COUPLE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Гей, на що ти витріщаєшся!? Зосередься на місії![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="145" name="MSG_DUNGE_JYUNPEI_COUPLE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2028 0 0}Чувак... Якщо Темна година закінчиться прямо зараз... (ковтає слину)[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="146" name="MSG_DUNGE_SANADA_COUPLE" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Скільки там гостей? Ми маємо якнайшвидше зайнятися справою.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="147" name="MSG_DUNGE_MITSURU_COUPLE" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4122 0 0}(зітхання) Намагайтеся не відволікатися так легко...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="MSG_DUNGE_YUKARI_COUPLER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Припини так витріщатися! Давай, нам ще треба розібратися з Тінню, ти ж знаєш![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="MSG_MIRROR_FIRST_CHECK1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}Ну, ось дзеркало. То ми просто розбиваємо його, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="MSG_MIRROR_FIRST_SANADA1" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Гаразд, тоді. Час покласти край цій містифікації.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="151" name="MSG_MIRROR_FIRST_JYUNPE1" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Тоді розбиймо цю річ на друзки на рахунок три! Раз, ...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="152" name="MSG_MIRROR_FIRST_FUKA1_T" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}Стривайте, одну хвилинку![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Сигнал близько, але я не зовсім впевнена, що це те саме дзеркало...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Ти не міг би перевірити й іншу кімнату, про всяк випадок?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="153" name="MSG_MIRROR_FIRST_FUKA1_T" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5056 0 0}Стривайте, одну хвилинку![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Сигнал близько, але я не зовсім впевнена, що це те саме дзеркало...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Ти не міг би перевірити й іншу кімнату, про всяк випадок?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="154" name="MSG_MIRROR_FIRST_CHECK2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Це слушна думка. Краще перестрахуватися, ніж потім шкодувати, тож давайте спочатку перевіримо все.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="155" name="MSG_MIRROR_SECOND_CHECK1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1072 0 0}Добре, ось дзеркало.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}О, зачекайте... Це дзеркало відрізняється від інших...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="156" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Ти щось помітив, {f 4 1}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="157" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}...А ти?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="158" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Наші відображення...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Форма інша.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У цьому дзеркалі я бачу привидів.]]></Option>
+  </Dialog>
+  <Dialog id="159" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 -1 -1 0 0}{f 3 1 3 0 -1 3030 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 -1 -1 0 0}Ти щось помітив, {f 4 1}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="160" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2094 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}...А ти?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}Ну, ми ж маємо справу з Тінями... Можливо, ти натрапив на щось цікаве![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="161" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 -1 -1 0 0}{f 3 1 3 0 -1 3030 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 -1 -1 0 0}Ти щось помітив, {f 4 1}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="162" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2103 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}...А ти?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="163" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3047 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="164" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="165" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2108 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="166" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="167" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3075 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="168" name="MSG_MIRROR_SECOND_SANADA" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Ти впевнена? Мені воно здається однаковим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="169" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2113 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="170" name="MSG_MIRROR_SECOND_JYUNPE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}Ні, я не бачу ніяких відмінностей...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="171" name="MSG_MIRROR_SECOND_CHECK3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}О, добре, ти теж це помітив, тож я не просто божеволію. Так, те інше дзеркало...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}З дзеркалом, яке відбиває все, крім людей, точно щось не так.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="172" name="MSG_MIRROR_SECOND_CHECK3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}О, добре, ти теж це помітив, тож я не просто божеволію. Так, те інше дзеркало...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}З дзеркалом, яке відбиває все, крім людей, точно щось не так.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="173" name="MSG_MIRROR_SECOND_FUKA21" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Вау! Юкарі, Лідере, ви добре підмітили![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="174" name="MSG_MIRROR_SECOND_CHECK3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}О, добре, ти теж це помітив, тож я не просто божеволію. Так, те інше дзеркало...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}З дзеркалом, яке відбиває все, крім людей, точно щось не так.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="175" name="MSG_MIRROR_SECOND_CHECK3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}О, добре, ти теж це помітив, тож я не просто божеволію. Так, те інше дзеркало...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}З дзеркалом, яке відбиває все, крім людей, точно щось не так.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="176" name="MSG_MIRROR_SECOND_FUKA22" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}О, вау! Гарне око, Юкарі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="177" name="MSG_MIRROR_SECOND_CHECK4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Дзеркало в цій кімнаті, мабуть, звичайне.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Давайте ще раз перевіримо кімнату 205?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="178" name="MSG_MIRROR_SECOND_CHECK4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Дзеркало в цій кімнаті, мабуть, звичайне.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="179" name="MSG_3F_ErrorDoor_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5035 0 0}Дзеркало в тій кімнаті було не те. Давайте перевіримо іншу кімнату.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="180" name="MSG_3F_ErrorDoor_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Давайте зосередимося на пошуках правильного дзеркала.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="181" name="MSG_HououLock_After" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1006 0 0}Тінь має бути в цій кімнаті, так? Ми маємо її знайти![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

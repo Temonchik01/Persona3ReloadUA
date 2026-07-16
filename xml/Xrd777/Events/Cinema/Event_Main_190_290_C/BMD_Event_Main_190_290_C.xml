@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_190_290_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_190_290_C\BMD_Event_Main_190_290_C.uasset" dialogs="35">
+  <Speakers>
+    <Speaker id="0" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="3" rawBytes="46 61 6D 69 6C 69 61 72 20 56 6F 69 63 65">Familiar Voice</Speaker>
+    <Speaker id="4" rawBytes="46 75 75 6B 61 27 73 20 56 6F 69 63 65">Fuuka's Voice</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73 27 73 20 56 6F 69 63 65">Aigis's Voice</Speaker>
+    <Speaker id="6" rawBytes="59 75 6B 61 72 69 27 73 20 56 6F 69 63 65">Yukari's Voice</Speaker>
+    <Speaker id="7" rawBytes="4D 69 74 73 75 72 75 27 73 20 56 6F 69 63 65">Mitsuru's Voice</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 154 -1 0 0}{f 3 1 1 0 0 1 0 0}Did you know this hot spring is open for guys at certain times and girls at others?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 154 -1 0 0}{f 3 1 1 0 0 2 0 0}No way, really? So there's a chance it could switch to girls-only while we're still in here.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 154 -1 0 0}{f 3 1 1 0 0 3 0 0}But even if that happens, it wouldn't be on us, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 154 -1 0 0}{f 3 1 1 0 0 4 0 0}That's true. Something like that actually happening wouldn't be our fault.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 154 -1 0 0}{f 3 1 1 0 0 5 0 0}Don't you think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}An accident for sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know about that.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe we'll get lucky?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}This might blow up in our faces.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 4 154 -1 0 0}{f 3 1 1 0 0 6 0 0}Blow up how?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 154 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 221 0 25 25}Even still, can't help but think maybe fate wants us to be here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 154 -1 0 0}{f 3 1 1 0 0 8 0 0}Anyway, I was just asking. Not like I'm being serious.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 154 -1 0 0}{f 3 1 1 0 0 9 0 0}...Hey, isn't it getting kinda hot in here?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Junpei and Ryoji seem[n]to be acting strange...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 154 -1 0 0}{f 3 1 1 0 0 10 0 0}So, what time does this hot spring change from guys-only to girls-only, Junpei?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 154 -1 0 0}{f 3 1 1 0 0 11 0 0}Uh, I'm not sure. I didn't bother to check. Right, Ryoji-kun?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 154 -1 0 0}{f 3 1 1 0 0 12 0 0}Right? It could happen at any moment, couldn't it, Junpei-kun?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 154 -1 0 0}{f 3 1 1 0 0 13 0 0}You morons. So that's why we came at such a strange time?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 154 -1 0 0}{f 3 1 1 0 0 14 0 0}Hahaha, calm down, man. We're just joking! I mean, yeah, we are here at a weird hour.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 154 -1 0 0}{f 3 1 1 0 0 15 0 0}But don't worry about it. I doubt any girls would come out here this la—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 154 -1 0 0}{f 3 1 1 0 0 16 0 0}What!? Someone's here! Oh man, what're we gonna do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 154 -1 0 0}{f 3 1 1 0 0 17 0 0}Probably just another guy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 154 -1 0 0}{f 3 1 1 0 0 18 0 0}Yeah, don't worry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 154 -1 0 0}{f 3 1 1 0 0 19 0 0}We can say we didn't know, that it's all just a misunderstanding.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 20 0 0}Wow! This hot spring is huge![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 154 -1 0 0}{f 3 1 1 0 0 21 0 0}Oh shi—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 22 0 0}Wow, you're right. It's as big as a swimming pool.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_019_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 23 0 0}So this is an outdoor hot spring. Unfortunately, its therapeutic benefits have no effect on me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_020_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 154 -1 0 0}{f 3 1 1 0 0 24 0 0}Shiiit, it's them! What're they doing here this late?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 1 154 -1 0 0}{f 3 1 1 0 0 25 0 0}Yes! Yukari-san and Fuuka-san!? This is my lucky ni—[cr][n]{f 1 2 160}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 154 -1 0 0}{f 3 1 1 0 0 26 0 0}Shut up, you dumbass! They'll hear you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 4 154 -1 0 0}{f 3 1 1 0 0 27 0 0}*gurgling*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_024_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 28 0 0}Who's that!? Is someone there!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_025_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 29 0 0}What's wrong, Yukari? Did you hear something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_026_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 4 154 -1 0 0}{f 3 1 1 0 0 30 0 0}Mitsuru's here, too!? Oh, man. There's no way she'll see this as just a "misunderstanding"![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_027_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 154 -1 0 0}{f 3 1 1 0 0 31 0 0}Uh, you don't think she'd get us expelled for this, right?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 154 -1 0 0}{f 3 1 1 0 0 32 0 0}Like, it was guys-only when we got here. It's not like we planned this. We were just goofing around![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_028_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 154 -1 0 0}{f 3 1 1 0 0 33 0 0}You expect her to buy that? No, if she finds us, then...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_029_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 154 -1 0 0}{f 3 1 1 0 0 34 0 0}...Then what?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_030_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 154 -1 0 0}{f 3 1 1 0 0 35 0 0}We'll be executed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 4 154 -1 0 0}{f 3 1 1 0 0 36 0 0}E-Executed!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_032_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 37 0 0}Yeah, I think I did hear something. Fuuka, could you check over there?[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 38 0 0}I-It could be a ghost...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_033_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 39 0 0}Um... O-Okay...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

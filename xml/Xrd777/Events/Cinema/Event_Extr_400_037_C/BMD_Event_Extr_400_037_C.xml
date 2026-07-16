@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Extr_400_037_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_400_037_C\BMD_Event_Extr_400_037_C.uasset" dialogs="35">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 61 6B 61 79 61">Takaya</Speaker>
+    <Speaker id="1" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Now then, I have a question for you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}However, just demanding answers from you wouldn't be a very fair arrangement now, would it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I will answer one question of your own, first.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}So, what do you want to know?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's your goal?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why are you getting in our way?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why aren't you wearing a top?]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}We don't serve any particular grand purpose.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Had you simply stayed your hands, we could have avoided a needless confrontation.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}That is a strange way of seeing it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 211 0 25 25}From our perspective, you are the ones getting in our way.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}My coat is invisible to fools.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}...But, of course, I'm joking.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}What a surprise, that you would rather ask about me, instead of our group.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Perhaps this is a sign that we may reach a mutual understanding.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}In the beginning, we had no quarrel with you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Had you not decided to eliminate the Dark Hour, we wouldn't have had a reason to interfere...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_005_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}It is truly unfathomable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}The power of a Persona is a blessing granted only to us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Yet, you insist on ending the Dark Hour, knowing full well that your powers will be lost...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 211 0 25 25}Now, answer me this: Why?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_005_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Are you trying to protect the world from the Shadows?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's right.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I can't just ignore them.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}And, just where did you come up with that idea?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Is that truly how you feel?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}In this country, almost 5000 people die in car accidents every year.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}And yet, there is no outcry against the existence of cars. Why do you suppose that is?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_009_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}It is because we value our own convenience over the lives of others.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}So then, why should we give up the powers we were bestowed?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That logic makes no sense.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}......]]></Option>
+  </Dialog>
+  <Dialog id="19" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Do you know what a "savior complex" is?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}You are being trapped by a misguided way of thinking.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}We have no obligation to sacrifice what is ours to save others.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_012_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Giving up your own life to save others is simply a waste.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}Your reason for fighting is one of obsession.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're wrong.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe you're right.]]></Option>
+  </Dialog>
+  <Dialog id="23" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Do you continue to deny it because you can't accept the truth?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_014_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}There is no need to rush your decision. You should think carefully about it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 2 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Your dog doesn't seem to like your answer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}However, self-reflection is a good habit. You should think carefully about it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}We have been given a special power, and yours... Yours is particularly extraordinary.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}It's as if the Dark Hour has chosen you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_017_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Does it really make sense for you to reject this gift?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}That was all I had to say.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}Tonight is a new moon. You have ample time to reconsider before the moon waxes full again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}With that, my debt to you is paid.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}Perhaps it might help you make up your mind...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}Well then, I shall be going...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}I trust you'll have changed your tune by the next time we meet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's a folded up piece of paper.[n]There's something written on it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I returned to the dorm and[n]reported what happened.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

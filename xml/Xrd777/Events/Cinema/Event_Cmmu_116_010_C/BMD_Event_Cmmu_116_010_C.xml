@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_116_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_010_C\BMD_Event_Cmmu_116_010_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 75 62 62 79 20 53 74 75 64 65 6E 74">Chubby Student</Speaker>
+    <Speaker id="1" rawBytes="42 69 74 74 65 72 2D 4C 6F 6F 6B 69 6E 67 20 4D 61 6E">Bitter-Looking Man</Speaker>
+    <Speaker id="2" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Nozomi Suemitsu</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}We go to the same school, right? One look at your uniform's all I need to know![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Umm, I'm kind of embarrassed to ask you this right off the bat, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Would you mind not standing so close to me!? You're too thin and too cool![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}If people start thinking we're best friends or something, I'm gonna end up as "the uncool one"![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1001}There you are. I thought your voice sounded familiar.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1001}You know what I'm here for. Now hand it over.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Wh-Whoa! Not you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}H-Help! E-Emergency![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}H-Hey! Y-You! Call the fire truck— Er, I mean the, uh... Uh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Call the police?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sorry, what?]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Yes! Right! Good thinking![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Whoa, hey... I thought we were buddies, weren't we? C'mon, pal![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 1001}Quit making a scene, all right? People are looking at me funny.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 13 0 0}{f 5 21 0 1001}I've got some business to take care of now, but you... You're Nozomi Suemitsu-kun, aren't you? I did my homework, see.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 1001}You know I'm not letting you off that easy, right? I suggest you reconsider things.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}That was horrifying! My poor heart! I think it dropped into my coin purse for a minute there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_3_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}My name is Nozomi Suemitsu![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}By the way! May I just say that you have a wonderfully big heart for someone so slim?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Suemitsu gave me a hearty thanks.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've become acquainted with[n]Nozomi Suemitsu, the Gourmet King.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Whew, all that drama made me hungry. My stomach is definitely not amused.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}You wanna tag along, friend? Shall I treat you to the finest dining? If so, you've come to the right place...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}For I am the king—the Gourmet King![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_3_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}That's right! Gourmet King 2009! ...Or was it 2010? Eh, whatever.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_011_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}And as the king, I know all the kingliest places for... Ugh... Urrgh!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 5 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Wha—!? My... My tummy...! It's in horrible pain! I think it's an... e-emergency...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 5 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Sorry, but I'll treat you... another time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It started getting dark, so I went home.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

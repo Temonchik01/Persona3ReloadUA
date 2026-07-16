@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_116_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_116_080_C\BMD_Event_Cmmu_116_080_C.uasset" dialogs="19">
+  <Speakers>
+    <Speaker id="0" rawBytes="4E 6F 7A 6F 6D 69 20 53 75 65 6D 69 74 73 75">Nozomi Suemitsu</Speaker>
+    <Speaker id="1" rawBytes="4D 69 64 64 6C 65 2D 41 67 65 64 20 4D 61 6E 27 73 20 56 6F 69 63 65">Middle-Aged Man's Voice</Speaker>
+    <Speaker id="2" rawBytes="54 68 75 67">Thug</Speaker>
+    <Speaker id="3" rawBytes="42 69 74 74 65 72 2D 4C 6F 6F 6B 69 6E 67 20 4D 61 6E">Bitter-Looking Man</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 2 25 25}Hey, I haven't been doing so well lately, you know. And it's all because of your blasphemy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 3 25 25}I begged so hard for your soul that I think I actually lost weight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 3 25 25}Look at me! I'm paper-thin now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You do look thinner.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No, you're not.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}Oh, you really think so? I ate the same amount of food, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}{f 5 13 19 15 116}Damn straight! I could down a ham katsu in my sleep if I really wanted to![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 3 25 25}I get what you're trying to say... You're embarrassed to be seen with me, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 3 25 25}I'm not like my little brother. I'm not smart or athletic, and I have weird, stubby legs.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 3 25 25}And my pants are covered with food stains.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 2 25 25}I'm just a thorn in everyone's side! They all wish I could be more like my little brother.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 2 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 2 25 25}All they do is make fun of me! I just want this whole world to disappear![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 3 25 25}But the world can't end yet... Not until I save you first![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 3 25 25}Look. I can try harder {f 4 2}-kun! I just need to make it to Paradise. That should solve all my problems![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 1 25 25}I'll be taller and more slender. And my body will glow, so I'll be safer at night![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 1 25 25}See? Then I won't be inferior to my brother, and you won't hate being seen with me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 3 25 25}So, please... don't abandon me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel a strong connection with Suemitsu...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 3 25 25}I have to go, so I don't have time to eat today. I haven't earned forgiveness just yet...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 116 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 3 25 25}And I have to find a new member to recruit soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 18 0 0}{f 5 21 0 2}That was him just now. So can you handle it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 19 0 0}{f 5 21 0 3}Sure. All I gotta do is rough him up and I get paid?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 20 0 0}{f 5 21 0 3}You know, I've got this buddy who's kinda strapped for cash, too, if you catch my drift.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 21 0 0}{f 5 21 0 2}Fine, you'll both get paid. Just make sure you finish the job.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_011_5_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 22 0 0}Hm?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 23 0 0}{f 5 21 0 2}Oh, it's you...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_012_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 24 0 0}{f 5 21 0 2}132,000 yen, right? That's the same trick he used on my son.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 2}If you know what's good for you... stay the hell away from him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...I decided to go back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

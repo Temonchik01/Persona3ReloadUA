@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_007_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_080_C\BMD_Event_Cmmu_007_080_C.uasset" dialogs="34">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}The wind is calm today... I don't detect the usual scent of the sea.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I'm sorry about the other day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I think my heart is growing closer to that of a human...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}But because of that... I've realized something.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}The heart and body are inseparable...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}A human heart can only function properly within a human body...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Um...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Have you ever come here alone with someone else before, {f 4 2}-san...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Perhaps you gazed out at the view together and spoke quietly...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Oh, I didn't mean to pry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 7 3 25 25}I was just curious.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sometimes.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm doing it now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}I see.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 7 0 25 25}That makes sense. Many people depend on you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 0 0 0 15 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 1 0}{f 3 1 1 0 0 16 0 0}{f 5 13 22 15 7}What...? But...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 1 0}{f 3 1 1 0 0 17 0 0}I'm only shaped like a human, and besides... I'm a machine.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_005_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 0 0 0 18 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 5 13 22 5 7}Is that... because I take up so much of your time?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_006_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 0 0 0 20 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Actually... I've been a little worried.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 7 3 25 25}At school, I am seen as a human girl.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}I was concerned that if I stayed too close to {f 4 2}-san, it could cause a misunderstanding.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_007_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}If that is the case, please tell me right away![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}I wouldn't want to prevent you from becoming closer to another person...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 0 0 0 26 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't mind you being here.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What brought this on?]]></Option>
+  </Dialog>
+  <Dialog id="16" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 0 0 0 27 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}The view from up here is beautiful.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}That must be why I sometimes see couples alone up here after school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_009_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}They might be leaning against one another, or embracing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_009_4_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}I never gave it a second thought before, but lately... it pains me to see them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}I think... I've come to realize that this is the kind of connection I can never have.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}As my heart grows more and more human, it only becomes clearer how much sets us apart.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Just because my heart is developing doesn't mean I can actually become human...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 23 0 7 3 25 25}I've known this since the beginning, yet...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}I'm sorry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}I lost control of myself again...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_010_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}But I still care about you, and that won't ever change.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}{f 4 23 0 7 1 25 25}No matter what happens.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Aigis is gazing at me intently...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems we've grown closer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}Even I find it strange. Why do I feel this way?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Why are you so important to me, {f 4 2}-san?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's love.{f 2 9 1 1 347}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Because we're friends.]]></Option>
+  </Dialog>
+  <Dialog id="25" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}This is... love...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_014_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 1 0}{f 3 1 0 0 0 43 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_014_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}Oh, so that's it... I finally understand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}I have another wish, one just as important as my desire to live.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_014_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}But... I know that this is something that I can never have.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}So this is... friendship...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_015_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 0 0 0 48 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_015_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 49 0 0}Oh, so that's it... I finally understand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 50 0 0}I have another wish, one just as precious as my desire to live...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 51 0 0}{f 4 23 0 7 3 25 25}But, I don't know if it's something a machine like me can be allowed to have...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 52 0 0}Let's go home, {f 4 2}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We decided to go back[n]to the dorm together.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

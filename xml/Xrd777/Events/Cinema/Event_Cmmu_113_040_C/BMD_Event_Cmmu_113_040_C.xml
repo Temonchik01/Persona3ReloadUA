@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_113_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_113_040_C\BMD_Event_Cmmu_113_040_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">President Tanaka</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Today's lesson is called, "The smaller the dog, the louder the bark!"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Have you ever wondered what it would be like to see through people's bathing suits at the beach?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure have!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Is that possible?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 13 16 15 113}My, I don't think I've ever seen you this enthusiastic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 113 1 25 25}Consumers might be persuaded by such candor. We could position you as the "boy next door"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Oops... I forgot. You're underage, aren't you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}If you're curious, go ask one of your friends. Just... not a girl, unless you want to get slapped.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Our company ran an ad in, uh... adult magazines proposing a special filter for digital cameras.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Simply attach it to your camera, and voila! Start peeping! "Undress them with your camera's eye," it says.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}It's been selling like hotcakes! In fact, it's our number one seller![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Unfortunately, customers have been complaining that it doesn't work...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I told my staff to just ignore them. Nowhere does it guarantee that you'll be able to see anything.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 113 1 25 25}What are they gonna do? Tell everyone their creepy plan didn't work out? Sorry, bucko![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}By the way, try to cut back on the donuts and cupcakes. I have an idea for an ad campaign...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 113 1 25 25}Women would go crazy over a handsome young man in swim trunks! You'd be perfect for the job![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}President Tanaka seems to trust me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I understand him a little better now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Have you been keeping your promise? You didn't tell anyone, did you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 2 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 113 2 25 25}If you go back on your word, I'll edit your face into the most obscene material I can find![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting late, so I'll go back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

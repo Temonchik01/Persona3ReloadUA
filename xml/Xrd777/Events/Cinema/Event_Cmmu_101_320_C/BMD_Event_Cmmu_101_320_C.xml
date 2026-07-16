@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_101_320_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_101_320_C\BMD_Event_Cmmu_101_320_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Kenji Tomochika</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 3 0 -1 10047 0 0}Hey, sorry to ask you to hang out all of a sudden.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}The rest of my family's out today. Kinda didn't want to eat all by my lonesome, y'know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}That's when I remembered you eating ramen like it was your favorite thing ever! Great minds, yo.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}I don't trust guys that don't enjoy their food.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}I mean, it's one thing if the food's really nasty.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 4 23 0 101 1 25 25}Then there's those guys that pretend it's good even if they don't like it. Can't trust them either.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 3 0 -1 10061 0 0}By the way, are you picky about your food?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm pretty picky.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not at all.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I refuse to eat certain things.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 3 0 -1 10021 0 0}{f 5 13 2 30 101}Heh, me too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}I just can't stomach probably like half the food in the world. I don't even consider them edible.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}Oh, but if a gorgeous girl was the one cooking, I might be able to. That's different, y'know?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tomochika seems to sympathize with me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we became a lot closer today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 3 0 -1 10042 0 0}Yikes, you serious? You must be overly forgiving...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}I just can't stand some stuff, personally.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}Like vegetables. They're pretty much just leaves. I'm not a bug, ya know...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tomochika sighs.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we didn't get any closer today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 3 0 -1 10024 0 0}{f 5 13 2 15 101}Oh, I totally hear ya! There are just some things that make you wanna scream, "This ain't food!"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 4 23 0 101 0 25 25}I mean, mushrooms are just fungus, right? Seafood's kinda pushin' the limits too...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}And I hate stuff like ginger and beefsteak plants. Why in the world would you eat roots and leaves?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tomochika seems to sympathize with me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I learned a little more about him today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 3 0 -1 10067 0 0}Well, now I know what your taste in food is like. Next up: what type of girl do you like?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}You into the cute type or the sexy model type? Long hair or short?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After Tomochika's interrogation,[n]I decided to return to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

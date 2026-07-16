@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_008_717_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_008_717_C\BMD_Event_Cmmu_008_717_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}This character really drinks a lot of alcohol.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}{f 4 1}-san, when you grow up, are you going to drink alcohol too?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I would like to.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I want to avoid alcohol.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Will you?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I see. You should be careful about that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I heard that drinking too much is bad for your health.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}But don't they say it's sometimes necessary to drink for work?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}And that sometimes it's hard to say no. Being an adult is all about taking the shots you're given.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 4 25 25}...Oh, I just made a pun, didn't I?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Me? I've never thought about it, actually...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 0 25 25}But I do hear that a lot of adults these days don't drink.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Alcohol has a very... mature feeling about it, doesn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I don't think I'm a fan of all the rowdy parties, but having a nice glass does look kind of cool.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 1 25 25}Speaking of, remember that bar scene...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Wow, it's late! Watching those bonus clips took longer than I thought.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I gained some {f 4 30 2 1 1 0} after[n]watching how a man of conviction lives...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}It's about time I head to bed. Good night.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

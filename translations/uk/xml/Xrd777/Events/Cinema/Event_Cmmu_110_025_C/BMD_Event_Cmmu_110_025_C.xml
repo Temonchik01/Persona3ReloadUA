@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_110_025_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_110_025_C\BMD_Event_Cmmu_110_025_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 69 6B 6F">Маїко</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Я обожнюю ходити кудись поїсти![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}Бо коли я йду з мамою й татом, усі ладнають між собою![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Раніше ми так весело проводили час разом![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 2 25 25}Чому вони хочуть розлучитися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вони розлюбили одне одного.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це, мабуть, твоя вина.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не знаю.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Вони більше... не люблять одне одного!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Ммм...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Але... що я такого зробила!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Ммм...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Я намагалась запитати, але вони сказали, що це проблема дорослих...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Я... Я не хочу, щоб вони розлучались![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Мама і тато, мабуть, мене ненавидять![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Ні! Розлучення — це дурість! Ненавиджу![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Вааааааа![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вона голосно ридає...[n]Що мені робити?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Заспокоїти її]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дати їй випустити емоції]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Мммгх...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Мммгх...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 64 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Вибач... Я знаю, що тобі ніяково, коли я ось так плачу поруч із тобою...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 0 25 25}Я постараюсь не плакати...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Маіко намагається посміхатися...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стаємо ближчими...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="SYS_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Мені пора йти додому...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Дякую, що пограв зі мною сьогодні![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Проводивши Маіко додому,[n]я повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

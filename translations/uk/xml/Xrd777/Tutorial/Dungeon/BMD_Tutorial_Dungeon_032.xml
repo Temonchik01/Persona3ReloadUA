@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Dungeon_032.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Dungeon\BMD_Tutorial_Dungeon_032.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 74 61 74 75 73 20 41 69 6C 6D 65 6E 74 3A 20 52 61 67 65">Status Ailment: Rage</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 35}The {f 0 1 2}Rage{f 0 1 27} ailment causes one to lose their sense of reason. Enraged enemies will aggressively target you, {f 0 1 2}even from a distance{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 35}They will {f 0 1 2}charge upon spotting you{f 0 1 27}, but {f 0 1 2}struggle to redirect the force of their trajectory{f 0 1 27}, so keep your calm, sidestep, and wait for your opening to attack.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

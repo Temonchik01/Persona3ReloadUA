@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_110_170_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_110_170_C\BMD_Event_Main_110_170_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 65 61 63 68 65 72">Teacher</Speaker>
+    <Speaker id="1" rawBytes="50 72 69 6E 63 69 70 61 6C">Principal</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 11}We'll now begin this morning's assembly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 11}First, our principal has some words he'd like to share with you. Please give him a warm welcome.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 21 0 10}Thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}What's the deal with the assembly?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}You think it's about the recent incidents?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Beats me...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}He shouldn't even know about the Shadows or anything.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}I just hope this doesn't take too long...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}He's not exactly known for his brevity.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 21 0 10}Ahem. Today, I'd like to tell you about my, um, vision for this school year.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 5 21 0 10}As you are aware, strange incidents have been reported on the news lately.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 21 0 10}It is my firm belief that none of you are involved.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 5 21 0 10}However, the uncertainties of high school life are many, and overcoming this will require constant effort...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 21 0 10}You must dig down deep inside—but don't worry so much that you lose touch with reality.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 5 21 0 10}As they say, everything in moderation.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1181 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 5 21 0 10}This is the key to reaping all the rewards that school has to offer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The principal continues with his speech...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Wait a minute... Doesn't this remind you of Kirijo-senpai's speech?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Yeah, you're right...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}I guess he doesn't wanna be outdone by a teenager? Can't really blame him, but still.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

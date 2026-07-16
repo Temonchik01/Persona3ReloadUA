@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_009_055_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_009_055_C\BMD_Event_Cmmu_009_055_C.uasset" dialogs="28">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After the fighting ends...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Once the battle is over, Iwatodai Dorm[n]will have completed serving its purpose.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We'll all eventually go our separate ways.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}Arf?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I wonder what Koromaru wants[n]to do after all the fighting ends...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should ask him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ask if he wants to join me]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ask what he wants to do]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I asked if he wants to come[n]with me when this is all over...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 1 25 25}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I asked him what he wants[n]to do when this is all over...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 3 25 25}*whine*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems like Koromaru wants to[n]stick with me after the fighting's over...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's see this through.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's deal with Nyx first.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's protect the future.]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}Arf! Arf, arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 0 25 25}...Arf.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's an old, ragged collar...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's an amulet sewn into the back...[n]Could the priest have made this?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 0 25 25}Woof![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Isn't this important to you?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't you want to keep this?]]></Option>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 0 25 25}...Arf.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He seems to want me[n]to keep it for him...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I brought this along to our next home,[n]that might make Koromaru happy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 1 25 25}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru seems happy[n]that I have it...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should keep this safe for him until[n]we figure out the post-dorm situation...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 0 0 0 10 0 0}{f 4 23 0 1 0 25 25}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SEL_021_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You can count on me.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll take good care of this.]]></Option>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 0 25 25}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 8 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Awoooooo![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru's howl resounds[n]throughout the quiet shrine...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can feel a strong sense of[n]resolve from Koromaru...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 0 25 25}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru and I slowly made[n]our way back to the dorm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="SYS_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You have forged a powerful bond with Koromaru! You can now fuse {f 0 1 35}Byakko{f 0 1 27}, the sacred white beast![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

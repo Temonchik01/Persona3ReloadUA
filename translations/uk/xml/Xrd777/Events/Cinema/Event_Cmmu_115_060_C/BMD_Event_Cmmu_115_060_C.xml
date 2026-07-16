@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_115_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_115_060_C\BMD_Event_Cmmu_115_060_C.uasset" dialogs="23">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 6D 6F 72 75 20 48 61 79 61 73 65">Мамору Хаясе</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я вже деякий час чекаю,[n]але Хаясе досі немає.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Подивимось...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піду пошукаю його.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Почекаю ще трохи.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Його немає в жодному з найближчих магазинів...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хаясе досі немає...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гмм...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_006_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мабуть, трохи розвіюсь.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мабуть, ще трохи почекаю.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хаясе досі немає...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хаясе досі немає...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ну...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Почекаю ще трішки.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піду додому.]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 1 0 0}Привіт, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 2 0 0}Вибач, але сьогодні я не зможу прийти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що сталося?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не хвилюйся, все нормально.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 3 0 0}Мені справді шкода...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 4 0 0}{f 5 13 18 15 1}Мені просто незручно, бо це ж я хотів зустрітися...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 5 0 0}Але насправді... моя мама знепритомніла.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 6 0 0}Я зараз у лікарні.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 7 0 0}Лікарі сказали, що це через виснаження... бо вона працює з ранку до ночі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 8 0 0}Чорт забирай! Це все моя провина![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 9 0 0}А ще моя мама — вона хоче піти! Каже, що ми не можемо дозволити собі лікування.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 10 0 0}Чорт забирай! Чому я нічого не можу зробити!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 11 0 0}Я нікчемний! Я просто ще одна її проблема.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 12 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 13 0 0}Пробач за все це... Я... я не хочу бути проблемою і для тебе.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 14 0 0}Але я радий, що саме ти мене вислухав.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 15 0 0}Мені стало трохи легше, коли я поділився.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хаясе переживає дуже складні часи.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Він відкрився мені,[n]і я відчуваю, що наші стосунки зміцнились.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 90 -1 68 0 0}{f 3 1 1 0 0 16 0 0}Мені треба повернутися до її палати, тож поговоримо пізніше, гаразд?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно, тож я повернуся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

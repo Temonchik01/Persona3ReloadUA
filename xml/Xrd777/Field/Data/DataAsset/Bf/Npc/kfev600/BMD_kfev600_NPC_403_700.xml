@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_kfev600_NPC_403_700.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev600\BMD_kfev600_NPC_403_700.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 6F 72 74 2D 48 61 69 72 65 64 20 48 6F 75 73 65 77 69 66 65">Short-Haired Housewife</Speaker>
+    <Speaker id="1" rawBytes="54 61 6C 6B 61 74 69 76 65 20 48 6F 75 73 65 77 69 66 65">Talkative Housewife</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 502}Things have really calmed down over the last month. It's like that cult thing never happened.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 502}All I'm worried about now is my son's exam result. He says he's confident, but we'll see.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 503}Yeah, those motionless people are all but gone, and everything's back to normal.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 503}I'm glad that all I have to worry about is my kid's university entrance exams next year.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

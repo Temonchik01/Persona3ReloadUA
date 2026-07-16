@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_Tartarus_MonadDoor.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_MonadDoor.uasset" dialogs="28">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_DOOR_FORWARD" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter Monad]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Jump to our furthest point]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not right now]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MND_CARD_SINGLE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The {f 4 4 1 0 1 0} is reacting...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_CARD_SOMETHING" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A Major Arcana card I[n]have on me is reacting...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_OPEN_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}It looks like the door has been unlocked.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I can sense strong Shadows just beyond it... Please be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_NOT_OPEN_00" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The door is tightly sealed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_NOT_OPEN_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Nothing's happening...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Huh... I wonder if the tarot cards you have right now aren't enough.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Maybe there's a card that we missed somewhere...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Do you mind checking the doors on the other floors again just to be sure?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_NOT_OPEN_FUKA_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 -1 0 0}Nothing's happening...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 -1 0 0}I guess we must be missing the key to open it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Come to think of it, there was a similar door on a lower floor, wasn't there?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}We might find a clue if we open that door first.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_ACCESS_FIRST_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5028 0 0}It seems like it won't open... Do you see anything that I'm missing?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_ACCESS_FIRST_FUKA_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Wait! The door is glowing![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}But why all of a sudden...? Did you do something, Leader?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_ACCESS_FIRST_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}The tarot card reacted.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's the Major Arcana card...]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_ACCESS_FIRST_FUKA_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}{f 3 1 3 0 -1 5122 0 0}A tarot card you have is reacting to the door...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Maybe that card acts like a key for this door...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Interesting... This door certainly works differently from other ones we've seen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SYS_ACCESS_FIRST" type="Message" />
+  <Dialog id="12" name="MSG_OPEN_FIRST_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5113 0 0}I don't sense any danger in your immediate vicinity...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}However, there might be a strong enemy further in, just like with the other doors.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}If you feel like you're in danger, please leave quickly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_DOOR_FORWARD_SEL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should we explore Monad?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_OPEN_FIRST_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}You're in a deeper part of the passage now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}The passage is separated by doors and goes even deeper... Please be careful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_STOP_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}You can go further into the passage now. Why don't you take a look?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_NOT_OPEN_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}This seems like the very last door... but it's locked.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I wonder if we need something other than tarot cards to unlock it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_NOT_OPEN_10" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems that I'm missing something[n]that I need to unlock this door.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Let's turn back for now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_NOT_OPEN_FUKA_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}I wonder who that lady beyond this door was...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}She was so beautiful and amazingly strong...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_NOT_OPEN_11" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My battle with Elizabeth has[n]ended. It's time to get moving...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_RETURN_FUKA_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It looks like there's nothing else here. Do you want to go back out?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SEL_RETURN_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave Monad]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay longer]]></Option>
+  </Dialog>
+  <Dialog id="22" name="MSG_RETURN_FUKA_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Be careful on your way back. It's easy to get lost in there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_RETURN_FUKA_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}All right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I don't sense any danger, but please stay alert just in case.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_OPEN_20" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This is probably the location[n]Elizabeth referred to in her request.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Beyond this point lies[n]"the ultimate adversary"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_OPEN_21" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Elizabeth is waiting beyond this point.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="SEL_BTL_START" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Get ready first]]></Option>
+  </Dialog>
+  <Dialog id="27" name="MND_NOT_OPEN_20" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The request specified that I must[n]take on this challenge alone.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems the door won't open if[n]there are others with me...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

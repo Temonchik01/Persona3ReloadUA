@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Extr_530_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_530_060_C\BMD_Event_Extr_530_060_C.uasset" dialogs="21">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 65 74 69 73">Metis</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 3 0 -1 30066 0 0}Huh... This is the first time I've witnessed a school student fulfilling their educational obligations.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}Why do you write out all of the calculations involved instead of just the answer? It's inefficient.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Um... I guess so you can prove that you know how to solve the problem correctly?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}So providing the answer isn't considered sufficient proof that you know how to solve the problem correctly?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}Did I... say something wrong?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're distracting her.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}We should just let her work.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 3 52 -1 0 0}{f 3 1 3 0 -1 30086 0 0}Oh... If you say so.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}I'm sorry, it's just that this one is really difficult...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 -1 0 0}Hmmm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 3 0 -1 5075 0 0}Actually... I think it's because just finding the answer isn't the important part.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}What? But isn't that the goal of the assignment?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 3 0 -1 5064 0 0}Well, that's part of it. But I think the point is to learn the process.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 4 23 0 1 0 25 25}It's about knowing which formulas or techniques will help you solve the problem.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 4 23 0 1 1 25 25}And once you know all that, finding the solution is easy, even when you start on another problem with different numbers.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}I see... So studying is about acquiring specific mindsets.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30017 0 0}Fuuka-san is a good teacher, isn't she, Sister? She makes things so easy to understand![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, she is.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}She's the brains of the team.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}{f 3 1 3 0 -1 5099 0 0}Oh, I'm not, really. You were just asking the right questions, Metis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 3 0 -1 5051 0 0}Hehe, I don't know about that. But I appreciate the compliment.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 3 0 -1 5075 0 0}Oh, and also... I think it's fun to write out the calculations. It's like I'm having a conversation.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 4 23 0 1 0 25 25}How do I explain it...? When I figure out an answer, I feel like I understand the intent of the person who wrote the problem.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 4 23 0 1 0 25 25}For example, I can see when they're trying to mislead me, or I can tell they want me to use a certain formula.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 4 23 0 1 1 25 25}If I can figure out what the problems are getting at, I feel like I'll be more prepared for the exams.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}{f 3 1 3 0 -1 5068 0 0}Hm... Couldn't this apply to my navigation too? I think there are actually a lot of similarities...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Talking with us seems to have helped[n]Fuuka-san come up with something...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}So studying also helps with exploration...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}Then I suppose school must enforce a rather intense regimen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 -1 0 0}{f 3 1 3 0 -1 5102 0 0}Oh, uh... Sorry, I may have given you the wrong idea...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_035.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Dungeon\BMD_Tutorial_Dungeon_035.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6E 74 72 61 6E 63 65 20 74 6F 20 74 68 65 20 47 72 65 61 74 20 43 6C 6F 63 6B">Entrance to the Great Clock</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 42}If you've used a {f 4 4 0 37 1 16667} in Tartarus, an entrance to a special dimension with a {f 0 1 2}Great Clock{f 0 1 27} may appear.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The Great Clock grants a large experience boost to a teammate of your choosing. Although you can only choose allies at a lower level than {f 4 2}, the greater the level difference, the bigger the bonus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Remember, the entrance will only appear after you've used a {f 0 1 39}Twilight Fragment{f 0 1 27}, so don't be shy about using them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}However, entrances to the Great Clock will {f 0 1 2}vanish{f 0 1 27} if you move to another floor, so be sure to use them when they appear.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldNPC_Entrance_Amada.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Amada.uasset" dialogs="57">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay on standby for now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let me think about it.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check progress]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay on standby for now.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ask about the target]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head to Club Escapade]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head toward the station]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Commence operation]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_AMADA_PARTY_IN_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Please bring me with you for tonight's exploration.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Okay! I'll do my best![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_AMADA_PARTY_OUT_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}I'm ready to go when you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_AMADA_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Okay...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_AMADA_PARTY_OVER_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Um, it looks like your party is already full.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_AMADA_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Should I change with someone?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_AMADA_PARTY_OVER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Oh, it looks like there's no more room...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}I'll give it my best![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Okay, got it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_AMADA_PARTY_OUT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7008 0 0}We should get going, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_AMADA_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Oh, okay. I understand...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_AMADA_PARTY_IN_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}I won't let anyone get in our way! We have to keep going![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}I'm ready...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_AMADA_PARTY_OUT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}I'm sure they've gotten stronger since last time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}But so have we! So if we just...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_AMADA_PARTY_IN_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Why would he...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_AMADA_PARTY_OUT_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}...We have to keep going. We have to fight Nyx...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_AMADA_PARTY_IN_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}We'll settle this once and for all this time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Please, allow me to fight![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_AMADA_PARTY_OUT_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}I can't lose... because I said I'd go on for him...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}So I won't let Strega or anyone else stop me! Let's go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_AMADA_PARTY_IN_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Maybe, in a way, these guys actually weren't that different from me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}But that doesn't matter right now. Let's go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_AMADA_PARTY_OUT_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7132 0 0}Don't worry. I'm looking straight ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Let's go, Senpai.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_AMADA_PARTY_IN_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}If I'm being honest... I'd be lying if I said I wasn't scared...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}All right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_AMADA_PARTY_OUT_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Let's finish this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_AMADA_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Whose place should I take?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_AMADA_PARTY_IN_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}So those guys have come here, too... I won't let them get in our way![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Please let me go with you![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_AMADA_PARTY_IN_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}I'm worried about Junpei-san... We should go after him, quickly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Let me know what I can do to help![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_AMADA_PARTY_IN_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7063 0 0}I wonder where Junpei-san went...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_AMADA_PARTY_IN_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}So much has happened, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}That's why we have to end this! I know we can do it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}We'll win, no matter what.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_AMADA_PARTY_OUT_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}We have to put a stop to this...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}I can go whenever you're ready.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_AMADA_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Who should I switch with?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_AMADA_PARTY_OUT_TKJI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}I can do it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}What are you going to do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_AMADA_PARTY_OUT_CHID" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}We should go after Junpei-san, quickly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}I can go whenever you're ready.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_0828_0902_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}Don't worry about me. Something like Tartarus doesn't scare me at all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_0903_0904_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}I heard that Aragaki-san used to fight alongside Sanada-san and Mitsuru-san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}He certainly seems strong, but I'm not so sure about him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_0919_1003_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7008 0 0}If we beat the last three Shadows, it'll all go away, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}The Dark Hour, the Lost, even Tartarus...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_1005_1016_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7026 0 0}I'm all right now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}I can still fight, so please don't worry.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_1019_1102_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}I decided that I would fight in his place...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}That's why I'll defeat them all. The Shadows here, and the very last Shadow...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_1106_1109_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Irresponsible adults do whatever they want and only leave behind problems for everyone else...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}Tartarus is a prime example of that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}I never want to become that kind of adult...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_1110_1117_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}I wonder if Mitsuru-san is okay...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}The rest of us too, for that matter. We don't really know what to do anymore, do we...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Well, we'll just have to do what we can.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_1121_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7096 0 0}Mitsuru-san seems different now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}She seems more positive than she did not too long ago.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_1122_1127_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7008 0 0}Junpei-san hasn't eaten much since... that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}I understand how he feels, but... it's worrisome.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_1203_1213_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}The end of the world, an inescapable death...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}Maybe we would be happier if we didn't know...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 4 25 8}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_0101_0114_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7132 0 0}I know what I'm going to do, and I'm not going to let anything distract me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}I'll do everything I can with all I've got.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}That's how I stay motivated for the battles in Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_0115_0130_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7026 0 0}I never really thought about what I want to do or be in the future before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}But I've been thinking about that kind of stuff a lot lately.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}...We have to beat Nyx, for sure.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_0131_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7145 0 0}Today's fight will decide everything. Our future... and the future of the whole world, even...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}I'm kind of nervous, but... I'm not worried. It's a strange feeling...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}I know that we can win.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_HANYOU1_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7063 0 0}Fighting in Tartarus sure is tiring...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Oh, but I'm okay, though. I'm tougher than I look, you know.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_HANYOU2_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}Tartarus can be really different just floor to floor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Some floors are creepy, but the next floor could be really flashy...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}It's strange.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_AMADA_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7132 0 0}Please leave it all to me today! Those Shadows won't stand a chance![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

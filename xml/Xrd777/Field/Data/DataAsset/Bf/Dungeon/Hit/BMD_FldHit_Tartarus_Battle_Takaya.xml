@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_Tartarus_Battle_Takaya.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_Battle_Takaya.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_BATTLE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm ready.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MSG_VS_LEADER_BATTLE_OK" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5076 0 0}There's one member of Strega left. If we want to proceed, we'll have to fight him...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_NOT_ENOUGH" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's too dangerous to go without more people![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He seems to be unconscious.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_VS_LEADER_BATTLE_OK_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5076 0 0}Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_Ask_Full_VoiceOff" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_Ask_NotFull_VoiceOn" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5076 0 0}There's an opening in your party... Are you sure you still want to go?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_Ask_NotFull_VoiceOff" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}There's an opening in your party... Are you sure you still want to go?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

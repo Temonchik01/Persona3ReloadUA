@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_210_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_210_080_C\BMD_Event_Main_210_080_C.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 2 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}I'm sorry to ask this so suddenly, but... can you come with me? There's... something we need to discuss.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 3 0 25 25}Uhhh, you want all of us, or just him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 2 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}Just him for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 2 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}Come with me to the student council room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 5 0 0}Isn't it... kinda weird that she'd only want to talk to him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 3 0 25 25}Eh, probably big, important student council business.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 7 0 0}Maybe, but Senpai was acting a little weird...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 2 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 2 3 25 25}She had that look she gets when she's keeping some terrible secret.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 3 0 25 25}Eh, you worry too much.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 2 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 3 0 25 25}Welp... Guess we might as well head home.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 11 0 0}Hey, wait a sec, Junpei! According to the seating chart, if he's not here, you have to take over cleaning duty.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 2 -1 0 0}{f 3 1 1 0 0 12 0 0}Have fun sweeping the hallway![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 2 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 3 4 25 25}Whaaat!? Since when!?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_BtlEvent718.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\718\BMD_BtlEvent718.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 61 6B 61 79 61">Takaya</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="3" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_718_1_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 2 1 1 211}You needn't hurry. The moment we await is predestined.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 2 2 1 211}It makes no difference whether it comes sooner or later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_718_1_2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 1 0 2 3 0 3}I got some words for you bastards... But today, we're here to save the world![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_718_1_3" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}Please be careful! I sense an even greater power than before![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_718_2_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 11 -1 -1 0 0}{f 3 1 1 0 2 4 1 211}Even as I speak, I can feel it. The end of everything...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 11 -1 -1 0 0}{f 3 1 1 0 2 5 1 211}I pity those who cannot see the blessing it truly is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_718_3_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 2 6 1 211}We are mere mortals; we cannot change our fate.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_718_3_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 2 7 1 211}I don't like the look in your eyes... What is it that you see before you now?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_718_3_3" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A promise with my friends.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hope for tomorrow.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Only the opponent in front of me.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_718_3_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 2 -1 -1 0 0}{f 3 1 1 0 2 8 1 211}A promise. That's truly ridiculous. How absurd... I can't bear to watch you all![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_718_3_5" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 2 -1 -1 0 0}{f 3 1 1 0 2 9 1 211}Hope. That's truly ridiculous. How absurd... I can't bear to watch you all![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_718_3_6" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 11 -1 -1 0 0}{f 3 1 1 0 2 10 1 211}An admirable spirit. That's right... That's how it should be![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_718_4_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 4 -1 -1 0 0}{f 3 1 1 0 2 11 1 211}Why...? Fate is supposed to have chosen me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 4 -1 -1 0 0}{f 3 1 1 0 2 12 1 211}This again... Is my resolve still not strong enough...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_718_4_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 11 -1 -1 0 0}{f 3 1 1 0 2 13 1 211}If so... I'll throw away my trivial pride![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_718_4_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 2 -1 -1 0 0}{f 3 1 1 0 2 14 1 211}With my entire being! {f 4 3}! I will bring you to your knees![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_718_4_3" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 8 -1 -1 0 0}Ah! Everyone has been struck by fear! I have a bad feeling about this! Please get up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_718_5_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 2 15 1 211}Hahaha... It seems we are destined to be at odds...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 2 16 1 211}How can you summon such power even in the face of death...? Incorrigible, as always...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_718_6_1" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}This isn't about revenge... We're fighting to protect something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_718_7_1" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 8 -1 -1 0 0}What the hell...? Why can he use Theurgy!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_718_7_2" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 5 -1 -1 0 0}I have to heal everyone... quickly...![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

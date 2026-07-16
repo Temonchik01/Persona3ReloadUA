@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_NPC_006_230.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_006_230.uasset" dialogs="23">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1014 0 0}Hey. It's another hot day...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Maybe I'll just stay inside today.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}I was actually gonna go to the film festival with my friend, but now she says she can't go.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1123 0 0}I was honestly looking forward to it, so it's kind of a bummer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems interested in[n]going to the film festival.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel as if we can grow closer thanks to the[n]{f 2 4 1} Persona, {f 0 1 35}{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Yukari to the film festival?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Invite to the movies]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check Social Link status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't invite]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 3 0 -1 1098 0 0}Huh? You want to go?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}All right, then! Sure![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}I hope you're into the kinda stuff they're showing today, though, 'cause we'll be seeing a lot of it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems excited.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I invite Yukari to the film festival?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Invite to the movies]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't invite]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 3 1 3 0 -1 1098 0 0}Huh? You want to go?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Sorry, I wasn't trying to guilt you into taking me or anything...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}But I do hate going alone, so yeah, let's go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems excited.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1123 0 0}Look at that idiot... How can he eat hot food when it's already scorching in here?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}I feel like I'm getting hotter just watching him![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}You think you could get him out of here for a little? He's seriously starting to bother me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2054 0 0}Geez, Yuka-tan, sorry to "bother" you so much... But I'll make it up to ya![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Here, you can have half! But you gotta use my chopsticks, 'cause I don't have any spares.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 3 0 -1 1090 0 0}Why would I want any!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Whatever. I'm gonna go do my homework. If I can even focus on it in this heat...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems busy.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I doubt she's in the mood[n]to go to the movies...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1078 0 0}All of those movies were great, but more importantly... there was air conditioning![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Haha, I'm just kidding. I really had fun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Thanks for inviting me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I promised myself I'd do my homework first thing, but my room was too hot, so I came out here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}My friend's coming to compare notes, so I have to finish... Ugh, sorry, I'm rambling. Just ignore me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems busy.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I doubt she's in the mood[n]to go to the movies...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1114 0 0}I'm almost done with my homework.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Every year, I tell myself I should just finish my homework in July, but then I never actually do it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}At least I'm not as bad as Junpei. I bet he hasn't even started.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1123 0 0}He can beg all he wants, but I'm not gonna let him copy off mine.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems busy.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I doubt she's in the mood[n]to go to the movies...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1123 0 0}Junpei's still fooling around...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}He'd better get started on that homework, or he'll be in trouble.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}As for me, I'm all done! I've got so much stuff I gotta catch up on now that I have free time again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems to have already made plans.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I doubt she's in the mood[n]to go to the movies...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_Temperance" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Right now, the Temperance Arcana[n]may help me grow even more...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

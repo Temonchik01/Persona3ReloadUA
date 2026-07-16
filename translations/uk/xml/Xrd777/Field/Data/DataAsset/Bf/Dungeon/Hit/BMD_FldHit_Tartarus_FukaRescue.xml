@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldHit_Tartarus_FukaRescue.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_FukaRescue.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 56 6F 69 63 65">Загадковий голос</Speaker>
+    <Speaker id="2" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_MITSURU_CALL_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 1 10021 0 0}...Акіхіто та— ...не— ...той поверх—[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_UNKNOWN_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 1 10022 0 0}Хто це?..[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 1 10023 0 0}Хіба ви не... люди?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_MITSURU_CALL_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 1 10024 0 0}Ви ме— ...чуєте? ...Будь ласка відпові—[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_UNKNOWN_03" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 1 10025 0 0}Там хтось є?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 1 10026 0 0}Будь ласка, відгукніться...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_MITSURU_NOISE" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Communication is breaking up...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_NOISE_MES" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_MITSURU_OVER" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Communication has been lost...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

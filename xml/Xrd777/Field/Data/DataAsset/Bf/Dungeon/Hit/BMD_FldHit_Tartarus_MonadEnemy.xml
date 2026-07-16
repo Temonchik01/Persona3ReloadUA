@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldHit_Tartarus_MonadEnemy.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_Tartarus_MonadEnemy.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_YESNO" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm ready.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's not fight yet.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="MSG_MONAD_BTL_QUESTION_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 1 5343 0 0}It's a strong enemy! Are you ready to fight it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_MONAD_BTL_QUESTION_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 1 5343 0 0}You'll have to defeat this enemy to move on... Are you ready?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_MONAD_BTL_QUESTION_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 1 5343 0 0}It's a very powerful enemy! Please make sure you're fully prepared for battle![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

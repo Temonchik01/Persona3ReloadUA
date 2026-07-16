@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_kfev900_NPC_686_700.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev900\BMD_kfev900_NPC_686_700.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="55 70 62 65 61 74 20 4D 61 6E">Upbeat Man</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 686}Huh? Whaddaya want?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 686}Oh, you're taking orders? In that case, bring me a ginger ale.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 686}Wait, I changed my mind. Make that an oolong tea.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 686}What? I can't hear you! Huh? My order?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 686}I'll have a ginger ale.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 686}Wait, I changed my mind. Make that an oolong tea.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

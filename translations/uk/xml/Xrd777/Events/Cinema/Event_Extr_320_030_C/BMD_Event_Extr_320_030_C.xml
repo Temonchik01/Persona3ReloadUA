@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_320_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_320_030_C\BMD_Event_Extr_320_030_C.uasset" dialogs="83">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 61 74 74 79 20 46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74">Chatty Female Student</Speaker>
+    <Speaker id="1" rawBytes="4C 6F 75 64 20 46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74">Loud Female Student</Speaker>
+    <Speaker id="2" rawBytes="43 68 61 74 74 79 20 4D 61 6C 65 20 53 74 75 64 65 6E 74">Chatty Male Student</Speaker>
+    <Speaker id="3" rawBytes="4C 6F 75 64 20 4D 61 6C 65 20 53 74 75 64 65 6E 74">Loud Male Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can hear people talking.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The first bell has rung.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22003 0 0}{f 5 21 0 100}Hey, have you heard the rumor about, uh... What was it again? The bathroom?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22208 0 0}{f 5 21 0 150}That's old news. Besides, it's just a ghost story, not a rumor.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}You're talking about that one girl, right? The first-year?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}She stopped coming to school and just sits around staring at walls all day long.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Whenever her mom tries to talk to her, the only thing she says is, "It's coming... It's coming!"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22007 0 0}{f 5 21 0 100}Is that really how the story goes? Eh, whatever. It's probably all made up anyway.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22101 0 0}{f 5 21 0 100}G'morning... Ugh, I always feel super sleepy waking up on Mondays.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}And there's another special morning assembly today? Didn't we just have one last week?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22005 0 0}{f 5 21 0 150}Remember how Kirijo-senpai gave that great speech last week?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Apparently, that got the principal really fired up, and now he wants to make a follow-up speech.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22207 0 0}{f 5 21 0 100}Seriously!? The heck? Why do we have to suffer just 'cause he wants to stroke his ego!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22208 0 0}{f 5 21 0 100}Oh no! There's a test today! I didn't study at all yesterday because... I fell asleep![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22008 0 0}{f 5 21 0 150}Come on... You don't need to lie about it every time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Don't you think it's rude to people who really haven't studied?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Sure, it's nice to be smart, but you gotta be considerate of other people's feelings, too...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22207 0 0}{f 5 21 0 100}Whatever, quit being such a nag! I totally forgot five vocabulary words listening to you.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}I spent last night cramming... and now I gotta memorize them all over again![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22202 0 0}{f 5 21 0 100}Hey, have you heard about that second-year...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 150}Oh yeah! The one they found lying in front of the school gate this morning, right?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Hopefully, she just ran away from home... But I feel like this is the start of something big.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22204 0 0}{f 5 21 0 100}Yeah, there might be reporters and camera crews and stuff... I'd rather not deal with that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21504 0 0}{f 5 21 0 100}The Kirijo Group was on the news yesterday. Something about showing their true colors...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21906 0 0}{f 5 21 0 150}Kirijo...? Oh, the student council president?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}I hear they're involved in a lot of things. Even this school's owned by the Kirijo Group, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21506 0 0}{f 5 21 0 100}I wonder why a company that big decided to build a school...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21905 0 0}{f 5 21 0 100}By the way, you know Mitsuru Kirijo? The student council president?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}I heard she's gonna study abroad after high school. Probably to prepare herself to run the Kirijo Group in the future.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21510 0 0}{f 5 21 0 150}Wow, that's crazy. It's like she lives in a different world from us plebs.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}But she's staying in a dorm, right? Why would a rich girl wanna live in a dump like that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21907 0 0}{f 5 21 0 100}Maybe her family made her? To understand how us ordinary folks live or something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22005 0 0}{f 5 21 0 100}Hey, get this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}The other night, my boyfriend casually tried to take me to Shirakawa Boulevard on a date.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22207 0 0}{f 5 21 0 150}What!? No way! THAT Shirakawa Boulevard? Ewww, he totally had an ulterior motive.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 100}We just started dating, but I'm already getting creeped out... His head's always in the gutter.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Maybe I should dump him.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}I don't wanna end up like those couples from the rumors. You know, the ones "found unconscious" somewhere.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21705 0 0}{f 5 21 0 100}You know, our campus is actually pretty clean and new. I only noticed after my club had to visit another school.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}My parents said that our school was rebuilt after an explosion ten years ago.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22205 0 0}{f 5 21 0 150}I also heard that the explosion wasn't the only reason...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Around that time, a lot of students suddenly stopped coming to school.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Maybe that's why they put up the new building—to start with a clean slate...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21708 0 0}{f 5 21 0 100}Haha, what, you think there's a dark side to Gekkoukan High? You watch way too much TV.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22110 0 0}{f 5 21 0 100}Ugh... We have exams starting tomorrow. And they're cumulative, so it's hard to remember everything.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22204 0 0}{f 5 21 0 150}What if I fail again...? I really wish the school would stop posting our names with our scores.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 100}Right? It's embarrassing if we're near the bottom of the list... Smart people like Kirijo-senpai wouldn't get it though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}What is your class gonna do for the culture festival?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}A haunted house! I bet I'll be stuck playing the ghost.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}That doesn't sound too bad. You can just show up and put on the costume. I actually need to practice for a magic show...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}But I also heard a typhoon is on its way, and that it's a big one... Are people really gonna turn up?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21902 0 0}{f 5 21 0 100}I heard there's a nasty typhoon on the way. You think we'll still have the culture festival Saturday?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21508 0 0}{f 5 21 0 150}Nah, I don't think so. The way they're talking, the typhoon's gonna be way too destructive.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21909 0 0}{f 5 21 0 100}You seriously think it's gonna be canceled? Man, after all that work we put in preparing for it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22005 0 0}{f 5 21 0 100}Someone in my neighborhood actually has those symptoms...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_036_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22406 0 0}{f 5 21 0 150}There are a few in mine, too... I'm scared.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}They said on TV that it's not contagious, but I feel like it's a sign of the end of the world...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_037_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22010 0 0}{f 5 21 0 100}D-Don't joke like that. "The end of the world"? There's no way...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22005 0 0}{f 5 21 0 100}It's finally time to break out the winter uniforms... They're so heavy, my shoulders hurt.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}At least I found my lapel pin in the pocket! It'd haunt me forever if I couldn't find it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_039_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22204 0 0}{f 5 21 0 150}My shoulders have been hurting lately, too.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Plus, I'm hearing weird voices... And I've also been getting headaches.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22009 0 0}{f 5 21 0 100}Y-You're haunted!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_041_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22204 0 0}{f 5 21 0 100}Is it just me, or are more people coming down with Apathy Syndrome lately?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_042_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 150}My friend's brother's friend got it, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_043_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22307 0 0}{f 5 21 0 100}It's starting to scare me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}And it's on the news every day now. Oh, did you see the special program they ran?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Apparently, Nostradamus predicted that all this would happen![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_044_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22005 0 0}{f 5 21 0 100}Geez... There's someone with Apathy Syndrome at my cram school, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_045_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22204 0 0}{f 5 21 0 150}I heard that this city isn't the only one affected. It's also happening in other places.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}I wonder what's going to happen to this country...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_046_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22007 0 0}{f 5 21 0 100}C-C'mon, don't say such scary things. I'm sure someone will take care of it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_047_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22002 0 0}{f 5 21 0 100}Hey, have you talked to the new transfer student yet? Isn't he handsome?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_048_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22106 0 0}{f 5 21 0 150}Yeah, I have! Mochizuki-kun, right? He's so sweet and dreamy... Also, he looks rich![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}I'm going for him for real this time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_49_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22007 0 0}{f 5 21 0 100}Th-That's not fair! I called dibs![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_050_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22002 0 0}{f 5 21 0 100}The school trip's tomorrow! Are you all packed?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_051_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22203 0 0}{f 5 21 0 150}You bet I am! I've got it all covered. Yukata, bathing suit, flashlight, snacks...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_052_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22010 0 0}{f 5 21 0 100}...You don't travel light, do you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_053_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22004 0 0}{f 5 21 0 100}I heard some people saying that Apathy Syndrome is nothing to worry about.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_054_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22406 0 0}{f 5 21 0 150}I heard the same thing. They're saying it puts people at ease, right?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}You think it's some kinda new religion? I think I get what they mean, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_055_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22007 0 0}{f 5 21 0 100}No way, are you seriously falling for that? It's all a scam![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_056_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22001 0 0}{f 5 21 0 100}Morning! It's cold today, but at least winter vacation starts tomorrow![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}What are you gonna do with your New Year's allowance?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_057_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22108 0 0}{f 5 21 0 150}Haha, I didn't get mine yet![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}But I want to buy a grab bag! I'm aiming for one with a purse...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_058_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 100}Ooh, me too! Hey, do you want to start waiting in line today? We could bring a kotatsu...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_059_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21905 0 0}{f 5 21 0 100}Hey, have you heard the rumors about that cult?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_060_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22207 0 0}{f 5 21 0 150}Hey, don't call it that if you don't know anything about it. Besides, it's pretty much fact the Fall is coming.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_061_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21907 0 0}{f 5 21 0 100}Oh... Well, nothing we can do about that, I guess.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}By the way, about the homework for second period...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_062_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22202 0 0}{f 5 21 0 100}By the way... I wanted to show you this magazine that hit the stands today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_063_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22007 0 0}{f 5 21 0 150}Which one? Don't tell me it's an article about cults.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Everyone's been saying "The end is near" lately... What's up with that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_064_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22208 0 0}{f 5 21 0 100}...Just read it. You'll see how true it really is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_065_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21905 0 0}{f 5 21 0 100}Oh yeah, my brother was invited to join that cult.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}They approached him when he was at Escapade. Isn't that crazy?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_066_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21509 0 0}{f 5 21 0 150}Whoa. Didn't think someone all about salvation and stuff would be at a nightclub.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}Guess they're everywhere these days.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_067_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 21907 0 0}{f 5 21 0 100}Apparently, the guy had a crazy look in his eye. He kept rambling about the "moment of salvation" or whatever...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}You can find him lurking in the corner of the dance floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}I'm probably gonna stop going to Escapade for a while...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_068_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22002 0 0}{f 5 21 0 100}They were handing out flyers at Paulownia Mall the last time I went.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}It's the same one that's plastered all over the city.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_069_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22110 0 0}{f 5 21 0 150}Oh yeah, the one about Nyx, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_070_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22010 0 0}{f 5 21 0 100}Huh, is that how you say it? I dunno, I just liked the logo.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}The stuff written here is kinda interesting, too. Maybe I should ask them about it next time...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_071_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22307 0 0}{f 5 21 0 100}I'm so sleepy... It's been so cold that it's actually painful to leave the comfort of my bed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}I'm starting to think that living life with Apathy Syndrome would be easier...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_072_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22406 0 0}{f 5 21 0 150}I know, right? I could sleep all day, and people would get all concerned for me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_073_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 100}Yeah, exactly! Maybe I really should get Apathy Syndrome—at least for a little while.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_074_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22204 0 0}{f 5 21 0 100}I've heard a lot of talk lately about salvation, and the world becoming renewed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}If everyone ends up getting Apathy Syndrome, we really might need something like that...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_075_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22006 0 0}{f 5 21 0 150}Yeah, I always hear people talk about it on TV.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}I thought the cult sounded suspicious at first, but maybe it isn't...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_076_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22307 0 0}{f 5 21 0 100}I mean, if the whole world believes in it, I'd feel stupid to be the only one denying it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_077_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22203 0 0}{f 5 21 0 100}I've made zero progress studying for exams... I just can't concentrate at home.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Even if I wanted to go somewhere else to study, I don't have the money for it right now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_078_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22002 0 0}{f 5 21 0 150}Why don't you go to {f 0 1 2}the library{f 0 1 27} then?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}It's nice and quiet, and you can find lots of reference materials there. Plus, it's free![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_079_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22307 0 0}{f 5 21 0 100}Hm, yeah, you've got a point. I could study there...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Argh, I just wish I had the money for the Prodigy Platter at Wakatsu![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Do you think it's really true? That just one bite could make you smarter? Oh, I envy the rich...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_080_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22203 0 0}{f 5 21 0 100}I spent my entire day off at the net café...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}You can play computer games there, so I ended up trying a bunch of different ones.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_081_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22107 0 0}{f 5 21 0 150}I knew that {f 0 1 2}they sell computer software{f 0 1 27} there, but I didn't realize you could use them in the private booths too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}It's always so packed there though, so I never feel like going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_082_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Yeah, it was super crowded yesterday, too. It was a miracle I managed to get my own booth.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 100}Next time I'll just buy the game. It's probably more relaxing to play it at home, anyways.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

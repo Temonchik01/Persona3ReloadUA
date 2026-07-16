@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Dungeon_039.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_039.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 6F 6E 61 64 20 43 68 61 6D 62 65 72 73">Monad Chambers</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 43}{f 0 1 2}Formidable Shadows{f 0 1 27} reside here, and beyond them lie treasure chests holding {f 0 1 2}valuable items{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You can {f 0 1 2}face these challenges as often as you like{f 0 1 27}, so if you feel outmatched, consider revisiting after training some.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}You may also find something in the Monad Chambers that you can't find anywhere else. You'll have to tread the Chambers themselves to figure out what.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

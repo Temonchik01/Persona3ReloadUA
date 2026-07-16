@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_330_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_330_010_C\BMD_Event_Extr_330_010_C.uasset" dialogs="104">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 72 2E 20 45 6B 6F 64 61">Mr. Ekoda</Speaker>
+    <Speaker id="1" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+    <Speaker id="2" rawBytes="4D 72 2E 20 45 64 6F 67 61 77 61">Mr. Edogawa</Speaker>
+    <Speaker id="3" rawBytes="4D 72 2E 20 4D 69 79 61 68 61 72 61">Mr. Miyahara</Speaker>
+    <Speaker id="4" rawBytes="4D 72 2E 20 4F 6E 6F">Mr. Ono</Speaker>
+    <Speaker id="5" rawBytes="4D 72 73 2E 20 54 65 72 61 75 63 68 69">Mrs. Terauchi</Speaker>
+    <Speaker id="6" rawBytes="4D 73 2E 20 4F 75 6E 69 73 68 69">Ms. Ounishi</Speaker>
+    <Speaker id="7" rawBytes="4D 72 2E 20 54 61 6B 65 6E 6F 7A 75 6B 61">Mr. Takenozuka</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'm feeling sleepy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I close my eyes for a few minutes?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay awake]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Close your eyes]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I forced myself to stay awake[n]and listen to the lecture...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can feel the teacher's glare[n]as I start nodding off...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's like my {f 4 30 2 1 1 0} is being tested...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15003 0 0}{f 5 21 0 100}Ahem... I'm Mr. Ekoda. I'll be your classic literature teacher.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}We'll be learning all about good old Japan through some truly great stories. Exciting, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Now, some people say classic lit isn't relevant anymore, but oh, are they wrong![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}The students, the other teachers—they don't know what they're talking about! Nobody really understands it like they should...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15021 0 0}{f 5 21 0 100}Hey... Are you even listening to me?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Let's wake up, shall we, children? Now, open your textbooks.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}First on our syllabus is Ise Monogatari, the origin of Japanese literature.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}It's a very interesting story. You youngsters might even call it "da bomb."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}*sigh* I can tell you people are "zoning out" on me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 4 25 100}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15807 0 0}{f 5 21 0 100}All right. Today, we'll be looking at some Meiji-era literature. Open your textbooks to page 12.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}...You know what? I'm sick of this story. I already went over it in the last class.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I've got a great poem we can discuss instead. Close your textbooks, everyone, and listen to this...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}"Isolated cloud[n]suspended over the tall[n]snowy mountain peak"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 3 0 -1 15829 0 0}{f 5 21 0 100}Hey! Tomochika! You'd better not be sleeping back there![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}You should be ashamed of yourself, napping while I pour my heart into this reading![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}You're getting another essay on top of the regular assignment tonight![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}I expect a slice of cake when you turn it in, too![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}And don't cheap out with the store-bought stuff, like last time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 3 1 3 0 -1 14803 0 0}{f 5 21 0 100}I'm Edogawa, and I'll be teaching... Oh, let's call it "integrative learning." Eeeheehee...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}My goal is to ease some of the stress you suffer as students, of which I assume there is plenty.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Think of it as psychotherapy through magic![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Yes, that's right. Quiet down. No talking... Silence, I say![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Were you surprised to hear me bring magic up?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Well, this study was very recently published, so it's not well known just yet...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}But, "those who believe will be saved." In other words, the placebo effect is hard at work.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}That means, believe your studies are paying off, and eventually, they will! Eeeheehee...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}All right then! Let's get on with our first lecture—the basics of magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Who can use magic, and who cannot? That seems like a reasonable enough starting point.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Some of you may think magic lets you do absolutely anything.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Pulling pranks, raining vengeance on your enemies...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Well, if those are the first wishes that run through your mind when it comes to magic, then I'll tell you now—you'll never master the craft.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}This is true of both Eastern and Western sorcery...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Those with wicked hearts will be either powerless or driven to ruin.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There's one more vital facet to learning magic...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}And that is the "master."[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Practitioners should always aspire to become as knowledgeable as their predecessors, especially if they intend to study high-level magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}But without a master's careful instruction, learning the craft becomes wholly impossible.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Once you've begun your training, you'll have to live in two worlds at once: the real world, and the dark realm.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}If you ever lose the ability to distinguish between the two, then you'll be headed straight for disaster.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}That's what makes the guidance of a master absolutely vital![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}With all that out of the way, I'll move on to meditation, one of the standards in magical training.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Now, I've got some handouts here for you...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14804 0 0}{f 5 21 0 100}...Well, looks like that's our time.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}If you think you might be interested in the practice, try meditating on the course of your day while lying in bed tonight.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}In vivid detail, recall each event taking place in reverse... Sort of like traveling back through time, in your mind.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}If you ever reach the point where you can do it flawlessly, you just may have what it takes to become a good magician! Eeeheehee...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}All right, that's it for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15014 0 0}{f 5 21 0 100}I'm sure you all remember that {f 0 1 2}midterm exams start next Monday{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}If you've paid attention during class and studied regularly at home, you shouldn't have any problems.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Especially those of you who sleep through class. You must be preparing hard at home. Right, Iori?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Hmph...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Well, if you choose to throw the rest of your lives away by slacking off while you're students, then be my guest. Who am I to stop you...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He's shaping up to make this a long one...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15021 0 0}{f 5 21 0 100}Back in my day, society was nowhere near as prosperous as it is now![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}That's why we all busted our humps for so long: to better the situation we were in! Well, can you young people say the same? Hmm?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Our society's material wealth has cost us far too much spiritual wealth, if you ask me![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}On the other hand, in Ise Monogatari...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15421 0 0}{f 5 21 0 100}Hmm? That's strange... I wasn't expecting the answer to be such a large integer.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}50 sextillion times 1,200?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}...60 septillion?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Multiplied by 1,820...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}10 octillion, 920 septillion!?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 4 25 100}......[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}These numbers are too big to fit on the board... Uhhh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Oh! Wrong equation. If we instead use our variables in the right one...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}The answer comes out to 3.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Ah, I see... This is a very elegant equation, actually![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15413 0 0}{f 5 21 0 100}Huh? What will the exam cover...? Oh, right—{f 0 1 2}exams start next Monday{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}It'll just cover up to page 34, so this formula won't be on it.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Kind of a shame, though. It's a real beauty.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Maybe I should just put it on there anyway...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Kidding! I'm kidding! Don't give me that look![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15807 0 0}{f 5 21 0 100}All right class, settle down. You can show off your scores to each other later.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Let's spend a bit of time going over the test now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}The first part was the kanji dictation section...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}How did any of you get this part wrong? It was a gimme![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}I swear, you make me ashamed to be your teacher sometimes![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Next was the short essay—your reaction to a passage about bullying in schools.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}These don't have a sole correct answer. You could write whatever comes to mind, as long as it's relevant![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}You could even write about something you'd never discuss aloud, like a complaint about bullying at Gekkoukan, for example...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Though I'm sure that's not an issue in this class, right? Bear in mind, I hate cowards who resort to bullying.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15811 0 0}{f 5 21 0 100}Okay, on to the next section. Many of you got these wrong.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Are we paying attention? Good. Now, you were asked to write the correct conjunction in each case...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}The first one's answer was "and," but if you wrote "however," you lucked out with some partial credit. I won't award it next time, though, got it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15215 0 0}{f 5 21 0 100}Let's see... Today, I'll be covering the Kofun period in our history.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}I dunno though... Do any of you think this stuff's relevant? I mean, I could slap together some clay statues that look a lot better than theirs did.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}I can't wait until we get to the Sengoku era... It's so much more exciting![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Speaking of the Sengoku era, there was this one general they called "the war hawk of the battlefield."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like this turned into[n]another Sengoku lecture...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}...And that's how the period came to be known as the Sengoku era.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Huh? You want to hear more about the Kofun period?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Well, if you insist... Uh, go look up the Kitora Tomb in Nara. It's really famous.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14803 0 0}{f 5 21 0 100}Quiet down, class. It's time to begin today's lecture. "Progredio adio lucem siderem"...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I'm changing today's lecture to another integrated learning one, since Mr. Ekoda left early today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}He claimed he wasn't feeling well... Looked fine enough to me, though...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Quick word of caution: make sure you know what you're eating before you take a bite.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I covered the basics of learning magic last time...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}So today, I'll go a bit deeper into meditation.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}First, let's review the ways that magicians meditate.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}To heighten the creative impulse, the source of all your magical power...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Observe a real-world object carefully, then re-create it in your mind, down to the last, tiny detail.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}That's the Western standard for meditation, but I'd like to talk about the Eastern style as well.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Meditation was originally refined in the East...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}And modern magicians adapted Eastern meditation for their own original style.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}You find the right posture, take a deep breath in and out, and calm your mind.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}That's the basic practice of the Eastern style.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It doesn't take much to practice meditation, either.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}All you need is some free time and a relatively calm environment.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It doesn't take long, but you should give yourself at least fifteen minutes for a proper session.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Now for the specifics... First, your posture. Just take a position that you find comfortable.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Sitting cross-legged is good enough for most, but you can try the full-lotus position, too—it's sometimes called "kekkafuza."[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}You can even meditate while sitting in a chair. Any position works as long as it's comfortable.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Once your breathing is relaxed, close or cover your eyes and let the rest of your body relax too.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Now that you've prepared yourself physically, you'll focus next on your mind and soul.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Imagine a symbol—some simple image. Perhaps a large tree, or the moon.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It could even be the god of your own faith, if you like.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}However, do not force yourself to fully empty your mind. That's actually a common misconception.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Most people aren't even capable of it, but succeeding is especially dangerous. You run the risk of losing all control of yourself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14805 0 0}{f 5 21 0 100}...So, what have we learned? Meditation can be aided through iconography, rather than forcing an empty mind.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Even Christian prayer can reach a level of meditation, if practiced fervently enough.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Although, in that case, the imagined symbol is present for a reason other than meditational aid.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It can be dangerous to plumb the depths of your consciousness...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}But, by keeping a clear symbol in mind, you avoid teetering over the edge and plunging into the darkness.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Go ahead and try meditating tonight, if you'd like. All right, that's it for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_029_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15002 0 0}{f 5 21 0 100}Ah... This phrase, "mono susamajiku," also appears in Ugetsu Monogatari.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Of all the Ugetsu tales, I'm most fond of the one about the vengeful ghost wife.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Such an eerie, yet poignant story... Speaking of which, I've got a pretty good ghost story of my own. Care to hear it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15017 0 0}{f 5 21 0 100}Then, my friend, the one who came with me into the tunnel, suddenly screamed...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}"There's a girl right behind you!"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}We ran back home, scared out of our wits... But, not long after that, I started hearing the strangest thumping noises coming from inside the wall![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}And the faintest voice, croaking... "Let me out... Let me out..."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}As far as I knew, that room had always been vacant. Who was in my wall?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}So, one night, I decided to go right up to the wall where the sounds came from, and knock on it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Heheheh...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}All of a sudden, right in my ear, I hear this girl's voice, loud and clear—"I'm heeere!"[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}And that's where the youngest member of my family came from. She grew up to be just like any ordinary human, though.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Nowadays, I only lie awake in fear that she'll run off and marry this loser she's been seeing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Oops, there's the bell. Okay, class, that's all for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15215 0 0}{f 5 21 0 100}Are we up to the Kamakura era yet? I guess not... Oh man, we haven't even reached the Nara era![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Well, let's just power through it real quick. First, the Taika Reforms![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}They happened in the year 645.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Just remember that and we can move on.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Huh? What were they about? Oh, nothing major, really.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Later on, in 710, there was the Heijo-Kyo. Okay, that wraps up the Nara era.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15213 0 0}{f 5 21 0 100}What, you actually want more? Okay, here's a question for you, then.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}What's the name of the anthology consisting of 4,500 poems, give or take, leading up to the Nara era?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}...You know what? I don't feel like picking on anyone today. I'll just tell you. It's the Man-yoshu.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}We're supposed to cover the Kokin Wakashu, too, but I don't really care. Ask Mr. Ekoda, if you want.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Ughhh... I don't care about any of this![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}I just wanna get to the Sengoku era! I can hear it calling for me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16203 0 0}{f 5 21 0 100}{f 0 1 2}Exams are starting tomorrow{f 0 1 27}... Are you all ready?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Summer vacation is just within reach, so you'd better study hard![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_036_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Why aren't you excited!? You know, summer vacation! Beaches! Shaved ice! Woohoo![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}It's also the hottest time of the year, though. Don't go overheating, okay?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Ah, that reminds me, there's an old expression for the hottest time of the year in the Northern Hemisphere.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_037_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16214 0 0}{f 5 21 0 100}The "dog days" of summer. It goes all the way back to an ancient Latin phrase, the "puppy days."[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Any idea where that phrase came from? Anyone?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Well, it's because Sirius—also called the Dog Star—appears at the start of summer. People believed it brought droughts and misfortune.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Here's hoping we can avoid all that, I guess... Have a nice vacation![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_038_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14801 0 0}{f 5 21 0 100}Please take your seats. "Solve et coagula"—or "salve," rather.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Your teacher has suddenly fallen ill, so I'll be filling in today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}Sick, on the last day before summer vacation... That just shows you why you have to take good care of your health! Eeeheehee...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_039_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Anyway, I'll be giving you all a crash course on alchemy, a branch of magic focused on, among other things, generating wealth.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Oh, like the sound of that, do you? Of course. Who among us would turn down free money?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It's human nature to want what one lacks. There's no escaping it.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}So, despite the lesson imparted to us by King Midas, humans have long sought a way to create precious metals for themselves.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}However, the alchemists of old were not so arrogant as to believe they could create gold by touching anything they pleased.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Rather, they sought a process that allowed them to convert cheaper metals, such as iron or copper, into more lucrative ones.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}This goal is the pinnacle of alchemy given form: the philosopher's stone.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Regardless of their incentive or their success, there is no denying that alchemists have made significant impacts in world history.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The roots of alchemy originate in Hellenistic Egypt, with the city of Alexandria at its center.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}As the Western Roman Empire fell, alchemy thrived in Arabia. Many of the Arabic alchemical texts written at the time have survived to this day.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The earliest English translations of these texts brought the practice to medieval Europe, where alchemists gained both power and infamy.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Also of note, there is a fascinating branch of Chinese alchemy called Waidan.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}These practitioners sought a working formula for an elixir of immortality, though, rather than a recipe for gold.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}At any rate... the most important substance in the practice of alchemy is mercury, or quicksilver.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It was thought that mercury could be used to form the philosopher's stone, which would in turn allow alchemists to generate gold.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Alchemists endlessly toiled in their research, using all sorts of equipment and experimental approaches.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There are some who argue that, if not for the alchemists' trial and error, modern chemistry would not exist as we know it today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Unfortunately, there's no definitive proof that a philosopher's stone was ever successfully created.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}In a way, it's one of the greatest tragedies of human history.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Moving on—alchemy has also been very influential in the field of psychology.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Carl Jung, among others, recognized a kinship between alchemists and psychologists.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Jung believed that psychotherapy could refine a mind to a stronger, healthier state, not unlike how the philosopher's stone was said to affect metals...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_040_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14816 0 0}{f 5 21 0 100}...Which is why I think it's such a shame that mainstream society has given up on alchemy.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Young adults ought to strive for unusual goals—it offers the best chance to lead exciting lives.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}And after all, from the perspective of our ancestors, modern science may as well be alchemy or magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}If you work hard enough, you may very well discover your own form of magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Well, that's it for now. Enjoy your summer, everyone.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_041_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15215 0 0}{f 5 21 0 100}All right, our next chapter goes over the problems of the Kamakura shogunate...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_042_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}The Kamakura period's cool and all, but it doesn't beat the Sengoku era![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Have we covered enough of this yet? I can skip to Sengoku now, yeah?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Yeah, let's do it. We're taking a deep dive into the era, starting from the beginning.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}As I'm sure you all know, it's generally agreed upon that the major factor in the Sengoku era's formation was the Onin War, in 1467.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}After that, the next big one was the Coup of Meio, in 1493.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Let's look a bit closer at the Onin War first, though. In 1467...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_043_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15207 0 0}{f 5 21 0 100}...Wow, it's already time? I can't believe that went by so fast![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}We've only made it to 1467, but there's still so much to cover... I guess there's no other choice.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Next time, we'll jump ahead to 1468.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_044_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 3 1 3 0 -1 16005 0 0}{f 5 21 0 100}A lot of people are concerned about stress these days...[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Believe it or not, crying can relieve stress. The tension is washed away with all those tears.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Unlike money, there're no benefits to saving up your stress. When life gets rough, just cry it out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_045_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}By the way—and maybe you've found this out already...[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}We sometimes describe difficult situations as "headaches," but headaches caused by stress are a real thing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_046_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 3 1 3 0 -1 16017 0 0}{f 5 21 0 100}Migraines are probably the most talked about of them all. Some people are more prone to getting them due to their personality and habits.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}There are also tension headaches. Those are really nasty too.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Tension headaches are when the muscles of your head contract due to overloaded stress.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}That's why it's so important that you never bottle your stress up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_047_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15406 0 0}{f 5 21 0 100}We already covered how any number divided by 0 is undefined, right?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Oh, we didn't? Was that the other class...?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Well, either way, I just told you, so let's move on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_048_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}...For this next one, the answer is 8.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Aww... Don't you think 8 is such a darling number?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Almost as precious as 9's little curly tail.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}But oh, the 2! Not enough people appreciate it—2 is awesome![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Aren't numbers just downright adorable!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_049_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15412 0 0}{f 5 21 0 100}But then, on the other hand, things like the square root sign and the sigma have a much more refined feel to them.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Pair them together with numbers and you can express anything in the world.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Hearts, minds, emotions... Everything boils down to synapses firing in the brain.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Which means they can be expressed by numbers! Isn't it amazing what those cute lil' digits can do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_050_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15203 0 0}{f 5 21 0 100}I finally get to tell you all about Masamune Date today![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}I was so excited last night, I couldn't sleep a wink![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_051_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Let's not waste any more time! We'll start with Date's early life.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}In 1567, at Yonezawa Castle...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_052_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}...And at age fifteen, he emerged victorious from his very first battle![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Thus began his rise to power— Huh? We're out of time...? What's your next class?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Composition? Hmm... Ms. Toriumi, eh?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Well, I'm sure she'll forgive me if I bring her some cake. So let's continue with...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_053_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15808 0 0}{f 5 21 0 100}I hope you all haven't forgotten—{f 0 1 2}exams start in ten days{f 0 1 27}, a week from Tuesday.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}If this class does poorly, it'll fall on my head, so you'd better study hard![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_054_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}With that out of the way, let's start on page 125. "The younger generation is creating its own language in cyberspace."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I must admit, I'm no computer nerd, but I've become quite the master of the "leetspeak" you're all so fond of lately.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I actually find it rather useful![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_055_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15825 0 0}{f 5 21 0 100}I've even cooked up some of my own Internet slang.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Not only is it totally unreadable, it's impossible to tell whether it's gibberish or actual information![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}With my flair for cryptology, I could be a spy for the government... Yeah... Why not?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_056_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15605 0 0}{f 5 21 0 100}Did you write that down? You'd better hurry up, I'm about to erase it! Still writing? Hurry up![n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}What have you been doing this whole time, texting or something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_057_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}{f 0 1 2}Exams start next Tuesday{f 0 1 27}—there's no time to waste! Let's just move on to the next problem.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_058_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15604 0 0}{f 5 21 0 100}Did you write that down? Okay, that was more than enough time. I'm going to erase it now! Really, I'm gonna do it![n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Oh, and I heard that one of you has been counting how many times I say "Did you write that down?" How about focusing on your notes!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_059_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}Masamune Date decided to pursue Hideyoshi Toyotomi, so he headed for Odawara...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Can you feel his heartrending sorrow that came from such a decision!?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}*sob* I wish I was born in that era! I could have fought alongside Masamune Date![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_060_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}All right, now this turns into a real wild ride from here on. Blink and you might miss something![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_061_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15222 0 0}{f 5 21 0 100}Ah, the Sengoku era... The days when men were in their full glory![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}This modern age is terrible! Where has the samurai spirit gone!?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Now, let's review what we've covered on the Sengoku era. First thing: no era was ever better. Secondly...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_062_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14802 0 0}{f 5 21 0 100}Class is now in session. "Salamander soll glühen"... Actually, I should go over the invocation later.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Ms. Toriumi is feeling under the weather—again—so I'll be replacing her today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There's something about autumn that makes people overstuff themselves... Be sure you keep at least one eye on your intake.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}But this is ultimately to your benefit, thanks to the lesson I've prepared for today—all about summoning magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}This magic has been used throughout history to summon both angels and demons into our realm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_063_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}But first: what is summoning magic, exactly?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It's when a magician conjures a pre-existing spiritual presence. At times, they are also able to control the presence for their own goals.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Just as with shamanism, spiritual summoning can be found throughout recorded history in a number of different cultures.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Even today, it's widely seen in books, movies, video games, and whatnot.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Johann Wolfgang von Goethe's Faust was instrumental in the popularization of summoning magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There are plenty more examples of summoning magic I'd like to cover, but we only have so much time...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I suppose I could power through a few of them, at least.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Let's see... John Dee and Edward Kelley collaborated in Europe to summon an angel in the 16th century.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Later, in the 19th century, the magician Éliphas Lévi summoned a spirit named Apollonius.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Following in his footsteps, to a degree, was Aleister Crowley, who summoned Aiwass, his own "guardian angel," in the 20th century.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}What else...? Some Neoplatonist traditions engage in the practice of theurgy, focused on summoning guiding spirits called demons.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}In Haitian Vodou, the oungans—male priests—can summon spirits called loa, of which there are said to be over a thousand.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}As for Japan...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}In an esoteric form of Buddhism called Vajrayana, there are rituals that effectively function as summoning spells.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}By performing one of these rituals, practitioners attempt to invoke Buddha within themselves for assistance in real-world actions, such as healing.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I could go on and on—there are countless examples of summoning magic in this world.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The point is, after studying summoning in its many different forms long enough, you begin to see a pattern.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Once magic circles, spells, and the like were established as necessary to summoning rituals, they grew more and more common, just as...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_064_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14806 0 0}{f 5 21 0 100}...But you should bear in mind: summoning isn't only used for deities and powerful beings. It can be used to invoke common spirits as well.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Take the séance, for example. Or the Ouija board.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Now, those rituals are comparatively easy to perform, and thus can be very tempting, but...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}As I've told you many times already, do not try this at home! It could very well result in... unpleasantness. Eeeheehee...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}All right, that's it for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_065_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15808 0 0}{f 5 21 0 100}Settle down, everyone! Just because we have a new student, that doesn't give you license to misbehave![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Anyone who doesn't pipe down now gets left out of the {f 0 1 2}school trip next week{f 0 1 27}! Got it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_066_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Good... Now, let's begin.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Where did we leave off last time...? Ah, forget it. I don't need the textbook for this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_067_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15813 0 0}{f 5 21 0 100}"Indeed, 'twas I who found the corpse..."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}That's it! I'm not going to say it again: be quiet! The students who actually want to pay attention can't hear![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}If you must gossip about Mochizuki-kun, wait until the break! Or just talk to him yourself, then![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_068_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14802 0 0}{f 5 21 0 100}Let's begin today's lecture, shall we? "Om avirahûmkham vajradhâtu vam"...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I'll be teaching today because... Well, maybe it's best that you don't know.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Anyway, I'm filling in last-minute, so I didn't have much time to come up with a lesson plan...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}The first thing that came to mind was a lecture on practical magic.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_069_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}How about we discuss some breathing techniques?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I know, some people would say breathing's anything but magic, but the two are actually closely linked.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}That's because breathing affects more than your body—it influences the mind as well.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The ancient Greek word for breath is "pneuma." It was a very important concept in the medical science of the day.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Later, Gnostic Christians used "pneuma" to refer to the human spirit—a concept separate from the soul.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}That was around the time when breathing techniques were recognized as being so crucial to successful magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}I could name all sorts of examples where this influence is felt today. Like yoga—breathing is an especially important factor there.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There's also the Shinto concept of "ibuki," meaning both "breath" and "inner strength," that is often incorporated into martial arts training.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}So, you can see how breathing techniques have spread throughout the world thanks to the power of magic.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}But, back to practical matters... Let me show you something called dantian breathing.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Some say Gautama Buddha himself practiced this method while on earth.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}It's a breathing exercise where you focus on a specific dantian, or energy center, in your body.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}So, the first step is simply focusing on the right dantian, as each person has multiple.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}For this exercise, focus on the lower one—it's about three finger-widths below the navel.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Why does such a seemingly random spot on the body receive such high regard, to the point of being specially named?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It's because the dantian is where the most energy can be charged within the body.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Once you start the exercise, you might notice that the energy you send there can't be felt elsewhere in the body...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}This is because the dantian absorbs your spiritual energy, further strengthening the body and mind.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Let's try doing some dantian breathing now.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}For first-timers, it's usually a good idea to place your hand in the proper spot. This helps to maintain focus.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Once you've pinpointed your dantian, you can begin the breathing process.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Imagine the air you pull in with your diaphragm is coalescing within the dantian...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Then, just as deliberately, exhale through the nose.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The goal with each breath is to channel energy into your dantian until you can feel it begin to harden—that's the point when you should exhale.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}And simply repeat this process as desired. That's all![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Oh! Except, one important note...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}If you're doing it correctly, there shouldn't be any pain.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}After all, when you boil it down, you're simply breathing in and out.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}That means, if it hurts, then there's likely some sort of mental thing going on instead. Something inhibiting your mind...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_070_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14816 0 0}{f 5 21 0 100}...So you see how breathing methods affect meditation, making it crucial to magicians.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Remember: it's very important to believe that you're doing more than just breathing.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}As a matter of fact, you can even improve your physical fitness with the right breathing techniques.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}And that leads, in turn, to the improvement of your psyche and your astral form.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}All right, that's it for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_071_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15002 0 0}{f 5 21 0 100}Ahem... {f 0 1 2}Tomorrow, you leave on your field trip{f 0 1 27}. Ah, Kyoto... Home of my heart.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Some teachers think you should be out visiting foreign countries, but I shut those ideas down every single year![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}It's shameful, the way we've lost our passion for our homeland![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_072_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Why don't we spend some time today learning about our country's innate beauty?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}I'm sure your other teachers haven't covered that at all, that's for sure...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}You all know that our national flower is the cherry blossom, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}However, back in the days of the Man-yoshu, if you were to ask someone what it was, they'd tell you it was the plum.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_073_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15017 0 0}{f 5 21 0 100}Anyway, so one day, my neighbor invited me over to her house...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}She fed me absolute gruel—I'll never forget the taste![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Well, I still tried to offer her something in return, but she only kept waving off my gift![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Humility is the true Japanese way! But not for you children today, no! You lot are nothing but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_074_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15805 0 0}{f 5 21 0 100}So, did you all enjoy the school trip? I sure didn't. I couldn't care less about shrines and temples...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Well, {f 0 1 2}career experience week starts Tuesday{f 0 1 27}. Just think of it as another boring field trip, for social studies.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 5 21 0 100}It's pretty tough out there in the real world. If you don't know what I mean, by the end of the week, you will.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Myself, though, I'm just happy I'll have the chance to relax...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_075_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Does anyone have any fond memories from the trip they'd like to share with the class?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}...C'mon now, don't turn away from me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_076_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15834 0 0}{f 5 21 0 100}...So, my idea for the school trip was Guam.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}But none of the other teachers agreed. In fact, they all had their own ideas.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Mr. Ekoda stumped for Kyoto, like always. Mr. Ono wanted to go, um... somewhere northeast of Japan. I'm still not sure why...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Ms. Ounishi suggested a hot spring, and Mr. Takenozuka wanted to ride the Maglev Train.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Mrs. Terauchi didn't care where we went, as long as she could bring her husband. Man, is she annoying![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}What we need is someone to unite the rest of the staff against a certain someone. Then we can finally fight back against this annual Kyoto slog...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_077_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15202 0 0}{f 5 21 0 100}{f 0 1 2}Exams start next Monday{f 0 1 27}, so today, I'll be covering some of the more historically significant years.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_078_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}645 was the Taika Reform. 710 was when the Heijo-Kyo was established...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}794 was when the Heian-Kyo was established... Eh, I'm gonna skip ahead a few hundred years now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_079_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15218 0 0}{f 5 21 0 100}1185 was the Battle of Dan-no-ura, and 1192's when the Kamakura shogunate was established.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Ooh, we're real close to the age of the samurai now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_080_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15602 0 0}{f 5 21 0 100}We're a little ahead of schedule, so let's do some review.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_081_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}When you see "electromagnetism," Lorentz Force and Fleming's left-hand rule should come to mind right away.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}I won't give partial credit if you write "right-hand rule," got it? Okay, moving on...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_082_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15621 0 0}{f 5 21 0 100}Sorry, what was that again?[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}"The Law of Happiness Without Hard Work"?[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}*sigh* Do you really think I'll give you credit for calling some goofy wish a law? I'm clearing the blackboard now—hurry up and write![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_083_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16221 0 0}{f 5 21 0 100}Today is December 24th. Christmas Eve... An important day in Europe and America.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Although unlike in Japan, December 25th—Christmas Day—is even more important.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_084_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Do you all know why we celebrate the holiday in the first place?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}In Japan, Christmas Eve is just a day for couples to spend time together and give gifts...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_085_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16206 0 0}{f 5 21 0 100}And then, beneath the largest, most beautiful fir, we made a vow to love each other, unconditionally, forever and ever...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}The twinkling lights from the trees danced upon our faces as we gazed into each other's eyes... So romantic...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_086_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15845 0 0}{f 5 21 0 100}Winter break starts tomorrow, though I'm sure most of you are just going to sleep in on New Year's, instead of actually doing anything.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}You should start the year by doing more for your parents. And don't pass out in your kotatsu staying up late, okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_087_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Speaking of kotatsu, I'm reminded of a passage from a famous novel. "The shutters of the east window..."[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Oh, wait, that was a futon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_088_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 3 0 -1 15829 0 0}{f 5 21 0 100}All right, that's enough out of you smart-mouths! A futon is practically the same thing as a kotatsu![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}You're enjoying this, aren't you...?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}Look, all my point was, if you're not careful when you sleep in a kotatsu, you could get burned! Okay!? Now, that's the end of it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_089_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 3 1 3 0 -1 16014 0 0}{f 5 21 0 100}Whew, it's cold... I wish I could get my skin plated.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Then I'd shine as bright as the sun![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MSG_090_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}You know what I mean by plating, right? It's when objects are covered in a thin, metallic layer.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Tin plating is done by plating iron with tin. For corrugated, galvanized iron, you plate iron with zinc.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Gold medals, by the way, are created by plating silver with gold...[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}So technically, Olympic athletes don't win gold medals.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Kind of a bummer, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_091_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 3 1 3 0 -1 16005 0 0}{f 5 21 0 100}The night sky is awfully beautiful these days, thanks to the air being so clear.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Stars produce light via nuclear fusion, and the planets reflect that light back out into the universe.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Of course, neither celestial body is superior to the other—they both have their purposes.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}Life is the same way... Though it might be hard for you kids to understand that now.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}By the way, have you heard the news going around? The media makes it sound supernatural in origin...[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}But don't listen to all that.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1582 0 -1 -1 0 0}{f 5 21 0 100}These sorts of wild rumors spread every now and then, like a drop of dye on a specimen. It'll all die down soon enough.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_092_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15218 0 0}{f 5 21 0 100}*sob* Finally, on September 24th, the Satsuma Rebellion ended...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}This marked the end... *sniff* The end of the age... of the samurai![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}You know what? I'm blowing off the next chapter. I wanna go back to the Sengoku era. There's so much more to cover...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_093_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}What? You want me to teach you modern history, too?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}You guys are still in your second year! You'll have plenty of time to learn that crap when you're third-years![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}People out there might be talking about the end of the world, but believe you me, there'll always be another school year.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}I mean, come on! Has no one been paying attention? Look at all the stuff our country's survived so far![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_094_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}All right, so let's review what we've learned, starting with the Kamakura era.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}How did the Kamakura shogunate come about? Let me tell you...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_095_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15408 0 0}{f 5 21 0 100}It's been getting restless out there, huh? Have you seen all those flyers at the station?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}None of that stuff has any substance, though. You can tell there's no certainty in what they say.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_096_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}That's right—it's a matter of probability! Hey, don't give me those looks.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}The end of the world... Let's discuss the odds.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_097_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15416 0 0}{f 5 21 0 100}So as you can see, it's impossible to irrefutably prove that the end of the world is nigh.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}That means there's no reason to worry about it! Instead, take a good look at the elegance of this proof...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Numbers are truth, and truth is beauty! Even if the world ends, numbers will remain.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Even if humans vanish, taking mathematics with them, the concept of numbers won't disappear.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Numbers will outlast humanity, I guarantee it. So fascinating![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_098_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16203 0 0}{f 5 21 0 100}Wow, we've already reached the last chapter. We were really efficient, thanks to all your diligence![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_099_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}So, my last day teaching here is coming up all too soon... I'll be moving to India in the spring.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}My darling came to Japan as a missionary, but he told me he just can't take life in this country anymore.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}"Too many mysterious incidents," he said. Don't get me wrong, though—I love Japan![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Before I forget, I'd like to thank each of you for being such wonderful students.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_100_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16211 0 0}{f 5 21 0 100}Thank you, Yukari. Thank you, {f 4 2}.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Thank you, Junpei. And you too, Kenji.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Thank you... *sniffle*[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}*sob*[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Heh, I don't know what's come over me! I still have a month left here...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}But... thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MSG_101_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15809 0 0}{f 5 21 0 100}Well, today is the last composition class for January.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}As they say, January walks, and February runs—it'll be a whole new year in a flash.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MSG_102_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}But before that, we've got our final exams, so don't relax just yet![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Anyway, just look at me—I manage to come to school every day, so you can too.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Even though if I had the choice, I'd have slept in at home... Too many scary people around town lately.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_103_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15814 0 0}{f 5 21 0 100}Those Apathy Syndrome rumors have been all over TV lately. Same with those cult members...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}How did things end up like this? Well, yesterday, I heard something intriguing...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Someone on TV called it a disease born out of the times, where the darkness in someone's heart completely takes over.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}They said it's inevitable in a hopeless society like ours—that its victims are really the victims of society at large.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}But I think that's wrong. Everyone may have darkness in their hearts, but they fight it, right?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I admit, hope isn't something you come across so easily in our society...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}But that hardly gives them license to give up! They should be able to stand on their own two feet![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Anyway, that's my take on the matter.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I hope you were paying attention, class. Something profound like that is bound to show up on the final exam.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

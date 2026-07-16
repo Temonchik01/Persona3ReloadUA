@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_112_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_112_060_C\BMD_Event_Cmmu_112_060_C.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="42 65 62 65">Bebe</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ngh... It is hopeless. I cannot focus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I have barely sewn anything at all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's wrong?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why not take a break?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I just keep thinking about my uncle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}How can I convince him to let me stay here?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Maybe if I became a samurai, I could stand up to him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 13 15 5 112}As a matter of fact, yes, that is a good idea. Katajikenai![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I just... I keep thinking about my uncle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}How can I convince him to let me stay here?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Maybe if I became a samurai, I could stand up to him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}...Oh![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 1 25 25}Maybe if we go have ourselves a sweet snack, I can come up with a plan![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 0 25 25}Will you go to Azuki Arai with moi?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just one minute...]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 5 13 15 5 112}Then to Azuki Arai we go![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 15 5 112}Ohh, sugoi! You want to finish your sewing first?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 0 25 25}You have so much discipline... You are just like a real samurai![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}I cannot fall behind my rival! First we work, then we go![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

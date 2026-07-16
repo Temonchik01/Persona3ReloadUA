@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_112_370_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_112_370_C\BMD_Event_Cmmu_112_370_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="42 65 62 65">Bebe</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11899 0 0}So delicious! Ah, this must be true bliss![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 2 -1 -1 0 0}Still, I cannot help but feel anxious...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 2 -1 -1 0 0}{f 3 1 3 0 -1 11867 0 0}Perhaps this is not the time to obsess over food.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 2 -1 -1 0 0}I must hurry and complete the kimono.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Go finish it now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Patience.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just relax.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 2 -1 -1 0 0}{f 3 1 3 0 -1 11904 0 0}I do not have a sewing machine at my house! I must endure until we are able to return to school![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 2 -1 -1 0 0}A true samurai must persevere through whatever life may throw at them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bebe looks anxious.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we didn't get any closer today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11839 0 0}{f 5 13 15 15 112}You are right! A true samurai must persevere through whatever life may throw at them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bebe seems motivated...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I learned a little more about him today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 4 -1 -1 0 0}{f 3 1 3 0 -1 11801 0 0}"Relax," you say!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 4 23 0 112 1 25 25}{f 5 13 15 30 112}...Yes, of course, of course! Rushing will not help! I must keep my composure and relax![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bebe seems very motivated...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we became a lot closer today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11900 0 0}That reminds me... There is a wise Japanese proverb for this very occasion.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}You cannot fight on an empty stomach! So now I eat, and eat I shall![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After enjoying a meal together,[n]I headed back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

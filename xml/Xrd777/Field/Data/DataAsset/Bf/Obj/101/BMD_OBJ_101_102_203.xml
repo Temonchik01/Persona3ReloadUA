@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_101_102_203.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\101\BMD_OBJ_101_102_203.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 74 75 64 65 6E 74 73 27 20 56 6F 69 63 65 73">Students' Voices</Speaker>
+    <Speaker id="1" rawBytes="53 74 75 64 65 6E 74">Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's the PA room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are microphones, headphones,[n]and some unfamiliar devices...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I wonder if the songs that are played[n]during lunch breaks are the broadcast[n]committee's personal favorites...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems announcements and student[n]summons are broadcasted from here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can hear bizarre music playing inside...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}What the heck is this song!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}..."Gekkoukan Boogie"?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Why does the school have music like this...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...Must be a teacher's theme song or something that plays when they enter a classroom![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}No way, man! That's crazy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I try entering the PA room?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Sorry, you have to have permission to be in—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Huh? This song? I have no idea what it's for, but it says "Gekkoukan Boogie" on it.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}What? You want it? ...Are you serious!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Sure, you can have it. We don't have any use for it, anyway... Here.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Now get out of here before you get me in trouble.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I obtained the {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldKeyFreeAnnounce_Day_Evening.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Schedule\Data\DataAsset\Bf\KeyFreeAnnounce\BMD_FldKeyFreeAnnounce_Day_Evening.uasset" dialogs="70">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Female Student's Voice</Speaker>
+    <Speaker id="1" rawBytes="56 6F 69 63 65 20 6F 6E 20 74 68 65 20 54 56">Voice on the TV</Speaker>
+    <Speaker id="2" rawBytes="4D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Male Student's Voice</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_AfterSchool_General" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Class has ended for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_AfterSchool_Test_End" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've finished today's exams.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_AfterSchool_No_0408" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_1ST_TERM_END_0725" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today marks the end of the first term.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Summer break begins tomorrow.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_2ST_TERM_END_1226" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today marks the end of the second term.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Winter break begins tomorrow.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_FULLMOON_0509" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There will be a full moon tonight. It is[n]the day I was forewarned about...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I wonder if something will happen...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should probably head back[n]to the dorm, just in case.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_FULLMOON_0707" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There will be a full moon tonight.[n]A powerful Shadow may appear.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should return to the[n]dorm and prepare myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_FULLMOON_0905" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There will be a full moon tonight.[n]A powerful Shadow will appear.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should return to the[n]dorm and prepare myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_INFO_0427" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru has left the classroom...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems I can join the student council if I[n]submit some paperwork at the faculty office.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head to the faculty office[n]when I have some free time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_INFO_0513" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The library is open for students to study in.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It might be worth taking advantage[n]of it ahead of next week's exams.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_INFO_0514" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the teacher in the nurse's[n]office gives out strange medicine.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should check it out sometime...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_Call_GoToHOME_0420" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems that something important[n]will be happening at the dorm...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back early.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_Call_Sanada_0902" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}That's right, I received a message from[n]Sanada earlier asking to meet after school.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go meet up with him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_Strega_0814" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go to Tatsumi Memorial[n]Hospital for my checkup.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_Storm_Coming_0918" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The clouds look ominous...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_SportsClub_Join_0423" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the track team is[n]recruiting new members.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I can find where they practice, maybe[n]I could see about possibly joining the team.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_UsedBookstoreOPEN_04" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the bookstore at[n]the strip mall is reopening today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_MAIKOisShrine_0506" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, there is a lonely[n]little girl at the shrine...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should check up on[n]her to see if she's okay...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_CultureClub_Join_061" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the art club[n]is recruiting new members.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I might be able to learn more about[n]them if I visit their club room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_RYOJI_LINK3_1201" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Oh yeah, I got a message from Ryoji.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looked like he wasn't at school today.[n]Maybe something urgent came up...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_ToVelvetRoom_0430" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, Elizabeth mentioned she[n]had something important to discuss with me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head to the Velvet Room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_ToVelvetRoom_0618" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, Elizabeth mentioned she[n]had something important to discuss with me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head to the Velvet Room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_Missing_0708_only" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know that person who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Kinda spooky, isn't it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_Missing_0708_some" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know those people who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Multiple missing people found with Apathy Syndrome... Think it's just a coincidence?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_Missing_0807" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}...And now to more disturbing news. A missing resident was found, but with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}The victim displayed no signs of external trauma, and police have ruled out the possibility that this was the cause of a criminal incident.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_Missing_0907_only" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know that person who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Kinda unnerving, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_Missing_0907_some" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know those people who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Kinda creepy, don'tcha think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_Missing_1006_BNKC_on" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I was wondering why I haven't seen that old man at the bookstore lately. So, he went missing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Turns out he got Apathy Syndrome. I guess he is getting up there in years...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_Missing_1006_BNKC_so" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I was wondering why I haven't seen that old man at the bookstore lately. So, he went missing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apparently, they still haven't found him... Isn't that scary?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_Missing_1006_some" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know those people who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Kinda spooky, isn't it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_Missing_1006_only" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know that person who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Kinda spooky, isn't it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_Missing_1106_MAIKO_o" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Hey, did you see the news? That grade-schooler is still missing...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}I hadn't heard that yet. That's kinda scary...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_Missing_1106_MAIKO_s" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Hey, I heard those missing people still haven't been found.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Apparently, one of them was a grade-schooler. What is the world coming to...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_Missing_1106_some" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know those people who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Kinda unnerving, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_Missing_1106_only" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know that person who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Kinda unnerving, huh?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_Missing_1204_only" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know that person who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}There've been a lot of Apathy Syndrome cases lately, haven't there?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_Missing_1204_some" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Hey, you know those people who went missing? I heard they were found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Apathy Syndrome cases have been going through the roof lately, haven't they?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_Missing_1231" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}...Now to another missing person report. A missing woman was found with Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}The victim displayed no signs of external trauma, and police have ruled out the possibility that this was the cause of a criminal incident.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_Missing_0131" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Now an update on the recent disappearances. We can confirm that at least one of those located were found to have Apathy Syndrome.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Our reporter on the scene says police are investigating a lead on a recent cult gathering...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MND_HolidayNoon_0504" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is Greenery Day, the[n]second day of Golden Week.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MND_HolidayNoon_0505" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is Children's Day, the[n]last day of Golden Week.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_HolidayNoon_0510" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Oh, {f 4 1}. Were you able to get some rest after last night?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I apologize for the trouble, but I'm counting on you. And don't worry, Akihiko will be rejoining the front lines soon enough as well.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}That aside, don't forget that exams are coming up, so why don't you take today to relax a little?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MND_HolidayNoon_0719" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The post-exam break begins today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MND_HolidayNoon_0803" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Summer vacation continues...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MND_HolidayNoon_0820" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Summer vacation is starting to wind down...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MND_HolidayNoon_0824" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The film festival only[n]runs for one more week.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should invite someone[n]from the dorm to go with me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MND_HolidayNoon_0825_083" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Summer vacation will be over soon...[n]The film festival is almost over, too.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should invite someone[n]from the dorm to go with me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MND_HolidayNoon_0831" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is the last day of summer vacation,[n]and the film festival ends today as well.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should invite someone[n]from the dorm to go with me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MND_HolidayNoon_0922" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is a national holiday. There's no school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MND_HolidayNoon_0923" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is the autumnal equinox.[n]There's no school.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a one-day film festival today.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should invite someone[n]from the dorm to go with me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MND_HolidayNoon_1012" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is Health and Sports[n]Day. There's no school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MND_HolidayNoon_1123" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is Labor Thanksgiving[n]Day. There's no school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MND_HolidayNoon_1223" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is the Emperor's birthday.[n]There's no school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MND_HolidayNoon_0104" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Winter vacation is almost over...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MND_HolidayNoon_0107" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is the last day of winter vacation...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MND_HolidayNoon_0111" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today is Coming of Age[n]Day. There's no school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MND_HolidayNoon_testweek" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Exams are coming up...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MND_HolidayNoon_General" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's no school today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MND_Mail_Order_Today" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's almost time for the home shopping show.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_Mail_Order_0807_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Today, we're sprucing things up with a summer-only Amazing Commodities Monday special![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MND_Mail_Order_0807_02" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a colorful voice[n]coming from the TV...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MND_0102_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The news is on...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_0102_1" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}It was reportedly a gathering organized by a new religious group. Police are working to confirm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MND_SHYUKAKU_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, the crops I planted on the[n]rooftop should be ready to harvest by now...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should go check on them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MND_SHYUKAKU_TAIYAKI_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, the crops I planted on the[n]rooftop should be ready to harvest by now...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...And the taiyaki I put in the[n]fridge should be chilled, too.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should go check on them...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MND_SHYUKAKU_TAIYAKI_OK_" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, the crops I planted on the[n]rooftop should be ready to harvest by now...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...And the taiyaki I put in the[n]fridge should be chilled, too.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should get it from the fridge[n]and give it to Elizabeth...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MND_TAIYAKI_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, the taiyaki I put in[n]the fridge should be chilled by now...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should go get it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MND_TAIYAKI_OK_QUEST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, the taiyaki I put in[n]the fridge should be chilled by now...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should get it from the fridge[n]and give it to Elizabeth...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MND_XB_6630_RYOJI_LE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ryoji is acting weird... I should[n]head to the {f 0 1 2}music room{f 0 1 27} later.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_108_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}（※仮テキスト）[n]{f 1 5 0}失踪者解禁イベントが本来発生します。[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}現在イベントがまだないので今回は仮処理で[n]{f 1 5 0}ポロニアンモールに移動します。[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

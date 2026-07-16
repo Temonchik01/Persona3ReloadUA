@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_221_013_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_221_013_C\BMD_Event_Cmmu_221_013_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+    <Speaker id="1" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 5 21 0 2}Go ahead and take that home with you. That should just about do it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}Thanks. Guess I'm done here, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}See you tomorrow, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 21 0 2}Ahh, sorry, hold on...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 21 0 2}Could you two take these boxes over to the music room?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why me?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}All of them?]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 4 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 21 0 2}Why...? Well, you happened to be around...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 5 21 0 2}I think the boxes are packed full of sheet music. They're really heavy, so be careful not to hurt yourselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 21 0 2}Yes. You know where the music room is, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 21 0 2}I think the boxes are full of sheet music. They're really heavy, so be careful not to hurt yourselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}I signed for these packages on behalf of the music club, but I can't keep them here forever...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 5 21 0 2}That damn Ekoda— I mean, Mr. Ekoda has been talking my ear off, nagging me to get them out of here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 0 25 25}C'mon, we can't let the poor teacher carry all that herself. Let's help her out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 5 21 0 2}Ooh, now that's what I like to hear, Mochizuki-kun![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 21 0 2}Why don't I bump both your Composition grades up a little? Joking, of course.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 0 25 25}I wouldn't mind handling this by myself, but I did just transfer here...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 221 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 0 25 25}Do you think you could show me the way to the music room?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

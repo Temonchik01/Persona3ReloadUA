@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Main_180_140_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_180_140_B\BMD_Event_Main_180_140_B.uasset" dialogs="14">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 61 6B 61 79 61">Takaya</Speaker>
+    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="2" rawBytes="4A 69 6E">Jin</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The final battle is here at last...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But first, there are two powerful[n]adversaries we have to confront.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}At the south end of the Moonlight Bridge...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 0 0 0 1 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I trust you know what is at stake today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}You claim you hunt the Shadows to prevent the disaster they bring...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Yet, countless lives are lost each day, even without their intervention.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 52 -1 0 0}{f 3 1 0 0 0 5 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}The ability to use a Persona is not in itself evil... You have no reason to forsake it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}So, why not just admit it? You do not truly wish to eliminate the Dark Hour...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}You are merely deceiving yourselves in the pursuit of self-satisfaction...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're wrong.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Who cares?]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I don't think you truly believe that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Who cares?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Refusing to answer is akin to turning your back on the truth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}You are foolish children indeed...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Erasing the Dark Hour is the same as erasing yourselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}How can you not even conceive such a thought? Your imprudence is truly beyond comprehension.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}As I believed, our goals are irreconcilable.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}It's time, Jin.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}What a buncha fools. I can't stand to look at ya.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Fate shall decide which of us will remain.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}...Come then.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

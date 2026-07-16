@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_003_717_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_003_717_C\BMD_Event_Cmmu_003_717_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Man, our hero took an underdog baseball team that didn't even have enough players all the way to nationals.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}No matter how tough the rival or desperate the situation, the hero always ends up findin' a way.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Hey, we're technically a team too, aren't we? Means we need a hotshot of our own, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're onto something.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}We're all hotshots.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You read too much manga.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Haha, don't sweat it. We've already got ourselves a major hotshot—me![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Everyone else has got their own strengths, kinda like the characters in a manga.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Haha, sounds an awful lot like hero talk to me. Share some of that glory, why don't ya?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 3 0 25 25}Hotshot or not, the others've got so much personality, kinda like the characters in a manga.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Oh yeah? That not realistic enough for ya?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}But don't ya think Sanada-san and Kirijo-senpai have way more personality than any manga character?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Either way, kinda blows that real life can't be like how it is in a manga.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 3 0 25 25}Anywho, on to the next page.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Oh yeah, that's right. Just before the big game, the hero collapses![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}All after gettin' everyone together, trainin' like crazy, becomin' a hotshot hitter, and carryin' the whole team all by himself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The young hero's dedication[n]filled me with {f 4 30 2 1 1 0}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Dyin' to know what happens next, huh? Then I'll borrow the rest of the volumes from my buddy, pronto![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

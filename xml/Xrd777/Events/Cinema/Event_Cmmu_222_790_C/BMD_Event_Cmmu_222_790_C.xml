@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_222_790_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_222_790_C\BMD_Event_Cmmu_222_790_C.uasset" dialogs="16">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 61 6D 65 72 61 20 46 6F 6F 74 61 67 65">Camera Footage</Speaker>
+    <Speaker id="1" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Shuji Ikutsuki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...＞ ...＞[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}05/10/2009 01:23:02[n]Starting playback...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's the command room. Ikutsuki[n]is alone, writing something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 1 0 0}Hm... A Shadow in the middle of town... It managed to take over public transportation.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 222 1 25 25}I should investigate whether this means it's finally begun...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 222 0 25 25}The monorail...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_7_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 222 1 25 25}I bet this subject would make a good "one-liner"...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 5 0 0}Hehe... Ahahahaha![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 6 0 0}Oh, I need to note that one down...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 7 0 0}Unfortunately, lady luck played a large part in our victory...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 8 0 0}Especially toward the end. If he hadn't guessed at the right controls, things could have been very bad.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 9 0 0}For Shadows to work in a group to overrun large machines is unprecedented.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 10 0 0}The engine...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_004_4_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 222 1 25 25}That was an engine-ious move![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_004_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 12 0 0}Ahahaha! What is it with me today!? I'm on a roll![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 13 0 0}Ah, better write that one down too...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 2 -1 10 0 0}{f 3 1 1 0 0 14 0 0}Always be prepared for heavy lifting during a mission...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_005_2_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 2 -1 10 0 0}{f 3 1 1 0 0 15 0 0}Because Shadows aren't light![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 0 0 0 16 0 0}{f 4 23 0 222 0 25 25}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_005_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 17 0 0}Whoa, I'm getting a little off-subject... But who cares!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 222 0 25 25}Hey... I should write all these down and show them off the next time everyone gets together![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_005_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 2 -1 10 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 222 2 25 25}"Don't care for seafood? They also serve GROUND beef!"[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_005_7_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 1 -1 10 0 0}{f 3 1 1 0 0 20 0 0}Hehe... Ahahaha! This has nothing to do with the status report anymore, but I'm having a blast![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 10 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 222 0 25 25}Let's see, what else...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The recording ends here...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

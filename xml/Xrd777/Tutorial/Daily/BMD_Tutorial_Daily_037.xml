@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Daily_037.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Daily\BMD_Tutorial_Daily_037.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 6F 72 74 75 6E 65 20 54 65 6C 6C 69 6E 67">Fortune Telling</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Speak to the fortune-teller at Club Escapade to learn your future. A positive reading will affect the next journey you make into Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The results of a fortune {f 0 1 2}will only last for the day you receive the fortune{f 0 1 27}. You have a limited number of readings available to you in a given month which resets each full moon.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}The fortune-teller will not be able to predict your future on nights when the moon is full, so you will have to plan your visits around the phase of the moon.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

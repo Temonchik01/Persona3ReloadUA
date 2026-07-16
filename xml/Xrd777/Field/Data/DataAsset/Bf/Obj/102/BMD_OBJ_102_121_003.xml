@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_102_121_003.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_121_003.uasset" dialogs="18">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I go to sleep early today...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Go to bed]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not yet]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sleep]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't sleep yet]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I have plans tonight.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I take a nap until then...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nap until nighttime]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't nap]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I have a very important task tonight...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I take a nap until then?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There is no school today.[n]Should I take a nap...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Take a nap]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't nap]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I go to bed already...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}School starts tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go to sleep early so I'm[n]ready for the first day of school...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_0407_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go to bed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_0417_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should rest for today...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_CLOSET_0406" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should probably go to sleep early today.[n]But I should put my stuff away first...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should put my stuff away in the closet...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today's the Promised Day...[n]I should head to Tartarus...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'm feeling terribly chilly...[n]I may have caught a cold...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't think I can stay awake any longer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I was told to go to the fourth floor today...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

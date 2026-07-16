@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Battle_024.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Battle\BMD_Tutorial_Battle_024.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 68 65 75 72 67 79 20 47 61 75 67 65">Theurgy Gauge</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 27}Your Theurgy gauge will increase throughout battle whenever you attack or summon a Persona.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 28}How much the Theurgy gauge increases will vary from ally to ally. {f 0 1 2}Acting according to a party member's personality{f 0 1 27} will cause their Theurgy gauge to increase significantly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Fuuka also has a Theurgy gauge. Once it's maxed, you will be able to activate her Theurgy during a party member's turn.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Be warned that a combatant's gauge will be disabled while afflicted with a status ailment, and {f 0 1 2}if an ally is KO'd, their gauge will drop by half{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

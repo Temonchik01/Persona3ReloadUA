@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_110_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_110_040_C\BMD_Event_Cmmu_110_040_C.uasset" dialogs="10">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 69 6B 6F">Maiko</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}So, you know how it was my birthday the other day?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 110 1 25 25}Well, guess what! Mom and Dad both remembered![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}They really do care about me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's great news.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course they care.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nah, they don't care.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 13 13 15 110}Yeah! They were smiling and happy and everything![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 13 15 110}Yeah, you're right![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Hey! That's not true![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I got so many presents! I even got a birthday cake![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 110 0 25 25}It's been so long since we ate together as a family.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 110 2 25 25}We used to do it all the time...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 2 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}How come Mom and Dad don't get along anymore?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I know! I'll just ask them why![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}If I know why, I can fix it and make it all better![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}I'm gonna make Mom and Dad happy again![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 110 1 25 25}Wish me luck, okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maiko seems fond of me...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're growing closer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Okay... I'm gonna ask them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 110 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 110 1 25 25}Bye-bye! Let's play again later, okay?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After saying goodbye to Maiko,[n]I headed back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

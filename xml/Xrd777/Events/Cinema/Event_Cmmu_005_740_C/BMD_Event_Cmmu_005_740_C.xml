@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_005_740_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_005_740_C\BMD_Event_Cmmu_005_740_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 1 0 0}Today, I'd like to make a snack food that would pair well with tea.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 1 25 25}That said, I'm not terribly well-versed in the art of cuisine.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 0 25 25}So, I'm hoping to make some simple karume-yaki. Did your teachers ever show you how to make it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I think so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't remember.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Karume-what?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 4 0 0}Excellent. Then I don't need to explain.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 5 0 0}All right, let's get started.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 6 0 0}Well, you take baking soda—also known as sodium bicarbonate—and when it undergoes thermal decomposition...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 7 0 0}Actually, it would be faster to show you while we work. Let's get started.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 8 0 0}Karume-yaki is a confectionary that was passed down from Portugal during the Sengoku period.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 9 0 0}"Karume" derives from the Portuguese word "caramelo," or "caramel" in English...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 1 25 25}Well, it might be faster if you just see for yourself. Let's get started.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 11 0 0}Temperature control is key. We want to turn off the heat right before it hits 130 degrees Celsius...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 159 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 4 25 25}Oh, we should keep things moving. Let's put the sugar in the ladle first...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I cooked karume-yaki with Mitsuru.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 13 0 0}What a nostalgic flavor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 0 25 25}It may not require hours in the kitchen, and the taste isn't particularly complex...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 15 0 0}But I'm quite fond of these. And more than anything, it's nice that we can make it ourselves.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 16 0 0}You know... when I saw this for the first time, I thought it was like magic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 17 0 0}I've tried making it myself a number of times, but I ended up burning it on every attempt.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 1 1 25 25}I guess you could call it a bittersweet memory. But I didn't give up—I continued practicing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 19 0 0}And that's finally led to our success today. What do you think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's so inspiring.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not much of a cook?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 5 13 4 1 5}Hearing you say that makes me glad to have shared it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 159 -1 0 0}{f 3 1 1 0 0 21 0 0}You didn't know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 1 0 25 25}{f 5 13 4 1 5}In any case, now that I've grasped how to do it, I won't forget so easily.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 23 0 0}Back home, there were plenty of opportunities to host formal dinners and tea parties...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 24 0 0}But I never considered it particularly admirable to have someone else prepare the extravagant dishes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 25 0 0}Doing the cooking myself also allows me to talk with you like this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 26 0 0}{f 4 23 0 1 1 25 25}And isn't that sort of familiarity the key to understanding each other better?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 159 -1 0 0}{f 3 1 1 0 0 27 0 0}I think... this might have been what I was missing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 0 25 25}Instead of complaining about being difficult to approach, I needed to create an opportunity for change.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_012_3_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By cooking this nostalgic dish,[n]Mitsuru seems to have learned[n]something new about herself...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_012_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 29 0 0}It's fascinating, the kind of things you learn by simply inviting someone over for tea.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 1 0 25 25}Thank you, {f 4 1}. I hope we can talk again like this sometime.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 31 0 0}Oh, right. I had a favor to ask.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 159 -1 0 0}{f 3 1 1 0 0 32 0 0}There's still some sugar and baking soda left. Do you think you could help me make another batch?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 159 -1 0 0}{f 3 1 1 0 0 33 0 0}{f 4 23 0 1 1 25 25}Karume-yaki keeps for a long time. This could be a good chance to make some for the others.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After making karume-yaki with[n]Mitsuru, I went back to my room.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

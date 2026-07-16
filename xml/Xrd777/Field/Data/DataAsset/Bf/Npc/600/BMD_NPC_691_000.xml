@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_NPC_691_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\600\BMD_NPC_691_000.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 69 65 72 63 65 20 47 75 79">Fierce Guy</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 691}I rented a car because I heard you could drive along the coast, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 691}You can't really see the ocean from the road... Well, it's fine, 'cause my girlfriend had fun anyway.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 691}...Hey, you. You aren't checking out my girlfriend, are you?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

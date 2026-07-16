@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Scr_Event_Fild_518_033_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_518_033_C\Script\BMD_Scr_Event_Fild_518_033_C.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message" />
+  <Dialog id="1" name="SYS_000_0_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 0}A rare treasure chest lies beyond the door. Taking the parts and gems to the antique shop can grant you an advantage when traversing Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SYS_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 0}With the energy released from the Monad door, you have now obtained the map information of the current floor and the floor above.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SYS_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 0}With the energy released from the Monad door, you have now obtained the map information of the current floor.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

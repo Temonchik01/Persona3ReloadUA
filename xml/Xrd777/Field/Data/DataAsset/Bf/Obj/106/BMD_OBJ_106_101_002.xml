@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_OBJ_106_101_002.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\106\BMD_OBJ_106_101_002.uasset" dialogs="37">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 56 6F 69 63 65">Mysterious Voice</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The sign says, "The fortune[n]box is undergoing repairs."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The sign says, "Relationship[n]Fortune - 100 yen"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...But they're out of tickets for today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The sign says, "Relationship[n]Fortune - 100 yen"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend the day here[n]and draw a fortune...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Draw fortune]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check what can be done here]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't draw]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have 100 yen...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's no one who I feel I[n]can deepen my bond with...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I hear a divine message...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Blessings to the believer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today's luck is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fortune says, "You will have fair luck."[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Money may also be in your future."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I found a crumpled up[n]1,000-yen bill in my pocket![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fortune says, "You[n]will have a little luck."[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"You will not be significantly[n]lucky or unlucky with money."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I found a 500-yen coin in my pocket![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fortune says, "You will have bad luck."[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Be careful with your money."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What happened to all my money...!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hey... 1,000 yen just fell out[n]of my pocket and blew away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fortune says, "You will have great luck!"[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"You will have no financial worries."[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a {f 4 4 1 37 1 0}[n]inside the fortune ticket![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I obtained a {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I found a crumpled up[n]10,000-yen bill in my pocket![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fortune says, "You will[n]have the very worst luck..."[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"You are headed towards financial disaster."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hey... 5,000 yen just fell out[n]of my pocket and blew away![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've drawn my fortune. I hope[n]I can deepen my bond...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I suddenly feel closer to {f 2 4 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_061_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I suddenly feel closer to the monk...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_070_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I suddenly feel closer to[n]Bunkichi-san and Mitsuko-san...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_023_1_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fortune[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="SEL_024_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari Takeba{f 4 27 2 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka Yamagishi{f 4 27 6 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru Kirijo{f 4 27 5 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis{f 4 27 7 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Team Manager{f 4 27 106 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Treasurer{f 4 27 109 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Classmate{f 4 27 101 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Student Council{f 4 27 102 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Track Team{f 4 27 105 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Art Club{f 4 27 108 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Transfer Student{f 4 27 112 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Old Couple{f 4 27 103 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Rival Athlete{f 4 27 115 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Girl at the Shrine{f 4 27 110 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Dying Young Man{f 4 27 117 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Gourmet King{f 4 27 116 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Businessman{f 4 27 113 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Unusual Monk{f 4 27 114 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Online Game{f 4 27 107 0}]]></Option>
+  </Dialog>
+  <Dialog id="28" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't think there's much[n]reason to draw this fortune...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MND_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting late... I should[n]head back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll think of {f 2 4 0}[n]as I draw a fortune...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MND_060_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll think of the monk as I draw a fortune...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_068_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I'll think of Bunkichi-san and[n]Mitsuko-san as I draw a fortune...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="SEL_028_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Draw fortune]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't]]></Option>
+  </Dialog>
+  <Dialog id="34" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with[n]{f 2 4 0} has grown stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MND_064_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with[n]the monk has grown stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MND_066_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with Bunkichi-san[n]and Mitsuko-san has grown stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

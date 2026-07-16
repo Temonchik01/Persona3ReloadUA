@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_NPC_002_500.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_002_500.uasset" dialogs="72">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_Temperance" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Right now, the Temperance Arcana[n]may help me grow even more...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5001 0 0}Um... Do you like to read books, {f 4 1}-kun?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}You see... there's this near-future sci-fi series that was popular a while back.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I found it at a used bookstore and bought the whole series, but it's been sitting on my shelf for a long time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}I only started reading it after moving into the dorm, and it's really interesting.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading sci-fi novels with Fuuka could[n]help with my {f 4 30 0 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5001 0 0}If you're interested, would you like to read the first book?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5067 0 0}Do you want to continue reading that sci-fi series together?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Um, if you're not too busy, I mean.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading sci-fi novels with Fuuka could[n]help with my {f 4 30 0 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Wh-What do you think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5074 0 0}{f 4 1}-kun, you're almost done reading that sci-fi series, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}Um... Do you want to read together today?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems like Fuuka is looking[n]forward to hanging out.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading sci-fi novels with Fuuka could[n]help with my {f 4 30 0 1 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka might gain a new ability soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5096 0 0}I was hoping we could have a little discussion after you've finished reading it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5075 0 0}Actually, I brought more books from my home...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Fuuka will gain any[n]more new skills even if we read together.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But reading sci-fi novels with her could[n]help with my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Wh-What do you think? Do you want to read more books together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5117 0 0}Glad to hear it! Okay, I'll go get them from my room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 3 0 -1 5053 0 0}Oh... You're probably busy, right? Sorry to bother you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Um... Do you still want to read together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Fuuka will gain any[n]more new skills even if we read together.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But reading sci-fi novels with her could[n]help with my {f 4 30 0 1 1 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Reading sci-fi novels with Fuuka could[n]help with my {f 4 30 0 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_020_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5001 0 0}What do you think?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="SEL_021_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="24" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5076 0 0}Um, {f 4 1}-kun... How are the rooftop planters doing?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I don't know much about gardening, but I'm kind of curious...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_500_0616" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5076 0 0}Um, {f 4 1}-kun... Is it all right if I help tend to the rooftop planters, too?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I've actually been interested in gardening for a while now. If you don't mind, could I join you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The quality of the produce might improve if[n]we tend to the rooftop planters together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5063 0 0}So, um... is it okay if I help out?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="SEL_025_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That'd be great.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That won't be necessary.]]></Option>
+  </Dialog>
+  <Dialog id="29" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5067 0 0}Oh, {f 4 1}-kun... How are the rooftop planters doing?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The quality of the produce might improve if[n]we tend to the rooftop planters together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Can I help with your gardening again?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="SEL_029_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That'd be great.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That won't be necessary.]]></Option>
+  </Dialog>
+  <Dialog id="33" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5075 0 0}Um I'd like to check on the rooftop planters today, if possible.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}Do you have some time right now, {f 4 1}-kun?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka seems determined...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The quality of the produce might improve if[n]we tend to the rooftop planters together.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka might gain a new ability soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Is that all right? Could we check on them together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="SEL_033_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="37" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5067 0 0}Do you want to go check on the rooftop planters together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MND_035_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Fuuka will gain any[n]more new skills even if she helps me garden.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But the quality of the produce might improve[n]if we tend to the rooftop planters together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5131 0 0}I can spare some time today, so if there's anything I can help with, let me know.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="SEL_037_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="41" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5025 0 0}Okay! Let's head to the rooftop, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5020 0 0}Oh, okay... See you around.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5067 0 0}Oh, did you change your mind...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MND_041_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Fuuka will gain any[n]more new skills even if she helps me garden.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But the quality of the produce might improve[n]if we tend to the rooftop planters together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MND_042_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The quality of the produce might improve if[n]we tend to the rooftop planters together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_042_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5002 0 0}If you're going to go check on the rooftop planters, can I join you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="SEL_043_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="48" name="MSG_044_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5061 0 0}Um... Yes? Can I help you?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="SEL_045_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What are you doing?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's everyone's status?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go to Tartarus.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind.]]></Option>
+  </Dialog>
+  <Dialog id="50" name="MSG_112_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5062 0 0}Some people can't make it today, but would you still like to go?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="SEL_113_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Commence operation]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+  </Dialog>
+  <Dialog id="52" name="MSG_046_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}All right. Then let's meet in the usual place.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}I'll let the others know. See you there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_047_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 3 0 -1 5025 0 0}Everyone can go tonight.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_048_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 0 0 0}These people already have plans, so they can't go tonight:[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="SYS_049_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="SYS_050_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="SYS_051_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="SYS_052_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1},[n]{f 2 4 2}, {f 2 4 3}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="SYS_053_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2},[n]{f 2 4 3}, {f 2 4 4}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="SYS_054_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2},[n]{f 2 4 3}, {f 2 4 4}, {f 2 4 5}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="SYS_055_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2}, {f 2 4 3},[n]{f 2 4 4}, {f 2 4 5}, {f 2 4 6}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="SYS_056_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 0}, {f 2 4 1}, {f 2 4 2}, {f 2 4 3},[n]{f 2 4 4}, {f 2 4 5}, {f 2 4 6}, {f 2 4 7}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_057_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Is there anything else?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_900_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}DEV: α用処理です。[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}DEV: テキストは正式なものですが、[n]{f 1 5 0}イベントは再生されません。[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="SEL_SEED_CHOOSE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 0}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 1}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 2}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 3}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 4}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 5}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 6}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 7}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+  </Dialog>
+  <Dialog id="66" name="MND_SEED_THINK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I plant...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MND_SEED_DAY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like it can be harvested on {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="SEL_PLANT_CHOOSE" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Plant it]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't plant it]]></Option>
+  </Dialog>
+  <Dialog id="69" name="MND_NO_PLANT_DORMITORY" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, I don't think I've planted[n]anything in the rooftop planters yet...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MND_PLANT_CAN_NOT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I won't be able to harvest it[n]before the Promised Day, January 31st...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MND_PLANT_OK" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There should still be produce in the rooftop[n]planter that has yet to be harvested.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should harvest those first...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

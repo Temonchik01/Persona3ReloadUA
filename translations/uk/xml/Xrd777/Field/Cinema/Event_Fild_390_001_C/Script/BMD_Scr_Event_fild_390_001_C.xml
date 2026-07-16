@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_fild_390_001_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_390_001_C\Script\BMD_Scr_Event_fild_390_001_C.uasset" dialogs="12">
+  <Speakers>
+    <Speaker id="0" rawBytes="42 61 72 74 65 6E 64 65 72">Бармен</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20304 0 0}Тоді чого хоче дівчина, що стоїть за столиком в глибині залу?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Яблучне мартіні]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Криваву Мері{f 2 9 1 1 647}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чай улун]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Маргариту]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перепитати її замовлення ще раз]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 0 0 0}Гмм... Зрозуміло.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20303 0 0}Що замовила та дівчина біля входу?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Темне пиво]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Криваву Мері]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Викрутку]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Маргариту{f 2 9 1 1 647}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перепитати її замовлення ще раз]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20304 0 0}А дівчина посеред зали?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Яблучне мартіні]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Викрутку{f 2 9 1 1 647}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Маргариту]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чай улун]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перепитати її замовлення ще раз]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20301 0 0}Подивимось, хто ще?.. О, а як щодо того хлопця? Чого він хоче?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Імбирний ель]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Викрутку]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Маргариту]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чай улун{f 2 9 1 1 647}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перепитати його замовлення ще раз]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20304 0 0}Гаразд, я почну з випивки.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20302 0 0}Гей, ти все правильно зробив. Дякую за допомогу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20303 0 0}Гей, ти переплутав замовлення.![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ну ж бо, я тут намагаюся вести бізнес...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Я знаю, що ти ще дитина, але будь уважним, окей?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

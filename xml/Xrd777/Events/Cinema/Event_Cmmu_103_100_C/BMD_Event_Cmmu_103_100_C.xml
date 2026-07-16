@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_103_100_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_103_100_C\BMD_Event_Cmmu_103_100_C.uasset" dialogs="32">
+  <Speakers>
+    <Speaker id="0" rawBytes="42 75 6E 6B 69 63 68 69">Bunkichi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 6B 6F">Mitsuko</Speaker>
+    <Speaker id="2" rawBytes="28 53 45 29 20 42 75 6E 6B 69 63 68 69">(SE) Bunkichi</Speaker>
+    <Speaker id="3" rawBytes="28 53 45 29 20 4D 69 74 73 75 6B 6F">(SE) Mitsuko</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 30 -1 -1 0 0}{f 3 1 0 0 0 1 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 30 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}...Please, just wait a little while longer...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 30 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}...Even if the tree is gone... you'll still live on... inside us...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bunkichi-san is sleep talking.[n]Looks like he's taking a nap...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Take a closer look]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave him be]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 4 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Oh! {f 4 2}-chan, you're here? You could've woken me up...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}Or did you just want to admire my pretty face sleeping like a baby?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Upsy-daisy...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 1 25 25}We recently closed the book on a difficult matter, so I s'pose the relief has put me at ease.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 0 25 25}It's the middle of the day, but I feel awfully sleepy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What matter?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why are you relieved?]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I'm deeply touched that you and so many others tried to help us, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}The truth is, we sent a letter to Gekkoukan.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}While we're all here, I think it's time we told you...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}The truth is, we sent a letter to Gekkoukan.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}We asked them to go ahead and cut the persimmon tree down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}But... why?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Oh well.]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 6 15 103}Just the reaction I was hoping for, {f 4 2}-chan! It was more than worth it to surprise you like that![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Sorry for doing this without running it by you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 5 13 6 5 103}Yeesh, I thought you'd be more surprised than that... Well, I guess I needn't have worried.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Sorry for doing this without running it by you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}When we went to visit the tree together, I met a school faculty member on my way back.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}He told me the administration is planning to put up a new school building where the tree currently is.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_013_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}It would be selfish of an old man like me to deprive those young people of new learning opportunities...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Helping children reach their potential is more important than clinging onto old memories. I think our son would agree.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_013_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}He was a teacher, after all![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="SEL_014_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Are you really sure?]]></Option>
+  </Dialog>
+  <Dialog id="20" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Yes... We had a long talk about it, and this was the conclusion we came to.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}You really set an example for young people, being so considerate to old folks like us...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}We pray, with our son in Heaven, that more kind souls like you will graduate from Gekkoukan.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_016_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Here... We'd like you to have this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_016_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}It's the first fruit produced by the persimmon tree. A little rough around the edges, just like our son...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 1 25 25}My dear was the one who suggested we give it to you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This must be something very[n]meaningful to the both of them...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Their deep gratitude reached my heart...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="SYS_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Hierophant Social Link reached its maximum level! You can now fuse {f 0 1 35}Kohryu{f 0 1 27}, the guardian of nature![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Now, we have to cheer up and get on with our lives! We're too old to waste a single day![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}If we kicked the bucket while wasting our days away... I'm sure he'd laugh at us from Heaven![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_020_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}It's hard on the parents to have such a well-respected son.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 1 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Oh, my... Does it sound like I'm boasting?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_021_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 33 0 0}[[Laughing heartily]][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_022_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 34 0 0}[[chuckling]][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The three of us chatted until sunset...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted with the elderly couple[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

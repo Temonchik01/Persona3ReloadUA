@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_OBJ_123_101_003.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Obj\123\BMD_OBJ_123_101_003.uasset" dialogs="30">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Синя Ві»...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, вони зачинені на сьогодні...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Там є записка: «Ми сьогодні зачинені через духовні настанови».[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Наша спеціальна програма за 3,000 єн очистить вашу душу і відправить вас на небеса!"[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Зустріньтеся зі своїм внутрішнім "я" і виведіть назовні те, що лежить глибоко всередині вас.»[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, я зможу пригадати забуті навички Персонажа, якщо пройду курс лікування в цьому магазині...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, я можу працювати тут неповний робочий день з понеділка по п'ятницю.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Заходьте і дізнайтеся про наші послуги! Ми також наймаємо цікавих працівників для обслуговування наших відвідувачів!»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Заробітна плата за неповний робочий день починається від 3,500 єн.»[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Робота тут може допомогти покращити мої [n]{f 4 30 0 1 1 1 0} та {f 4 30 1 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час у «Синій Ві»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_012_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Працювати неповний робочий день]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MND_013_0_0" type="Message"/>
+  <Dialog id="14" name="SEL_014_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прийняти лікування]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не робити цього]]></Option>
+  </Dialog>
+  <Dialog id="15" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я спробую лікування...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Однак, не схоже, що хтось ще має забуті[n]навички, які вони можуть пригадати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На вивісці написано: «Під керівництвом[n]духів, ми відкриваємося 22 липня.»[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Я повинен відправитися в Тартар...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен перевірити...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="SEL_020_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Про роботу на неповний робочий день]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Про лікування]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
+  </Dialog>
+  <Dialog id="21" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Синя Ві»[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен зробити тут...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="SEL_023_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Працювати на неповний робочий день {f 4 26 24 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прийняти лікування {f 4 26 25 0}]]></Option>
+  </Dialog>
+  <Dialog id="24" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tend to customers.[n]Raises {f 4 30 0 1 0 0} and[n]{f 4 30 1 1 0 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Допомогти члену команди пригадати забуті навички за допомогою [n]процедури, що очищає душу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0} і[n]{f 4 30 1 1 1 1 0} не може бути вищим...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MND_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені працювати тут неповний робочий день...?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

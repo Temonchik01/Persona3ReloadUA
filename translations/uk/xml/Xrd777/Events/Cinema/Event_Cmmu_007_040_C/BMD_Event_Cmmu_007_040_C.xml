@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_007_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_040_C\BMD_Event_Cmmu_007_040_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 72 6F 75 62 6C 65 64 20 4F 6C 64 20 4C 61 64 79">Troubled Old Lady</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1701}Перепрошую... Чи не можу я у вас дещо запитати?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1701}Десь бачили одну кішечку тут неподалеку?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1701}Така біленька та в цяточку киця, моя дорогенька Міі-чян. Вона втікла коли я не дививлась.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1701}Я дуже переймаюсь куди  вона пішла...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1701}Вона, як і я, вже не молода, тому сумніваюсь, що вона пішла кудись далеко.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Біла та в цяточку кішка... ви бачили її десь, пане ?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо так...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, не бачив.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 7 0 0}{f 5 21 0 1701}Боже, справді?! Де це було?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Біля станції метро.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Біля торового центру.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не пам'ятаю.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1701}Спасибі, любчику! Піду її пошукаю.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1701}Ох, зрозуміла...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 1701}Я так хвилююсь за неї... Сподіваюсь, моя Міі-чян хоча б не голодує...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1701}Дякую за допомогу. Піду пошукаю її де-інде.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Біла кішка в цяточку та кличкою Міі-чян...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Якщо ви не проти, пане ... не могли б ми допомогти старій пані з пошуками?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Все ж розлука з улюбленими це доволі болісно...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Яка морока...]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 5 13 22 15 7}Угу![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 7 0 25 25}Ем, яку фразу використовують в таких ситуаціях?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 7 1 25 25}{f 4 21 7 7}"Що посієш, те й пожнеш"![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Ось воно![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Але якщо вони будуть розлучені надалі, стара пані відчуватиме ту саму біль, як і Коромару...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 7 0 25 25}Якщо ми допоможимо, гадаю, хоча б так ми її підбадьоримо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається я не можу їй відмовити.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Вона може настільки голодна, що з'їсть і дім.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 0 0 0 22 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_012_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Чи я сказала, "голодна як дім"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_012_4_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}У бідь-якому випадку, нам варто поспішити.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

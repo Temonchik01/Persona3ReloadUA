@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_009_047_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_009_047_C\BMD_Event_Cmmu_009_047_C.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}*whine*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru seems sad...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Is he thinking about that dog,[n]or the people who were harmed?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We're the only ones who[n]can change this situation...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's defeat the Shadows.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do everything we can.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}...Woof.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Arf arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Awooooo![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can feel a strong sense of[n]determination from Koromaru...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Dedicating myself to the cause along with[n]Koromaru gave me more {f 4 30 2 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru and I went back[n]to the dorm together...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Qest_610_141_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_610_141_C\BMD_Event_Qest_610_141_C.uasset" dialogs="8">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+    <Speaker id="1" rawBytes="53 63 68 6F 6F 6C 20 53 74 6F 72 65 20 56 65 6E 64 6F 72">School Store Vendor</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}This is... a pleasant surprise.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 202 0 25 25}To think there would be a bastion of commerce within a house of academia...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Could you please wait here for a moment? There's something I've been curious about for a while...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Excuse me, I would like to purchase a "school lunch."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1001}Um... Sorry?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They don't sell that here.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}They only sell bread.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}They don't deal in school lunches here...? How disappointing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 202 0 25 25}I would have liked a taste of this "school lunch," as it is a rare delicacy only served in select facilities...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Well, in that case, I shall order some bread. I've heard that having bread for lunch is part of the school experience.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I would have liked a taste of this "school lunch," as it is a rare delicacy only served in select facilities...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 202 0 25 25}But I've heard that having bread for lunch is also part of the school experience.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}That will be a fine substitute.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Now that I've checked that off the list, let us proceed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 202 0 25 25}As for where I'd like to go next... Shall we visit your homeroom?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

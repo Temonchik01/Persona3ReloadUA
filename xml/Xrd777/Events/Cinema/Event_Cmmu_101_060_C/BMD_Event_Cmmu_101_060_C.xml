@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_101_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_101_060_C\BMD_Event_Cmmu_101_060_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 6A 69 20 54 6F 6D 6F 63 68 69 6B 61">Kenji Tomochika</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ahh, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Sorry, man, but I've gotta pass this time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Just like that?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I'm just so torn. I really do wanna hang out with you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}No... No time for ramen today. I gotta go check out that cram school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I forgot I have to go check out that cram school today. Sorry, man.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}No time for ramen today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I mean, getting into college is pretty important, don't ya think? You think about the future too, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I've got plans already.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, more than you do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not even a little.]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 5 13 2 15 101}Whoa, dude! I didn't know you were so serious about your future![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 2 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Whaaat? You don't need to be a dick about it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Dude, are you for real!? You gotta take this seriously![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}I never really thought about my future until Emiri told me I should. She said I'd end up a loser if I didn't.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 10 25 25}But the future's a long way off. I mean, I still have to go to college first, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Apparently a bunch of Emiri's students go to good colleges.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 3 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}She must be thinking about our future together...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}You oughta think about your future too, man. I'd hate to see you end up becoming a loser, y'know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 1 25 25}That's why we gotta work our asses off! For our futures![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tomochika seemed to be sincerely[n]worried about my future...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship is stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Later, {f 4 1}! I'm heading to cram school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I went back to the dorm by myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

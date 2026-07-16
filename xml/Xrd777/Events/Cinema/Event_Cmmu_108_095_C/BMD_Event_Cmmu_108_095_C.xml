@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_108_095_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_095_C\BMD_Event_Cmmu_108_095_C.uasset" dialogs="53">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+    <Speaker id="1" rawBytes="50 61 6C 65 20 4F 6C 64 20 57 6F 6D 61 6E">Pale Old Woman</Speaker>
+    <Speaker id="2" rawBytes="4F 6C 64 20 4D 61 6E 20 69 6E 20 50 61 69 6E">Old Man in Pain</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Sorry to make you come all the way here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}I, uh... suddenly have no idea what to do with my life anymore.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Do I want to be a doctor, or do I want to be an artist?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I've decided to do a little soul searching. And I won't go back home or to school until I figure it out.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}I haven't figured out exactly where I'll go, but it has to be somewhere away from home.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I've got plenty of money. I may have taken my dad's credit card from his wallet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}I'm glad we had a chance to talk before I left.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Tell the others I said goodbye![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You can't go!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Good luck!]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 13 11 15 108}Don't say that! You're gonna make this harder for me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}I'll send you a letter when I get to wherever I'm going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Promise me you'll take care of yourself![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}*cough* *cough* Ugh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 4 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Ma'am, are you all right!? That cough...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What happened?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}...You should just go.]]></Option>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}She's having trouble breathing, and she's running a fever... This is bad.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}I could never do that![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}She's having trouble breathing, and she's running a fever! This is bad...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}I may be jumping to conclusions here, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Sorry about this![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}I-I knew it! She's a smoker! This is really bad![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}I think she suffers from chronic bronchitis. So if she caught a cold, it may have exacerbated the symptoms.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Call an ambulance, {f 4 1}-kun! Hurry![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The old woman was placed in an[n]ambulance and taken to the hospital.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}We'll leave the rest to the paramedics.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 21 108 11}Well, I'd better get going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 24 0 0}U-Ugh... My chest...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 4 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Sir, are you okay!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}My train's about to leave! Wh-What should I do?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="SEL_020_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave this to me!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You can't abandon your trip!]]></Option>
+  </Dialog>
+  <Dialog id="23" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}All right! Then I'll...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}That's not important right now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}I'll go ask the station attendant to call an ambulance![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}You stay here and perform first aid on him![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_024_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 31 0 0}Ugh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He looks like he's in a lot of pain...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}How should I help him?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="SEL_026_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Better leave him alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I should talk to him.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll try patting his upper back.]]></Option>
+  </Dialog>
+  <Dialog id="29" name="MSG_027_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 32 0 0}*huff* *huff* Ugh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He's having trouble breathing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_029_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 33 0 0}Ah, I'm oka— *cough* *cough*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_030_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He looks like he's in a lot of pain...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_031_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 34 0 0}Hngh! Gah![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_032_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}He flinched from the pain...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MND_033_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I do next?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="SEL_034_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Better leave him alone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I could rub his back.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll lay him on his back.]]></Option>
+  </Dialog>
+  <Dialog id="37" name="MSG_035_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 35 0 0}*huff* *huff* Ugh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_036_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 36 0 0}P-Please, stop...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_037_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 37 0 0}P-Please, don't move me around...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Okay, I told someone![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}Wait, I think he's going into cardiac arrest![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}Um, let's sit him in an upright position.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_039_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 4 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Oh, no! His breathing... And signs of cyanosis![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}I-I have to do something... I have to, or this man will die![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}I need your help, {f 4 1}-kun![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_041_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}Lay him down on his back. Gently.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 2 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}Now, if I perform CPR while giving him a cardiac massage...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MND_042_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Thanks to Hiraga's efforts, the[n]old man's condition stabilized.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The paramedics carried[n]him off in an ambulance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_043_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 3 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}At least I helped him as much as I could.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_044_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Thank you, {f 4 1}-kun. I don't think I would've had the confidence on my own.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 48 0 0}{f 4 23 0 108 1 25 25}I'm really glad you were here with me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 49 0 0}{f 4 22 0 108 24 25 21}We both saved their lives![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MND_045_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga expressed his gratitude to me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_046_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 0 0 0 50 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 51 0 0}I think I'll go back home.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_046_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 52 0 0}I finally know what I really want. That said, I'm not looking forward to apologizing to my dad.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_046_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 53 0 0}All right, then. I'll see you at school![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MND_047_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I parted ways with Hiraga[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

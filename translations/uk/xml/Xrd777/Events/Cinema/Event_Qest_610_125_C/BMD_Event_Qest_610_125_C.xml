@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Qest_610_125_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_610_125_C\BMD_Event_Qest_610_125_C.uasset" dialogs="22">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+    <Speaker id="1" rawBytes="4F 63 74 6F 70 69 61 20 43 6F 6F 6B">Octopia Cook</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Oh...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}This tantalizing fragrance... Can it be...!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1001}Whoa, you can figure out our secret ingredient with just a whiff?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1001}I guess you got a funky sense of smell to go with your funky sense of style, lady.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1001}Well, there ain't a law sayin' takoyaki shops can't cook other stuff besides octopus.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1001}So how 'bout it? Wanna buy some? I swear, my takoyaki's so good it'll make your jaw drop![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Cuisine so scrumptious that one's jaw can drop off!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 202 0 25 25}...I imagine that would warrant urgent medical care, realistically speaking, but I would very much like a taste.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Unfortunately, this is all I have on me at the moment. I do hope this is sufficient.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's not that expensive...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're buying that many...?]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}No need to console me. My curiosity far exceeds any monetary—[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Oh, I see... Upon closer inspection, a single serving is only 400 yen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 0 0 0 12 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}W-Well then! Two orders of your finest takoyaki, please.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}I have yet to see someone who has actually lost their jaw.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 202 1 25 25}That must mean that the ordinary citizen cannot easily afford these.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Oh...? Upon closer inspection, a single serving is only 400 yen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 0 0 0 17 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_006_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}W-Well then! Two orders of your finest takoyaki, please.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 19 0 0}{f 5 21 0 1001}Thanks! Here you go, and come again![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}This distinct texture... The firm, chewy skin... There's no doubt about it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 202 0 25 25}I must say, I'm surprised to see this used as a cooking ingredient.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}See what...?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}How's your jaw?]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}The human mind... It is cursed to forever retain whatever knowledge it gains, whether good or ill.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Forgive my reticence, but some questions are better left unanswered.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 0 0 0 24 0 0}{f 4 23 0 202 0 25 25}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}It has yet to even unhinge...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}But for the better, I suppose. There are many other delicacies I must try.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 202 1 25 25}It wouldn't do to lose my jaw before sampling each and every one of them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}There appear to be several dining establishments around here... We must simply visit all of them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}My first priority is to go to something called a "net café" where one may use something called a "soda fountain."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 202 1 25 25}This apparatus allows for an infinite combination of flavors by mixing various solutions...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Just thinking about it gives me a sort of electric tingle across my tongue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Ahhh... I see.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}My, oh my...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Oh, how intriguing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}We appear to have exhausted every dining option in this area.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 4 23 0 202 3 25 25}...Oh dear, is something the matter?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}Now that I think about it, you haven't eaten much since our seventh meal...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}{f 4 23 0 202 0 25 25}In any event, I must thank you for your delightful company. I shall certainly savor this experience.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}If you don't mind, I'd very much appreciate it if you were to escort me again sometime.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I returned to the Velvet Room with Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_109_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_060_C\BMD_Event_Cmmu_109_060_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I spend my breaks doing nothing but reading, so I think it's about time I bought some new ones...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Oh, all of the books on this shelf are only 100 yen each! That means I can afford them with my allowance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 0 0 0 3 0 0}Hmmm...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}We can go now. I don't really see anything that interests me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 0 0 0 5 0 0}...Hm?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}W-Wait, is this...!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}It is! I've been looking for this collector's edition for forever![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}This is a collection of illustrations from the shojo manga I read! It even has a set of new short stories inside![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}I never thought I'd find this in a used bookstore. And in the novels section too...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Maybe the shop owner saw the "short stories" label and made a mistake.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}...It's got all three volumes too. This is amazing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Each volume is 6,000 yen, so that means... 18,000 yen total!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 21 109 11}Wh-What should I do...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Is it good?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're not buying it?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 9 15 109}Of course! All three volumes are great![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}The characters are portrayed so realistically! It's like they really exist![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Well, it... It's kind of... expensive.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}I can't afford it with what I have right now, and I don't want to go and take money out of my savings...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}My monthly allowance is 5,000 yen. So it's not enough, even if I save my lunch money...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_010_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}But I'll get it, no matter what! I just need to wait until next month... or the month after... or...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...I'll get them by the time I graduate![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}I-I need to hide this where no one will see it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Oh, please don't get bought by someone else...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

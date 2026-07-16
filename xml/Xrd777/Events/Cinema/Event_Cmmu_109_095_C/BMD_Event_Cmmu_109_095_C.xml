@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_109_095_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_095_C\BMD_Event_Cmmu_109_095_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
+    <Speaker id="1" rawBytes="4D 72 2E 20 54 61 6B 65 6E 6F 7A 75 6B 61">Mr. Takenozuka</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I clearly remember what happened that day![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}You had a bandage on your chin because you cut yourself while shaving.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I also remember handing the fee money to you directly! Or are you really going to say that this is my mistake?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 21 0 100}Fee... money...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Give me an explanation, right now! Or else...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 21 0 100}I'm so sorry! You're right, it's completely my fault![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Well, {f 4 1}-san has been— Wait, what?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Everyone is suspecting me of— Wait, what?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 21 0 100}Well, the truth is I accidentally took the money home with me...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 21 0 100}I've been meaning to bring it back here, but then I completely forgot.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}What...? What!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 21 0 100}It's just, the payment deadline was pushed back, so I didn't think it was that urgent...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 5 21 0 100}Then I kept forgetting to bring it in each day, but I figured I'd get around to it eventually.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 21 0 100}And, well... here we are now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}How... How could you!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 5 21 0 100}I know! This is completely my responsibility![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 5 21 0 100}I'll make sure to explain everything... I'm sorry for the trouble![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 6 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}So there's the truth. I'm almost more dumbfounded than angry...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 5 2 25 25}How do you even call yourself a teacher!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 5 21 0 100}I-I'm so sorry...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}It's okay, Miss President...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Everyone makes mistakes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Well, that concludes my business here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Let's go, {f 4 1}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

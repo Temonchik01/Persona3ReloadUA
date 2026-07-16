@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_FldNPC_Entrance_Aegis.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Aegis.uasset" dialogs="72">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay on standby for now.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let me think about it.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check progress]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Junpei]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sanada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Amada]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aragaki]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Koromaru]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay on standby for now.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Enter]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't enter]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ask about the target]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head to Club Escapade]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Head toward the station]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Check everyone's status]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Commence operation]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_AEGIS_PARTY_IN_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Commencement of the operation is imminent. Please consider having me accompany you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_AEGIS_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will be sure to display my fullest abilities.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_AEGIS_PARTY_OUT_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Shall we depart immediately?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_AEGIS_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Understood.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_AEGIS_PARTY_OVER_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The party currently contains a sufficient number of combatants.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_AEGIS_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Would you like to remove someone else so that I may join?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_AEGIS_PARTY_IN_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Will we be heading out soon? If so, please take me with you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_AEGIS_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}I will do my very best![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_AEGIS_PARTY_OUT_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Shall we get going, then?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_AEGIS_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I understand...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_AEGIS_PARTY_OVER_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Oh, it seems that the party is already full.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_AEGIS_PARTY_CHANGE_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Should I replace someone?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_AEGIS_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I understand...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_AEGIS_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Understood.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_AEGIS_PARTY_OVER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The party is already at capacity.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_AEGIS_PARTY_IN_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}I am prepared to initiate combat.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_AEGIS_PARTY_OUT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}I am ready to proceed.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_AEGIS_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I understand...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_AEGIS_PARTY_OVER_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The party seems to already be full...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_AEGIS_PARTY_IN_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}A strong will—regardless of what form it takes—makes a person stronger.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}So we shouldn't underestimate our enemy... I will do whatever I can to protect you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_AEGIS_PARTY_OUT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}It seems our opponent is trying to buy time... Let's defeat him quickly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}We must keep moving forward.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_AEGIS_PARTY_IN_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}His view of life and death differed from ours, but even still, he was fighting for something...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_AEGIS_PARTY_OUT_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}...Anyway, we should get going. Our true enemy still lies ahead.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_AEGIS_PARTY_IN_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}He has put us through numerous ordeals... But let's try to stay calm as we face him.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}We mustn't let him take the upper hand. I suspect he has gained significant strength since last time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_AEGIS_PARTY_OUT_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Let's hurry. Our goal is within reach.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}I'm ready whenever you are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_AEGIS_PARTY_IN_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 3 0 -1 6089 0 0}He's a human, just like the rest of you... yet he has such different values...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But I suppose that's what it means to be human. And that is why I value you...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_AEGIS_PARTY_OUT_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}It is finally time for our last battle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}I promise I'll protect you. That is why I'm here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_AEGIS_PARTY_IN_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I'm ready.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_AEGIS_PARTY_OUT_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Let's end this once and for all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_AEGIS_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}All right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_AEGIS_PARTY_IN_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}This facility appears to be abandoned. I do not sense any biological material outside our group.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I am prepared for combat. Please allow me to accompany you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_AEGIS_PARTY_OUT_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}It is possible to destroy the sealed door. However, there's a possibility the entire facility will collapse.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}It is inadvisable to risk putting everyone in unnecessary danger.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Additionally, ensuring destruction of the target remains our primary objective.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_AEGIS_PARTY_IN_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Junpei-san appeared emotionally distraught. I do not fully comprehend...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Regardless, would you like me to join you on the front line?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_AEGIS_PARTY_IN_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Unlike the previous operation, we will now be facing two enemies at once.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I anticipate the use of coordinated attacks. Extra precautions may be necessary.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_AEGIS_PARTY_OUT_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}My social communication data suggests the phrase "What's the holdup?" may be relevant.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}What's the holdup?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_AEGIS_PARTY_IN_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}Our ultimate objective will be completed once we defeat that Shadow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I... will fulfill my mission.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_AEGIS_PARTY_OVER_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}There is insufficient room in the party.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_AEGIS_PARTY_IN_TKJI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Do you require my firepower?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I am able to deploy anytime.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_AEGIS_PARTY_OUT_TKJI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Let's get crackin'.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}...Which is to say, "Let's begin our course of action," in more casual terms.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_AEGIS_PARTY_OUT_HGMN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Let us begin.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The time for battle is afoot.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_AEGIS_PARTY_OUT_CHID" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}I suggest promptly going after Junpei-san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We likely do not have much time to spare.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_0724_AEGIS_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}From this point forward, I will be available for use in combat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will accept all orders, so please provide them at your discretion.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_0725_0805_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}According to Amada-san's profile data, he should be dormant in his bedroom at this time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Therefore, it is highly unlikely that Amada-san will be able to detect our current activities.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_0806_0809_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}So "summer school" is a phenomenon in which everyone gathers at school during break to study.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will file this under, "Things Many People Find Annoying."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_0810_0820_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Koromaru-san does not speak, but appears able to understand some degree of human language.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I anticipate no problems in his understanding of your battle commands.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_0821_0827_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}It seems many students do not start their summer homework until the last day of summer break.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Of those living at the dorm, Junpei-san appears the most in danger of falling into this trend.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_0828_0902_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Amada-san is young, but appears to have no difficulty summoning and using his Persona.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Therefore, age does not seem to influence the power of a Persona.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_0903_0904_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}The overall strength of the team has greatly increased with the addition of Aragaki-san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}More strategic options are available as well. You may find it worthwhile to experiment.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_0906_0918_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6065 0 0}It is probable that Chidori-san possesses great knowledge about Strega.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}However, I anticipate difficulty in receiving that information from her.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_0919_1003_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Three Shadows remain, but it is unknown how strong they are or how exactly they act.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Underestimating the enemy may prove more dangerous than the threat of the enemy itself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_1005_1016_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}The situation involving Aragaki-san appears to be having a negative effect on the rest of the group.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}This drop in morale may prove hazardous when attempting to explore Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_1019_1102_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6085 0 0}I will fulfill the duties given to me. For that purpose, I will continue to fight.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Let us fight together to the end.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_1106_1109_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6134 0 0}I am sorry for causing so much trouble...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will do whatever I can to make up for it, so... please allow me to continue staying by your side.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_1110_1117_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6143 0 0}Ryoji-san is dangerous.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I apologize for the digression... but I must insist on this point, no matter what.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_1122_1127_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6006 0 0}Junpei-san's emotional state remains dismal.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I worry that it may take a long time for him to recover...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_0101_0114_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6131 0 0}People around the world are having fun, celebrating the new year.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}I want to be able to greet the new year in the same way next year, and the year after that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}So let's fight and never give up, {f 4 2}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_0115_0130_AEGIS_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6134 0 0}I want to be with everyone...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}And I want to continue staying by your side.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}No... I don't just want it; I know it will happen. I will not stop believing that it will.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_0131_AEGIS_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6081 0 0}I want to continue living alongside everyone...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If there is any obstacle we must overcome for my wish to come true, then...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 -1 0 0}We will surely overcome it, no matter what![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_HANYOU1_AEGIS_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}The treasure chests in Tartarus contain various items.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I recommend searching for these treasure chests while exterminating Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}You will not be charged with theft for taking the contents, so there is nothing to worry about.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_AEGIS_LOVER_INPARTY" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6025 0 0}{f 4 2}-san...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}I will always do everything I can to protect you...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_AEGIS_TODAY_COMMU" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6131 0 0}We are spending time together yet again. It's as if we're starting where we left off after school...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}Oh, sorry, I did not mean to distract you. Haha...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_AEGIS_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6116 0 0}I feel I will be able to exert maximum possible output today. Follow my lead! As they say.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_AEGIS_ZEKKOCHO_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6086 0 0}Today, I'm feeling exceptionally powerful. No enemy will be able to stand in our way![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

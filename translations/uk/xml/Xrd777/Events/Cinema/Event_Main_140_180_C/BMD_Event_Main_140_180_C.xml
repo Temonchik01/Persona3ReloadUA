@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_140_180_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_180_C\BMD_Event_Main_140_180_C.uasset" dialogs="20">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="3" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E5 B2 B3 E7 BE BD 20 E3 82 86 E3 81 8B E3 82 8A">（ＳＥ）岳羽 ゆかり</Speaker>
+    <Speaker id="4" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E5 B1 B1 E5 B2 B8 20 E9 A2 A8 E8 8A B1">（ＳＥ）山岸 風花</Speaker>
+    <Speaker id="5" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E6 A1 90 E6 9D A1 20 E7 BE 8E E9 B6 B4">（ＳＥ）桐条 美鶴</Speaker>
+    <Speaker id="6" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="7" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 102 -1 0 0}{f 3 1 1 0 0 1 0 0}Wow... Kirijo-senpai, you're so beautiful.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 102 -1 0 0}{f 3 1 1 0 0 2 0 0}Yeah, your skin is totally flawless! Hey, did you put on sunscreen already?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 102 -1 0 0}{f 3 1 1 0 0 3 0 0}N-No, not yet.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 4 0 0}Well, we can't have that. You gotta put some on right now![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}Oh, can I help?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}Th-That's okay, I'll do it myself![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 7 0 0}Yo, {f 4 2}... {f 4 2}![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 8 0 0}So, which one's your type?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't care.]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 9 0 0}Aha! Just as I thought.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 10 0 0}Oh, reeeally? Very interesting.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 11 0 0}Whoa, seriously!? You got balls, man![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 12 0 0}Yeah, like I believe that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 13 0 0}Man, this is great! I'm in heaven![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_5_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 14 0 0}Alright, I think it's about time for a swim![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 15 0 0}Chaaarge![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 102 -1 0 0}{f 3 1 1 0 0 16 0 0}Whoa! I'm not letting you win that easily![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel uneasy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_014_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's like someone[n]is watching me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 17 0 0}Whoa, it's cold! Hahahahaha![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The uneasy feeling went away...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_017_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 18 0 0}What're you standin' over there for!? The water's fine![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Tutorial_Dungeon_033.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Dungeon\BMD_Tutorial_Dungeon_033.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 74 61 74 75 73 20 41 69 6C 6D 65 6E 74 3A 20 43 6F 6E 66 75 73 65">Status Ailment: Confuse</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 36}Enemies who are {f 0 1 2}Confused{f 0 1 27} will roam around unsteadily, as though drunk.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 36}{f 0 1 2}They move slowly, and are prone to missing their attacks{f 0 1 27}, making them prime targets to pick off with Chance Encounters.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

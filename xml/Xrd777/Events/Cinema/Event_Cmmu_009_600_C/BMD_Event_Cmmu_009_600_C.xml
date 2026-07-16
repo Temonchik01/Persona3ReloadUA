@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BMD source="BMD_Event_Cmmu_009_600_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_009_600_C\BMD_Event_Cmmu_009_600_C.uasset" dialogs="13">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}*whine*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Arf, arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru can't wait any longer.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I tried to enter the movie[n]theater with Koromaru...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I insisted Koromaru was just a stuffed[n]doll, but management kicked me out...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru seems disappointed...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 0 0 0 6 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru seems sad...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 0 0 0 7 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Woof...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 0 0 0 9 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I promised Koromaru I would buy[n]the DVD for him when it's released...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Arf![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Woof, woof, woof![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Koromaru seems very happy![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After walking Koromaru, I decided[n]to go back to the dorm...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
