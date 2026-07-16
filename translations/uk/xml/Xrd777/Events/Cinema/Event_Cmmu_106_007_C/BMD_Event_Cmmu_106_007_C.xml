@@ -11,8 +11,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Якщо ти сьогодні вільний, хочеш піти додому разом?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Чудово! Зайдімо в кафе по дорозі додому.[n]{f 1 1}]]></Page>
