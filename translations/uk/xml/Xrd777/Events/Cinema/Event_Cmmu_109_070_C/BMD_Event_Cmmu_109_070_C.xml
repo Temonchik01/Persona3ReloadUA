@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_109_070_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_070_C\BMD_Event_Cmmu_109_070_C.uasset" dialogs="30">
   <Speakers>
-    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Чіхіро Фушімі</Speaker>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
     <Speaker id="1" rawBytes="53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Голос учня</Speaker>
     <Speaker id="2" rawBytes="44 69 73 67 72 75 6E 74 6C 65 64 20 53 74 75 64 65 6E 74">Невдоволений учень</Speaker>
     <Speaker id="3" rawBytes="41 6C 6F 6F 66 20 53 74 75 64 65 6E 74">Відсторонений учень</Speaker>
-    <Speaker id="4" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74">Учениця</Speaker>
+    <Speaker id="4" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74">Female Student</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 1}, поквапся![n]{f 1 1}]]></Page>
@@ -109,6 +109,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}«Книжкові хробачки»... Думаю, сьогодні я пас. Вибач...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MND_026_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я трохи пройшовся з Чіхіро,[n]а потім ми розійшлися.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я прогулявся з Чіхіро, поки[n]не настав час розійтись.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
