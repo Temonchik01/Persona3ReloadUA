@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_106_570_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_106_570_C\BMD_Event_Cmmu_106_570_C.uasset" dialogs="30">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
-    <Speaker id="1" rawBytes="54 61 6B 6F 79 61 6B 69 20 56 65 6E 64 6F 72">Продавець такоякі</Speaker>
-    <Speaker id="2" rawBytes="47 61 6D 65 20 41 74 74 65 6E 64 61 6E 74">Оператор гри</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Yuko Nishiwaki</Speaker>
+    <Speaker id="1" rawBytes="54 61 6B 6F 79 61 6B 69 20 56 65 6E 64 6F 72">Takoyaki Vendor</Speaker>
+    <Speaker id="2" rawBytes="47 61 6D 65 20 41 74 74 65 6E 64 61 6E 74">Game Attendant</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 6 -1 0 0}{f 3 1 1 0 0 1 0 0}О, дивись, юката! Гм, може, й мені варто було сьогодні таку вдягти...[n]{f 1 1}]]></Page>
@@ -81,11 +81,11 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 6 -1 0 0}{f 3 1 1 0 0 33 0 0}Звучить весело, правда? Ходімо спробуємо. Я завжди ведусь на такі штуки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коробка наповнена[n]трикутними лотерейними квитками...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The box is filled with[n]triangular lottery tickets...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_016_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вибрати згори]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Взяти з дна]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Pick from the top]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Dig down to the bottom]]></Option>
   </Dialog>
   <Dialog id="22" name="MSG_017_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 34 0 0}{f 5 21 0 11}Вітаю, ви виграли![n]{f 1 1}]]></Page>
