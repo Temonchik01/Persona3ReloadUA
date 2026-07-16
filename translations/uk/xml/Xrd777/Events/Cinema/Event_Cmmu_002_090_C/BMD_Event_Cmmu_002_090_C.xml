@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_002_090_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_002_090_C\BMD_Event_Cmmu_002_090_C.uasset" dialogs="36">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 0 0 0 1 0 0}......[n]{f 1 1}]]></Page>
@@ -47,7 +47,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Голос Юкарі тремтить. Мені краще[n]обережно підбирати мої слова...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}До того ж у мене вже є особливі[n]стосунки з іншою людиною...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, {f 0 1 2}I have a special{f 0 1 27}[n]{f 0 1 2}relationship with another person already{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_012_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Що ти насправді думаєш про мене?[n]{f 1 1}]]></Page>
@@ -96,7 +96,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я вступив у особливі[n]стосунки з Юкарі...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Назад шляху вже немає...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's no going back now...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_023_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 64 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Тож чи будеш ти...[n]{f 1 1}]]></Page>
