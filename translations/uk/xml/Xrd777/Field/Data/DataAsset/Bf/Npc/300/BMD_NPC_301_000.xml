@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_301_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_301_000.uasset" dialogs="24">
   <Speakers>
-    <Speaker id="0" rawBytes="46 61 77 6E 69 6E 67 20 53 74 75 64 65 6E 74">Fawning Student</Speaker>
+    <Speaker id="0" rawBytes="46 61 77 6E 69 6E 67 20 53 74 75 64 65 6E 74">Учениця, що підлещується</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}*sigh* He's sooo hot...[n]{f 1 1}]]></Page>
@@ -28,7 +28,7 @@
   </Dialog>
   <Dialog id="6" name="SEL_005_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, he is.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_006_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Yeah... I thought he seemed weird...[n]{f 1 1}]]></Page>
