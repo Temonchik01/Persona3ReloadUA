@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldHit_MilitaryDungeon.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_FldHit_MilitaryDungeon.uasset" dialogs="35">
   <Speakers>
-    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
     <Speaker id="1" rawBytes="44 69 61 72 79 20 54 65 78 74">Текст щоденника</Speaker>
     <Speaker id="2" rawBytes="4A 6F 75 72 6E 61 6C 20 54 65 78 74">Текст журнала</Speaker>
-    <Speaker id="3" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="5" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="6" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="3" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="6" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_DUNGE_FUKA_B2FKAISI" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10069 0 0}Я відчуваю ціль за два блоки попереду тебе![n]{f 1 1}]]></Page>
@@ -55,7 +55,7 @@
   </Dialog>
   <Dialog id="11" name="SEL_YESNO" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так, Я готовий.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on.]]></Option>
   </Dialog>
   <Dialog id="12" name="MND_DUNGE_B2F_SKELETON_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Біля руки скелета лежить щоденник.[n]{f 1 1}]]></Page>
@@ -124,13 +124,13 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що це на землі?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_DUNGE_ML_MEDAL_GOT_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я такого ще не бачив...[n]Поки що залишу це собі.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я ніколи не бачив нічого подібного...[n]Треба поки що притримати його у себе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_DUNGE_ML_MEDAL_GET_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що це на землі?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MND_DUNGE_ML_MEDAL_GOT_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я такого ще не бачив...[n]Поки що залишу це собі.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MND_DUNGE_B3F_SKELETON2_" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Біля скелета лежить щоденник[n]із висохлим замком.[n]{f 1 1}]]></Page>
