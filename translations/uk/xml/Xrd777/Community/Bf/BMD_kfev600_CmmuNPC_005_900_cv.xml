@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_kfev600_CmmuNPC_005_900_cv.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Community\Bf\BMD_kfev600_CmmuNPC_005_900_cv.uasset" dialogs="13">
   <Speakers>
-    <Speaker id="0" rawBytes="42 75 6E 6B 69 63 68 69">Bunkichi</Speaker>
-    <Speaker id="1" rawBytes="4D 69 74 73 75 6B 6F">Mitsuko</Speaker>
+    <Speaker id="0" rawBytes="42 75 6E 6B 69 63 68 69">Бункічі</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 6B 6F">Міцуко</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}Well, well, look who it is! It's been a while, {f 4 2}-chan![n]{f 1 1}]]></Page>
@@ -19,7 +19,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 4 8 0 0}Somethin' fresh, avant-garde... I can't let Gekkoukan's new school building hog the spotlight![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Good idea.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Хороша ідея.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}It's fine the way it is.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
