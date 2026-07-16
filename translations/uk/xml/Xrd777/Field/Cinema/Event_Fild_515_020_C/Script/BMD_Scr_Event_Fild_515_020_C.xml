@@ -4,19 +4,19 @@
     <Speaker id="0" rawBytes="53 74 75 64 65 6E 74 20 69 6E 20 50 61 69 6E">Поранений учень</Speaker>
     <Speaker id="1" rawBytes="4D 61 6E 20 69 6E 20 50 61 69 6E">Поранений чоловік</Speaker>
     <Speaker id="2" rawBytes="57 6F 6D 61 6E 20 69 6E 20 50 61 69 6E">Поранена жінка</Speaker>
-    <Speaker id="3" rawBytes="4F 6C 64 20 4D 61 6E 20 69 6E 20 50 61 69 6E">Поранений старий чоловік</Speaker>
+    <Speaker id="3" rawBytes="4F 6C 64 20 4D 61 6E 20 69 6E 20 50 61 69 6E">Old Man in Pain</Speaker>
     <Speaker id="4" rawBytes="47 69 72 6C 20 69 6E 20 50 61 69 6E">Поранена дівчина</Speaker>
-    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="6" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="7" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="8" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="9" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="10" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="11" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="12" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
-    <Speaker id="13" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
-    <Speaker id="14" rawBytes="42 75 6E 6B 69 63 68 69">Бункічі</Speaker>
-    <Speaker id="15" rawBytes="4D 61 69 6B 6F">Маїко</Speaker>
+    <Speaker id="5" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="6" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="7" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="8" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="9" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="10" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="11" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="12" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="13" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+    <Speaker id="14" rawBytes="42 75 6E 6B 69 63 68 69">Bunkichi</Speaker>
+    <Speaker id="15" rawBytes="4D 61 69 6B 6F">Maiko</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_MISSING" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Повернутися до входу]]></Option>
@@ -108,7 +108,7 @@
     <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4115 0 0}Тоді я піду. Зачекай ще трохи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_RESCUE_FUKA_00" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}未使用[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}未使用[cr][n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_RESCUE_AEGIS_00" type="Message">
     <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 50 0 0}{f 3 1 3 0 -1 6117 0 0}Будь ласка, зачекайте там. Я скоро буду.[n]{f 1 1}]]></Page>
@@ -144,7 +144,7 @@
     <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7116 0 0}Вибачте, що змусив вас чекати. Я простежу, щоб ця людина повернулася цілою і неушкодженою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MSG_RESCUE_KOROMARU_10" type="Message">
-    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Гав, гав![n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MSG_RESCUE_ARAGAKI_10" type="Message">
     <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9010 0 0}Йо, Вибачте, що змусив чекати. Я розберуся з цим.[n]{f 1 1}]]></Page>
