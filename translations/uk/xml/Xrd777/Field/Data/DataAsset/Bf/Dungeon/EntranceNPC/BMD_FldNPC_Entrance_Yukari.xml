@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldNPC_Entrance_Yukari.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Yukari.uasset" dialogs="82">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_TALK" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ходім разом.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go together.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я подумаю про це.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let me think about it.]]></Option>
   </Dialog>
   <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити прогрес]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Забудь]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
   </Dialog>
   <Dialog id="2" name="SEL_PARTY" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
@@ -29,11 +29,11 @@
   </Dialog>
   <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
   </Dialog>
   <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Запитати про ціль]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind]]></Option>
   </Dialog>
   <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
