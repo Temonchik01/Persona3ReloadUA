@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_113_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_113_060_C\BMD_Event_Cmmu_113_060_C.uasset" dialogs="11">
   <Speakers>
-    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">Президент Танака</Speaker>
+    <Speaker id="0" rawBytes="50 72 65 73 69 64 65 6E 74 20 54 61 6E 61 6B 61">President Tanaka</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 1 25 25}Тільки-но моя стара школа організувала зустріч випускників.[n]{f 1 1}]]></Page>
@@ -33,7 +33,7 @@
   </Dialog>
   <Dialog id="8" name="MND_006_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Президент Танака відкривається мені.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я розумію його трохи краще тепер...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I understand him a little better now...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 1 25 25}О, пам’ятаєш ті 40,000 єн, що ти мені дав? Гадаю, ти вже сповна відпрацював ці гроші.[n]{f 1 1}]]></Page>
@@ -41,6 +41,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 1 25 25}Просто згадай усі ті поради, які я дав тобі безкоштовно! Потім подякуєш.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно. Пора повертатися до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно, тому я повернуся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
