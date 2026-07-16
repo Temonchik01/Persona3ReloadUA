@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_114_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_080_C\BMD_Event_Cmmu_114_080_C.uasset" dialogs="36">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Мутацу</Speaker>
+    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 30 -1 -1 1 0}{f 3 1 1 0 0 1 0 0}Ти запізнився... Що тебе затримало, га?[n]{f 1 1}]]></Page>
@@ -44,7 +44,7 @@
   <Dialog id="11" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я був із другом.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я вчився.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це не твоя справа.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не ваша справа.]]></Option>
   </Dialog>
   <Dialog id="12" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 1 0}{f 3 1 1 0 0 12 0 0}{f 5 13 17 5 114}З другом, га? З дівчиною? Це була дівчина, правда? Хоч ти ще й живеш за рахунок батьків......[n]{f 1 1}]]></Page>
@@ -78,7 +78,7 @@
   </Dialog>
   <Dialog id="21" name="SEL_018_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}«Вони»?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Про що ви?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What're you talking about?]]></Option>
   </Dialog>
   <Dialog id="22" name="MSG_019_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Моя дружина та син... Ми були разом, коли я ще був бізнесменом.[n]{f 1 1}]]></Page>
