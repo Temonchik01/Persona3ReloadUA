@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_413_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\400\BMD_NPC_413_000.uasset" dialogs="36">
   <Speakers>
-    <Speaker id="0" rawBytes="43 61 74 2D 4C 6F 76 69 6E 67 20 42 6F 79">Cat-Loving Boy</Speaker>
+    <Speaker id="0" rawBytes="43 61 74 2D 4C 6F 76 69 6E 67 20 42 6F 79">Хлопчик, що любить котів</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}My friend has a cat, and it's sooo cute![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}У моєї подруги є кіт, і він дуууже милий![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}I want one too, but my mom hates animals...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
@@ -52,9 +52,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}What kind of cat do you think this is?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не знаю.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}A stray cat.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't care.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мені пофіг.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}Okay! Then I'll tell you![n]{f 1 1}]]></Page>
