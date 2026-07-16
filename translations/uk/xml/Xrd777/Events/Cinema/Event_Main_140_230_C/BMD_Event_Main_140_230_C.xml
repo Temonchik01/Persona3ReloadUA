@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_140_230_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_230_C\BMD_Event_Main_140_230_C.uasset" dialogs="58">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
-    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 1 0 0}I believed in him for so long.[n]{f 1 1}]]></Page>
@@ -26,7 +26,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 9 0 0}We even had to move a few times.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I see...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зрозумів...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That must've been tough.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}What did they do?]]></Option>
   </Dialog>
@@ -58,7 +58,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 5 -1 0 0}{f 3 1 1 0 0 20 0 0}But now... Now I can see it was all for nothing.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I guess so...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Come on, cheer up.]]></Option>
   </Dialog>
@@ -80,8 +80,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 5 -1 0 0}{f 3 1 1 0 0 27 0 0}...I'm a horrible person, aren't I?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_012_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not at all.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't blame yourself.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не звинувачуй себе.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's how life is.]]></Option>
   </Dialog>
   <Dialog id="22" name="MSG_013_0_0" type="Message">
@@ -118,7 +118,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 38 0 0}You mean, keep believing?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_018_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 39 0 0}Huh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 39 0 0}Га?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_019_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 40 0 0}Really?[n]{f 1 1}]]></Page>
@@ -137,7 +137,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 5 -1 0 0}{f 3 1 1 0 0 45 0 0}Lemme guess. Senpai asked you to bring me back, right?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="SEL_022_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I wanted to help.]]></Option>
   </Dialog>
   <Dialog id="38" name="MSG_023_0_0" type="Message">
