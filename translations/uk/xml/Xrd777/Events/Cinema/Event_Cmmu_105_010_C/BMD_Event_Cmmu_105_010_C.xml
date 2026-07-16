@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_105_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_010_C\BMD_Event_Cmmu_105_010_C.uasset" dialogs="17">
   <Speakers>
-    <Speaker id="0" rawBytes="54 72 61 63 6B 20 54 65 61 6D 20 41 64 76 69 73 6F 72">Тренер команди</Speaker>
+    <Speaker id="0" rawBytes="54 72 61 63 6B 20 54 65 61 6D 20 41 64 76 69 73 6F 72">Track Team Advisor</Speaker>
     <Speaker id="1" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74 20 69 6E 20 61 20 4A 65 72 73 65 79">Дівчина у спортивному костюмі</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Yuko Nishiwaki</Speaker>
     <Speaker id="3" rawBytes="4D 69 79 61 6D 6F 74 6F">Міямото</Speaker>
-    <Speaker id="4" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+    <Speaker id="4" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Kazushi Miyamoto</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1093}Отже, з сьогоднішнього дня він офіційно в команді.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я {f 4 3}.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Приємно познайомитись.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nice to meet you.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 2 0 0}Ласкаво просимо, {f 4 1}. Я Юко Нішівакі.[n]{f 1 1}]]></Page>
@@ -42,7 +42,7 @@
   </Dialog>
   <Dialog id="10" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ага.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nope.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 151 -1 0 0}{f 3 1 1 0 0 12 0 0}Коротше, відтепер ти мій після школи.[n]{f 1 1}]]></Page>
