@@ -3,11 +3,11 @@
   <Speakers>
     <Speaker id="0" rawBytes="4B 69 64 73">Діти</Speaker>
     <Speaker id="1" rawBytes="28 53 45 29 20 53 70 75 6E 6B 79 20 42 6F 79">(SE) Енергійний хлопчик</Speaker>
-    <Speaker id="2" rawBytes="28 53 45 29 20 45 6E 65 72 67 65 74 69 63 20 42 6F 79">(SE) Енергійний хлопчик</Speaker>
+    <Speaker id="2" rawBytes="28 53 45 29 20 45 6E 65 72 67 65 74 69 63 20 42 6F 79">(SE) Energetic Boy</Speaker>
     <Speaker id="3" rawBytes="28 53 45 29 20 4D 65 65 6B 2D 4C 6F 6F 6B 69 6E 67 20 47 69 72 6C">(SE) Стримана дівчина</Speaker>
     <Speaker id="4" rawBytes="4D 65 65 6B 2D 4C 6F 6F 6B 69 6E 67 20 47 69 72 6C">Стримана дівчина</Speaker>
     <Speaker id="5" rawBytes="53 70 75 6E 6B 79 20 42 6F 79">Енергійний хлопчик</Speaker>
-    <Speaker id="6" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+    <Speaker id="6" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Yuko Nishiwaki</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Тренерка і її хлопець![n]{f 1 1}]]></Page>
@@ -120,8 +120,8 @@
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}Влаштуймо маленьку вечірку? Відсвяткуємо нашу першу спробу в тренерство.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="SEL_027_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я «за».]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нащо?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why?]]></Option>
   </Dialog>
   <Dialog id="32" name="MSG_028_0_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}{f 5 13 12 15 106}Ура! Не можу дочекатись![n]{f 1 1}]]></Page>
@@ -135,7 +135,7 @@
   </Dialog>
   <Dialog id="35" name="MND_031_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко випромінює ентузіазм.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MSG_032_0_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 48 0 0}Знаєш... Спочатку я зовсім не вірила у себе...[n]{f 1 1}]]></Page>
