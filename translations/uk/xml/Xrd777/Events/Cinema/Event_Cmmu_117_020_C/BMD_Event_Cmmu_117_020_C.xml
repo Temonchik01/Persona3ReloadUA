@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_117_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_117_020_C\BMD_Event_Cmmu_117_020_C.uasset" dialogs="17">
   <Speakers>
-    <Speaker id="0" rawBytes="41 6B 69 6E 61 72 69 20 4B 61 6D 69 6B 69">Акінарі Камікі</Speaker>
+    <Speaker id="0" rawBytes="41 6B 69 6E 61 72 69 20 4B 61 6D 69 6B 69">Akinari Kamiki</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 117 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ти... не такий, як інші.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Чим я відрізняюся?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Справді?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Серйозно?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 117 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Я не очікував побачити тебе знову.[n]{f 1 1}]]></Page>
@@ -28,7 +28,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 117 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 117 0 25 25}Помирати не так уже й страшно, правда? Навіщо тягнути час у цьому світі?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}У цьому є сенс.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You have a point.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я не згоден.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я ніколи про це не думав.]]></Option>
   </Dialog>
@@ -52,7 +52,7 @@
   </Dialog>
   <Dialog id="12" name="MND_010_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Камікі зацікавився мною.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились…[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="SYS_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused[n]{f 1 1}]]></Page>
@@ -66,6 +66,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 117 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Сподіваюсь... ми ще побачимось.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Камікі,[n]а тоді вирушив назад до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Камікі,[n]а тоді повернувся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
