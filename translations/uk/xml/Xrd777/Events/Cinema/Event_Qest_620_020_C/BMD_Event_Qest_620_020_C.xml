@@ -2,7 +2,7 @@
 <BMD source="BMD_Event_Qest_620_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_620_020_C\BMD_Event_Qest_620_020_C.uasset" dialogs="6">
   <Speakers>
     <Speaker id="0" rawBytes="56 6F 69 63 65 20 6F 6E 20 74 68 65 20 50 68 6F 6E 65">Voice on the Phone</Speaker>
-    <Speaker id="1" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+    <Speaker id="1" rawBytes="45 6C 69 7A 61 62 65 74 68">Елізабет</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 1 0 0}Hello, this is Elizabeth speaking.[n]{f 1 1}]]></Page>
@@ -14,8 +14,8 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 5 0 0}Well then... I wish you a safe journey.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Elizabeth said that a previously[n]blocked path is now open.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should check it out next[n]time I go to Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Елізабет сказала, що раніше[n]заблокований шлях тепер відкритий.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Треба буде перевірити, коли[n]наступного разу буду в Тартарі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message"/>
   <Dialog id="4" name="MSG_004_0_0" type="Message"/>
