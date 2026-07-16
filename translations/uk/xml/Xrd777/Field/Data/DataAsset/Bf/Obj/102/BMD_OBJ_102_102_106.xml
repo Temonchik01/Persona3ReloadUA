@@ -37,7 +37,7 @@
   </Dialog>
   <Dialog id="9" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Охолодити його]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
   </Dialog>
   <Dialog id="10" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я поклав {f 4 4 1 37 1 0} в холодильник.[n]{f 1 1}]]></Page>
@@ -49,7 +49,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}, який я поклав сюди[n]раніше, достатньо охолонув...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_MYSTERYFOOD_GET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..![n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав у холодильник[n]давним-давно, тепер виглядає зовсім інакше...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_MYSTERYFOOD_GET2" type="Message">
@@ -64,7 +64,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«»Винен! Ось, обміняю на рамен. -Джюнпеі»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_GET_0617_0630" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, які я поклав сюди раніше, зникли...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, зник...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...На їхньому місці лежить записка. Схоже, вона від шефа...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_GET2_0617_0630" type="Message">
@@ -85,14 +85,14 @@
   </Dialog>
   <Dialog id="22" name="MND_GET_0914_0926" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, зник...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На місці, де я залишив тайякі, лишилась записку...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На місці, де я залишив тайякі,[n]лишилась записка...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_GET2_0914_0926" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Для {f 4 1}. Вибач, я випадково з'їв твій тайякі, думаючи, що він для мене.»[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Візьми це натомість. -Санада»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_GET_0927_1025" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, охолонув...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, які я поклав сюди[n]раніше, охололи...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Поруч лежать закуски[n]зі запискою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_GET2_0927_1025" type="Message">
@@ -111,7 +111,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Жартую. Вибач, що з'їв його. Візьми це, і ми квити, добре? -Джюнпеі»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MND_GET_1224_1225" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, охолонув...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, які я поклав сюди[n]раніше, охололи...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Під ним захована листівка.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_GET2_1224_1225" type="Message">
@@ -125,7 +125,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я з радістю прийму їх...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_GET_0110_0121" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, охолонув...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, які я поклав сюди[n]раніше, охололи...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На кошику поруч з тайякі є записка...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_GET2_0110_0121" type="Message">
@@ -138,7 +138,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я з радістю візьму одну...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MND_GET_0122_0131" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, охолонув...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, які я поклав сюди[n]раніше, охололи...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Поруч велика кількість[n]{f 4 4 1 37 1 1}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MSG_GET_0122_0131" type="Message">
@@ -146,7 +146,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Давайте доживемо до 31 січня, незважаючи ні на що! -Фуука»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MND_GET3_0122_0131" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я з радістю прийму їх...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я з радістю візьму одну...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MND_068_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Треба не забути передати це Елізабет[n] десь {f 0 1 2}завтра або пізніше{f 0 1 27}...[n]{f 1 1}]]></Page>
