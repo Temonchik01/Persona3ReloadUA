@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Scr_Event_Fild_505_002_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_505_002_C\Script\BMD_Scr_Event_Fild_505_002_C.uasset" dialogs="348">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="4" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="5" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="6" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
-    <Speaker id="7" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="4" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="5" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="6" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="7" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1086 0 0}{f 4 23 1 2 1 25 25}Гей, гарна робота, {f 4 1}. З тебе вийде справжній лідер.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звичайно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Naturally.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Мені просто пощастило.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хочеш спробувати?]]></Option>
   </Dialog>
@@ -77,7 +77,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Тобі не здається, що ми стали ще сильнішими?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_018_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Є куди вдосконалюватися.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не захоплюйся.]]></Option>
   </Dialog>
@@ -152,7 +152,7 @@
   </Dialog>
   <Dialog id="38" name="SEL_038_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так, давай повернемося.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not right now.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти точно не втомився?]]></Option>
   </Dialog>
   <Dialog id="39" name="MSG_039_0_0" type="Message">
@@ -218,7 +218,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 9 -1 -1 0 0}{f 4 23 1 3 9 25 25}Говорячи бейсбольною термінологією, можна сказати, що ас команди, Іорі, провів повну гру і повністю закрив суперника...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="SEL_056_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не зрозумів.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't get it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це не бейсбол.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Але я тут ас.]]></Option>
   </Dialog>
@@ -264,7 +264,7 @@
   <Dialog id="68" name="SEL_068_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ходімо назад.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Йдемо далі.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Дай мені подумати.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let me think about it.]]></Option>
   </Dialog>
   <Dialog id="69" name="MSG_069_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3113 0 0}Зрозумів. Давай перегрупуємося.[n]{f 1 1}]]></Page>
@@ -282,7 +282,7 @@
   <Dialog id="73" name="SEL_073_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Давай зробимо це.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я не впевнений щодо цього...]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Дай мені подумати.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let me think about it.]]></Option>
   </Dialog>
   <Dialog id="74" name="MSG_074_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 9 -1 -1 0 0}{f 3 1 3 0 -1 3108 0 0}Ось це настрій. Я готовий триматися до кінця, якщо ти теж.[n]{f 1 1}]]></Page>
@@ -346,7 +346,7 @@
   </Dialog>
   <Dialog id="91" name="SEL_091_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Все пройшло добре.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я тільки починаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я тільки почав.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це виснажливо.]]></Option>
   </Dialog>
   <Dialog id="92" name="MSG_092_0_0" type="Message">
@@ -369,7 +369,7 @@
   <Dialog id="97" name="SEL_097_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ходімо назад.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я хочу йти далі.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не впевнений.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure.]]></Option>
   </Dialog>
   <Dialog id="98" name="MSG_098_0_0" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4115 0 0}Я не проти. Краще бути готовим до всіх можливих непередбачуваних ситуацій.[n]{f 1 1}]]></Page>
@@ -385,7 +385,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4085 0 0}Тепер шлях вільний. Продовжимо?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="102" name="SEL_102_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звичайно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ходімо назад.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Якщо ти можеш.]]></Option>
   </Dialog>
@@ -404,8 +404,8 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Цілком ймовірно, що далі ти зіткнешся з більшими тактичними викликами, але я вірю, що ти впораєшся.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="107" name="SEL_107_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Залиш це мені.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не знаю...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave it to me.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вибір невеликий.]]></Option>
   </Dialog>
   <Dialog id="108" name="MSG_108_0_0" type="Message">
@@ -424,9 +424,9 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4112 0 0}Тепер ми зможемо просуватися далі, але... як ти думаєш, якої висоти ця вежа?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="113" name="SEL_113_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки не маю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No idea.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ми можемо бути біля вершини.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Немає сенсу зациклюватися на цьому.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No use dwelling on it.]]></Option>
   </Dialog>
   <Dialog id="114" name="MSG_114_0_0" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4028 0 0}Я вважаю, що у нас попереду ще довгий шлях, але частина нашої роботи полягає в тому, щоб з'ясувати це достеменно.[n]{f 1 1}]]></Page>
@@ -469,7 +469,7 @@
   <Dialog id="125" name="SEL_125_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}На сьогодні досить.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я можу продовжувати.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Для мене це не має значення.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не має значення для мене.]]></Option>
   </Dialog>
   <Dialog id="126" name="MSG_126_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Зрозуміло. Тоді давайте повернемося до входу.[n]{f 1 1}]]></Page>
@@ -486,7 +486,7 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Але чи треба продовжувати?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="130" name="SEL_130_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я хочу додому.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти рвешся вперед.]]></Option>
   </Dialog>
@@ -505,7 +505,7 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}До речі, нагадаю: ви вже навчились давати Пас та використання Теургії в бою?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="135" name="SEL_135_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Певною мірою.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}To a certain extent.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вони мені не були потрібні.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це як друга натура.]]></Option>
   </Dialog>
@@ -527,7 +527,7 @@
   </Dialog>
   <Dialog id="141" name="SEL_141_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це точно.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}...Чому "каппа"?]]></Option>
   </Dialog>
   <Dialog id="142" name="MSG_142_0_0" type="Message">
@@ -547,7 +547,7 @@
   </Dialog>
   <Dialog id="147" name="SEL_147_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Все пройшло добре.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нам просто пощастило.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Просто пощастило.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти молодець, Аїґіс.]]></Option>
   </Dialog>
   <Dialog id="148" name="MSG_148_0_0" type="Message">
@@ -568,7 +568,7 @@
   </Dialog>
   <Dialog id="153" name="SEL_153_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Повертаємось назад.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я можу йти далі.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я можу продовжувати.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти дуже спокійна.]]></Option>
   </Dialog>
   <Dialog id="154" name="MSG_154_0_0" type="Message">
@@ -588,7 +588,7 @@
   <Dialog id="158" name="SEL_158_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Звучить як план.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я хочу додому.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти рвешся туди.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти рвешся вперед.]]></Option>
   </Dialog>
   <Dialog id="159" name="MSG_159_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6025 0 0}{f 4 23 1 7 1 25 25}Так! Тоді давайте рок-н-ролити![n]{f 1 1}]]></Page>
@@ -605,9 +605,9 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Чи то Пас, чи то Теургією, ти досконало володієш кожною тактикою, яка є у твоєму розпорядженні, чи не так?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="163" name="SEL_163_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Певною мірою.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}To a certain extent.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це як друга натура.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не впевнений.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm not sure.]]></Option>
   </Dialog>
   <Dialog id="164" name="MSG_164_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6131 0 0}{f 4 23 1 7 1 25 25}Ти не з тих, хто хвалиться, чи не так, {f 4 2}? Хе-хе, нам пощастило, що ти у нас є.[n]{f 1 1}]]></Page>
@@ -625,9 +625,9 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6087 0 0}Ми легко їх здолали. Вони практично як сидячи каппи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="169" name="SEL_169_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти маєш рацію.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}...Чому "каппи"?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це точно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}...Чому "каппа"?]]></Option>
   </Dialog>
   <Dialog id="170" name="MSG_170_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6132 0 0}{f 4 23 1 7 1 25 25}Хехе, не ображайтеся на містера Каппу, але вираз трохи кумедний, чи не так?[n]{f 1 1}]]></Page>
@@ -646,7 +646,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Ця перемога була досягнута завдяки твоїм настановам, {f 4 1}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="175" name="SEL_175_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Naturally.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це все завдяки тобі.]]></Option>
   </Dialog>
@@ -672,7 +672,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Ми повинні продовжувати йти? Чи настав час зробити перерву?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="181" name="SEL_181_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай повернемось.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Повертаємось назад.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Йдемо далі.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я в роздумах.]]></Option>
   </Dialog>
@@ -692,9 +692,9 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Нічого, якщо ми продовжимо? Я б хотів закріпити те, що дізнався, поки ще свіже.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="186" name="SEL_186_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, погнали.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's do it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Спершу ходімо назад.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я подумаю про це.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll think about it.]]></Option>
   </Dialog>
   <Dialog id="187" name="MSG_187_0_0" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7116 0 0}{f 4 23 1 8 1 25 25}Дякую. Я зроблю все можливе, щоб бути корисним.[n]{f 1 1}]]></Page>
@@ -751,13 +751,13 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 4 23 1 8 2 25 25}Невідомо, які козирі у них в рукаві. Будьмо пильними.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="202" name="MSG_202_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="203" name="MND_203_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару виглядає щасливим, що ми перемогли.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="204" name="MSG_204_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="205" name="SEL_205_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хороший хлопчик.]]></Option>
@@ -765,16 +765,16 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так тримати.]]></Option>
   </Dialog>
   <Dialog id="206" name="MSG_206_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="207" name="MND_207_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару виглядає гордим за себе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="208" name="MSG_208_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="209" name="MSG_209_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8009 0 0}(пих) (пих)[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8009 0 0}*pant* *pant*[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="210" name="MND_210_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару схоже важко дихає.[n]{f 1 1}]]></Page>
@@ -789,7 +789,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дозвольте мені оцінити ситуацію.]]></Option>
   </Dialog>
   <Dialog id="213" name="MSG_213_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="214" name="MND_214_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару схоже зі мною згоден.[n]{f 1 1}]]></Page>
@@ -830,7 +830,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару здається рішуче налаштованим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="225" name="MSG_225_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8004 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8004 0 0}арф![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="226" name="MND_226_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару схоже зі мною згоден.[n]{f 1 1}]]></Page>
@@ -842,10 +842,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару здається рішуче налаштованим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="229" name="MSG_229_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 4 23 1 9 0 25 25}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 4 23 1 9 0 25 25}арф![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="230" name="MSG_230_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8008 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8008 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="231" name="MSG_231_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Гарна робота. Ти теж, Коро.[n]{f 1 1}]]></Page>
@@ -853,17 +853,17 @@
   </Dialog>
   <Dialog id="232" name="SEL_232_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}З нами все буде гаразд.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я трохи нервую.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a little nervous.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}У тебе вийде, Коромару.]]></Option>
   </Dialog>
   <Dialog id="233" name="MSG_233_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="234" name="MSG_234_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, ти теж почуваєшся впевнено, Коро? Схоже у тебе вистачає хоробрості.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="235" name="MSG_235_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="236" name="MSG_236_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Коро підбадьорює. Він тебе прикриє![n]{f 1 1}]]></Page>
@@ -875,13 +875,13 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, схоже, хтось сповнений духу. Ми будемо розраховувати на тебе, Коро.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="239" name="MSG_239_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="240" name="MSG_240_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5011 0 0}Вартовий переможений! Дякуємо всім за вашу важку працю.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="241" name="MSG_241_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="242" name="MSG_242_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я знаю, що просто констатую очевидне, але Коро звісно дивовижний, чи не так?[n]{f 1 1}]]></Page>
@@ -911,13 +911,13 @@
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}{f 4 23 1 9 1 25 25}Арф, арф![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="250" name="MSG_250_0_0" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, Коро виглядає таким щасливим. Бачиш? Він розуміє.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, Коро виглядає щасливо. Бачиш? Він розуміє.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="251" name="MSG_251_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 4 23 1 9 0 25 25}Так тримати, Коро![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="252" name="MSG_252_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="253" name="MSG_253_0_0" type="Message">
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9049 0 0}Схоже, ми тут закінчили...[n]{f 1 1}]]></Page>
@@ -987,9 +987,9 @@
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}Попереду будуть ще важчі бої, тож будьте готові до цього.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="272" name="SEL_272_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Можеш на мене покластися.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You can count on me.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я з ними впораюся.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишаю це тобі.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll leave it to you.]]></Option>
   </Dialog>
   <Dialog id="273" name="MSG_273_0_0" type="Message">
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9069 0 0}Не хочу ставити тебе в незручне становище, але наша перемога залежить від тебе.[n]{f 1 1}]]></Page>
@@ -1098,7 +1098,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Як ти думаєш, {f 4 1}? Будь-які занепокоєння щодо руху вперед?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="300" name="SEL_300_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зовсім ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}None at all.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Лише трохи.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені хвилюватися?]]></Option>
   </Dialog>
@@ -1139,7 +1139,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 4 23 1 8 2 25 25}Я хочу стати ще сильнішою, щоб допомогти полегшити життя іншим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="312" name="SEL_312_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}З нетерпінням чекаємо.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Looking forward to it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти вже досить сильний.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ми тобі теж допоможемо.]]></Option>
   </Dialog>
@@ -1214,7 +1214,7 @@
   <Dialog id="331" name="SEL_331_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я теж так думаю.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}А якщо нічого немає?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Є тільки один спосіб дізнатися.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Only one way to find out.]]></Option>
   </Dialog>
   <Dialog id="332" name="MSG_332_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 -1 0 0}{f 3 1 3 0 -1 1028 0 0}{f 4 23 1 2 6 25 25}Чесно кажучи, я була б здивована, якби там взагалі нічого не було...[n]{f 1 1}]]></Page>
@@ -1247,7 +1247,7 @@
   <Dialog id="340" name="SEL_340_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти просто гориш.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Давай не будемо поспішати.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай повернемось.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Повертаємось назад.]]></Option>
   </Dialog>
   <Dialog id="341" name="MSG_341_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2095 0 0}Чорт забирай, так і є. Я зрозумів, що просто байдикування ні до чого не приведе.[n]{f 1 1}]]></Page>
