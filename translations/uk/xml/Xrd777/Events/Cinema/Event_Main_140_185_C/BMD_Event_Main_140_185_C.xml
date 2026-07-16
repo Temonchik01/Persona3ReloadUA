@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_140_185_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_185_C\BMD_Event_Main_140_185_C.uasset" dialogs="6">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 5 -1 0 0}{f 3 1 1 0 0 1 0 0}Even the food was fancier than I could have imagined.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 2 0 0}I've never had to think about the proper way to use a fork and knife so much.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 5 -1 0 0}{f 3 1 1 0 0 3 0 0}Oogh... I can't eat anymore... Not even another bite of caviar...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 5 -1 0 0}{f 3 1 1 0 0 4 0 0}No one said you had to try and eat all of it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 5 0 0}Well, I'm sure we're all exhausted from the trip. Why don't you go rest up in your rooms?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 6 0 0}Oh, are you not coming with us, Senpai?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 5 -1 0 0}{f 3 1 1 0 0 7 0 0}...Yes, I'll join you in just a minute.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
