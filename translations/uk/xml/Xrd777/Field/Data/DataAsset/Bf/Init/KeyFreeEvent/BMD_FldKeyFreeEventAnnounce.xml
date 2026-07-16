@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldKeyFreeEventAnnounce.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Init\KeyFreeEvent\BMD_FldKeyFreeEventAnnounce.uasset" dialogs="14">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Перед дошкою оголошень[n]утворюється натовп...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, гляну перед тим[n]як піду в учительську...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Перед дошкою оголошень утворюється натовп...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, я загляну перед тим[n]як йти в учительську....[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message"/>
   <Dialog id="2" name="MSG_002_0_0" type="Message"/>
@@ -23,13 +23,13 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені треба йти в учительську...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Заняття на сьогодні завершено.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Class has ended for today.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_025_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Усе моє тіло відчуває себе млявим. Я занадто виснажений, щоб боротися з втомою.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завтра церемонія вручення[n]дипломів третьокурсникам.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Треба сьогодні рано лягти спати.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The third-years' graduation[n]ceremony is tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head to bed early tonight.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_027_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2002 0 0}Чи варто нам також оглянути школу, поки ми тут?[n]{f 1 1}]]></Page>
