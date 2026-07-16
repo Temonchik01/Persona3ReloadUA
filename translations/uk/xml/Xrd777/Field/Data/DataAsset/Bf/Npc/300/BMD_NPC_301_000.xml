@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_301_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_301_000.uasset" dialogs="24">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 61 77 6E 69 6E 67 20 53 74 75 64 65 6E 74">Учениця, що підлещується</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}*sigh* He's sooo hot...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Wait, why am I telling you this?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Well, whatever. You have to admit, he is a hottie.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}*sigh*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_001_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The fawning student continues to sigh...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}He's different than I imagined...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}From what I can tell, he has no personality.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Eww! Did you see that!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}That guy over there just picked his nose and then... flung it everywhere![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}So gross...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}That guy there... Isn't he acting funny?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, he is.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Yeah... I thought he seemed weird...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Really? Well, if you ask me, he seems weird...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Uh-oh... That guy's staring at me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}I hope he's not going to ask me out...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}You really have to be careful who you date nowadays.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}They say love is blind, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}There's no way I could ever date a guy like that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The first thing I do when I get to school is look for him...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Just seeing him makes me smile.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}*sigh* What should I do...? How should I express my feelings for him...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}I know I can't go on without talking to him, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Maybe I would be satisfied just staring at him from afar.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}*sigh* What should I do...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Oh my god! Did you see that!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}He just threw a rock at a bird resting on that branch![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}That's so cruel...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Did you see that?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}He just threw a rock at a bird resting on that branch![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}If he keeps that up, he might get possessed by evil spirits...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}But that's just a rumor, so probably not.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Did you just see that!? Look at that guy over there![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}He just spit his gum into the fountain![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}So disgusting... What is he thinking!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}That guy who's been following me... Is he blushing?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Umm, am I in trouble...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Is this what they call "disillusionment"? I didn't realize he was that kind of guy...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}I'm gonna stop following him. This is so disappointing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}The last thing I need is another guy like him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Is that guy who keeps following me around gonna talk to me or what?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}No normal guy would wait this long to talk to a girl, right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}See that guy over there? I think he's been following me around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}What should I do in a situation like this?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Hmm... It feels like someone's watching me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Is it just me...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}God! This guy following me around just won't quit![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}He must be one stubborn guy to follow anyone around this much.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}He'll probably be a detective or something when he grows up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Huh... I still get the sense that someone's following me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}Hey, there's someone over there. Hm, that guy looks familiar...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}You see that guy over there, right? You know, the one who's been following me?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 301}I don't know how to get rid of him... So I guess I'll just let him do whatever it is he's doing.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
