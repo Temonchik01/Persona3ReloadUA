@@ -11,7 +11,7 @@
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти в кабінет]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, я не зможу отримати[n]більше ліків сьогодні...[n]{f 1 1}]]></Page>
@@ -39,6 +39,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я повинен спробувати прийти, коли буду втомлений[n]від дослідження Тартару минулої ночі...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Прямо зараз, Аркана Помірності[n]може допомогти мені стати більш сильним...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
