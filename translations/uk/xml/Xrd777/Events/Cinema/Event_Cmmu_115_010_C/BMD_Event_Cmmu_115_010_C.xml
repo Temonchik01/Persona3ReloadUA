@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_115_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_115_010_C\BMD_Event_Cmmu_115_010_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 61 6D 6F 72 75 20 48 61 79 61 73 65">Мамору Хаясе</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}Гм?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 1 0 25 25}Гей, жуй швидше — ти сповільнюєшся! Це все, на що ти здатен?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це ще не кінець!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Хочеш побачити, на що я здатен!?]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 1 1 25 25}О, притримуєш сили на останній ривок, га? Ну тоді — вперед![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 2 25 25}Нумо! Нумо![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 4 25 25}Ц-це ж заборонена техніка палаючого язика! Тоді я теж так зроблю![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_004_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 2 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 4 23 0 1 2 25 25}Нумо! Нумо! Ну... Ай! Гаряче! Гаряче![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хаясе і я[n]доїли одночасно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 1 0 25 25}Уф... Схоже, нічия.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 1 1 25 25}Не багато хто може йти в ногу зі мною. Я вражений, {f 4 1}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я думав, що виграю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Насправді, я очікував програти.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 1 1 25 25}Справді? Значить, це було близько. Уф...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 1 25 25}І я так само. Не думав, що переможу. Уф...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 0 25 25}Ти виявив сміливість, викликавши мене на поєдинок із такоякі. Я це поважаю.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 1 0 25 25}Я ще при першій зустрічі побачив у тобі потенціал.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На обличчі Хаясе з’явилася безстрашна усмішка.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зірковий бігун з іншої[n]школи зацікавився мною.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 4 23 0 1 0 25 25}Як на мене, нічия — це те саме, що програш.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 0 25 25}Як і обіцяв, пробіжу сто кіл по місту. А ти роби те, що вважаєш за потрібне.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 115 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}{f 4 23 0 1 1 25 25}Оце була битва! Побачимось![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я вирішив повернутися до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

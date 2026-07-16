@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_109_100_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_100_C\BMD_Event_Cmmu_109_100_C.uasset" dialogs="24">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Чіхіро Фушімі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Пам'ятаєш збірку ілюстрацій, яку я хотіла?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Я купила всі три. Просадила усі свої кишенькові, але воно того варте![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Ця книга від того ж художника. Якщо тобі цікаво, можеш її позичити.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Просто пообіцяй думати про мене, коли читатимеш її...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Thank you.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't read shojo manga.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 9 15 109}Ох, п-пусте...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Я читала її стільки разів, що практично вивчила напам'ять.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SYS_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Нічого страшного. Але ти можеш поки потримати її при собі?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Мене тішитиме думка, що ти зберігаєш щось важливе для мене, {f 4 1}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SYS_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Уже стемніло.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}С-стривай! Мені мама подзвонила...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Вона сказала, що їй доведеться затриматися на роботі...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}І я ч-чула, що останнім часом у цьому районі були напади на жінок...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 22 0 109 29 25 20}М-мені справді не хочеться залишатися самій...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Залишися зі мною, будь ласка. Хоча б на годину?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 1 0}{f 3 1 1 0 0 14 0 0}Н-невже мені доведеться це пояснювати!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's getting late...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Lock your doors.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}На півгодини! Будь ласка!![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 1 0}{f 3 1 1 0 0 16 0 0}Н-ну ж бо! Я використовувала цю історію просто як виправдання!..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Я хочу, щоб ти залишився, {f 4 1}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_014_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Або, якщо бути точнішою, я не хочу, щоб ти повертався до свого гуртожитку...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Там так багато привабливих дівчат, як от президентка студентської ради...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 10 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}Я знаю, що рано чи пізно тобі доведеться повернутися, але...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 1 0}{f 3 1 1 0 0 21 0 0}Чи могли б ми побути тут разом ще трохи?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 1 0}{f 3 1 1 0 0 22 0 0}{f 4 22 0 109 28 25 20}Я хочу, щоб ти залишився. Мені просто потрібно знати... що ти дивишся тільки на мене.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чіхіро зізналася мені в коханні...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SYS_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Соціальний зв'язок «Справедливість» досяг свого максимального рівня! Тепер ви можете створити {f 0 1 35}Мелхіседека{f 0 1 27}, руку правосуддя![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 1 0}{f 3 1 1 0 0 23 0 0}Ох... {f 4 1}...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 1 0}{f 3 1 1 0 0 24 0 0}Поруч з тобою так тепло...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я провів багато часу з Чіхіро.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

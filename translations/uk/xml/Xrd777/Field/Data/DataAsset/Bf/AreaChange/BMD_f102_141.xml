@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_f102_141.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\AreaChange\BMD_f102_141.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="53 68 75 6A 69 20 49 6B 75 74 73 75 6B 69">Шюджі Ікуцукі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_1103_MITURU_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Ну, тоді ми пішли.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_1103_IKUTUKI_01" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 222 0 -1 -1 0 0}Гаразд. Будьте обережні.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_1103_MITURU_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Ходімо![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

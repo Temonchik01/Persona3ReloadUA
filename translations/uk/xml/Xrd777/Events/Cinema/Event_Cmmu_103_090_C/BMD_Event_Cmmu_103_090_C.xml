@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_103_090_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_103_090_C\BMD_Event_Cmmu_103_090_C.uasset" dialogs="17">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 6B 6F">Міцуко</Speaker>
+    <Speaker id="1" rawBytes="42 75 6E 6B 69 63 68 69">Бункічі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ох, любий, ти помилився.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}«Ґеккоукан» не так пишеться...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Знаю я, знаю![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Я рідко пишу, тому трохи забувся як виглядає це слово.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Мені трохи шкода всіх людей, які боролися за порятунок цього дерева...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}О, {f 4 2}! Про вовка промовка![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Я пишу листа — те, чого не робив уже вічність. Звик, що клавіатура все робить за мене![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Здивований? Взагалі-то я ще той досвідчений користувач ПК![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Про що йдеться у листі?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}А чого лист?]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 5 13 6 5 103}Ні-і, ні, не дивися! Я соромлюся! Хе-хе-хе![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Ми скажемо тобі за слушної нагоди, {f 4 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Цікаво що в листі? Мабуть, у захваті? Навіть до нестями?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_008_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У захваті.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}До нестями.]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Ми так само.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Твій ентузіазм заразний. Просто розмовляючи з тобою, ми вже відчуваємо, як серце починає битися швидше.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Тільки глянь на мою дружину. Радіє, як та школярка.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Ми так само.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Ми кожного дня чекаємо можливості побачити тебе знову.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Іноді ти навіть змушуєш мене почуватися розумнішим! Мабуть, варто повернутися до школи... Ох, жартую.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що ці двоє глибоко довіряють мені.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що ми стаємо ближчими...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 103 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}З усім тим... Сподіваюся, ми зможемо завершити цю справу до твого наступного візиту.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з літнім подружжям[n] і повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldNPC_Entrance_Sanada.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Sanada.uasset" dialogs="85">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ходім разом.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я подумаю про це.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити прогрес]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Забудь]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аїґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпей]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Санада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Амада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Араґакі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Коромару]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не входити]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Запитати про ціль]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до станції]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Почати операцію]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_SANADA_PARTY_IN_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Гаразд, поїхали.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_SANADA_PARTY_OUT_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Гаразд, поїхали.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_SANADA_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Що ж, це залежить від вас. Гаразд, тоді...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_SANADA_PARTY_OVER_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Схоже, група вже заповнена.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_SANADA_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}З ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_SANADA_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}З ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_SANADA_PARTY_OVER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Група вже заповнена.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_SANADA_PARTY_OUT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Має бути гідним суперником. Ви готові?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_SANADA_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Що ж, це залежить від вас. Гаразд, тоді...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_SANADA_TUTORIAL_BEFO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Пам'ятай, що Такеба та Джюнпей не мають справжнього бойового досвіду, тому обов'язково прикрийте їх.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_SANADA_TUTORIAL_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Ви чудово попрацювали, але вам не доведеться нести цей тягар вічно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}Я теж вам допоможу... Як тільки загоїться ця клята рана...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_SANADA_THEURGIA_BEFO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}«Теургія», так? Я з нетерпінням чекаю, щоб побачити, як це працює.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Не зважаймо на це, зробимо все, як завжди. Для Міцуру це теж перша справжня битва за довгий час.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_SANADA_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Що ж, це залежить від вас. Гаразд, тоді...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_SANADA_PARTY_OVER_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Група повна.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_SANADA_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}З ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_SANADA_PARTY_IN_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Якщо вони так охоче беруть нас знову після минулого разу, вони або дуже впевнені...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Або вони мають щось у рукаві. Але це не має значення - ми не програємо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_SANADA_PARTY_OUT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Чого ти чекаєш? Ходімо.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Якщо вони наполягатимуть на тому, щоб заважати нам, то я просто розчищу дорогу своїми кулаками.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_SANADA_PARTY_IN_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Сподіваюся, Шінджі зараз втовкмачує тому Джіну що-небудь...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_SANADA_PARTY_OUT_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Так чи інакше, давайте поспішати. Ми не можемо дозволити собі гаяти тут багато часу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_SANADA_PARTY_IN_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Схоже, у нас буде шанс вирішити це, перш ніж ми зможемо рухатися далі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}Ти повинен дозволити мені битися з тобою, {f 4 1}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_SANADA_PARTY_OUT_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3012 0 0}Гаразд, ви готові?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}Покажемо йому, з чого ми зроблені![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_SANADA_PARTY_IN_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3012 0 0}На нашому шляху нікого не залишилося.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Арена готова, і наш суперник чекає. Я покажу йому все, на що здатен.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_SANADA_PARTY_OUT_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Ось воно. Все вирішить цей бій.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}Я дійшов так далеко лише тому, що всі тут були в моєму кутку. А тепер давайте візьмемо нашу перемогу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_SANADA_PARTY_OUT_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Чого ти чекаєш?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_SANADA_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}З ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_SANADA_PARTY_IN_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Нам відрізано шлях до відступу, і ми замкнені в клітці з Тінню.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Хех, це має бути цікаво.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_SANADA_PARTY_OVER_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Група вже заповнена.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_SANADA_PARTY_CHANGE_" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}З ким мені помінятися?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_SANADA_PARTY_IN_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Не будьте занадто самовпевненими.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_SANADA_PARTY_IN_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3012 0 0}Тінь та Стреґа... Гаразд. Приберемо їх обох одним махом.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Я розігрівся і готовий почати, коли ви будете готові.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_SANADA_PARTY_IN_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Я не знаю, чого очікувати, але якщо до цього причетний Стреґа...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це може бути пастка, але зараз у нас немає вибору. Ходімо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_SANADA_PARTY_IN_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3012 0 0}Яким би не був наш супротивник, це не має значення. Для моїх кулаків це не має різниці.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_SANADA_PARTY_IN_10" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Ей, тож про Шінджі...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}... Неважливо. Зараз не час відволікатися. Готова?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_SANADA_PARTY_OUT_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3136 0 0}Гм? Що сталося?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Переконайся, що ти впевнений у тому, кого береш у бій.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_SANADA_PARTY_OUT_AFT" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Що ж, це залежить від вас. Гаразд, тоді...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_SANADA_PARTY_OVER_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Група повна.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_SANADA_PARTY_IN_11" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Тепер починається наша справжня битва.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Вперед. Час для останнього раунду.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_SANADA_PARTY_IN_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Це те, що я хотів почути![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_SANADA_PARTY_OUT_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Ви готові?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Вирубимо його за один раунд![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_SANADA_PARTY_OUT_TKJ" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3012 0 0}Йдеться не про помсту...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Йдеться про те, щоб зробити те, що потрібно зробити...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_SANADA_PARTY_OUT_CHI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Ха... Знову вона...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Я турбуюся про Джюнпея. Ходімо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_0523_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3116 0 0}Нарешті я знову можу пересуватися так, як хочу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Звісно, я продовжував тренуватися навіть під час одужання.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Тож я не повинен бути менш здібним зараз. Можете на мене розраховувати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_0602_0605_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3024 0 0}Я з нетерпінням чекаю на те, щоб дізнатися правду про ці історії про привидів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Що ж, удачі вам.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_0606_0607_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Ви повинні стати сильнішими, щоб захистити себе.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}А битися в справжніх боях - найкращий спосіб тренуватися для майбутніх битв, тож ходімо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_0613_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Mitsuru's coming back to fight, and Yamagishi will be providing assistance.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Battles are going to get more interesting. As the leader, you better get motivated.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_0623_0707_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}The further up we go, the stronger our enemies become.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Make sure you know all our strengths and weaknesses.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}I don't want us to get wiped out because we were careless.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_0709_0717_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3121 0 0}I didn't expect the Shadows at the hotel to attack us mentally.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}It was a good lesson in expecting the unexpected, even if it wasn't exactly an enjoyable experience.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_0718_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Our trip to Yakushima's coming up, but don't start slacking just yet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}The Shadows aren't going to take it easy on us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_0724_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Honestly, I thought an "anti-Shadow weapon" would be something more imposing...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}But, for the most part, she looks just like a regular human.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Well, I'm sure she'll seem more like a weapon in battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_0725_0805_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}The news of Amada joining us in the dorm sure was unexpected, even if it's only temporary.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Honestly, I've got reservations about this... But that doesn't matter right now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Getting distracted by outside things while in Tartarus is only going to end in failure.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_0806_0809_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}If you don't want miserable test scores, you should take advantage of your summer classes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}What'll be your excuse if you get poor grades? "I was fighting monsters in the school at night"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_0810_0820_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Unlike us, Koromaru can't tell us when he's hurt.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}We'll have to keep a close eye on him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_0821_0827_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Are you bummed that you're spending your summer break exploring Tartarus?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Well, think about it like this: it's a unique experience most people will never have.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}How's that for summer memories?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_0828_0902_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Shadows will attack anyone, even children.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}I'm impressed with Amada. He asked to join our group, even though he knew the risks.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_0903_0904_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3131 0 0}I can't believe I can fight alongside him again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}I'm glad I was persistent.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_0919_1003_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}There are only three more Shadows...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}The countdown has begun... But don't let your guard down until it's all over.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_1005_1016_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Don't bring your emotions into Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}That may sound cold, but your life is constantly on the line here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}If you let yourself get distracted, you'll just be making yourself an easy target.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_1019_1102_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}We'll be saying farewell to Tartarus soon.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}I'd always wanted it to disappear, but now that it's actually going to happen, it doesn't feel real.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Well, I'll be sure to raise as much hell as I can here in the meantime.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_1106_1109_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 2 -1 -1 0 0}{f 3 1 3 0 -1 3090 0 0}Of course, right when we thought Tartarus was finally going to disappear...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}I guess we have to keep putting up with this damn tower.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_1110_1117_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3048 0 0}Are you worried about Mitsuru?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Well, I don't think there's anything we can do...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Just worry about yourself for now. You never know when a Shadow's going to attack.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_1121_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}{f 3 1 3 0 -1 3092 0 0}Tartarus seems like heaven compared to the hell of Mitsuru's execution.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}{f 4 25 4}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}Though it's pretty pathetic thinking that way, too...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_1121_SANADA_DUNGE_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3112 0 0}I'm relieved Mitsuru's back to her old self.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Now I can fully concentrate on Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_1122_1127_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}I know that if we push Junpei forward, he'll be able to take that first step towards getting better.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}The problem is figuring out how to do it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}I wish there was a good way.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_1203_1213_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}You probably have a million things running through your head, but focus on Tartarus for now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Getting yourself killed before the world ends would just be pathetic.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_0101_0114_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}The battle with Nyx will be tough.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}We have to train as much as we can beforehand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}And the Shadows are always getting stronger too. Don't underestimate them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_0115_0130_SANADA_DUN" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}I tried thinking about what the battle with Nyx would be like, but I gave up pretty quickly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Shinji would be disappointed with me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}He'd say something like, "If you've got time to daydream, you've got time to fight."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_0131_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3012 0 0}This day has been a long time coming...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}There's no point getting antsy on the day of the fight. But you probably know that by now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Let's leave it all in the ring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_HANYOU1_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3061 0 0}Shadows spawn without limit here. In terms of sheer numbers, they've got the upper hand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}To offset our disadvantage, we'll have to strategize. Exploiting weaknesses is an example.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}But the first strike is crucial, too. Don't let them see you coming.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_HANYOU2_SANADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}If you skimp on items, you'll be sorry when you take a wallop from an enemy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}But using items excessively isn't good either.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Figuring out a good balance for item use is an important part of combat strategy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_SANADA_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3003 0 0}Hey, put me on the attack today. I'm itching for a good fight.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

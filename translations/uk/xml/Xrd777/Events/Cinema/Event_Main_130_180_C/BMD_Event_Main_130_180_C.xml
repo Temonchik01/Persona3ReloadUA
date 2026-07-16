@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_130_180_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_130_180_C\BMD_Event_Main_130_180_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 61 6C 65 20 59 6F 75 6E 67 20 4D 61 6E">Блідий молодик</Speaker>
+    <Speaker id="1" rawBytes="47 69 72 6C 20 69 6E 20 61 20 44 72 65 73 73">Дівчина в сукні</Speaker>
+    <Speaker id="2" rawBytes="49 6E 74 65 6C 6C 69 67 65 6E 74 20 42 6F 79">Розумний юнак</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Це було швидше, ніж я очікував.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 213 0 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Мушу визнати, це було справжнє шоу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Вони були досить зайняті останні кілька місяців, чи не так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}І, здається, вони також отримали нових рекрутів. Їхній стиль бою надзвичайно захоплюючий.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Не кажучи вже про те, що вони кілька разів проникали у вежу...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Ну, Джіне? Вони наші вороги?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 212 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Може, запитаємо нашого «приятеля»? Скоро з ним побачимося.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}А, так. Чудова ідея.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 1 0 25 25}Враховуючи, що він розділяє нашу долю, було б розумно запитати його думку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 211 5 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}{f 4 23 0 1 5 25 25}Зрештою, у нас не залишилося багато часу...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_105_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_105_030_C\BMD_Event_Cmmu_105_030_C.uasset" dialogs="5">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 61 7A 75 73 68 69 20 4D 69 79 61 6D 6F 74 6F">Кадзуші Міямото</Speaker>
+    <Speaker id="1" rawBytes="54 68 69 72 64 2D 59 65 61 72 20 43 6C 75 62 20 4D 65 6D 62 65 72">Член гуртка з третього курсу</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 6F 20 4E 69 73 68 69 77 61 6B 69">Юко Нішівакі</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 151 -1 0 0}{f 3 1 1 0 0 1 0 0}Добре! Ще разок![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 151 -1 0 0}{f 3 1 1 0 0 2 0 0}Зараз я покажу, на що здатен![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 0 151 -1 0 0}{f 3 1 1 0 0 3 0 0}...га?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 5 151 -1 0 0}{f 3 1 1 0 0 4 0 0}Ммгх![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 5 151 -1 0 0}{f 3 1 1 0 0 5 0 0}Ч-чорт, серйозно!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1001}Міямото![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 4 101 -1 0 0}{f 3 1 1 0 0 7 0 0}Кадз![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

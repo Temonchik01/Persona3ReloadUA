@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_FldNPC_Entrance_Amada.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\EntranceNPC\BMD_FldNPC_Entrance_Amada.uasset" dialogs="57">
+  <Speakers>
+    <Speaker id="0" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+  </Speakers>
+  <Dialog id="0" name="SEL_TALK" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ходім разом.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я подумаю про це.]]></Option>
+  </Dialog>
+  <Dialog id="1" name="SEL_BACK_UP_00" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити прогрес]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Забудь]]></Option>
+  </Dialog>
+  <Dialog id="2" name="SEL_PARTY" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аїґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпей]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Санада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Амада]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Араґакі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Коромару]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишайся напоготові.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="SEL_DOOR" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не входити]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_BACK_UP_01" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SEL_BACK_UP_02" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Запитати про ціль]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо]]></Option>
+  </Dialog>
+  <Dialog id="6" name="SEL_BACK_UP_03" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до клубу "Ескапада"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="7" name="SEL_BACK_UP_04" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Прямувати до станції]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="8" name="SEL_BACK_UP_05" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Почати операцію]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекати]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_AMADA_PARTY_IN_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Будь ласка, візьміть мене з собою на сьогоднішню розвідку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Гаразд! Я зроблю все, що зможу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_AMADA_PARTY_OUT_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Я готовий йти, коли ви будете готові.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_AMADA_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Гаразд...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_AMADA_PARTY_OVER_00" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Гм, схоже, ваша група вже заповнена.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_AMADA_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Мені помінятися з кимось?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_AMADA_PARTY_OVER_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}О, схоже, місця більше немає...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Гаразд! Я зроблю все, що зможу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Гаразд! Я зроблю все, що зможу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_AMADA_PARTY_OUT_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7008 0 0}Нам треба йти, так?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_AMADA_PARTY_OUT_AFTE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Гаразд...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_AMADA_PARTY_IN_01" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}Я нікому не дозволю стати на нашому шляху! Треба йти далі![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Я готовий!..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_AMADA_PARTY_OUT_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Я впевнений, вони стали сильнішими з минулого разу...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Але й ми теж! Тож якщо ми просто...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_AMADA_PARTY_IN_02" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Чому він?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_AMADA_PARTY_OUT_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}... Треба йти далі. Ми повинні битися з Ніксом...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_AMADA_PARTY_IN_03" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}Цього разу ми вирішимо це раз і назавжди...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Будь ласка, дозвольте мені битися![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_AMADA_PARTY_OUT_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}Я не можу програти... бо я сказав, що буду битися за нього...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Тож я не дозволю Стрезі чи будь-кому іншому зупинити мене! Вперед![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_AMADA_PARTY_IN_04" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Можливо, в якомусь сенсі ці хлопці насправді не так вже й відрізнялися від мене...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Але зараз це не має значення. Вперед![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_AMADA_PARTY_OUT_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7132 0 0}Не хвилюйся. Я дивлюся прямо перед собою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Ходімо, Сенпай.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_AMADA_PARTY_IN_05" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Якщо бути чесним... Я збрехав би, якби сказав, що не боюся...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Гаразд! Я зроблю все, що зможу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_AMADA_PARTY_OUT_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Покінчимо з цим.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_AMADA_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Мені помінятися з кимось?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_AMADA_PARTY_IN_06" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}Так ті хлопці теж прийшли сюди... Я не дозволю їм стати у нас на шляху![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Будь ласка, відпустіть мене з вами![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_AMADA_PARTY_IN_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}Я хвилююся за Джюнпея... Ми повинні піти за ним, швидко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Дайте мені знати, чим я можу допомогти![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_AMADA_PARTY_IN_08" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7063 0 0}Цікаво, куди подівся Джюнпей...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_AMADA_PARTY_IN_09" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Стільки всього сталося, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Ось чому ми повинні покласти цьому край! Я знаю, що ми можемо це зробити![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_AMADA_PARTY_IN_AFTER" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Гаразд! Я зроблю все, що зможу![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_AMADA_PARTY_OUT_07" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}Ми повинні покласти цьому край...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Я можу піти, коли ви будете готові.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_AMADA_PARTY_CHANGE_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Мені помінятися з кимось?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_AMADA_PARTY_OUT_TKJI" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}Я можу це зробити.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Що ти збираєшся робити?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_AMADA_PARTY_OUT_CHID" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7129 0 0}Треба йти за Джюнпеєм, швидко.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Я можу піти, коли ви будете готові.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_0828_0902_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}Не хвилюйся за мене. Щось на кшталт Тартару мене зовсім не лякає.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_0903_0904_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}Я чув, що Араґакі бився разом зі Санадою та Міцуру.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Він, звичайно, здається сильним, але я не дуже в ньому впевнений...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_0919_1003_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7008 0 0}Якщо ми переможемо останніх трьох Тіней, все зникне, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Темна година, Загублені, навіть Тартар...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_1005_1016_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7026 0 0}Зараз я в порядку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Я ще можу битися, тому не хвилюйтеся.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_1019_1102_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 3 1 3 0 -1 7094 0 0}Я вирішив, що буду битися замість нього...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}Тому я переможу їх усіх. Тіні тут, і останню Тінь...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_1106_1109_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Безвідповідальні дорослі роблять все, що їм заманеться, і лише створюють проблеми для інших...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}Тартар - яскравий тому приклад.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}Я ніколи не хочу стати таким дорослим...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_1110_1117_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Цікаво, чи все гаразд з Міцуру...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}І з рештою нас теж, якщо вже на те пішло. Ми більше не знаємо, що робити, чи не так?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Що ж, нам доведеться робити все, що ми можемо.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_1121_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7096 0 0}Міцуру тепер здається іншим.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Вона здається більш позитивною, ніж нещодавно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_1122_1127_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7008 0 0}Джюнпей не їв багато після... цього.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Я розумію, що він відчуває, але... це викликає тривогу.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_1203_1213_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7090 0 0}Кінець світу, неминуча смерть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}Можливо, ми були б щасливішими, якби не знали...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 4 25 8}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_0101_0114_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7132 0 0}Я знаю, що робитиму, і ніщо мене не відверне.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Я зроблю все, що зможу, з усіма своїми силами.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Так я зберігаю мотивацію для битв у Тартарі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_0115_0130_AMADA_DUNG" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7026 0 0}Я ніколи раніше не замислювався над тим, що хочу робити чи ким бути в майбутньому.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Але останнім часом я багато про це думаю.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}...Ми повинні перемогти Нікса, це точно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_0131_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7145 0 0}Сьогоднішній бій вирішить все. Наше майбутнє... і навіть майбутнє всього світу...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Я трохи нервую, але... Я не хвилююся. Це дивне відчуття...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}Я знаю, що ми можемо перемогти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_HANYOU1_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7063 0 0}Боротьба в Тартарі дійсно втомлює...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Але я в порядку. Я сильніший, ніж виглядаю, знаєш.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_HANYOU2_AMADA_DUNGE" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}Тартар може бути дуже різним на кожному поверсі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Деякі поверхи моторошні, але наступний поверх може бути дійсно яскравим...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Дивно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_AMADA_ZEKKOCHO" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7132 0 0}Будь ласка, залиште це все мені сьогодні! Тіні не матимуть жодного шансу![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
