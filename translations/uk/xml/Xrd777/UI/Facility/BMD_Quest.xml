@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Quest.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\Facility\BMD_Quest.uasset" dialogs="128">
+  <Speakers>
+    <Speaker id="0" rawBytes="E6 9C AA E4 BD BF E7 94 A8">未使用</Speaker>
+    <Speaker id="1" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 66 69 72 73 74 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the first old document.</Speaker>
+    <Speaker id="2" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 73 65 63 6F 6E 64 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the second old document.</Speaker>
+    <Speaker id="3" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 74 68 69 72 64 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the third old document.</Speaker>
+    <Speaker id="4" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 66 6F 75 72 74 68 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the fourth old document.</Speaker>
+    <Speaker id="5" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 66 69 66 74 68 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the fifth old document.</Speaker>
+    <Speaker id="6" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 73 69 78 74 68 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the sixth old document.</Speaker>
+    <Speaker id="7" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 73 65 76 65 6E 74 68 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the seventh old document.</Speaker>
+    <Speaker id="8" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 6C 61 73 74 20 6F 6C 64 20 64 6F 63 75 6D 65 6E 74 2E">Retrieve the last old document.</Speaker>
+    <Speaker id="9" rawBytes="52 65 74 72 69 65 76 65 20 74 68 65 20 70 72 6F 67 72 65 73 73 20 72 65 70 6F 72 74 2E">Retrieve the progress report.</Speaker>
+    <Speaker id="10" rawBytes="54 72 61 76 65 72 73 65 20 74 68 65 20 4D 6F 6E 61 64 20 50 61 73 73 61 67 65 2E">Traverse the Monad Passage.</Speaker>
+    <Speaker id="11" rawBytes="44 65 66 65 61 74 20 74 68 65 20 53 68 61 64 6F 77 20 6F 66 20 74 68 65 20 56 6F 69 64 2E">Defeat the Shadow of the Void.</Speaker>
+    <Speaker id="12" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 4D 75 73 63 6C 65 20 44 72 69 6E 6B 2E">Bring me a Muscle Drink.</Speaker>
+    <Speaker id="13" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 67 69 61 6E 74 2C 20 63 72 65 65 70 79 20 64 6F 6C 6C 2E">Bring me a giant, creepy doll.</Speaker>
+    <Speaker id="14" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 74 72 79 20 61 6C 6C 20 6B 69 6E 64 73 20 6F 66 20 64 72 69 6E 6B 73 2E">I'd like to try all kinds of drinks.</Speaker>
+    <Speaker id="15" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 74 72 79 20 61 6F 6A 69 72 75 2E">I'd like to try aojiru.</Speaker>
+    <Speaker id="16" rawBytes="42 72 69 6E 67 20 6D 65 20 73 6F 6D 65 20 70 6F 74 65 6E 74 20 6D 65 64 69 63 69 6E 65 2E">Bring me some potent medicine.</Speaker>
+    <Speaker id="17" rawBytes="4C 65 74 20 6D 65 20 68 65 61 72 20 6D 75 73 69 63 20 75 6E 69 71 75 65 20 74 6F 20 47 65 6B 6B 6F 75 6B 61 6E 2E">Let me hear music unique to Gekkoukan.</Speaker>
+    <Speaker id="18" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 74 72 79 20 61 20 62 65 65 66 20 62 6F 77 6C 2E">I'd like to try a beef bowl.</Speaker>
+    <Speaker id="19" rawBytes="50 6C 65 61 73 65 20 70 72 65 76 61 69 6C 20 69 6E 20 74 68 65 20 42 69 67 20 45 61 74 65 72 20 43 68 61 6C 6C 65 6E 67 65 2E">Please prevail in the Big Eater Challenge.</Speaker>
+    <Speaker id="20" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 62 65 20 67 69 66 74 65 64 20 61 20 62 6F 75 71 75 65 74 20 6F 66 20 66 6C 6F 77 65 72 73 2E">I'd like to be gifted a bouquet of flowers.</Speaker>
+    <Speaker id="21" rawBytes="45 78 70 65 72 69 6D 65 6E 74 20 77 69 74 68 20 66 6F 72 74 75 6E 65 20 74 65 6C 6C 69 6E 67 2E">Experiment with fortune telling.</Speaker>
+    <Speaker id="22" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 73 65 65 20 61 20 70 61 69 72 20 6F 66 20 4D 61 78 20 53 61 66 65 74 79 20 53 68 6F 65 73 2E">I'd like to see a pair of Max Safety Shoes.</Speaker>
+    <Speaker id="23" rawBytes="42 72 69 6E 67 20 6D 65 20 74 68 65 20 6D 79 73 74 65 72 69 6F 75 73 20 70 65 72 73 6F 6E 27 73 20 61 75 74 6F 67 72 61 70 68 2E">Bring me the mysterious person's autograph.</Speaker>
+    <Speaker id="24" rawBytes="49 20 77 61 6E 74 20 74 6F 20 65 61 74 20 61 20 63 68 69 6C 6C 65 64 20 74 61 69 79 61 6B 69 2E">I want to eat a chilled taiyaki.</Speaker>
+    <Speaker id="25" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 74 72 79 20 61 20 68 6F 6D 65 2D 63 6F 6F 6B 65 64 20 6D 65 61 6C 2E">I'd like to try a home-cooked meal.</Speaker>
+    <Speaker id="26" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 73 65 65 20 61 20 6D 79 73 74 65 72 69 6F 75 73 20 70 6F 74 61 74 6F 2E">I'd like to see a mysterious potato.</Speaker>
+    <Speaker id="27" rawBytes="41 74 74 65 6D 70 74 20 61 20 68 75 6E 64 72 65 64 20 73 68 72 69 6E 65 20 76 69 73 69 74 73 2E">Attempt a hundred shrine visits.</Speaker>
+    <Speaker id="28" rawBytes="4C 6F 6F 6B 20 66 6F 72 20 74 68 65 20 64 72 69 6E 6B 20 77 69 74 68 20 6D 79 20 6E 61 6D 65 2E">Look for the drink with my name.</Speaker>
+    <Speaker id="29" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 73 65 65 20 70 72 6F 6F 66 20 6F 66 20 61 20 62 6F 6E 64 2E">I'd like to see proof of a bond.</Speaker>
+    <Speaker id="30" rawBytes="49 20 77 61 6E 74 20 74 6F 20 6C 6F 6F 6B 20 66 61 73 68 69 6F 6E 61 62 6C 65 2E">I want to look fashionable.</Speaker>
+    <Speaker id="31" rawBytes="46 69 6E 64 20 6D 65 20 61 20 62 65 61 75 74 69 66 75 6C 20 74 69 6C 65 2E">Find me a beautiful tile.</Speaker>
+    <Speaker id="32" rawBytes="49 20 77 69 73 68 20 74 6F 20 66 65 65 6C 20 74 68 65 20 6F 63 65 61 6E 2E">I wish to feel the ocean.</Speaker>
+    <Speaker id="33" rawBytes="49 20 77 69 73 68 20 74 6F 20 62 65 63 6F 6D 65 20 61 20 73 74 72 61 77 20 6D 69 6C 6C 69 6F 6E 61 69 72 65 2E">I wish to become a straw millionaire.</Speaker>
+    <Speaker id="34" rawBytes="42 72 69 6E 67 20 6D 65 20 6D 79 20 43 68 72 69 73 74 6D 61 73 20 70 72 65 73 65 6E 74 2E">Bring me my Christmas present.</Speaker>
+    <Speaker id="35" rawBytes="44 65 66 65 61 74 20 61 20 47 72 65 65 64 79 20 53 68 61 64 6F 77 2E">Defeat a Greedy Shadow.</Speaker>
+    <Speaker id="36" rawBytes="49 20 77 61 6E 74 20 4A 61 63 6B 20 46 72 6F 73 74 20 64 6F 6C 6C 73 2E">I want Jack Frost dolls.</Speaker>
+    <Speaker id="37" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 74 72 79 20 73 75 73 68 69 2E">I'd like to try sushi.</Speaker>
+    <Speaker id="38" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 74 68 61 74 27 73 20 6C 65 76 65 6C 20 31 33 20 6F 72 20 61 62 6F 76 65 2E">Create a Persona that's level 13 or above.</Speaker>
+    <Speaker id="39" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 77 69 74 68 20 4B 6F 75 68 61 2E">Create a Persona with Kouha.</Speaker>
+    <Speaker id="40" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 74 68 61 74 27 73 20 6C 65 76 65 6C 20 32 33 20 6F 72 20 61 62 6F 76 65 2E">Create a Persona that's level 23 or above.</Speaker>
+    <Speaker id="41" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 77 69 74 68 20 54 6F 72 72 65 6E 74 20 53 68 6F 74 2E">Create a Persona with Torrent Shot.</Speaker>
+    <Speaker id="42" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 74 68 61 74 27 73 20 6C 65 76 65 6C 20 33 38 20 6F 72 20 61 62 6F 76 65 2E">Create a Persona that's level 38 or above.</Speaker>
+    <Speaker id="43" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 74 68 61 74 27 73 20 6C 65 76 65 6C 20 34 36 20 6F 72 20 61 62 6F 76 65 2E">Create a Persona that's level 46 or above.</Speaker>
+    <Speaker id="44" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 77 69 74 68 20 54 65 6D 70 65 73 74 20 53 6C 61 73 68 2E">Create a Persona with Tempest Slash.</Speaker>
+    <Speaker id="45" rawBytes="43 72 65 61 74 65 20 61 20 50 65 72 73 6F 6E 61 20 77 69 74 68 20 41 75 74 6F 2D 4D 61 72 61 6B 75 2E">Create a Persona with Auto-Maraku.</Speaker>
+    <Speaker id="46" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 31 3A 20 45 6D 70 65 72 6F 72 2C 20 4F 62 65 72 6F 6E">Fusion Series #1: Emperor, Oberon</Speaker>
+    <Speaker id="47" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 32 3A 20 43 68 61 72 69 6F 74 2C 20 4D 69 74 68 72 61 73">Fusion Series #2: Chariot, Mithras</Speaker>
+    <Speaker id="48" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 33 3A 20 48 65 72 6D 69 74 2C 20 4D 6F 74 68 6D 61 6E">Fusion Series #3: Hermit, Mothman</Speaker>
+    <Speaker id="49" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 34 3A 20 4C 6F 76 65 72 73 2C 20 54 69 74 61 6E 69 61">Fusion Series #4: Lovers, Titania</Speaker>
+    <Speaker id="50" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 35 3A 20 4D 61 67 69 63 69 61 6E 2C 20 52 61 6E 67 64 61">Fusion Series #5: Magician, Rangda</Speaker>
+    <Speaker id="51" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 37 3A 20 48 69 65 72 6F 70 68 61 6E 74 2C 20 44 61 69 73 6F 75 6A 6F 75">Fusion Series #7: Hierophant, Daisoujou</Speaker>
+    <Speaker id="52" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 38 3A 20 44 65 61 74 68 2C 20 41 6C 69 63 65">Fusion Series #8: Death, Alice</Speaker>
+    <Speaker id="53" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 39 3A 20 46 6F 6F 6C 2C 20 4C 6F 6B 69">Fusion Series #9: Fool, Loki</Speaker>
+    <Speaker id="54" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 31 30 3A 20 54 6F 77 65 72 2C 20 4D 61 73 61 6B 61 64 6F">Fusion Series #10: Tower, Masakado</Speaker>
+    <Speaker id="55" rawBytes="46 75 73 69 6F 6E 20 53 65 72 69 65 73 20 23 36 3A 20 53 74 72 65 6E 67 74 68 2C 20 53 69 65 67 66 72 69 65 64">Fusion Series #6: Strength, Siegfried</Speaker>
+    <Speaker id="56" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 53 65 6E 67 6F 6B 75 2D 65 72 61 20 68 65 6C 6D 2E">Bring me a Sengoku-era helm.</Speaker>
+    <Speaker id="57" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 74 72 79 20 4F 64 65 6E 20 4A 75 69 63 65 2E">I'd like to try Oden Juice.</Speaker>
+    <Speaker id="58" rawBytes="42 72 69 6E 67 20 6D 65 20 66 6F 6F 64 20 66 6F 72 20 61 20 66 75 72 72 79 20 66 72 69 65 6E 64 2E">Bring me food for a furry friend.</Speaker>
+    <Speaker id="59" rawBytes="47 6F 20 63 6C 65 61 6E 20 61 20 72 65 73 74 72 6F 6F 6D 2E">Go clean a restroom.</Speaker>
+    <Speaker id="60" rawBytes="47 6F 20 77 61 74 65 72 20 74 68 65 20 66 6C 6F 77 65 72 73 2E">Go water the flowers.</Speaker>
+    <Speaker id="61" rawBytes="50 6C 65 61 73 65 20 66 65 65 64 20 74 68 65 20 63 61 74 2E">Please feed the cat.</Speaker>
+    <Speaker id="62" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 46 65 61 74 68 65 72 6D 61 6E 20 52 20 61 63 74 69 6F 6E 20 66 69 67 75 72 65 2E">Bring me a Featherman R action figure.</Speaker>
+    <Speaker id="63" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 77 61 6C 6B 20 61 72 6F 75 6E 64 20 50 61 75 6C 6F 77 6E 69 61 20 4D 61 6C 6C 2E">I'd like to walk around Paulownia Mall.</Speaker>
+    <Speaker id="64" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 76 69 73 69 74 20 49 77 61 74 6F 64 61 69 20 53 74 61 74 69 6F 6E 2E">I'd like to visit Iwatodai Station.</Speaker>
+    <Speaker id="65" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 76 69 73 69 74 20 4E 61 67 61 6E 61 6B 69 20 53 68 72 69 6E 65 2E">I'd like to visit Naganaki Shrine.</Speaker>
+    <Speaker id="66" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 76 69 73 69 74 20 47 65 6B 6B 6F 75 6B 61 6E 20 48 69 67 68 2E">I'd like to visit Gekkoukan High.</Speaker>
+    <Speaker id="67" rawBytes="49 27 64 20 6C 69 6B 65 20 74 6F 20 76 69 73 69 74 20 79 6F 75 72 20 72 6F 6F 6D 2E">I'd like to visit your room.</Speaker>
+    <Speaker id="68" rawBytes="42 72 69 6E 67 20 6D 65 20 70 69 6E 65 20 72 65 73 69 6E 2E">Bring me pine resin.</Speaker>
+    <Speaker id="69" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 68 61 6E 64 68 65 6C 64 20 67 61 6D 65 20 63 6F 6E 73 6F 6C 65 2E">Bring me a handheld game console.</Speaker>
+    <Speaker id="70" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 74 72 69 61 6E 67 75 6C 61 72 20 73 77 6F 72 64 2E">Bring me a triangular sword.</Speaker>
+    <Speaker id="71" rawBytes="42 72 69 6E 67 20 6D 65 20 70 72 6F 74 65 69 6E 20 6E 6F 74 20 66 6F 72 20 70 72 6F 73 2E">Bring me protein not for pros.</Speaker>
+    <Speaker id="72" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 67 6C 61 73 73 65 73 20 77 69 70 65 2E">Bring me a glasses wipe.</Speaker>
+    <Speaker id="73" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 43 68 72 69 73 74 6D 61 73 20 73 74 61 72 2E">Bring me a Christmas star.</Speaker>
+    <Speaker id="74" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 66 72 75 69 74 20 6B 6E 69 66 65 2E">Bring me a fruit knife.</Speaker>
+    <Speaker id="75" rawBytes="42 72 69 6E 67 20 6D 65 20 6F 69 6C 2E">Bring me oil.</Speaker>
+    <Speaker id="76" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 4A 75 7A 75 6D 61 72 75 2E">Bring me a Juzumaru.</Speaker>
+    <Speaker id="77" rawBytes="42 72 69 6E 67 20 6D 65 20 61 6E 20 4F 6E 69 6D 61 72 75 20 4B 75 6E 69 74 73 75 6E 61 2E">Bring me an Onimaru Kunitsuna.</Speaker>
+    <Speaker id="78" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 4D 69 6B 61 7A 75 6B 69 20 4D 75 6E 65 63 68 69 6B 61 2E">Bring me a Mikazuki Munechika.</Speaker>
+    <Speaker id="79" rawBytes="42 72 69 6E 67 20 6D 65 20 61 6E 20 4F 74 65 2D 67 69 6E 65 2E">Bring me an Ote-gine.</Speaker>
+    <Speaker id="80" rawBytes="42 72 69 6E 67 20 6D 65 20 61 6E 20 4F 75 74 65 6E 74 61 20 4D 69 74 73 75 79 6F 2E">Bring me an Outenta Mitsuyo.</Speaker>
+    <Speaker id="81" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 52 61 69 20 4B 75 6E 69 6D 69 74 73 75 2E">Bring me a Rai Kunimitsu.</Speaker>
+    <Speaker id="82" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 44 6F 6A 69 67 69 72 69 20 59 61 73 75 74 73 75 6E 61 2E">Bring me a Dojigiri Yasutsuna.</Speaker>
+    <Speaker id="83" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 54 6F 6E 62 6F 2D 6B 69 72 69 2E">Bring me a Tonbo-kiri.</Speaker>
+    <Speaker id="84" rawBytes="44 65 66 65 61 74 20 61 20 72 61 72 65 20 53 68 61 64 6F 77 20 23 31">Defeat a rare Shadow #1</Speaker>
+    <Speaker id="85" rawBytes="44 65 66 65 61 74 20 61 20 72 61 72 65 20 53 68 61 64 6F 77 20 23 32">Defeat a rare Shadow #2</Speaker>
+    <Speaker id="86" rawBytes="53 68 61 64 6F 77 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65">Shadow Hunting Milestone</Speaker>
+    <Speaker id="87" rawBytes="53 68 61 64 6F 77 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 32">Shadow Hunting Milestone #2</Speaker>
+    <Speaker id="88" rawBytes="53 68 61 64 6F 77 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 33">Shadow Hunting Milestone #3</Speaker>
+    <Speaker id="89" rawBytes="53 68 61 64 6F 77 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 34">Shadow Hunting Milestone #4</Speaker>
+    <Speaker id="90" rawBytes="53 68 61 64 6F 77 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 35">Shadow Hunting Milestone #5</Speaker>
+    <Speaker id="91" rawBytes="53 68 61 64 6F 77 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 36">Shadow Hunting Milestone #6</Speaker>
+    <Speaker id="92" rawBytes="54 72 65 61 73 75 72 65 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65">Treasure Hunting Milestone</Speaker>
+    <Speaker id="93" rawBytes="54 72 65 61 73 75 72 65 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 32">Treasure Hunting Milestone #2</Speaker>
+    <Speaker id="94" rawBytes="54 72 65 61 73 75 72 65 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 33">Treasure Hunting Milestone #3</Speaker>
+    <Speaker id="95" rawBytes="54 72 65 61 73 75 72 65 20 48 75 6E 74 69 6E 67 20 4D 69 6C 65 73 74 6F 6E 65 20 23 34">Treasure Hunting Milestone #4</Speaker>
+    <Speaker id="96" rawBytes="50 65 72 73 6F 6E 61 20 46 75 73 69 6F 6E 20 4D 69 6C 65 73 74 6F 6E 65">Persona Fusion Milestone</Speaker>
+    <Speaker id="97" rawBytes="50 65 72 73 6F 6E 61 20 46 75 73 69 6F 6E 20 4D 69 6C 65 73 74 6F 6E 65 20 23 32">Persona Fusion Milestone #2</Speaker>
+    <Speaker id="98" rawBytes="50 65 72 73 6F 6E 61 20 46 75 73 69 6F 6E 20 4D 69 6C 65 73 74 6F 6E 65 20 23 33">Persona Fusion Milestone #3</Speaker>
+    <Speaker id="99" rawBytes="42 72 69 6E 67 20 6D 65 20 61 20 42 6C 6F 6F 64 79 20 42 75 74 74 6F 6E 2E">Bring me a Bloody Button.</Speaker>
+    <Speaker id="100" rawBytes="54 61 6B 65 20 6F 75 74 20 74 68 65 20 75 6C 74 69 6D 61 74 65 20 61 64 76 65 72 73 61 72 79 2E">Take out the ultimate adversary.</Speaker>
+    <Speaker id="101" rawBytes="50 65 72 66 6F 72 6D 20 4B 69 6E 67 20 61 6E 64 20 49 2E">Perform King and I.</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_REQUEST_HELP_000" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_REQUEST_HELP_001" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the top floor of Thebel, the first block in Tartarus. Unless... you already have it?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_REQUEST_HELP_002" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the halfway point of Arqa, the second block in Tartarus. No need to rush—there is no deadline for this.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_REQUEST_HELP_003" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the top floor of Arqa, the second block in Tartarus. Have you had the chance to read the contents of these documents? They are truly intriguing...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_REQUEST_HELP_004" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the halfway point of Yabbashah, the third block in Tartarus. As for why these documents can be found within that deformed tower... The answer may be on another floor higher up.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_REQUEST_HELP_005" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the top floor of Yabbashah, the third block in Tartarus. I wonder who left behind these writings... Just what sort of person are they?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_REQUEST_HELP_006" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the halfway point of Tziah, the fourth block in Tartarus. Has your perspective changed after discovering the truth, one unbeknownst to the ordinary person?[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_REQUEST_HELP_007" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the top floor of Tziah, the fourth block in Tartarus. This will be fairly high up in the tower. I wish you a safe journey there.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_REQUEST_HELP_008" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the halfway point of Harabah, the fifth block in Tartarus. This will be my final request regarding the old documents. I look forward to your report of success.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_REQUEST_HELP_009" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the {f 4 4 1 0 0 2} from the top floor of Harabah, the fifth block in Tartarus. This document lies even higher up, waiting to be discovered... I'd love to see it for myself.[n]{f 1 1}]]></Page>
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_REQUEST_HELP_010" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}Please investigate a certain passage in Yabbashah, the third block, on the 91st floor. Though the entrance appears the same as a Monad door, the inside seems to differ.[n]{f 1 1}]]></Page>
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}Defeat all the Shadows lurking within the Monad Passage on the 91st floor in Yabbashah, the third block.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_REQUEST_HELP_011" type="Message">
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}I sense a presence of immense malevolence... Please defeat the Shadow of the Void lurking within the Monad Passage in the sixth block, Adamah.[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Defeat the Shadow of the Void lurking within the Monad Passage on the 255th floor in Adamah, the sixth block.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_REQUEST_HELP_012" type="Message">
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}Have you ever tried something called a "Muscle Drink"? I have long pondered its taste. Could you please bring me one to satiate my curiosity? I believe you may be able to purchase it somewhere.[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}Bring Elizabeth {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_REQUEST_HELP_013" type="Message">
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}I heard there's a "creepy-looking" doll in your world that is also used for educational purposes. I would like to see it for myself.[n]{f 1 1}]]></Page>
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Bring a doll that is also used for teaching.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_REQUEST_HELP_014" type="Message">
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}I heard that there exists a contraption called a "vending machine" that automatically dispenses a variety of beverages. Could you please collect these aforementioned beverages and deliver them to me?[n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}Collect 12 different drinks from vending machines for Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_REQUEST_HELP_015" type="Message">
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Have you heard of a drink called "aojiru"? Rumor says it is "super gross." I prefer my drinks tasty and flavorful though. Therefore... would you please bring me a delicious aojiru?[n]{f 1 1}]]></Page>
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Bring {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_REQUEST_HELP_016" type="Message">
+    <Page spk="0010"><![CDATA[{f 0 5 254}{f 2 1}I've heard that a powerful medicine is being produced in an ominous research facility known as the "nurse's office." Could you please get your hands on that medicine for me?[n]{f 1 1}]]></Page>
+    <Page spk="0010"><![CDATA[{f 0 5 254}{f 2 1}Bring {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_REQUEST_HELP_017" type="Message">
+    <Page spk="0011"><![CDATA[{f 0 5 254}{f 2 1}I'd very much love to listen to a song that is associated with your school. Perhaps it would be wise to check a location within the school that broadcasts music...[n]{f 1 1}]]></Page>
+    <Page spk="0011"><![CDATA[{f 0 5 254}{f 2 1}Bring a CD associated with Gekkoukan High School.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_REQUEST_HELP_018" type="Message">
+    <Page spk="0012"><![CDATA[{f 0 5 254}{f 2 1}A dish called the "Umiushi Beef Bowl" is allegedly all the rage in town now. If it truly is as exquisite as the rumors suggest, then I would love to have a taste myself.[n]{f 1 1}]]></Page>
+    <Page spk="0012"><![CDATA[{f 0 5 254}{f 2 1}Bring {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_REQUEST_HELP_019" type="Message">
+    <Page spk="0013"><![CDATA[{f 0 5 254}{f 2 1}The Big Eater Challenge, a unique event in which one must devour more food than the other contestants... Such a battle shall be held at the burger establishment at the Iwatodai strip mall. Would you please participate in my stead?[n]{f 1 1}]]></Page>
+    <Page spk="0013"><![CDATA[{f 0 5 254}{f 2 1}Complete the Big Eater Challenge at Wilduck Burger.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_REQUEST_HELP_020" type="Message">
+    <Page spk="0014"><![CDATA[{f 0 5 254}{f 2 1}I hear there is a custom in your world where a woman may receive roses. I would love to experience this myself. Would you please bring me some roses?[n]{f 1 1}]]></Page>
+    <Page spk="0014"><![CDATA[{f 0 5 254}{f 2 1}Bring {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_REQUEST_HELP_021" type="Message">
+    <Page spk="0015"><![CDATA[{f 0 5 254}{f 2 1}I hear there is a fortune-teller at the club in Paulownia Mall. Could you verify the accuracy of her readings? One such fortune promises higher chances of encountering rare Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0015"><![CDATA[{f 0 5 254}{f 2 1}Make use of the Rarity Fortune that increases the appearances of rare Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_REQUEST_HELP_022" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}In the online shopping world, these "Max Safety Shoes" appear to be extremely popular as of late. I wonder what makes them so "Max"... As my curiosity is killing me, I'd love to take a look at them.[n]{f 1 1}]]></Page>
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Bring {f 2 4 1} pair of {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_REQUEST_HELP_023" type="Message">
+    <Page spk="0017"><![CDATA[{f 0 5 254}{f 2 1}I hear a certain individual from the online shopping world often appears in your world as well. It seems he has quite the distinctive personality. Would you please meet this person and get me his autograph?[n]{f 1 1}]]></Page>
+    <Page spk="0017"><![CDATA[{f 0 5 254}{f 2 1}Get an autograph from President Tanaka of Tanaka's Amazing Commodities.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_REQUEST_HELP_024" type="Message">
+    <Page spk="0018"><![CDATA[{f 0 5 254}{f 2 1}I heard that your world has a strange "taiyaki" that is cold despite having been grilled. It must be filled with flavors that are simply out of this world... I'd love to have a taste myself.[n]{f 1 1}]]></Page>
+    <Page spk="0018"><![CDATA[{f 0 5 254}{f 2 1}Bring {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_REQUEST_HELP_025" type="Message">
+    <Page spk="0019"><![CDATA[{f 0 5 254}{f 2 1}I wonder what a "home-cooked meal" tastes like... You may bring either food or beverage—I've no preference.[n]{f 1 1}]]></Page>
+    <Page spk="0019"><![CDATA[{f 0 5 254}{f 2 1}Bring a food or drink you made together with someone at the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_REQUEST_HELP_026" type="Message">
+    <Page spk="001A"><![CDATA[{f 0 5 254}{f 2 1}There's a rumor that claims a potato raised with love and care will develop a mysterious power... Could you verify if such a potato can really be grown?[n]{f 1 1}]]></Page>
+    <Page spk="001A"><![CDATA[{f 0 5 254}{f 2 1}Bring a potato that you've grown.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_REQUEST_HELP_027" type="Message">
+    <Page spk="001B"><![CDATA[{f 0 5 254}{f 2 1}There is a ritual called "a hundred shrine visits" that supposedly grants wishes... I would love to witness the miracle of the gods myself. My wish is for a 500-yen bill.[n]{f 1 1}]]></Page>
+    <Page spk="001B"><![CDATA[{f 0 5 254}{f 2 1}Bring what you receive from praying at the shrine.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_REQUEST_HELP_028" type="Message">
+    <Page spk="001C"><![CDATA[{f 0 5 254}{f 2 1}According to rumors, the beverage bearing the same name as me is only available in an unpopular location. Please search for it and bring it to me.[n]{f 1 1}]]></Page>
+    <Page spk="001C"><![CDATA[{f 0 5 254}{f 2 1}Bring a drink that shares a name with Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_REQUEST_HELP_029" type="Message">
+    <Page spk="001D"><![CDATA[{f 0 5 254}{f 2 1}A bond is normally invisible to the naked eye. However, it is sometimes shown through the act of gift-giving... Would you please show me an item that represents a strong bond you share with someone?[n]{f 1 1}]]></Page>
+    <Page spk="001D"><![CDATA[{f 0 5 254}{f 2 1}Bring an item you can only receive when a Social Link has been maxed out.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_REQUEST_HELP_030" type="Message">
+    <Page spk="001E"><![CDATA[{f 0 5 254}{f 2 1}Please bring me a stylish item that would look good on me. I believe you may find something where the young and trendy gather to have a good time...[n]{f 1 1}]]></Page>
+    <Page spk="001E"><![CDATA[{f 0 5 254}{f 2 1}Bring a fashionable item.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_REQUEST_HELP_031" type="Message">
+    <Page spk="001F"><![CDATA[{f 0 5 254}{f 2 1}I'm looking for a small, rectangular tile with a peacock painted on it. Apparently, being in possession of one can cause people to go into a frenzy... I'd like to see one myself, if possible.[n]{f 1 1}]]></Page>
+    <Page spk="001F"><![CDATA[{f 0 5 254}{f 2 1}Bring a tile with a peacock design.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_REQUEST_HELP_032" type="Message">
+    <Page spk="0020"><![CDATA[{f 0 5 254}{f 2 1}The ocean... To me, it is akin to a realm of dreams since I am unable to leave my post. Would you please bring me a memento that reminds you of the ocean?[n]{f 1 1}]]></Page>
+    <Page spk="0020"><![CDATA[{f 0 5 254}{f 2 1}Bring something you find from the ocean.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_REQUEST_HELP_033" type="Message">
+    <Page spk="0021"><![CDATA[{f 0 5 254}{f 2 1}I hear there is a method to acquire wealth by simply bartering one item for another continuously. Would you please try it out?[n]{f 1 1}]]></Page>
+    <Page spk="0021"><![CDATA[{f 0 5 254}{f 2 1}Bring what you get after bartering items.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_REQUEST_HELP_034" type="Message">
+    <Page spk="0022"><![CDATA[{f 0 5 254}{f 2 1}It appears that Santa has been so busy with Christmas this year that he forgot to deliver my present... Would you please find Santa and bring me my present?[n]{f 1 1}]]></Page>
+    <Page spk="0022"><![CDATA[{f 0 5 254}{f 2 1}Get Elizabeth's Christmas present from Santa.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_REQUEST_HELP_035" type="Message">
+    <Page spk="0023"><![CDATA[{f 0 5 254}{f 2 1}Checkmate the king of all rare Shadows that appears in Harabah, the fifth block of Tartarus, and bring me a {f 4 4 1 0 0 2}.[n]{f 1 1}]]></Page>
+    <Page spk="0023"><![CDATA[{f 0 5 254}{f 2 1}Defeat the Greedy Shadow in Harabah, the fifth block of Tartarus, and bring back {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_REQUEST_HELP_036" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_REQUEST_HELP_037" type="Message">
+    <Page spk="0024"><![CDATA[{f 0 5 254}{f 2 1}Word has it there are Jack Frost dolls in your world. I want one to display, one to trade, and one to cherish... Could you please bring me three?[n]{f 1 1}]]></Page>
+    <Page spk="0024"><![CDATA[{f 0 5 254}{f 2 1}Bring Elizabeth not 1 {f 4 4 1 0 1 2}, but {f 2 4 1} of them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_REQUEST_HELP_038" type="Message">
+    <Page spk="0025"><![CDATA[{f 0 5 254}{f 2 1}I hear a food called "sushi" in your world is consumed during feasts. It must be one tantalizing dish... I would like to try it myself.[n]{f 1 1}]]></Page>
+    <Page spk="0025"><![CDATA[{f 0 5 254}{f 2 1}Bring sushi.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_REQUEST_HELP_039" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_REQUEST_HELP_040" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_REQUEST_HELP_041" type="Message">
+    <Page spk="0026"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that meets or exceeds the required level. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="0026"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona that is level 13 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_REQUEST_HELP_042" type="Message">
+    <Page spk="0027"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that has the specified skill. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="0027"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona with the skill Kouha in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_REQUEST_HELP_043" type="Message">
+    <Page spk="0028"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that meets or exceeds the required level. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="0028"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona that is level 23 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_REQUEST_HELP_044" type="Message">
+    <Page spk="0029"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that has the specified skill. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="0029"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona with the skill Torrent Shot in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_REQUEST_HELP_045" type="Message">
+    <Page spk="002A"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that meets or exceeds the required level. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="002A"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona that is level 38 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_REQUEST_HELP_046" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_REQUEST_HELP_047" type="Message">
+    <Page spk="002B"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that meets or exceeds the required level. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="002B"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona that is level 46 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_REQUEST_HELP_048" type="Message">
+    <Page spk="002C"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that has the specified skill. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="002C"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona with the skill Tempest Slash in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_REQUEST_HELP_049" type="Message">
+    <Page spk="002D"><![CDATA[{f 0 5 254}{f 2 1}Please show me a Persona that has the specified skill. Any Persona will do.[n]{f 1 1}]]></Page>
+    <Page spk="002D"><![CDATA[{f 0 5 254}{f 2 1}Have a Persona with the skill Auto-Maraku in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_REQUEST_HELP_050" type="Message">
+    <Page spk="002E"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. There are various combinations that would give birth to an Emperor, such as Lovers and Justice, Strength and Magician.[n]{f 1 1}]]></Page>
+    <Page spk="002E"><![CDATA[{f 0 5 254}{f 2 1}Have an Oberon with the skill Mazio in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_REQUEST_HELP_051" type="Message">
+    <Page spk="002F"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. As the required level is fairly high, I suggest you make good use of your Social Link.[n]{f 1 1}]]></Page>
+    <Page spk="002F"><![CDATA[{f 0 5 254}{f 2 1}Have a Mithras at level 26 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_REQUEST_HELP_052" type="Message">
+    <Page spk="0030"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. The Mithras from the previous task will learn Agilao, and it would be wise to make use of it.[n]{f 1 1}]]></Page>
+    <Page spk="0030"><![CDATA[{f 0 5 254}{f 2 1}Have a Mothman with the skill Agilao in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_REQUEST_HELP_053" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_REQUEST_HELP_054" type="Message">
+    <Page spk="0031"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. If you have a Persona with the specified skill, please search for a combination that will allow it to be inherited.[n]{f 1 1}]]></Page>
+    <Page spk="0031"><![CDATA[{f 0 5 254}{f 2 1}Have a Titania with the skill Matarukaja in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_REQUEST_HELP_055" type="Message">
+    <Page spk="0032"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. Have you been cultivating the bonds you share with your Social Links? The stronger your bonds, the greater the blessings you'll receive during fusion.[n]{f 1 1}]]></Page>
+    <Page spk="0032"><![CDATA[{f 0 5 254}{f 2 1}Have a Rangda at level 54 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_REQUEST_HELP_056" type="Message">
+    <Page spk="0033"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. One option is to use a Skill Card. It seems that there exists a shop carrying them.[n]{f 1 1}]]></Page>
+    <Page spk="0033"><![CDATA[{f 0 5 254}{f 2 1}Have a Daisoujou with the skill Regenerate 3 in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_REQUEST_HELP_057" type="Message">
+    <Page spk="0034"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. Know that Alice can only be created through Special Fusion. Do you have the requisite Personas?[n]{f 1 1}]]></Page>
+    <Page spk="0034"><![CDATA[{f 0 5 254}{f 2 1}Have Alice in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_REQUEST_HELP_058" type="Message">
+    <Page spk="0035"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. There seems to be a particular time when your bonds may bless you even more than usual... Why not attempt a fusion during that period?[n]{f 1 1}]]></Page>
+    <Page spk="0035"><![CDATA[{f 0 5 254}{f 2 1}Have a Loki at level 75 or higher in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_REQUEST_HELP_059" type="Message">
+    <Page spk="0036"><![CDATA[{f 0 5 254}{f 2 1}This shall be the final task for creating Personas. As you have managed to complete all fusion-related tasks thus far, I am confident you will succeed with this one as well.[n]{f 1 1}]]></Page>
+    <Page spk="0036"><![CDATA[{f 0 5 254}{f 2 1}Have a Masakado with the skill Charge in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_REQUEST_HELP_060" type="Message">
+    <Page spk="0037"><![CDATA[{f 0 5 254}{f 2 1}My intent in preparing this task is to help nurture your abilities. You will not receive any hints for this one. If you manage to obtain this Persona, then you will surely gain invaluable strength.[n]{f 1 1}]]></Page>
+    <Page spk="0037"><![CDATA[{f 0 5 254}{f 2 1}Have a Siegfried with the skill Endure in your possession and report to Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_REQUEST_HELP_061" type="Message">
+    <Page spk="0038"><![CDATA[{f 0 5 254}{f 2 1}I would like to see something called a "helm," a protective covering for the head, one rich with history... I'm sure there exists a person who still cherishes one to this day.[n]{f 1 1}]]></Page>
+    <Page spk="0038"><![CDATA[{f 0 5 254}{f 2 1}Bring a helm from the Sengoku era.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_REQUEST_HELP_062" type="Message">
+    <Page spk="0039"><![CDATA[{f 0 5 254}{f 2 1}I would like to get my hands on this legendary "Oden Juice." I advise that you first speak with an expert on beverages. My hunch tells me you may find one such person near a persimmon tree.[n]{f 1 1}]]></Page>
+    <Page spk="0039"><![CDATA[{f 0 5 254}{f 2 1}Bring some Oden Juice.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_REQUEST_HELP_063" type="Message">
+    <Page spk="003A"><![CDATA[{f 0 5 254}{f 2 1}Will you bring me the sort of food a furry friend on four legs would enjoy? You might be able to get some from that close friend of yours.[n]{f 1 1}]]></Page>
+    <Page spk="003A"><![CDATA[{f 0 5 254}{f 2 1}Bring the item Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_REQUEST_HELP_064" type="Message">
+    <Page spk="003B"><![CDATA[{f 0 5 254}{f 2 1}Would you please clean the restroom at the station in an attempt to beautify the city? The tools I have given you should be of use.[n]{f 1 1}]]></Page>
+    <Page spk="003B"><![CDATA[{f 0 5 254}{f 2 1}Bring the cleaning supplies and clean the restroom.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_REQUEST_HELP_065" type="Message">
+    <Page spk="003C"><![CDATA[{f 0 5 254}{f 2 1}When I visited Gekkoukan High School, the flowers in the flowerbed appeared to be wilting... Would you please water them?[n]{f 1 1}]]></Page>
+    <Page spk="003C"><![CDATA[{f 0 5 254}{f 2 1}Water the flowerbed at school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_REQUEST_HELP_066" type="Message">
+    <Page spk="003D"><![CDATA[{f 0 5 254}{f 2 1}Somewhere in the city, there appears to be a hungry cat who is having trouble finding food. Would you please find and feed the poor thing?[n]{f 1 1}]]></Page>
+    <Page spk="003D"><![CDATA[{f 0 5 254}{f 2 1}Give the hungry cat some food.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_REQUEST_HELP_067" type="Message">
+    <Page spk="003E"><![CDATA[{f 0 5 254}{f 2 1}Please bring me a Featherman R action figure. Again, it has to be a Featherman R action figure and no other Featherman.[n]{f 1 1}]]></Page>
+    <Page spk="003E"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_REQUEST_HELP_068" type="Message">
+    <Page spk="003F"><![CDATA[{f 0 5 254}{f 2 1}I've developed a yearning to explore your world. Would you please escort me around Paulownia Mall during the daytime?[n]{f 1 1}]]></Page>
+    <Page spk="003F"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth around Paulownia Mall.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_REQUEST_HELP_069" type="Message">
+    <Page spk="0040"><![CDATA[{f 0 5 254}{f 2 1}My yearning to explore your world has grown even stronger. Please escort me around Iwatodai during the daytime.[n]{f 1 1}]]></Page>
+    <Page spk="0040"><![CDATA[{f 0 5 254}{f 2 1}Walk around Iwatodai with Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_REQUEST_HELP_070" type="Message">
+    <Page spk="0041"><![CDATA[{f 0 5 254}{f 2 1}My yearning to explore your world grows ever stronger still... I would like you to escort me around Naganaki Shrine during the daytime.[n]{f 1 1}]]></Page>
+    <Page spk="0041"><![CDATA[{f 0 5 254}{f 2 1}Walk around Naganaki Shrine with Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_REQUEST_HELP_071" type="Message">
+    <Page spk="0042"><![CDATA[{f 0 5 254}{f 2 1}I can no longer suppress my desire to explore your world. Would you escort me around Gekkoukan High School after its hours of operation?[n]{f 1 1}]]></Page>
+    <Page spk="0042"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth around Gekkoukan High.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_REQUEST_HELP_072" type="Message">
+    <Page spk="0043"><![CDATA[{f 0 5 254}{f 2 1}My desire to explore your world cannot possibly be abated. Please accompany me to your room during the daytime.[n]{f 1 1}]]></Page>
+    <Page spk="0043"><![CDATA[{f 0 5 254}{f 2 1}Invite Elizabeth to your room.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_REQUEST_HELP_073" type="Message">
+    <Page spk="0044"><![CDATA[{f 0 5 254}{f 2 1}Bring me this "pine resin" that is used in archery. Rumor says it looks exactly like soybean powder. I have a feeling you may be able to get some from a close friend of yours.[n]{f 1 1}]]></Page>
+    <Page spk="0044"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_REQUEST_HELP_074" type="Message">
+    <Page spk="0045"><![CDATA[{f 0 5 254}{f 2 1}Could you bring me a tiny device known as a "handheld game console"? Perhaps you could acquire one from a close friend who enjoys using it.[n]{f 1 1}]]></Page>
+    <Page spk="0045"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_REQUEST_HELP_075" type="Message">
+    <Page spk="0046"><![CDATA[{f 0 5 254}{f 2 1}Bring me what is known as a "triangular sword." I hear this sword has a long history behind it... Perhaps you ought to ask a close friend about it, one who happens to be knowledgeable on such matters.[n]{f 1 1}]]></Page>
+    <Page spk="0046"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_REQUEST_HELP_076" type="Message">
+    <Page spk="0047"><![CDATA[{f 0 5 254}{f 2 1}I would like you to bring me some protein that not only pros can drink, but amateurs, too... I have a hunch that you may be able to acquire some from a very athletic friend.[n]{f 1 1}]]></Page>
+    <Page spk="0047"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_REQUEST_HELP_077" type="Message">
+    <Page spk="0048"><![CDATA[{f 0 5 254}{f 2 1}Will you please bring me a "glasses wipe"? Based on its name alone, it is my understanding that anyone who wears glasses should be in possession of this item.[n]{f 1 1}]]></Page>
+    <Page spk="0048"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_REQUEST_HELP_078" type="Message">
+    <Page spk="0049"><![CDATA[{f 0 5 254}{f 2 1}Please bring me a "Christmas star." Perhaps a close friend well-versed in plants would know something about it...[n]{f 1 1}]]></Page>
+    <Page spk="0049"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_REQUEST_HELP_079" type="Message">
+    <Page spk="004A"><![CDATA[{f 0 5 254}{f 2 1}Please bring me a blade that likes to cut through fruit, also known as a "fruit knife." Should there be someone close to you well-versed in the culinary arts, I suggest you ask them first.[n]{f 1 1}]]></Page>
+    <Page spk="004A"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_REQUEST_HELP_080" type="Message">
+    <Page spk="004B"><![CDATA[{f 0 5 254}{f 2 1}Would you bring me some oil frequently used by one of your acquaintances?[n]{f 1 1}]]></Page>
+    <Page spk="004B"><![CDATA[{f 0 5 254}{f 2 1}Bring the item that Elizabeth is asking for.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_REQUEST_HELP_081" type="Message">
+    <Page spk="004C"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the sword {f 4 4 1 0 0 2}. You may find it within a special treasure chest on a lower floor of Arqa, the second block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.[n]{f 1 1}]]></Page>
+    <Page spk="004C"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth a {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_REQUEST_HELP_082" type="Message">
+    <Page spk="004D"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the sword {f 4 4 1 0 0 2}. You may find it within a special treasure chest on a lower floor of Arqa, the second block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.[n]{f 1 1}]]></Page>
+    <Page spk="004D"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth an {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_REQUEST_HELP_083" type="Message">
+    <Page spk="004E"><![CDATA[{f 0 5 254}{f 2 1}Show me a {f 4 4 1 0 0 2}. I have a feeling you can obtain it from the antique shop in Paulownia Mall.[n]{f 1 1}]]></Page>
+    <Page spk="004E"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth a {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_REQUEST_HELP_084" type="Message">
+    <Page spk="004F"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the spear {f 4 4 1 0 0 2}. You may find it within a special treasure chest on a lower floor of Tziah, the fourth block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.[n]{f 1 1}]]></Page>
+    <Page spk="004F"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth an {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_REQUEST_HELP_085" type="Message">
+    <Page spk="0050"><![CDATA[{f 0 5 254}{f 2 1}Show me an {f 4 4 1 0 0 2}. I have a feeling you can obtain it from the antique shop in Paulownia Mall.[n]{f 1 1}]]></Page>
+    <Page spk="0050"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth an {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_REQUEST_HELP_086" type="Message">
+    <Page spk="0051"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the knife {f 4 4 1 0 0 2}. You can find it within a special treasure chest on a lower floor of Harabah, the fifth block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.[n]{f 1 1}]]></Page>
+    <Page spk="0051"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth a {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_REQUEST_HELP_087" type="Message">
+    <Page spk="0052"><![CDATA[{f 0 5 254}{f 2 1}Please bring me the sword {f 4 4 1 0 0 2}. You can find it within a special treasure chest on an upper floor of Harabah, the fifth block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.[n]{f 1 1}]]></Page>
+    <Page spk="0052"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth a {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_REQUEST_HELP_088" type="Message">
+    <Page spk="0053"><![CDATA[{f 0 5 254}{f 2 1}Show me a {f 4 4 1 0 0 2}. I have a feeling you can obtain it from the antique shop in Paulownia Mall.[n]{f 1 1}]]></Page>
+    <Page spk="0053"><![CDATA[{f 0 5 254}{f 2 1}Show Elizabeth a {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_REQUEST_HELP_089" type="Message">
+    <Page spk="0054"><![CDATA[{f 0 5 254}{f 2 1}Please retrieve the {f 4 4 1 0 1 2} that drops from rare Shadows found in Yabbashah, the third block of Tartarus. Do keep in mind that these Shadows are extremely quick on their feet.[n]{f 1 1}]]></Page>
+    <Page spk="0054"><![CDATA[{f 0 5 254}{f 2 1}Defeat a rare Shadow in the third block, Yabbashah, and bring back {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MSG_REQUEST_HELP_090" type="Message">
+    <Page spk="0055"><![CDATA[{f 0 5 254}{f 2 1}Please retrieve the {f 4 4 1 0 1 2} that drops from rare Shadows found in Tziah, the fourth block of Tartarus. Do keep in mind that these Shadows are extremely quick on their feet.[n]{f 1 1}]]></Page>
+    <Page spk="0055"><![CDATA[{f 0 5 254}{f 2 1}Defeat a rare Shadow in the fourth block, Tziah, and bring back {f 2 4 1} {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="MSG_REQUEST_HELP_091" type="Message">
+    <Page spk="0056"><![CDATA[{f 0 5 254}{f 2 1}Practice makes perfect. This applies to everything. So long as you persevere, you will surely begin to see results... Given that, please defeat a certain number of Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0056"><![CDATA[{f 0 5 254}{f 2 1}Defeat a total of 100 Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_REQUEST_HELP_092" type="Message">
+    <Page spk="0057"><![CDATA[{f 0 5 254}{f 2 1}The trick to combat is simple, you see. Just end it all in an instant. Strike down the enemy before they can act. This decreases the odds of sustaining injuries, so I advise you keep this in mind. Now, please report to me after defeating a certain number of Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0057"><![CDATA[{f 0 5 254}{f 2 1}Defeat a total of 200 Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_REQUEST_HELP_093" type="Message">
+    <Page spk="0058"><![CDATA[{f 0 5 254}{f 2 1}Always remain alert the first time you encounter a new Shadow. One surprise attack can land you in hot water... Please exercise the utmost caution as you continue defeating Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0058"><![CDATA[{f 0 5 254}{f 2 1}Defeat a total of 300 Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_REQUEST_HELP_094" type="Message">
+    <Page spk="0059"><![CDATA[{f 0 5 254}{f 2 1}Have you gotten used to battling Shadows? If you find that the same opponents are much too easy to defeat now, then take that as proof of your improvement. Please report to me after you've defeated even more Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0059"><![CDATA[{f 0 5 254}{f 2 1}Defeat a total of 450 Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_REQUEST_HELP_095" type="Message">
+    <Page spk="005A"><![CDATA[{f 0 5 254}{f 2 1}Have you noticed that every Shadow wears a mask representing the Arcana to which it belongs? A change in perspective can help you discover something new. Now then, report to me once you've reached the target.[n]{f 1 1}]]></Page>
+    <Page spk="005A"><![CDATA[{f 0 5 254}{f 2 1}Defeat a total of 600 Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_REQUEST_HELP_096" type="Message">
+    <Page spk="005B"><![CDATA[{f 0 5 254}{f 2 1}You must find this sort of task terribly facile now. Asking you to undertake these requests, then, was well worth it... Now, please let me know once you've managed to defeat a great deal of Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="005B"><![CDATA[{f 0 5 254}{f 2 1}Defeat a total of 800 Shadows.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_REQUEST_HELP_097" type="Message">
+    <Page spk="005C"><![CDATA[{f 0 5 254}{f 2 1}Labyrinths and treasure chests... It is certainly a charming combination. By some twist of fate, you can find treasure chests scattered about Tartarus as well. Please retrieve the contents inside whenever you encounter them.[n]{f 1 1}]]></Page>
+    <Page spk="005C"><![CDATA[{f 0 5 254}{f 2 1}Open a total of 50 treasure chests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_REQUEST_HELP_098" type="Message">
+    <Page spk="005D"><![CDATA[{f 0 5 254}{f 2 1}Though treasure chests may be enticing, try not to get distracted by them. You wouldn't want a Shadow to creep up on you now, would you? Hm? You've already experienced that? Well, no matter. Simply report back to me once you've reached the goal.[n]{f 1 1}]]></Page>
+    <Page spk="005D"><![CDATA[{f 0 5 254}{f 2 1}Open a total of 100 treasure chests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_REQUEST_HELP_099" type="Message">
+    <Page spk="005E"><![CDATA[{f 0 5 254}{f 2 1}A variety of treasure chests exist. Some only contain precious metals, and others require a "key" to open. There seems to be more than meets the eye with these treasure chests... Now then, I look forward to your report of success.[n]{f 1 1}]]></Page>
+    <Page spk="005E"><![CDATA[{f 0 5 254}{f 2 1}Open a total of 150 treasure chests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_REQUEST_HELP_100" type="Message">
+    <Page spk="005F"><![CDATA[{f 0 5 254}{f 2 1}Since Tartarus is a labyrinthine construct with an ever-changing structure, it may prove difficult to locate a treasure chest that contains the item you're looking for... However, that is part of the fun in exploring. Well then, I await your report of success.[n]{f 1 1}]]></Page>
+    <Page spk="005F"><![CDATA[{f 0 5 254}{f 2 1}Open a total of 200 treasure chests.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MSG_REQUEST_HELP_101" type="Message">
+    <Page spk="0060"><![CDATA[{f 0 5 254}{f 2 1}Have you been fusing your Personas? I recommend doing so once you have reached your limit and are unable to hold any more Personas. I await your report on this matter.[n]{f 1 1}]]></Page>
+    <Page spk="0060"><![CDATA[{f 0 5 254}{f 2 1}Conduct a total of 20 Persona fusions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MSG_REQUEST_HELP_102" type="Message">
+    <Page spk="0061"><![CDATA[{f 0 5 254}{f 2 1}"If I combine these two, I'll get this, but if I combine those two, what do I get then...?" If, perhaps, you are struggling to decide which Personas to fuse, then I recommend utilizing "Search Fusion." I look forward to your report of success.[n]{f 1 1}]]></Page>
+    <Page spk="0061"><![CDATA[{f 0 5 254}{f 2 1}Conduct a total of 35 Persona fusions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_REQUEST_HELP_103" type="Message">
+    <Page spk="0062"><![CDATA[{f 0 5 254}{f 2 1}During fusion, sometimes a Persona's skill will change, or an accident may occur. There are rumors of veterans who make use of these irregularities. Well then, please report to me once you've reached the target.[n]{f 1 1}]]></Page>
+    <Page spk="0062"><![CDATA[{f 0 5 254}{f 2 1}Conduct a total of 50 Persona fusions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_REQUEST_HELP_104" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_REQUEST_HELP_105" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_REQUEST_HELP_106" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MSG_REQUEST_HELP_107" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MSG_REQUEST_HELP_108" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MSG_REQUEST_HELP_109" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MSG_REQUEST_HELP_110" type="Message">
+    <Page spk="0063"><![CDATA[{f 0 5 254}{f 2 1}You may find this one of the most challenging requests to undertake. Defeat the Reaper and bring me the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+    <Page spk="0063"><![CDATA[{f 0 5 254}{f 2 1}Bring the {f 4 4 1 0 1 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MSG_REQUEST_HELP_111" type="Message">
+    <Page spk="0064"><![CDATA[{f 0 5 254}{f 2 1}We have made arrangements for you to battle with the ultimate adversary at the deepest point of Tartarus. Please take down your opponent—alone.[n]{f 1 1}]]></Page>
+    <Page spk="0064"><![CDATA[{f 0 5 254}{f 2 1}Defeat the ultimate adversary.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MSG_REQUEST_HELP_112" type="Message">
+    <Page spk="0065"><![CDATA[{f 0 5 254}{f 2 1}Fusion Spell, a hidden power that belongs to you and only you... One of several is called "King and I." To execute this Fusion Spell, you'll need King Frost and the biggest, baddest boy of all Jack Frosts.[n]{f 1 1}]]></Page>
+    <Page spk="0065"><![CDATA[{f 0 5 254}{f 2 1}Carry out the "King and I" Fusion Spell.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MSG_REQUEST_HELP_113" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MSG_REQUEST_HELP_114" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MSG_REQUEST_HELP_115" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MSG_REQUEST_HELP_116" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MSG_REQUEST_HELP_117" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MSG_REQUEST_HELP_118" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MSG_REQUEST_HELP_119" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MSG_REQUEST_HELP_120" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MSG_REQUEST_HELP_121" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_REQUEST_HELP_122" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_REQUEST_HELP_123" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_REQUEST_HELP_124" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_REQUEST_HELP_125" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_REQUEST_HELP_126" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_REQUEST_HELP_127" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
