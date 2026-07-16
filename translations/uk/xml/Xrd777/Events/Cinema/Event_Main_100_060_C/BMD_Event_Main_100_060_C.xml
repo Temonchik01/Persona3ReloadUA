@@ -3,8 +3,8 @@
   <Speakers>
     <Speaker id="0" rawBytes="4F 74 68 65 72 20 47 69 72 6C">Інша дівчина</Speaker>
     <Speaker id="1" rawBytes="46 69 72 73 74 20 47 69 72 6C">Перша дівчина</Speaker>
-    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 51 -1 0 0}{f 3 1 1 0 0 1 0 0}Я не думала, що ти прийдеш так пізно.[n]{f 1 1}]]></Page>
@@ -31,7 +31,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 51 -1 0 0}{f 3 1 1 0 0 10 0 0}...Клич мене Такеба.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Приємно познайомитися.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nice to meet you.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Чому в тебе пістолет?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це дівочий гуртожиток?]]></Option>
   </Dialog>
