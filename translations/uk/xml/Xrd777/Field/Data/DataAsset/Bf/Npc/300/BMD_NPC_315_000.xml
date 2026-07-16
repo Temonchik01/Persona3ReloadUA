@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_315_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_315_000.uasset" dialogs="40">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 53 75 70 65 72 66 61 6E">Mitsuru Superfan</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 53 75 70 65 72 66 61 6E">Суперфанатка Міцуру</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}{f 4 1}-kun, when you were absent, there was an election for student council president.[n]{f 1 1}]]></Page>
@@ -18,8 +18,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Are you involved in the student council?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I am.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not yet.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}*sigh* I'm so jealous...[n]{f 1 1}]]></Page>
@@ -45,7 +45,7 @@
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I heard.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I haven't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не чув.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't want to hear.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
@@ -84,8 +84,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}You saw Kirijo-senpai in a bathing suit at Yakushima!? Did you get any pictures!?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="SEL_017_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="18" name="MSG_018_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Well, where are they, then!?[n]{f 1 1}]]></Page>
@@ -104,8 +104,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Any special moments with Kirijo-senpai— I mean, do you participate in the student council activities?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="SEL_022_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
   </Dialog>
   <Dialog id="23" name="MSG_023_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Why couldn't it be me...?[n]{f 1 1}]]></Page>
@@ -146,7 +146,7 @@
   <Dialog id="32" name="SEL_032_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}No way in hell.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't want to.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="33" name="MSG_033_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Geez, I was just kidding... You don't have to look so serious.[n]{f 1 1}]]></Page>
@@ -162,8 +162,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Kirijo-senpai was in a kimono over New Year's!? Did you get any pictures!?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="SEL_036_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="37" name="MSG_037_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Well, where are they, then!? Don't joke about something like this! I'll knock you silly![n]{f 1 1}]]></Page>
