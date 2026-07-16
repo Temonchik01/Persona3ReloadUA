@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Qest_610_210_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_610_210_C\BMD_Event_Qest_610_210_C.uasset" dialogs="7">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I've been waiting for you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}The adversary I'd like you to defeat is currently standing before you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Yes, to put it simply, I am referring to myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}I have always longed to understand who I am...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}My master understands this desire of mine—as do you, I'm sure.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Those who set foot in the Velvet Room are all destined to embark on a journey of self-discovery.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 202 1 25 25}Perhaps you could guide me to the answer I seek.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Would you do me the honor of engaging me in battle?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on a bit.]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}You have my thanks.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 202 0 25 25}Now, shall we dance?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Then I shall wait here until you are ready.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
