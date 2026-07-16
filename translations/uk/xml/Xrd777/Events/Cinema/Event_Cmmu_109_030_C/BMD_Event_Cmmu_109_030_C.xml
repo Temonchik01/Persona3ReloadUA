@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_109_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_109_030_C\BMD_Event_Cmmu_109_030_C.uasset" dialogs="32">
   <Speakers>
-    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Чіхіро Фушімі</Speaker>
+    <Speaker id="0" rawBytes="43 68 69 68 69 72 6F 20 46 75 73 68 69 6D 69">Chihiro Fushimi</Speaker>
     <Speaker id="1" rawBytes="47 61 72 69 73 68 20 53 74 75 64 65 6E 74">Криклива учениця</Speaker>
-    <Speaker id="2" rawBytes="4C 61 7A 79 20 53 74 75 64 65 6E 74">Лінивий учень</Speaker>
+    <Speaker id="2" rawBytes="4C 61 7A 79 20 53 74 75 64 65 6E 74">Lazy Student</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Скарбниця, яка навіть не розбирається в математиці... Хіба це не жалюгідно?[n]{f 1 1}]]></Page>
@@ -73,7 +73,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 2 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Ми повинні негайно повідомити президентку учнівської ради та обговорити це на нашому наступному засіданні![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="SEL_020_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I agree.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це якось занадто...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Тобі не подобається цілуватись?]]></Option>
   </Dialog>
@@ -102,7 +102,7 @@
   </Dialog>
   <Dialog id="28" name="MND_028_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чіхіро турбується за мене.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 4 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Ой, уже час![n]{f 1 1}]]></Page>
@@ -111,6 +111,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 3 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Е-е... Думаю, я затримаюся тут на деякий час, тож... тобі не потрібно на мене чекати.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_031_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Чіхіро та[n]повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Чіхіро[n]та повернувся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
