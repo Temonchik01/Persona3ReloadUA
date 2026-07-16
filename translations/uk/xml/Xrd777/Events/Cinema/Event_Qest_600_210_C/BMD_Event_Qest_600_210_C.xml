@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Qest_600_210_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_600_210_C\BMD_Event_Qest_600_210_C.uasset" dialogs="6">
+  <Speakers>
+    <Speaker id="0" rawBytes="50 72 6F 74 61 67 6F 6E 69 73 74">Protagonist</Speaker>
+    <Speaker id="1" rawBytes="49 67 6F 72">Igor</Speaker>
+    <Speaker id="2" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Hrgh![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message"/>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 0 0 0 3 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Oh dear...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Oh...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}I'm afraid this did not turn out as expected...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
