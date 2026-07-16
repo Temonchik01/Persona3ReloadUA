@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_021_200.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_021_200.uasset" dialogs="151">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="4" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="5" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6012 0 0}These are your lodging quarters?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Very well, I shall remain by your side at all times.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}She's still far from passing as a human...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't look like she understands[n]ordinary feelings and conversation yet.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If she could, I might be able[n]to form a bond with her.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6007 0 0}{f 4 2}-san, I have a question.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}When you attend your institution of schooling, what kind of emotions do you feel?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's fun.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's boring.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Nothing.]]></Option>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Roger that. I will categorize "school" as entertaining.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6066 0 0}Is that true?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}From analyzing your facial expression, categorizing "school" as boring is inaccurate.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6064 0 0}My apologies, but it is inaccurate to categorize "school" as nothing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Why don't we do some counseling? Now, open your mouth wide...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6008 0 0}Data regarding the newest resident, KEN AMADA-san, has been logged.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I am able to communicate with him at any time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Please leave it to me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6064 0 0}I have conducted a simulation to predict the outcome.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}First of all, the Lost are a strain on society, since they drain resources but are unable to contribute anything.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}These individuals will also require caretakers, increasing strain on the workforce in other areas of society.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6065 0 0}With fewer and fewer people working, society's growth will plummet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Eventually, this country will no longer be able to sustain itself... "The end," as people say.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6085 0 0}I will fight with guns during battle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}However, I am not heavily equipped, and my damage output and accuracy are both average.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}On the flip side, I could say that I am quite stable. I would be a good recommendation for beginners.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6001 0 0}I want you to be aware of my strengths and weaknesses.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I am weak against electric attacks, but second to none when it comes to gun attacks.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I will riddle any kind of enemy with bullet holes.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6085 0 0}I do not understand the canine language, but I can sense the emotions produced by such canines.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I am able to receive similar images from all living things.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Unfortunately, it seems humans have lost this ability, since they ended up relying upon verbal communication.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6007 0 0}My Persona can be likened to a shield and halberd...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Not only am I skilled at attacking, I can also acquire various support abilities.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I will be a valuable ally on the front lines of battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_021_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6007 0 0}There is something you should know regarding my Persona.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}It seems my Persona excels in endurance.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Basic attacks will do little against me... In other words, I am a "tough guy."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6001 0 0}The population of the Lost increases noticeably before a full moon.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I have reconfirmed my objective to assure we win at any cost, no matter what.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6008 0 0}There are four Shadows remaining. Let us do our best next time, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}However, the members of Strega also appear to be our enemies.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Let us remain vigilant and continue taking Shadows down.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6074 0 0}I have heard that Koromaru-san's Persona is Cerberus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}This being appears in Greek mythology as the watchdog of the underworld.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Considering how Koromaru-san was guarding the shrine alone for quite some time, it suits him perfectly.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_026_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6142 0 0}Koromaru-san's Persona exhibits a unique characteristic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}It seems he has two different Theurgies that can be activated.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}This is one of his biggest advantages.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6024 0 0}I have learned the meaning of the summer festival. It seems like a very interesting event.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I am looking forward to equipping the special armor known as a yukata.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}This will be a new experience for me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6001 0 0}The summer festival will be occurring tonight at Naganaki Shrine.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I will consider this a special security assignment and escort Mitsuru-san there.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_029_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4121 0 0}As you can see, no matter what I say, she doesn't listen.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Please help me out here.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6037 0 0}Negative. Operation Summer Festival cannot be aborted.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_031_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4122 0 0}*sigh* She really wants to go... Well, I suppose I have no choice in the matter...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6012 0 0}The summer festival was an excellent experience.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}The rate at which the "candied cotton" substance expanded exceeded my expectations.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I would like to make an expedition to the next summer festival as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_287_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6080 0 0}Unlike the large Shadows, it is difficult to determine where Strega will appear next.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Koromaru-san said that we must be very cautious of them.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_032_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6080 0 0}In correlation to the rise in temperatures, Junpei-san's requests are also on the rise.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}His requests have mainly centered around topics such as going to buy ice cream and lowering the air conditioner's temperature.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}If this continues, Junpei-san will become a lost cause. I will report this to Mitsuru-san at once.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6064 0 0}The frequency at which the Lost appear is a good measure of a Shadow's strength.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Casualties are currently on the rise, so we must remain ever vigilant.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}We can most likely expect more powerful enemies to appear in the future.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_034_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6001 0 0}There seems to be a theory that "summer vacation" is a measure to protect students from the heat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Despite this, school will resume in September.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}The temperature on August 1st was 29 degrees Celsius. The forecast for September 1st is 31 degrees Celsius...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6080 0 0}Would it not make more sense for summer vacation to be implemented until October?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_033_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6074 0 0}The agility of Koromaru-san's Persona is part of its charm.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}This is most likely because Koromaru-san is fast himself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I now understand why his walks are so rigorous, as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6074 0 0}During summer vacation, it seems students are subjected to "summer homework."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}From what I have heard, it takes a tremendous amount of mental strength to power through this.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Thus, it is only natural that people cannot complete it... or so Junpei-san says.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Summer vacation will end soon, and school will resume session.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}This poses a problem...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}I will not be able to stay by your side when you are at school.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6059 0 0}...That is worrisome. What should I do...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_037_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6067 0 0}I heard from Amada-san earlier that the spear is his weapon of choice.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_039_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2108 0 0}Huh, that's kind of a curveball when you think about standard weapons like swords.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}I wonder why he chose that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_040_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6065 0 0}Most likely because of his size.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}A spear makes up for any disadvantage he might have against a taller enemy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_041_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5025 0 0}That makes sense. I'm not surprised Amada-kun would think of that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_042_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Amada-san is small, so he uses a spear with a long reach.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}This enables him to compensate for his small stature and fight bigger enemies.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Indeed, a spear is the perfect weapon for Amada-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_042_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}{f 3 1 3 0 -1 6007 0 0}One more week until the next full moon... The situation remains unpredictable.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 202 -1 0 0}Please begin making careful preparations now. I will be sure to check all my parts as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_043_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6045 0 0}I have a question, {f 4 2}-san. Why can't Koromaru-san attend school?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I do not understand why I am permitted to go to school while Koromaru-san is not.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="SEL_044_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Because he's a dog.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's common sense.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
+  </Dialog>
+  <Dialog id="39" name="MSG_045_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6037 0 0}Nowhere in the school regulations does it state that canines are prohibited from attending school.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Even Koromaru-san seemed perplexed about this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_046_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6142 0 0}A tacit understanding that is not listed in the school regulations...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}My question has been answered. Thank you very much.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_047_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6066 0 0}Is it so difficult of a question that no answer can be given?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Nowhere in the school regulations does it state that canines are prohibited from attending school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_047_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6142 0 0}Even though it is nowhere in the school regulations, canines are prohibited from attending school... These regulations are quite perplexing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_048_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6067 0 0}Koromaru-san told me something interesting...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}He said the one named Aragaki has been feeding him from time to time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_049_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Junpei-san's current status is extreme happiness.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I have learned how people describe this state in the modern vernacular...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}"He has gone to La La Land."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_050_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6008 0 0}Strega member Chidori has been sent to a Kirijo-run hospital...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Mitsuru-san and Sanada-san are currently on their way there to interrogate her.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}When neither senpai is present, we are not permitted to go to Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_051_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}Koromaru-san would like to communicate something to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}He is tired of eating the same food day after day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I recommend you change Koromaru-san's menu.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="SEL_052_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll think about it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't think so.]]></Option>
+  </Dialog>
+  <Dialog id="48" name="MSG_053_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6044 0 0}Koromaru-san seems happy to hear that. Thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_054_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Ruff! Ruff![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_055_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6058 0 0}I see. Koromaru-san, "there, there," as they say.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_056_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 3 -1 -1 0 0}{f 3 1 3 0 -1 8003 0 0}*whine*[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MSG_057_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6074 0 0}Koromaru-san says that he got a very tasty meal from Aragaki-san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}He was very excited, and mentioned that he'd "won over his stomach." What could have happened to him...? I am concerned.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_058_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}With Aragaki-san as our ally, we are a much more formidable force.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}This is the ideal time for us to ascend Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_059_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1025 0 0}Seriously. I'd love to keep our momentum going and charge through it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_060_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Aragaki-san used to frequent the outskirts of Port Island Station...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The only reason he is still alive is because of his knowledge of self-preservation and defense...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Those skills make him quite a valuable ally in battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_061_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6064 0 0}According to my calculations, the probability of the typhoon descending upon us is extremely high.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We must secure the dormitory windows and seal any areas prone to leaking.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_062_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6008 0 0}Due to the cancellation of the festival, we will receive five days off from school.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We will have the full weekend off. The 21st is Respect for the Aged Day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The 22nd is a national holiday, and the 23rd is the autumnal equinox.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}We should use this time wisely.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_063_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6013 0 0}Good morning. I am here to monitor the condition of your health.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Your temperature, pulse, and breathing have all returned to normal.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Congratulations on surviving your illness.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_064_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}While you were resting, a typhoon passed through town.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Not much damage was incurred.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Nothing of note was mentioned about typhoon damages on the news either.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_065_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}We have captured Strega's support specialist, Chidori.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Next mission, it is highly probable that they will be unable to determine our location.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_066_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Yeah, not having a navigator must make a huge difference...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I doubt they'll be able to do much on their own right now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_067_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5025 0 0}Still, we should be careful. The other two must be formidable too...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_068_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}It is difficult to determine a Shadow's strength.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Particularly these last three.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}It would be safer and more secure for us to prepare and train accordingly as well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_069_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}Three Shadows remain.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_070_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5117 0 0}Only three more... Our final battle isn't far off...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_071_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}Dude, why can't they all just come at once? Then we could get it over with.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_072_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1142 0 0}Uh... You think you can beat 'em if you fight 'em all at once?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_073_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2098 0 0}Huh!? Well, obviously...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}...NOT![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_074_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_075_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}The operation will be on October 4th.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We are well-staffed to fight this time as well, but let us make certain we are fully prepared and emerge victorious.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_076_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}In order to be victorious, it would be best to start strategizing now.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Though we may be strong, as they say, "We should not be complacent."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We will be looking to you so that everyone can fight to the best of our abilities.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_077_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6065 0 0}My functions cannot address any highly metaphysical issues.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}As I am unlikely to be of any assistance, I will stand by until further notice.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MSG_078_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6070 0 0}I have confirmed the metamorphosis of two Personas, most likely the result of Aragaki-san's death.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}There may be more changes to come, so I will remain in observation mode.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_079_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Koromaru-san says that he is in good spirits.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If anything, he seems to greatly respect Aragaki-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_080_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}I have confirmed that everyone's spirits are low, due to Aragaki-san's incident.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If this persists, the outlook for our next mission will be poor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}We must forge ahead.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_081_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}These will be my first periodic examinations.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Since I have a human mind, my memory is similar to that of a human being's.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Thus, I will not be able to insert the data of an entire book into my memory system.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6140 0 0}However, do not worry. I will still do my very best.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_081_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6074 0 0}The exams start tomorrow... It looks like you are all serious about doing well on them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I, too, will be implementing the "take my chances" approach on where to focus reviewing my studies.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_082_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}My favorite subjects are tactical theory, mechanical engineering, and information analysis...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Unfortunately, the examinations did not cover these subjects.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Therefore, regarding the results of the exams, I will be, as Junpei-san would put it, "in deep shit."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_083_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6058 0 0}What to do after the Dark Hour disappears...? I cannot answer that question.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I was built solely to eliminate Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Once that mission has been fulfilled, there is no reason for me to remain active.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6085 0 0}Thus, the disappearance of the Dark Hour does not concern me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_084_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2101 0 0}Dude, Aigis...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MSG_085_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1092 0 0}You didn't have to put it that way... It's kinda depressing to hear you say that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MSG_086_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}I performed satisfactorily in chemistry and mathematics, but I performed poorly in other subjects.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But since I specialize in combat, these results are not unexpected.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MSG_087_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6007 0 0}When cornered, an enemy will fight even more fiercely... This is a basic premise of warfare.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Only one Shadow remains. We should expect the same principle to apply here as well...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I am sure that this will be the toughest battle of all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}Please make sure that you are fully prepared so that we do not experience an unfortunate defeat.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MSG_088_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}When Sanada-san began his run, I analyzed his time, distance, and energy expended.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6074 0 0}Utilizing the overall results, I prepared an optimal training regimen for him.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}He was so pleased with my suggestions that he intends to incorporate them into his regimen.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I was delighted to have been of service to him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MSG_089_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}The lowered morale due to Aragaki-san's departure had been quite concerning...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}However, everyone seems to be cherishing their lives much more than they did before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Aragaki-san's departure seems to have helped everyone grow and mature.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_090_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}It seems that Koromaru-san is able to sense the change in everyone's demeanor as well.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Our battle against the Shadows is coming to an end...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}He understands that the time has come to avenge his former owner in the upcoming operation.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MSG_091_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6058 0 0}I cannot understand the nervousness you all are feeling.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But I can sense that everyone will be giving their all in this battle...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Therefore, I will do everything in my power to assist you up to the very end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}This will most likely be the last time we fight together, so let us leave no room for regrets.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="MSG_092_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6008 0 0}Even though Ikutsuki is "cracking jokes," nobody is paying him any mind.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}In fact, my mental facilities also have no room to spare to decrypt his jokes.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6085 0 0}They are already occupied with other thoughts...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Of the last Shadow... the Dark Hour... and the Lost.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MSG_093_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6057 0 0}...I am truly sorry.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Even though he took control of me, I cannot believe I did such a thing to you...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Could you ever forgive me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="SEL_094_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fine...]]></Option>
+  </Dialog>
+  <Dialog id="91" name="MSG_095_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6044 0 0}...Thank you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will continue to do what I can to help.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MSG_096_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6044 0 0}Thank you so much...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will train hard so that I can be of great help to you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_096_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}I will do everything I can so that I may be of great help to you all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MSG_097_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}I will follow everyone's example and refer to that man as "Ikutsuki" from now on as well.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Ikutsuki never mentioned anything about his plot, even when we were alone.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6071 0 0}Meaning, he completely hid his true nature. It is truly an extraordinary feat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}This clearly illustrates how unique his psychological state was.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MSG_098_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5028 0 0}You're right... The more time I spend thinking about it, the more frightening it seems.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="MSG_099_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}And all this time, we never suspected a thing...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Ugh... It makes me sick.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MSG_100_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6143 0 0}Be careful of Ryoji-san...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}There is something about him...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I don't know exactly what, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_100_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Mitsuru-san appears to be extremely fatigued.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}I believe it would be wise to "leave her be" for now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MSG_101_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}I have thought long and hard about Ryoji-san...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Though I still don't know exactly what is so unsettling about him...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I want you to remain cautious around him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MSG_102_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}I am unable to comprehend the significance of a "trip."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I thought that it was simply an activity to experience, but it seems to be more complex than that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}What do you obtain when you go on a "trip"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="SEL_103_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Memories.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's hard to explain.]]></Option>
+  </Dialog>
+  <Dialog id="102" name="MSG_104_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}Memories...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}How do you benefit from gaining memories?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}This matter is indeed difficult to comprehend...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_105_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6058 0 0}That is the biggest difference between us.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I am always able to explain the motives of my actions...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MSG_106_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}I understand how important a school trip is for everyone...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I thought that this trip was simply a means for temporary peace of mind... In other words, comfort.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}However, it is something more meaningful that will boost morale for future battles, is it not?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_107_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5092 0 0}Th-That might be a bit of an exaggeration... But I do hope everyone enjoys this trip.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MSG_108_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1089 0 0}I hope so, too, but it's hard to have fun when literally everything else is on my mind...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}...I wonder when we'll be able to figure out how to move forward.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="MSG_109_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6051 0 0}What is the matter, {f 4 2}-san? You seem anxious when the girls are around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I speculate that you are concealing a serious matter from the girls.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MSG_110_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6143 0 0}You are unscrupulous.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}As a penalty, I shall not converse with you for the rest of the day.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Commencing ignore mode.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MSG_111_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}I cannot stop thinking about Ryoji-san. I am worried I may overheat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I even asked Koromaru-san for help...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MSG_112_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6074 0 0}Career experience appears to be routine labor that is performed over and over again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Though that does not bother me...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Everyone else seems to despise it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MSG_113_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}The top priority of all living beings is the preservation of their own lives.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Even if one tries to give up their life for another, this instinct is likely to be a limiting factor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Despite this, Chidori-san really did give up her life force to Junpei-san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6058 0 0}The connection between them must have been special enough to transcend even her most basic instincts.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MSG_114_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6067 0 0}Oh, welcome back. How was your career experience?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I performed routine labor, over and over again.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MSG_115_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6080 0 0}The recovery of Junpei-san's mental health has been confirmed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Wait, did that sound strange? Let me try again...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I have confirmed that Junpei-san's mental state has returned to normal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MSG_116_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6060 0 0}I wonder why I can't stop thinking about Ryoji-san...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Koromaru-san has no idea, either...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MSG_117_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6076 0 0}Ryoji-san is dangerous... I'm certain of it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Things are fine for now, but one day that will change.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Please do not worry, though. I will be there to protect you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MSG_118_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6075 0 0}{f 4 2}-san... I swear that I will protect you, come what may.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}So, um... please do your best on your exams.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MSG_119_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6081 0 0}Now I know why I'm here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}My destination lies in the decision we make.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Let's choose wisely.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MSG_120_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6131 0 0}Let's face this together, {f 4 2}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MSG_121_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6002 0 0}I never used to understand the significance of a new year...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Dates and times were nothing but data to me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But with all that has happened, I'm starting to realize the meaning behind this custom.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}It's a time to leave behind the past, and look forward to the future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6025 0 0}Yes... Anything is possible in the new year.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MSG_122_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6060 0 0}When the cult assembled, they didn't seem to do anything in particular... It was just a gathering.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Of course, that isn't necessarily a bad thing. I'd say it's preferable to a violent rampage...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But the fact they did nothing at all is rather eerie as well...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MSG_123_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6082 0 0}I will stand beside you until the very end.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Even though I only have this one month to spend with you...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}...I will have no regrets.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_124_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1101 0 0}Don't talk like that, Aigis...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MSG_125_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4031 0 0}Let her say her piece, Yukari. After all, the chances that we manage to defeat Nyx are slim...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_126_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6024 0 0}Indeed, that may be true... But there is still a possibility we will win.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}So we must spend our time wisely this month, and attempt to better our odds.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MSG_127_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6004 0 0}Koromaru-san's gaze is strong and unwavering, as if he is only looking towards the future.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}When he joined us, he was the only one capable of using two different Theurgies.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6025 0 0}Now, I think I understand why.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}By the time Koromaru-san met us, he had already crossed a major milestone...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_128_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6060 0 0}I didn't expect that cult to become so popular.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I thought more people would oppose it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But it's like a fire drawing moths to its flames... The masses have simply accepted it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MSG_129_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6061 0 0}About the cult...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I wonder how many people truly believe in it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}It seems that much of the public will openly discuss the end of the world without truly understanding the consequences...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MSG_130_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Yeah, I think I get what you mean. I've noticed something similar, too.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Like, some people are just going along with it, saying things like, "I joined the cult 'cause my friend believes in it."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="MSG_131_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2062 0 0}I overheard some folks talkin' the other day, too.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}They said that life was so boring, it wouldn't be so bad if the world ended.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="MSG_132_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5068 0 0}In other words... they think of the cult as nothing more than a trend.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}It helps people fill the emptiness they feel inside.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="MSG_133_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6070 0 0}I have to admit, it's impressive how well Strega has manipulated the media.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But I'm a little disappointed in the media for being so easily influenced by them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6073 0 0}Do you think the media were paid off by Strega to promote them?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}...Actually, that would be even more disappointing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="MSG_134_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6089 0 0}The media is attempting to sway public opinion by reporting on Strega's activities in a positive light.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}And the most popular queries on the Internet include the keywords "Nyx," "cult," and "end of the world."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}...Do people truly yearn for the Fall, after all?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="SEL_135_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No way.]]></Option>
+  </Dialog>
+  <Dialog id="134" name="MSG_136_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6134 0 0}People either have no will to live... or they aren't allowed to have any will to live.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}That's the current state of this society we live in...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="MSG_137_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6048 0 0}But if it's gaining traction, then that must mean people are curious. Why on earth would people be interested in the end of the world?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Perhaps... some part of humanity longs for the end?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="MSG_137_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6081 0 0}No matter what may happen... I will fight to the very end, ever at your side.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I won't accept this fate. I'll stand against the Fall.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="MSG_137_2_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6004 0 0}Koromaru-san is also a proud and splendid teammate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}If you intend to go to Tartarus, please consider adding him to the combat party. Koromaru-san would be greatly pleased.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="MSG_138_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6069 0 0}The machine that malfunctioned in the command room... The camera...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Oh, don't mind me. I just realized something...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="MSG_139_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6131 0 0}Koromaru-san seems very happy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}Dogs, too, consume food in order to boost their energy levels.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}Koromaru-san will certainly be ready for the battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="MSG_140_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6106 0 0}It's beautiful how two people care so much about one another.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="MSG_141_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6081 0 0}As an anti-Shadow weapon, I did what was ordered of me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}There was always someone dictating my actions, my choices.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}So choosing what I want to pursue for my own future will be a new experience for me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6089 0 0}Though it may be difficult, I'll do my best, so please... do the same, {f 4 2}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="MSG_142_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6002 0 0}My current mission is about to come to an end...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}The mission my creator gave me, that is—to destroy all Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But, in its place, a new mission has just begun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6071 0 0}My mission to live in this world...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I know I can do it, with all of you helping me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="MSG_143_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6110 0 0}I don't quite understand what it means to "live" yet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}So my career consultation was really confusing.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}But, I know that if I'm with you, everything will be okay.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="MSG_144_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6059 0 0}It's almost time. How are your preparations coming along?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="145" name="SEL_145_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Right on schedule.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not so great...]]></Option>
+  </Dialog>
+  <Dialog id="146" name="MSG_146_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6107 0 0}Good. We need to be fully prepared if we aim to win.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="147" name="MSG_147_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6031 0 0}Not to worry. If you double your efforts, you'll be fully prepared in no time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Remember, while making preparations is important, in the end what matters the most is never giving up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="MSG_147_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6025 0 0}I, too, intend to make extra preparations till the very last minute.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}...Let's win this, {f 4 2}-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="MSG_0131_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 3 0 -1 6014 0 0}Good morning.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}Everyone seems to be spending today being where they wish to be, doing what they wish to do.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}I have decided to wait for everyone to return in the meantime.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="MSG_148_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 52 -1 0 0}{f 3 1 3 0 -1 6081 0 0}I want us to get through this—all of us... We must live.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 52 -1 0 0}That's why I'll continue to fight.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
