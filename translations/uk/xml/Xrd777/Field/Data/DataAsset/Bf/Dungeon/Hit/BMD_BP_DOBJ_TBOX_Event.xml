@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_BP_DOBJ_TBOX_Event.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_BP_DOBJ_TBOX_Event.uasset" dialogs="78">
   <Speakers>
-    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
-    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="7" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_YESNO" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відкрити]]></Option>
@@ -44,25 +44,25 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1} реагує...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="PFM_GET_CARD_TEMPERANCE" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркана Помірність[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Помірністі[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="PFM_GET_CARD_DEVIL" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Диявол[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Диявол[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="PFM_GET_CARD_TOWER" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Вежа[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Вежа[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="PFM_GET_CARD_STAR" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Зірка[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Зірка[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="PFM_GET_CARD_MOON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Місяць[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Місяць[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="PFM_GET_CARD_SUN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Сонце[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Сонце[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="PFM_GET_CARD_JUDGEMENT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Суд[n]може з'являтися під час Перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що тепер карта Головної Аркани Суд[n]може з'являтися під час перетасовки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_ESCAPE_FUKA_00" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}Схоже на глухий кут. Хочеш повернутися назад одразу?[n]{f 1 1}]]></Page>
@@ -107,7 +107,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
   </Dialog>
   <Dialog id="27" name="SEL_EQUIP_UPDATE_03" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Джюнпею]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Give to Junpei]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
   </Dialog>
   <Dialog id="28" name="SEL_EQUIP_UPDATE_04" type="Selection">
@@ -119,7 +119,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зберігти поточне спорядження]]></Option>
   </Dialog>
   <Dialog id="30" name="SEL_EQUIP_UPDATE_06" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}未使用]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}未使用[cr]]]></Option>
   </Dialog>
   <Dialog id="31" name="SEL_EQUIP_UPDATE_07" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Віддати Аіґіс]]></Option>
@@ -209,11 +209,11 @@
   <Dialog id="58" name="SEL_PARTY" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Екіпірувати на себе]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпеі]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Джюнпей]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Санада]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Фуука]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Амада]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Коромару]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Араґакі]]></Option>
