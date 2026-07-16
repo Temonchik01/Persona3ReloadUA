@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_002_717_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_002_717_C\BMD_Event_Cmmu_002_717_C.uasset" dialogs="9">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 4 23 0 1 0 25 25}У цій серії стільки поворотів сюжету.[n]{f 1 1}]]></Page>
@@ -10,9 +10,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}Що б ти зробив, якби таке сталося з тобою?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_010_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Та байдуже.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Я б ніколи не відійшов від цього.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Пробачив і забув.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's whatever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'd never recover.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Forgive and forget.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_011_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}Ха-ха-ха... Ти взагалі нічим не переймаєшся, так? Але це твоя особлива риса, {f 4 1}.[n]{f 1 1}]]></Page>
@@ -37,7 +37,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 1 2 25 25}{f 5 13 7 1 2}Я маю знати, як це закінчиться. Глянемо ще наступного разу, гаразд?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_016_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Споглядаючи за головним героєм, я почав[n]розуміти {f 4 30 1 1 1 0} дорослого...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By observing the main character, I've begun to[n]understand the {f 4 30 1 1 1 0} of an adult...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_017_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 1 1 25 25}Уже пізно... Нам краще повернутися до кімнат.[n]{f 1 1}]]></Page>
