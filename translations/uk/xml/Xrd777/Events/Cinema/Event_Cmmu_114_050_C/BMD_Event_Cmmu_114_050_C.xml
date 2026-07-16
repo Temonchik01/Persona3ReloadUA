@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_114_050_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_114_050_C\BMD_Event_Cmmu_114_050_C.uasset" dialogs="20">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Мутацу</Speaker>
+    <Speaker id="0" rawBytes="4D 75 74 61 74 73 75">Mutatsu</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ти запізнився. Я вже думав піти...[n]{f 1 1}]]></Page>
@@ -32,7 +32,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}І я маю на увазі щось, що можна купити за гроші. А не якусь фігню типу «кохання» чи «почуття гумору».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_008_0_0" type="Message">
@@ -72,6 +72,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 114 2 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Якби я тільки міг купити назад увесь той час, який втратив...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Мутацу[n]та повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Мутацу[n]і повернувся до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
