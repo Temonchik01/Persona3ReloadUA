@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Scr_Event_Fild_505_003_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_505_003_C\Script\BMD_Scr_Event_Fild_505_003_C.uasset" dialogs="139">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="6" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
-    <Speaker id="7" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
-    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="6" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="7" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+    <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}{f 3 1 3 0 -1 4086 0 0}Well done, everyone. That was a formidable opponent.[n]{f 1 1}]]></Page>
@@ -38,7 +38,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 4 23 1 2 3 25 25}You don't think it'll be the same old thing forever, do you...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Only one way to find out.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Є тільки один спосіб дізнатися.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe it will be.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I can't say for sure.]]></Option>
   </Dialog>
@@ -76,7 +76,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Don'tcha wanna see how I'd run this whole shebang? Well, don'tcha?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_017_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Should we switch?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'm fine with whatever.]]></Option>
   </Dialog>
@@ -150,11 +150,11 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1119 0 0}{f 4 23 1 2 3 25 25}(sigh) What's with these back-to-back fights?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_034_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 4 23 1 3 3 25 25}Yeah, this is a first. It's like, pacing, anyone?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 4 23 1 3 3 25 25}Так, це вперше. Це як, темп, будь-хто?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MSG_035_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 4 23 1 2 0 25 25}{f 4 23 1 3 0 25 25}I can't get a read on a pattern for these floors... There's simply too much about which we're still in the dark.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}We need to prepare even more thoroughly, and retreat promptly when we're depleted.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Нам потрібно готуватися ще ретельніше, і швидко відступати, коли ми виснажені.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MSG_036_0_0" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}Maybe we'd have an easier time with Sanada-senpai around.[n]{f 1 1}]]></Page>
@@ -288,7 +288,7 @@
   <Dialog id="79" name="SEL_073_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's a good idea.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}But we're doing just fine.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Whatever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пофіг.]]></Option>
   </Dialog>
   <Dialog id="80" name="MSG_074_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2026 0 0}I know, right? I'm brilliant![n]{f 1 1}]]></Page>
@@ -370,7 +370,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Koromaru-san performed excellently as well. Once we return, we are to give you a reward, correct?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="103" name="MSG_093_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, Арф![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="104" name="MSG_094_0_0" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}What would best suffice as a reward for Koromaru-san?[n]{f 1 1}]]></Page>
@@ -395,7 +395,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Please do maintenance for him when you have the time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="110" name="MSG_100_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Arf, arf![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="111" name="MSG_101_0_0" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}Koromaru-san says, in response to your heartless words, that he will continue to do his best.[n]{f 1 1}]]></Page>
@@ -406,7 +406,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}I will also perform to the best of my ability in order to secure Koromaru-san the best possible reward.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="113" name="MSG_101_7_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8008 0 0}Arf![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8008 0 0}Арф![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="114" name="MSG_102_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7001 0 0}So everyone up until now has defeated lots of enemies like the one just now, right?[n]{f 1 1}]]></Page>
