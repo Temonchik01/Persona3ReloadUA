@@ -14,10 +14,10 @@
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message"/>
   <Dialog id="5" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Поїсти в «Бургері Дикої Качки»]]></Option>
@@ -53,11 +53,11 @@
   </Dialog>
   <Dialog id="18" name="MND_018_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще замовляти Таємничий бургер...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще замовляти Таємничий бургер?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_019_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще замовляти[n]Вихідний набір Дикої Качки...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще замовляти[n]Вихідний набір Дикої Качки?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Мені треба йти до Тартарум...[n]{f 1 1}]]></Page>
@@ -66,7 +66,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Бургер Дикої Качки[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що замовити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що замовити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="SEL_023_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Таємничий бургер{f 4 26 24 0}]]></Option>
