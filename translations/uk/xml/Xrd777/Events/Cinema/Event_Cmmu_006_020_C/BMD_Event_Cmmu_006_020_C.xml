@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_006_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_006_020_C\BMD_Event_Cmmu_006_020_C.uasset" dialogs="34">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="1" rawBytes="53 74 72 61 79 20 43 61 74">Бродячий кіт</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Я приготувала ще одне бенто.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Не проти скуштувати?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Думаю, це має бути кращим на смак.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 6 3 25 25}...Або принаймні не гірше, ніж минулого разу, правда?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Судячи з зовнішнього вигляду, [n]вона дійсно прогресує.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я спробую...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 5 0 0}Няв.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}О, кітик![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Ой, він такий милий. Я чула, що тут багато бродячих котів.[n][e[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Він дивиться на коробку з бенто. Цікаво, чи він голодний...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Може, я дам йому трохи їжі. Що думаєш, {f 4 1}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Давай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не роби цього.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 3 15 6}Гаразд![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_005_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Зачекай. Чи є тут щось, що котам не можна їсти?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Гм-м... Ну, це просто ароматизований рис, тож усе має бути гаразд.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}А, точно. Тут може бути щось, що котам не можна їсти.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 6 1 25 25}Але знов-таки, це просто ароматизований рис, тож, думаю, усе буде гаразд.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Ось, кицю.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 16 0 0}Няв.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 17 0 0}Няв!![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Га?..[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Щ-що сталось?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_011_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}О ні, тільки не знову...[n][e[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 0 0 0 21 0 0}......[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 6 0 25 25}Мабуть, воно гіркувате.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Хоча я думала, що досягла балансу поживних речовин.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Але я знаю, що справа тут не в поживності.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Вибач, {f 4 1}. Я не можу дати тобі це.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Я не хочу, щоб ти потрапив до лікарні...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я зможу це трохи витримати.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо, ми зможемо це використати в бою.]]></Option>
+  </Dialog>
+  <Dialog id="20" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Н-ні![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Я потім вирішу, що з цим робити, а-але ти не можеш це їсти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Ти маєш на увазі, годувати цим Тіней?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}Але... хіба Тіні взагалі щось їдять?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}...Я така невдаха.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Я просто хотіла допомогти всім і поза боєм.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}Коли живеш у гуртожитку, не часто випадає нагода поїсти домашню їжу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}Тому я подумала, що було б добре приготувати для всіх, але...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_018_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Вибач. Але я намагатимуся вдосконалити навички.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я бачу, що Фуука піклується про мене.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, ми стали ближчими...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}]Мені важко це сказати, зважаючи на те, що щойно сталося, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}{f 4 23 0 6 0 25 25}Сподіваюся, ти будеш готовим знову дегустувати мої «кулінарні витвори».[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Я не думаю, що впораюся сама. Чи можу я... розраховувати на твою допомогу?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="SEL_021_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Без проблем.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Наступного разу буде смачно?]]></Option>
+  </Dialog>
+  <Dialog id="27" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}{f 5 13 3 15 6}О, це чудово! Дякую, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 40 0 0}Я працюватиму над цим. Тоді одного дня ти скажеш мені, що тобі подобається моя кулінарія.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_023_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Н-ну...[n][e[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_023_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}Я дуже старатимусь! І сподіваюся, що не змушу тебе знудитися на пів шляху.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}Ой, я не помітила, що вже так пізно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_024_1_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}Мені треба купити ще інгредієнтів, тому маю йти. Побачимось.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я попрощався з Фуукою та[n]повернувся до гуртожитку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="SYS_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused label.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
