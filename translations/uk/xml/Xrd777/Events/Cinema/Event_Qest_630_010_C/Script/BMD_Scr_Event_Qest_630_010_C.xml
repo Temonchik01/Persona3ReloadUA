@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Qest_630_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_630_010_C\Script\BMD_Scr_Event_Qest_630_010_C.uasset" dialogs="18">
+  <Speakers>
+    <Speaker id="0" rawBytes="56 6F 69 63 65 20 6F 6E 20 74 68 65 20 50 68 6F 6E 65">Voice on the Phone</Speaker>
+    <Speaker id="1" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 1 0 0}Good morning. This is Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 2 0 0}There is something I wish to discuss with you, so please come to the Velvet Room posthaste.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 3 0 0}I believe this matter is of great import to you.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 4 0 0}I shall be anticipating your arrival.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Elizabeth wants to tell me something.[n]What could be so important?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go to the Velvet[n]Room after school...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 5 0 0}Good morning. This is Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 6 0 0}I am calling to inform you that more humans have wandered into Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_035_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 2 4 1} this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_036_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 8 0 0}Goodbye, now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_004_1_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 9 0 0}One this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_004_2_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 10 0 0}Two this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_004_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 11 0 0}Three this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_004_4_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 12 0 0}Four this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_004_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 13 0 0}Five this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 14 0 0}Good morning. This is Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 15 0 0}I am calling to inform you that more humans have wandered into Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 16 0 0}One this time, I believe. Please swiftly and safely conduct a search and rescue.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 17 0 0}This time in particular, I believe this human is an {f 0 1 2}acquaintance of yours{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 18 0 0}Goodbye, now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems that someone[n]I know is lost in Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I don't save them, the consequences[n]could be {f 0 1 2}irreversible{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 19 0 0}Good morning. This is Elizabeth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 20 0 0}I am calling to inform you that more humans have wandered into Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 21 0 0}{f 2 4 1} this time, I believe, and there seems to be {f 0 1 2}an acquaintance of yours{f 0 1 27} among them.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 22 0 0}I suggest you carry out a rescue posthaste.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 90 -1 68 0 0}{f 3 1 1 0 0 23 0 0}Goodbye, now.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems that someone[n]I know is lost in Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I don't save them, the consequences[n]could be {f 0 1 2}irreversible{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

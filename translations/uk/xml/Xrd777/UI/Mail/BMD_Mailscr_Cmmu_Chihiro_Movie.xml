@@ -2,23 +2,23 @@
 <BMD source="BMD_Mailscr_Cmmu_Chihiro_Movie.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\Mail\BMD_Mailscr_Cmmu_Chihiro_Movie.uasset" dialogs="9">
   <Dialog id="0" name="MND_000_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Чіхіро хоче[n]подивитися фільм разом...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вочевидь, перегляд може допомогти[n]покращити {f 4 30 0 37 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вочевидь перегляд може допомогти[n]покращити {f 4 30 0 37 1 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_000_5_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи піти мені до неї?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go with Chihiro]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти з Чіхіро]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="3" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені слід відповісти їй...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні {f 2 4 2}, {f 2 4 5}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні {f 2 4 2}, {f 0 1 35}{f 2 4 5}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_004_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це може бути слушна нагода[n]поглибити свій зв'язок з {f 2 4 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це може бути слушною нагодою[n]поглибити свій зв'язок із {f 2 4 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відповім пізніше...[n]{f 1 1}]]></Page>
@@ -27,6 +27,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}UNUSED[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз аркана Помірністі[n]може допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

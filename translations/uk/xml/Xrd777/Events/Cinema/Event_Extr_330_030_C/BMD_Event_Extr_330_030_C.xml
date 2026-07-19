@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_330_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_330_030_C\BMD_Event_Extr_330_030_C.uasset" dialogs="80">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="2" rawBytes="43 6C 61 73 73 6D 61 74 65">Classmate</Speaker>
+    <Speaker id="3" rawBytes="4D 72 2E 20 4D 69 79 61 68 61 72 61">Mr. Miyahara</Speaker>
+    <Speaker id="4" rawBytes="4D 72 2E 20 54 61 6B 65 6E 6F 7A 75 6B 61">Mr. Takenozuka</Speaker>
+    <Speaker id="5" rawBytes="4D 72 2E 20 45 6B 6F 64 61">Mr. Ekoda</Speaker>
+    <Speaker id="6" rawBytes="4D 72 73 2E 20 54 65 72 61 75 63 68 69">Mrs. Terauchi</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can hear my classmates whispering...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've become slightly more popular...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_002_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I gave him the wrong answer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15807 0 0}{f 5 21 0 100}Open your textbooks and we'll take a look at the first novel by... Zenzou Kasai.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Ugh... Why him?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I've been more interested in Tota Kaneko's work lately.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}His essays are fantastic, and he's also a famous haiku poet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}I wonder why all this isn't in the textbook... Well, I guess I'll just bring his book next time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Speaking of haikus, they often use words or phrases related to seasons, but it's easy to get them mixed up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}For example, you'd think "tasty bamboo shoots" and "vivid carp streamers" would symbolize spring, right?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Well, they're actually related to summer![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Haiku poets usually refer to seasons based on the lunar calendar, making it fairly complicated.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15801 0 0}{f 5 21 0 100}...Hey, Iori, are you listening? Here's a question for you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Among these phrases, "a rain of flowers," "mystical mirage," and "vivid carp streamers," which one symbolizes summer?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2099 0 0}{f 5 21 0 150}Wh-Whuh? Uhhh...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}Psst, {f 4 2}! You were listening, right!? Lend a brother a hand![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 5 21 0 150}What phrase symbolizes summer!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"A rain of flowers."{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"Mystical mirage."{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"Vivid carp streamers."{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 3 1 3 0 -1 15841 0 0}{f 5 21 0 100}Yep, that's right![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 1 -1 -1 0 0}{f 5 21 0 100}So you were listening to me after all![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 3 0 -1 15829 0 0}{f 5 21 0 100}Nope! I said that "vivid carp streamers" is related to summer just now, didn't I?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}Could you PLEASE pay attention to my lectures!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}You'll make me cry if you keep this up! Listen closely next time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}By the way, "mystical mirage" and "a rain of flowers" represent spring.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}A mirage is a natural phenomenon that occurs around late March to early June...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}And "a rain of flowers" refers to the spring showers around the time cherry blossoms bloom. It's not literally raining flowers.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Make sure you remember all that. Our next topic is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 5 21 0 150}Heheh... Well, you know how much I like to pay attention![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2044 0 0}{f 5 21 0 150}Man, you seriously saved my bacon, {f 4 2}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun gave him the answer just now... He must have a good memory or something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2112 0 0}{f 5 21 0 150}O-Oh, uh... S-Sorry![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 5 21 0 150}I ain't lettin' this go, man![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15401 0 0}{f 5 21 0 100}All right, let's review quadratic functions. You all remember those, don't you?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Sometimes the graph will be a parabola, or sometimes a hyperbola.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Well, they're certainly beautiful curves... But they can't measure up to parabolic and hyperbolic spirals![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}These are algebraic spirals. Look, aren't they magnificent?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15416 0 0}{f 5 21 0 100}Now then, let's see if you can answer this from a mathematical point of view, Iori-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Which of the following is not an algebraic spiral?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2103 0 0}{f 5 21 0 150}H-Hold up, how the heck am I supposed to know something like that!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}{f 4 2}, do you know which one's not an algebraic spiral or whatever?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="SEL_018_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}A.{f 2 9 1 0 13}{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}B.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}C.{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}D.{f 5 20 45 3}]]></Option>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15418 0 0}{f 5 21 0 100}Correct! Well done![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}This is a logarithmic spiral. When the golden ratio is the growth factor, it's called a golden spiral.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15419 0 0}{f 5 21 0 100}Too bad, the correct answer is A.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}This is a logarithmic spiral. When the golden ratio is the growth factor, it's called a golden spiral.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Just as the name implies, you can graph an algebraic spiral using an algebraic equation.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}B is the Archimedean spiral, C is a parabolic spiral, and D is a lituus. All of which are algebraic spirals.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}However, A, the logarithmic spiral, is not considered an algebraic spiral.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}It is a common spiral found in nature, such as on nautilus shells and sunflower seeds.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}No matter how far you scale in or out, the shape remains roughly the same. This is called self-similarity.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 5 21 0 150}The way it spirals kinda reminds me of Tartarus...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2043 0 0}{f 5 21 0 150}...What, just me? Eh. Anyways, thanks for your help, dude![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun gave him the answer just now. He must be really smart![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2070 0 0}{f 5 21 0 150}Huh, actually... don't it kinda look like Tartarus? Who the heck even made that place?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15405 0 0}{f 5 21 0 100}Oh gosh... Cartesian coordinates really are beautiful, aren't they?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}There is one in particular that's my favorite though... Are you curious? You are, right? Right?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}This curve is a graph of a Cartesian equation...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}One that was discovered by Italian mathematician Maria Agnesi.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}It's actually named after her. Some people call it the curve of Agnesi.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15416 0 0}{f 5 21 0 100}However, it is more commonly known by another name. Iori-kun, do you have any idea what it is?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2101 0 0}{f 5 21 0 150}Huh!? How would I know!? Heck, are we even talkin' about math anymore?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 5 21 0 150}Psst, {f 4 2}... Do you know the answer?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 0 150}What else do people call this curve?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="SEL_029_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Orthogonal curves.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fermat's spiral.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Witch of Agnesi.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+  </Dialog>
+  <Dialog id="30" name="MSG_030_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15417 0 0}{f 5 21 0 100}That's correct! I'm surprised you even knew that.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_031_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 3 1 3 0 -1 15420 0 0}{f 5 21 0 100}Hm, that's not correct. Was my question too difficult?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}The curve of Agnesi is more famously known as the Witch of Agnesi.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_032_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}As to why it's called a "witch"...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Nobody really knows! Apparently, it came from a mistranslation of the Italian word for the versine of a curve.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}Merely an inadvertent mistake, I suppose![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}I make careless mistakes fairly often as well... But it's pretty embarrassing when your mistake lasts for generations.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1085 0 -1 -1 0 0}{f 5 21 0 100}I mean, if the shape of the curve resembled a witch, maybe they could have gotten away with it, but... alas.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_033_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 5 21 0 150}Haha, that's just common sense, Mr. M![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2039 0 0}{f 5 21 0 150}Phew... Thanks, {f 4 2}! I was about to sound real stupid.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_034_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun helped him out there. Seems like you can always count on him.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_035_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2111 0 0}{f 5 21 0 150}...Yo, how were we supposed to figure that out without any hints?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_036_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15606 0 0}{f 5 21 0 100}Everyone understand the Lorentz force and the left-hand rule? Then I'm erasing the board![n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Hopefully, all of you have been taking notes because it might be on the {f 0 1 2}exam in two weeks{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}My shoulders feel lighter than usual today. I can even erase the top of the blackboard with ease.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Perhaps it's because I went to the bathhouse yesterday. I had a nice, long massage in the whirlpool bath.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_037_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15616 0 0}{f 5 21 0 100}Which brings us to my next question...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}When streams of air bubbles from a whirlpool bath hit you, your body vibrates, yes?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}There's actually a name for this phenomenon. Iori, perhaps you know what it is?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MSG_038_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2099 0 0}{f 5 21 0 150}Uhhh... Dude, how would I know?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_039_0_00" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 5 21 0 150}Hey, you got any idea, {f 4 2}?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 5 21 0 150}What's it called when the air bubbles in a whirlpool bath hit you and make your body vibrate?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="SEL_040_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}The anchor effect.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}The flutter effect.{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}The bubble jet phenomenon.{f 5 20 45 2}]]></Option>
+  </Dialog>
+  <Dialog id="41" name="MSG_041_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15617 0 0}Oh, I suppose you already knew. That's right, the answer is indeed "the flutter effect."[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}"Flutter" refers to the small vibrations generated by interactions between airflow and other forces.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_042_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15620 0 0}{f 5 21 0 100}...That's incorrect. The answer I'm looking for is "the flutter effect."[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}"Flutter" refers to the small vibrations generated by interactions between airflow and other forces.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MSG_043_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}It's not just whirlpool baths that have benefits. Do you ever feel itchy after taking a regular bath?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}It's said taking a warm bath can improve blood circulation throughout the body.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}And as the body warms up, the blood vessels dilate, flushing your body of toxins all at once...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Heat can stimulate the secretion of histamine, which often makes the body itch.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Hot baths may feel marvelous, but it's best to take them in moderation. Lukewarm water, on the other hand, helps cleanse the skin—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}...Ahem, I digress. Now then, let's get back to class. Open your books to page 8...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_044_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2095 0 0}{f 5 21 0 150}Man, now I wanna try taking a dip in a whirlpool bath... Think we could ask Kirijo-senpai for one in the dorm?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MSG_045_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun gave him the answer just now. He must be really smart![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MSG_046_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2115 0 0}{f 5 21 0 150}This ain't gonna be on the test, right? I mean, we were just talkin' about baths...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_047_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15002 0 0}{f 5 21 0 100}As you all should know, there are many theories about the author, Murasaki Shikibu.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}That The Tale of Genji was authored by someone else... That "Murasaki Shikibu" was a shared pen name...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Some have even suggested that Murasaki Shikibu was an alien from outer space. A truly intriguing theory...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}You've probably seen her portrait. It's printed on the 2,000-yen bill.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Well, since we're on the topic of Murasaki Shikibu, here's a question regarding The Tale of Genji.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_048_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}"Thou shalt not recite such a tale of this world before the princess"...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15013 0 0}{f 5 21 0 100}Now, what such tale does this quote refer to? Iori? Go on and answer.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_049_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2098 0 0}{f 5 21 0 150}Huh? Me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MSG_050_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 5 21 0 150}H-Hey, lend me a hand here, {f 4 2}. What kinda tale is he talkin' about?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="SEL_051_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}About a peaceful world.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}About public opinion.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}About romance.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+  </Dialog>
+  <Dialog id="52" name="MSG_052_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15018 0 0}Correct. Too easy, was it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_053_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 3 1 3 0 -1 15010 0 0}{f 5 21 0 100}That's... not correct.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}I cannot possibly wait to see what tales you will write on the next exam...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_054_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}The "world" used in this sentence refers to the world of relationships and romance.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Therefore, he is told not to read tales of romance in front of the princess.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}However, "world" can also refer to "society" or "mankind," like how it's often used today.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1082 0 -1 -1 0 0}{f 5 21 0 100}Make sure you read it correctly based on the given context. Now on to the next one...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_055_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2044 0 0}{f 5 21 0 150}Phew... Thanks, {f 4 2}. You're a lifesaver.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_056_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun really got Iori out of a pinch back there. He's such a nice guy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MSG_057_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 3 1 3 0 -1 2129 0 0}{f 5 21 0 150}Grrr... Stupid ol' Ekoda...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 2 -1 -1 0 0}{f 5 21 0 150}Ain't nobody gonna use The Tale of Genji in the future, dammit![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_058_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16203 0 0}{f 5 21 0 100}Let's take a look at some English idioms.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}When someone has a "big mouth," it means they're a loudmouth or a boastful person.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MSG_059_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}There's also the phrase "spill the beans"...[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16206 0 0}{f 5 21 0 100}What exactly does this idiom mean? Junpei, why don't you answer?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MSG_060_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2098 0 0}{f 5 21 0 150}Huh...? Me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_061_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 5 21 0 150}H-Hey, {f 4 2}, do you know what it means to "spill the beans"?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="SEL_062_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}To drop money.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}To break into a smile.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}To reveal a secret.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+  </Dialog>
+  <Dialog id="63" name="MSG_063_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16218 0 0}{f 5 21 0 100}Yes! That's correct.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_064_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16219 0 0}{f 5 21 0 100}Oh no, no, Junpei! When you "spill the beans," that means you "reveal a secret."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_065_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}There are many theories about why the word "beans" is used.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}One particularly famous theory says that beans were used to vote in ancient Greece.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}At that time, they'd put white beans for "yes" and black beans for "no" into the ballot box...[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}And if you spill the beans before voting, it'd reveal their color, and your once "secret" vote.[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Oh, that reminds me! Last time, my darling...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MSG_066_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2040 0 0}{f 5 21 0 150}Phew... Thanks, {f 4 2}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_067_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun gave him the answer just now. He must be really smart![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MSG_068_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2115 0 0}{f 5 21 0 150}Well, no point cryin' over spilled milk, I guess.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_069_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15809 0 0}{f 5 21 0 100}{f 0 1 2}Exams start on Monday{f 0 1 27}. Have you guys been studying? I'm the one who takes the fall if you don't score well, you know.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Open your textbooks for today's lesson on... incorrect use of the plural form.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}These can trip up a lot of people.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}The most common forms end in "-s," "-es," and "-ies."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Got it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MSG_070_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 3 0 -1 15822 0 0}{f 5 21 0 100}However, there are some irregular plural forms too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}You seem confused, Iori-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Do you know which of the following is an irregular plural noun?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MSG_071_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 3 0 -1 2098 0 0}{f 5 21 0 150}Wha—? Huh? Me!? Ugh... I wasn't listening at all.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_072_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 5 21 0 150}...{f 4 2}, help me out, man![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 5 21 0 150}Did you catch what she said? Do you know the answer?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="SEL_073_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Wishes.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Lives.{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Dreams.{f 5 20 45 2}]]></Option>
+  </Dialog>
+  <Dialog id="74" name="MSG_074_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15842 0 0}{f 5 21 0 100}Oh, so you were listening. You've got a funny way of showing it, though...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MSG_075_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 3 1 3 0 -1 15843 0 0}{f 5 21 0 100}Wrong! The answer is "Lives."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}Stop daydreaming and pay attention![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MSG_076_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Like most singular nouns, you can add an "-s" to "dream" to form "dreams."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Since "wish" ends in an "-sh," you have to add "-es" to get its plural form: "wishes."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Okay, on to the next one...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_077_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 5 21 0 150}Man... I sure wish they'd stop calling me out...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2042 0 0}{f 5 21 0 150}...Thanks, {f 4 2}. You're a real homie.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MSG_078_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 1}-kun really got Iori out of a pinch just now. He's such a nice guy![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MSG_079_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 3 0 -1 2092 0 0}{f 5 21 0 150}"Daydreaming"...? I guess I was, but you gotta get your head outta the clouds, too, man.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

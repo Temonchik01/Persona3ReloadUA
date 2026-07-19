@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_310_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Main_310_060_C\BMD_Event_Main_310_060_C.uasset" dialogs="6">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="1" rawBytes="4D 65 74 69 73">Metis</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 12 0 54 -1 0 0}{f 3 1 1 0 0 1 0 0}Huh...? Is this—!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 1 0 0 2 0 0}Oh wow, I didn't think we'd emerge here instead of the Desert of Doors...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 1 0 0 3 0 0}But I guess it's not completely improbable since this place seems to be fully connected to the Abyss of Time now.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 1 0 25 25}Maybe it was influenced by everyone thinking of making frequent supply trips.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 4 23 0 1 1 25 25}In any case, this will certainly make it easier to go back and forth.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}Helloooooo! Yo, li'l sis, what's with the holdup?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 52 -1 0 0}{f 3 1 1 0 0 7 0 0}No way... Seriously?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}Hey, keep it moving! The rest of us need to get through, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Though we secured a means[n]to acquire supplies, we remain[n]trapped in the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What awaits us further[n]inside the labyrinth?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

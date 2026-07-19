@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_600_610_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_600_610_C\BMD_Event_Cmmu_600_610_C.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Ms. Toriumi</Speaker>
+    <Speaker id="1" rawBytes="49 6E 74 65 72 6E 61 6C 20 4D 45 53">Internal MES</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1581}All right, everyone, settle down![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 5 21 0 1581}So, there won't be any more classes this afternoon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 21 0 1581}But that doesn't mean you're free to goof around![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 5 21 0 1581}It's time to work together and put away the culture festival displays and decorations.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 21 0 1581}I'll assign you into three groups for the cleanup.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1581}The first group will go to the science lab. Your leader will be...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Afternoon classes were canceled so we[n]could clean up the culture festival displays...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

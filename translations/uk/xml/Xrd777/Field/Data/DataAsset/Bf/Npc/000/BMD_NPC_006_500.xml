@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_006_500.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_006_500.uasset" dialogs="70">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_133_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1093 0 0}I think I'm just going to go out and find something to eat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Sorry... I'm not in much of a cooking mood today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_134_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems upset...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should work to repair our relationship[n]first, then maybe we could cook together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_135_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}{f 3 1 3 0 -1 1077 0 0}I was going to watch this DVD I borrowed, but I don't think I'm up for it today...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}Maybe some other time...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MND_136_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari seems upset...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe if I worked to repair our relationship[n]first, we could watch a DVD together...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}One of my classmates lent me a DVD of this show she's been watching.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I've been curious about it for a while, and apparently it's gotten some pretty good ratings.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I could use a break, so I was thinking about sitting down and giving it a watch.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_500_0616_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Hey, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}One of the girls in my class let me borrow a DVD of this show she's been watching.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I was thinking about watching it in my room, but it might be better to watch it out here since the TV is bigger.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Watching this DVD with Yukari might[n]help improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Oh, what's up, {f 4 1}-kun? Did you wanna watch with me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_003_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, let's watch together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe later.]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MND_Temperance" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}I haven't been able to stop thinking about how that show ended last time, so I borrowed the next DVD.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Watching the show with Yukari might[n]help improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}So, how about it, {f 4 1}-kun? You up to watch more of this zombie show with me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do this.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe later.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1002 0 0}This is it. I borrowed the last volume of the series you and I have been watching.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}It's been a wild ride, and while I'm sad the story's ending, I can't wait to watch how they wrap things up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari is really looking forward to this...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Watching with her might help[n]improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari might gain a new ability soon...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Well, {f 4 1}-kun? You ready for the finale?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SEL_011_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's do this.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
+  </Dialog>
+  <Dialog id="18" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1066 0 0}I borrowed a DVD of another show. I hear this one's supposed to be kinda scary, too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Yukari will gain any more[n]new skills even if I watch a DVD with her...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But watching this show with her might[n]help improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}How about it? Wanna watch with me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SEL_015_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Absolutely.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe another time.]]></Option>
+  </Dialog>
+  <Dialog id="22" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1086 0 0}All right, then. Let's get into it![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}Gotcha. Talk to me if you change your mind.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1098 0 0}Hey, what's up? Ooh, are you actually interested in watching that DVD?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_018_3_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Watching the show with Yukari might[n]help improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_018_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'll go ahead and get it set up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1098 0 0}Hey there. Did you still want to watch that show?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MND_019_2_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Yukari will gain any more[n]new skills even if I watch a DVD with her...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But watching this show with her might[n]help improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_019_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'll go ahead and get it set up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_019_5_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Watching the show with Yukari might[n]help improve my {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_019_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'll go ahead and get it set up.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I got enthusiastic about cooking for myself for once... but I bought way too many ingredients.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I am gonna have a lot of leftovers on my hands...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_500_0731_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Since we're getting closer to the day of our mission, I wanted to cook something healthy, but... I bought way too many ingredients.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I am gonna have a lot of leftovers on my hands...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_500_1002_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}The moon will be full in two days, so I figured I'd cook something hearty...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I kind of overestimated how much I would need and bought too many ingredients. Looks like I'll have a lot of leftovers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_500_1023_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}The next battle is going to be our last, so I wanted to cook myself something healthy in preparation.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 -1 0 0}I might have gone a little nuts and overstocked the fridge, though. I'm gonna have a lot of leftovers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like Yukari wants[n]me to cook with her...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend the evening with Yukari?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 4 1}-kun, will you help me out?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="SEL_023_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, I'll help.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sorry, I'm not hungry.]]></Option>
+  </Dialog>
+  <Dialog id="39" name="MSG_024_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1002 0 0}Hey, you got a sec?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}You know that sautéed chicken I messed up last time? I figured out what went wrong. This time, I'm gonna do it right.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_500_0731_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1002 0 0}You got a sec?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}You know that sautéed chicken I messed up last time? I figured out what went wrong. This time, I'm gonna do it right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Plus, the next full moon's less than a week away... We deserve to eat something hearty, don't we?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_500_1002_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}Hey, {f 4 1}-kun, do you have a minute?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}You know that sautéed chicken I messed up last time? I figured out what went wrong. This time, I'm gonna do it right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}...Also, it's almost a full moon, and I could use a task to distract myself.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_500_1023_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Oh, hey, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'm thinking about trying my hand at that chicken sauté I messed up last time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}And maybe cooking will help me de-stress a little about our final battle coming up. I could use a sous-chef, though.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MND_025_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Sounds like Yukari wants to cook together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_026_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Wanna help? Come on, anyone can do it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="SEL_027_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's get cooking.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe later.]]></Option>
+  </Dialog>
+  <Dialog id="46" name="MSG_028_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Hey, {f 4 1}-kun. Did you eat dinner already?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'm thinking about making some food...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MSG_500_0731_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1067 0 0}Oh, hey. Have you eaten yet?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I was just about to get some dinner ready.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}The full moon's less than a week away, so I thought I'd make something a little healthier.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_500_1002_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}Hey, did you already eat dinner?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I was just about to start cooking...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Our mission is coming up, so we gotta make sure to eat well.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MSG_500_1023_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1078 0 0}Hey, did you already eat dinner, {f 4 1}-kun?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I was just about to get started in the kitchen...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}The next mission is gonna be our last. Eating something healthy seems appropriate, all things considered.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari is all fired up.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari might gain a new ability soon...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend the evening with her?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MSG_030_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}If you've got time on your hands, do you want to make some food together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="SEL_031_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, let's do it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe another time.]]></Option>
+  </Dialog>
+  <Dialog id="53" name="MSG_032_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}I'm thinking about putting some food together...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}If you've got some time on your hands, do you want to cook with me?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MSG_500_0731_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Since our operation is coming up, I'm trying to think of something healthy to make.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}Did you wanna cook together?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MSG_500_1002_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1001 0 0}I was thinking about getting to work in the kitchen to take my mind off of things.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}If you've got some time, we should cook together. What do you say?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MSG_500_1023_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1078 0 0}The next battle will be our last... I gotta start preparing myself. Admittedly, I'm pretty nervous.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}As much as I want some comfort food, I should probably make something healthy. Wanna give me a hand with food prep?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MND_033_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Yukari will gain any[n]more new skills even if I cook with her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MSG_034_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}How about it? Sous-chef gets the leftovers.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="SEL_035_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, I'll help.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe another time.]]></Option>
+  </Dialog>
+  <Dialog id="60" name="MSG_036_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1039 0 0}Awesome. Let's go make something tasty.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_037_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1061 0 0}All right. I'll be here if you change your mind.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MSG_038_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1104 0 0}Oh, hey. Did you want to make something?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MND_038_3_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend the evening with Yukari?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MSG_038_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}I'd love it if you could lend me a hand.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MSG_039_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1104 0 0}Hey there. Did you want to spend some time in the kitchen?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MND_040_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It doesn't seem like Yukari will gain any[n]more new skills even if I cook with her...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_041_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}If you wanted to help out, I'd really appreciate it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MND_042_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend the evening with Yukari?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_043_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}If you wanted to help out, I'd really appreciate it.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_530_110_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_530_110_C\BMD_Event_Extr_530_110_C.uasset" dialogs="29">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 65 74 69 73">Metis</Speaker>
+    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 3 0 -1 30101 0 0}I comprehend...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}My nerves are killing me...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}All I did was mention the {f 4 4 0 37 1 16788}. Why is this happening to me...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 3 0 -1 30094 0 0}So that's how you assemble a beverage... How very intriguing.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}I-It's nothing really. Um...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}{f 3 1 3 0 -1 7001 0 0}How's the taste?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}The taste?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}The... taste?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}You don't need to think that hard about it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 3 0 -1 30096 0 0}Er, I-I'll give it another shot. Maybe I'll figure it out with another cup![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 3 52 -1 0 0}I drank every last drop, but...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}Aigis-san hasn't touched hers yet. Would you like to try that one, too?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 3 0 -1 30095 0 0}What!? Can I really...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="SEL_063_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're overreacting.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Remember to savor the taste.]]></Option>
+  </Dialog>
+  <Dialog id="13" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30080 0 0}I-In that case, don't mind if I do![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 2 52 -1 0 0}{f 3 1 3 0 -1 30044 0 0}I'm not! This is a really, really big deal to me![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30090 0 0}Yes, of course! Since it was your cup to begin with, Sister, I'll be sure to savor it a hundredfold![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 33 52 -1 0 0}{f 4 25 11}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 52 -1 0 0}Um... How does it taste this time?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 3 0 -1 30056 0 0}Much better than the first one.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}How? They were both brewed with the same coffee beans. There can't be that big of a difference...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}You can technically assign quantifiable values for comparison, but it's difficult to present the outputted data clearly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 11 52 -1 0 0}{f 3 1 3 0 -1 30106 0 0}{f 4 23 0 1 11 25 25}It's also unnecessary when the fact is... receiving this cup from my sister is what makes it better![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Metis seems pleased[n]with her new discovery...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}{f 3 1 3 0 -1 7120 0 0}I just wanted to hear your impressions on the flavor profile...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="SEL_022_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It had a pleasant aroma.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I apologize...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Please don't be too upset.]]></Option>
+  </Dialog>
+  <Dialog id="24" name="MSG_023_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 52 -1 0 0}{f 3 1 3 0 -1 7041 0 0}Haha... Thank you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_024_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 52 -1 0 0}{f 3 1 3 0 -1 7037 0 0}Oh, you don't have anything to be sorry about, Aigis-san...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_025_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}{f 3 1 3 0 -1 7112 0 0}I'm not, though... Not really...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_026_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 52 -1 0 0}Why's it so hard to brew a good cup...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_027_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 3 0 -1 30073 0 0}Oh, um... The coffee was, uh... really tasty?[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

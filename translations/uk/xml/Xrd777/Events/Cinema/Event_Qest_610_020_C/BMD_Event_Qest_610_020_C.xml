@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Qest_610_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_610_020_C\BMD_Event_Qest_610_020_C.uasset" dialogs="5">
+  <Speakers>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+    <Speaker id="1" rawBytes="49 6E 74 65 72 6E 61 6C 20 4D 45 53">Internal MES</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}I apologize for asking you to come at such short notice.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Truth be told... I'd like to ask you a favor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 202 1 25 25}I've been searching for someone of exceptional ability.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}So if you have the time, do you mind taking on several of my requests?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}On special occasions, I may require you to escort me on certain excursions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Of course, you will be aptly rewarded for completing the request.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 202 0 25 25}I look forward to your cooperation and hope to see you demonstrate your capability.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}I can accept Elizabeth's requests now.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_108_025_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_025_C\BMD_Event_Cmmu_108_025_C.uasset" dialogs="28">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Keisuke Hiraga</Speaker>
+    <Speaker id="2" rawBytes="46 65 6D 61 6C 65 20 43 6C 75 62 20 4D 65 6D 62 65 72">Female Club Member</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What's wrong?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Do you need some rest?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}This has been happening a lot lately.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}I'll be okay. It'll go away in a little while.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}It's just a little headache. I don't think it's anything to worry about.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}You should really figure out what's causing the pain. It might lead to serious complications down the road.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Does anywhere else hurt? Are your nose and throat all right?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Does it feel like your head is in a vice?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MND_007_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hiraga is getting the details[n]on Fuuka's symptoms.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 150}Oh boy, here we go. Keisuke-senpai strikes again.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 150}Yamagishi-san won't be going anywhere for a while.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="SEL_009_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}"Strikes again"?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Is that a problem?]]></Option>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 150}If someone isn't feeling well, he always tries to figure out what's wrong.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 150}And it doesn't matter when or where. Once he starts, it takes forever...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 150}Oh, she'll be fine. He's like a walking medical encyclopedia.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 13 0 0}{f 5 21 0 150}We all appreciate him, but it can be a little too much after a while.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 150}Keisuke-senpai's dad's the director of a big hospital, and he's an only child.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 15 0 0}{f 5 21 0 150}I guess he just can't stand to see people suffer. I bet he'll end up going to medical school.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}So the pain's originating from the back of your head?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Could you turn around please?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_013_3_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Don't worry, it's just a chronic tension-type headache, most likely the result of stress.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 1 0 25 25}You might be spending too much time in front of the computer. Try to get outside and exercise more.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...It must seem funny to get medical advice from the head of the art club.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}I was worried I'd come down with the flu or something...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}In that case, I can do a more thorough check.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Could you remove your shirt? Also, open your mouth and stick out your tongue.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Wha—!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_016_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}U-Uh, that's okay, I'm fine! Besides, our dorm isn't far, so {f 4 1}-kun can accompany me back![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Ah, sorry, sorry— Wait, you two live in the dorms?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}I guess I see it in Yamagishi-san. She seems like the well-adjusted type. I bet you're a great cook.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 1}-kun, do you take care of the laundry? Is living alone hard?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I think Hiraga has taken an interest in me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like we're becoming better friends.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="SYS_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Label is not used[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Oh, sorry, Yamagishi-san! I forgot about your condition.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_021_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}I know it's close, but I don't think you should be walking home. Why don't I call you a taxi?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 108 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Though a bumpy taxi ride might make your headache worse... Maybe a limousine would be better.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}U-Uh, that's okay. I'm fine. Really.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting dark out.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to the club members[n]and went back to the dorm.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

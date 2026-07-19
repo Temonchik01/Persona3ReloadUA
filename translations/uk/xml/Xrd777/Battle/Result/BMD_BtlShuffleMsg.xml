@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_BtlShuffleMsg.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Result\BMD_BtlShuffleMsg.uasset" dialogs="133">
+  <Dialog id="0" name="ShuffleMsg104_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 5 0}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="ShuffleMsg_Dummy0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: UNUSED[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="ShuffleMsg_DETAIL_PERSON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain the {f 2 4 3} Persona, {f 0 1 35}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="ShuffleMsg_DETAIL_PERSON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You already have {f 0 1 35}{f 2 4 2}{f 0 1 27}. {f 2 4 3} Personas will gain EXP.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="ShuffleMsg_DETAIL_SWORD" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain {f 2 4 3} of the Skill Card[n]{f 0 1 40}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="ShuffleMsg_DETAIL_COIN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain money.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="ShuffleMsg_DETAIL_CUP_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Attack will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="ShuffleMsg_DETAIL_CUP_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Defense will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="ShuffleMsg_DETAIL_CUP_3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Accuracy/Evasion will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="ShuffleMsg_DETAIL_CUP_4" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All of your stats will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="ShuffleMsg_DETAIL_CUP_5" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Attack will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="ShuffleMsg_DETAIL_CUP_6" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Defense will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="ShuffleMsg_DETAIL_CUP_7" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Accuracy/Evasion will increase at the start of the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="ShuffleMsg_DETAIL_CUP_8" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first physical attack in the next battle will do more than double damage.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="ShuffleMsg_DETAIL_CUP_9" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first magic attack in the next battle will do more than double damage.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="ShuffleMsg_DETAIL_CUP_10" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Theurgy gauge will completely fill.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="ShuffleMsg_DETAIL_CUP_11" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one physical attack in the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="ShuffleMsg_DETAIL_CUP_12" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one magic attack in the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="ShuffleMsg_DETAIL_CUP_13" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first attack will be more than doubled in the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="ShuffleMsg_DETAIL_CUP_14" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one physical or magic attack in the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="ShuffleMsg_DETAIL_CUP_15" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Theurgy gauges will completely fill.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="ShuffleMsg_DETAIL_CUP_16" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Each ally's first attack will be more than doubled in the next battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="ShuffleMsg_DETAIL_CUP_17" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will restore 50% of your maximum HP.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="ShuffleMsg_DETAIL_CUP_18" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your HP will be fully restored.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="ShuffleMsg_DETAIL_CUP_19" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party will restore 50% of their maximum HP.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="ShuffleMsg_DETAIL_CUP_20" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's HP will be fully restored.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="ShuffleMsg_DETAIL_WAND" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}EXP acquired from this battle will increase.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="ShuffleMsg_DETAIL_FOOL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}EXP acquired from battles will increase until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="ShuffleMsg_DETAIL_MAGICI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain {f 2 4 3} of the item {f 0 1 39}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="ShuffleMsg_DETAIL_PRIEST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All-Out Attack damage will increase until you leave Tartarus for the day.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="ShuffleMsg_DETAIL_EMPRES" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The En, Ag, and Lu of Personas in your possession will increase by 2.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="ShuffleMsg_DETAIL_EMPERO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The St and Ma of Personas in your possession will increase by 2.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="ShuffleMsg_DETAIL_HIEROP" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The level of your currently equipped Persona will increase by 1.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="ShuffleMsg_DETAIL_LOVERS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Social Link bonuses for Persona fusions will increase until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="ShuffleMsg_DETAIL_CHARIO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your {f 0 1 34}maximum HP{f 0 1 27} will increase by {f 0 1 45}10{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="ShuffleMsg_DETAIL_JUSTIC" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will be able to pick one additional card from Shuffle Time until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="ShuffleMsg_DETAIL_HERMIT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your {f 0 1 34}maximum SP{f 0 1 27} will increase by {f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="ShuffleMsg_DETAIL_FORTUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members' {f 0 1 34}maximum HP{f 0 1 27} will increase by {f 0 1 45}8{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="ShuffleMsg_DETAIL_STRENG" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members' {f 0 1 34}maximum SP{f 0 1 27} will increase by {f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="ShuffleMsg_DETAIL_HANGED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain one Incense Card, which increases a stat.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MNDShuffle_EFFECT_PERSON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Acquired the Persona {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MNDShuffle_EFFECT_PERSON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I already have {f 0 1 35}{f 2 4 2}{f 0 1 27} with me,[n]so my {f 2 4 3} Personas have gained EXP![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MNDShuffle_EFFECT_PERSON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't hold any more Personas. I need[n]to choose a Persona to release...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MNDShuffle_EFFECT_SWORD" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained {f 2 4 3} of the Skill Card[n]{f 0 1 40}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MNDShuffle_EFFECT_COIN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained {f 2 4 2} yen![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MNDShuffle_EFFECT_CUP_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Attack will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="MNDShuffle_EFFECT_CUP_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Defense will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MNDShuffle_EFFECT_CUP_3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Accuracy/Evasion will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MNDShuffle_EFFECT_CUP_4" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All of your stats will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MNDShuffle_EFFECT_CUP_5" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Attack will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MNDShuffle_EFFECT_CUP_6" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Defense will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="MNDShuffle_EFFECT_CUP_7" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Accuracy/Evasion will increase at the start of the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MNDShuffle_EFFECT_CUP_8" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first physical attack in the next battle will do more than double damage![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MNDShuffle_EFFECT_CUP_9" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first magic attack in the next battle will do more than double damage![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MNDShuffle_EFFECT_CUP_10" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Theurgy gauge has been completely filled![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MNDShuffle_EFFECT_CUP_11" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one physical attack in the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="MNDShuffle_EFFECT_CUP_12" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one magic attack in the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MNDShuffle_EFFECT_CUP_13" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first attack will be more than doubled in the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MNDShuffle_EFFECT_CUP_14" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one physical or magic attack in the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="MNDShuffle_EFFECT_CUP_15" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Theurgy gauges have been completely filled![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MNDShuffle_EFFECT_CUP_16" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Each ally's first attack will be more than doubled in the next battle![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MNDShuffle_EFFECT_CUP_17" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You recovered some HP![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MNDShuffle_EFFECT_CUP_18" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your HP has been fully restored![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MNDShuffle_EFFECT_CUP_19" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Everyone recovered some HP![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MNDShuffle_EFFECT_CUP_20" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Everyone's HP has been fully restored![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="MNDShuffle_EFFECT_WAND" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}More EXP has been acquired![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MNDShuffle_EFFECT_FOOL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}More EXP will be acquired until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MNDShuffle_EFFECT_MAGICI" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained {f 2 4 3} of the item {f 0 1 39}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MNDShuffle_EFFECT_PRIEST" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All-Out Attack damage will increase until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MNDShuffle_EFFECT_EMPRES" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Endurance, Agility, and Luck of Personas in your possession have increased by 2![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MNDShuffle_EFFECT_EMPERO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The Strength and Magic of Personas in your possession have increased by 2![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MNDShuffle_EFFECT_HIEROP" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The level of your currently equipped Persona has increased by 1![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MNDShuffle_EFFECT_LOVERS" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Social Link bonuses received during Persona fusions will increase until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MNDShuffle_EFFECT_CHARIO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your {f 0 1 34}maximum HP{f 0 1 27} has increased by {f 0 1 45}10{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MNDShuffle_EFFECT_JUSTIC" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The number of cards you can pick during Shuffle Time has increased by 1 until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MNDShuffle_EFFECT_HERMIT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your {f 0 1 34}maximum SP{f 0 1 27} has increased by {f 0 1 45}7{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MNDShuffle_EFFECT_FORTUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members' {f 0 1 34}maximum HP{f 0 1 27} have increased by {f 0 1 45}8{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MNDShuffle_EFFECT_STRENG" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members' {f 0 1 34}maximum SP{f 0 1 27} have increased by {f 0 1 45}5{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MNDShuffle_EFFECT_HANGED" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained {f 0 1 39}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MNDShuffle_GET" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained the {f 2 4 0} Arcana card, rank {f 2 4 1}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MNDShuffle_Get_NoRank" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained the {f 2 4 0} Arcana card![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="SYSShuffle_PERSONA_REMOV" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Are you sure you want to release {f 0 1 35}{f 2 4 4}{f 0 1 27}?[n]{f 1 4 1}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="SYSShuffle_PERSONA_REMOV" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Are you sure you want to give up acquiring {f 0 1 35}{f 2 4 2}{f 0 1 27}?[n]{f 1 4 1}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MNDShuffle_ALLGET_BEFORE" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Something is about to change...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MNDShuffle_ALLGET_AFTER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A change has occurred with the Arcana![n]BONUS BONANZA![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="ShuffleMsg_Tutorial_1_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tutorial - Major Arcana Cards[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="ShuffleMsg_Tutorial_1_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The powerful Major Arcana cards can appear during Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="ShuffleMsg_Tutorial_1_3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}More Major Arcana cards can appear for each time you successfully overcome an ordeal.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="ShuffleMsg_Tutorial_1_4" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If you acquire all the Major Arcana cards, certain changes will occur with the other cards.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="ShuffleMsg_Tutorial_2_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tutorial - Persona Cards Already in Possession[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="ShuffleMsg_Tutorial_2_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If you choose a Persona that you already have, then all Personas who share the same Arcana will gain experience.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="ShuffleMsg_ALLGET_COUTDO" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Number of cards needed until BONUS BONANZA: {f 2 4 4}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="ShuffleMsg_DETAIL_TEMPER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Increases Social Stat growth on the next day you do daily activities.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="ShuffleMsg_DETAIL_DEVIL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain more items from enemies and objects until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="ShuffleMsg_DETAIL_TOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All of your current Personas will have their stats increased by 1.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="ShuffleMsg_DETAIL_STAR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will be able to pick 1 additional card during Shuffle Time.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="ShuffleMsg_DETAIL_MOON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members will have their HP and SP fully restored.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="ShuffleMsg_DETAIL_SUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Personas up to 5 levels above yours can be fused until you leave Tartarus.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="ShuffleMsg_DETAIL_JUDGEM" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The party member with the lowest level will gain a large amount of EXP.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MNDShuffle_EFFECT_TEMPER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It will now be easier to improve yourself during a daily activity![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MNDShuffle_EFFECT_DEVIL" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The number of items obtained by defeating enemies and destroying breakable objects will increase until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="MNDShuffle_EFFECT_TOWER" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The stats of all of your Personas currently in possession have increased by 1![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MNDShuffle_EFFECT_STAR" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The number of cards you can pick during Shuffle Time has increased by 1 until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MNDShuffle_EFFECT_MOON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The HP and SP of all current party members have been fully restored![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MNDShuffle_EFFECT_SUN" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fusion of Personas up to 5 levels above your current level is now possible until you leave Tartarus![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MNDShuffle_EFFECT_JUDGEM" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 2} has gained EXP![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="ShuffleMsg_Head_Major" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 1}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="ShuffleMsg_Head_Persona" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 2 4 1}{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="ShuffleMsg_Head_Wand" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}EXP Up[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="ShuffleMsg_Head_Coin" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Money Up[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="ShuffleMsg_Head_Sword" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Skill Cards[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="ShuffleMsg_Head_Cup1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="ShuffleMsg_Head_Cup2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="ShuffleMsg_Head_Cup3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="ShuffleMsg_Head_Cup4" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="ShuffleMsg_Head_Cup5" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="ShuffleMsg_Head_Cup6" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="ShuffleMsg_Head_Cup7" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="ShuffleMsg_Head_Cup8" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="ShuffleMsg_Head_Cup9" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="ShuffleMsg_Head_Cup10" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Theurgy Gauge Increase[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="ShuffleMsg_Head_Cup11" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="ShuffleMsg_Head_Cup12" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="ShuffleMsg_Head_Cup13" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="ShuffleMsg_Head_Cup14" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="ShuffleMsg_Head_Cup15" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Theurgy Gauge Increase[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="ShuffleMsg_Head_Cup16" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Battle Support[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="ShuffleMsg_Head_Cup17" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}HP Recovery[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="ShuffleMsg_Head_Cup18" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}HP Recovery[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="ShuffleMsg_Head_Cup19" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}HP Recovery[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="ShuffleMsg_Head_Cup20" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}HP Recovery[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="SYSShuffle_PERSONA_EQUIP" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You cannot release a Persona that's currently equipped.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="SYSShuffle_PERSONA_GET" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Acquired the Persona {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>
