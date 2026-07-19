@@ -24,10 +24,10 @@
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message"/>
   <Dialog id="7" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час у «Мандрагорі»]]></Option>
@@ -56,7 +56,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Мандрагора»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що мені тут робити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що мені тут робити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_018_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Співайте сольне караоке {f 4 26 19 0}]]></Option>
