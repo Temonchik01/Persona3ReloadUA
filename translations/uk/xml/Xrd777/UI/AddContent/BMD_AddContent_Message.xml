@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_AddContent_Message.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\AddContent\BMD_AddContent_Message.uasset" dialogs="31">
   <Speakers>
-    <Speaker id="0" rawBytes="43 6F 73 74 75 6D 65 73">Costumes</Speaker>
-    <Speaker id="1" rawBytes="50 65 72 73 6F 6E 61 73">Personas</Speaker>
-    <Speaker id="2" rawBytes="42 47 4D">BGM</Speaker>
-    <Speaker id="3" rawBytes="44 4C 43 20 6D 75 73 74 20 62 65 20 69 6E 73 74 61 6C 6C 65 64 2E">DLC must be installed.</Speaker>
-    <Speaker id="4" rawBytes="49 74 65 6D 73">Items</Speaker>
+    <Speaker id="0" rawBytes="43 6F 73 74 75 6D 65 73">Костюми</Speaker>
+    <Speaker id="1" rawBytes="50 65 72 73 6F 6E 61 73">Персони</Speaker>
+    <Speaker id="2" rawBytes="42 47 4D">Фонова музика</Speaker>
+    <Speaker id="3" rawBytes="44 4C 43 20 6D 75 73 74 20 62 65 20 69 6E 73 74 61 6C 6C 65 64 2E">Необхідно встановити доповнення</Speaker>
+    <Speaker id="4" rawBytes="49 74 65 6D 73">Предмети</Speaker>
     <Speaker id="5" rawBytes="43 6F 73 74 75 6D 65 73 20 26 20 42 47 4D">Costumes &amp; BGM</Speaker>
     <Speaker id="6" rawBytes="50 33 52 20 45 78 70 61 6E 73 69 6F 6E 20 50 61 73 73">P3R Expansion Pass</Speaker>
   </Speakers>
   <Dialog id="0" name="DLC_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The following DLC has been detected:[n]{f 2 4 0}{f 1 6 0}{f 2 4 1}{f 1 6 0}{f 2 4 2}{f 1 6 0}{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}DLC costumes can be obtained from the closet in your room.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Було виявлено наступне доповнення:[n]{f 2 0}{f 1 6 0}{f 2 4 1}{f 1 0}{f 1 0}{f 2 4 2}{f 1 0}{f 1 0}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Нові костюми можна отримати зі шафи у вашій кімнаті.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="DLC_001_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}The following DLC has been detected:[n]{f 2 4 0}{f 1 6 0}{f 2 4 1}{f 1 6 0}{f 2 4 2}{f 1 6 0}{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}DLC Personas can be obtained from the Compendium in the Velvet Room.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Було виявлено наступне доповнення:[n]{f 2 4 0}{f 1 6 0}{f 2 4 1}{f 1 6 0}{f 2 4 2}{f 1 6 0}{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Нові Персони можна отримати з Компендіуму в Оксамитовій кімнаті.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="DLC_002_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}The following DLC has been detected:[n]{f 2 4 0}{f 1 6 0}{f 2 4 1}{f 1 6 0}{f 2 4 2}{f 1 6 0}{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Було виявлено наступне доповнення:[n]{f 2 4 0}{f 1 6 0}{f 2 4 1}{f 1 6 0}{f 2 4 2}{f 1 6 0}{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}DLC songs can be set with the Change Battle BGM setting, accessible from the Config menu under System settings.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="DLC_003_0_0" type="Message">
