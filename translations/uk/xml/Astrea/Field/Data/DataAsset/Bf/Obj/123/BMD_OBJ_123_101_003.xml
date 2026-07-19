@@ -27,10 +27,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Робота тут може допомогти покращити мої [n]{f 4 30 0 1 1 1 0} та {f 4 30 1 1 1 1 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_009_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут ніч?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час у «Синій Ві»]]></Option>
@@ -62,7 +62,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_019_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен перевірити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен перевірити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="SEL_020_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Про роботу на неповний робочий день]]></Option>
@@ -73,7 +73,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Синя Ві»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен тут робити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен тут робити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="SEL_023_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Працювати неповний робочий день {f 4 26 24 0}]]></Option>
@@ -95,6 +95,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MND_029_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені працювати тут неповний робочий день...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені працювати тут неповний робочий день?..[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
