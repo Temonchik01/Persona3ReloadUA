@@ -16,7 +16,7 @@
   <Dialog id="3" name="MND_003_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це блок приладів.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Камера спостереження[n]сама ввімкнулася і записала відео...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто дивитися відеозапис...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто дивитися відеозапис?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дивітись]]></Option>
@@ -24,13 +24,13 @@
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це блок приладів.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, є новий запис.[n]Чи варто дивитися відео...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, є новий запис.[n]Чи варто дивитися відео?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нових записів.[n]Чи варто переглянути старе відео...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нових записів.[n]Чи варто переглянути старе відео?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Яке з них подивитися...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Яке з них подивитися?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_008_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
