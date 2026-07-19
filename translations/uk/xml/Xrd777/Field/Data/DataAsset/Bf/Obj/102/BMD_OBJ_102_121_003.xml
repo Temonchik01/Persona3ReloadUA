@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_OBJ_102_121_003.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_121_003.uasset" dialogs="18">
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я лягти спати раніше...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я лягти спати раніше?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Лягти спати]]></Option>
@@ -13,7 +13,7 @@
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене є плани на вечір.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я подрімати до цього часу...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я подрімати до цього часу?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дрімати до ночі]]></Option>
@@ -24,14 +24,14 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я подрімати до цього часу?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні немає школи.[n]Чи повинен я подрімати...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні немає школи.[n]Чи повинен я подрімати?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Подрімати]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не дрімати]]></Option>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я вже лягати спати...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я вже лягати спати?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_009_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Школа починається завтра.[n]{f 1 1}]]></Page>
