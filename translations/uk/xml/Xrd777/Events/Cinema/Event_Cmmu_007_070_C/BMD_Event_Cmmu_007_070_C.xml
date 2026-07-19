@@ -91,14 +91,14 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хто-зна.]]></Option>
   </Dialog>
   <Dialog id="25" name="MSG_019_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Чи була Міі-чян... рада народитися...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Чи була Міі-чян... рада народитися?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="SEL_020_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Гадаю, що так і є.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Бо-зна.]]></Option>
   </Dialog>
   <Dialog id="27" name="MSG_021_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}З якою ціллю... вона народилась...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}З якою ціллю... вона народилась?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="SEL_022_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ніхто не може сказати.]]></Option>
@@ -106,7 +106,7 @@
   </Dialog>
   <Dialog id="29" name="MSG_023_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}Життя...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Де воно зароджується? Куди воно потім йде...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Де воно зароджується? Куди воно потім йде?..[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}Який сенс у житті?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_024_0_0" type="Message">
