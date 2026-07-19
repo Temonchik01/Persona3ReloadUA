@@ -14,7 +14,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На вивісці написано: «Фортуна[n]стосунків - 100 єн»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день[n]і витягнути фортуну...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день[n]і витягнути фортуну?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Витягнути фортуну]]></Option>
@@ -25,7 +25,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене немає 100 єн...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про кого мені думати...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про кого мені думати?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нікого, з ким я відчуваю, що міг[n]би поглибити свій зв'язок...[n]{f 1 1}]]></Page>
