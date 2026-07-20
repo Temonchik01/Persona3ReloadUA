@@ -1,131 +1,131 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_006_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_006_030_C\BMD_Event_Cmmu_006_030_C.uasset" dialogs="32">
   <Speakers>
-    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Remember how I told you I wanted to improve my cooking?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 6 3 25 25}Well, I've been trying a lot since then, but I can never seem to get the taste right.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 6 0 25 25}I still don't have a feel for how much salt to add. How do you do it, {f 4 1}-kun?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Пам'ятаєш, я казала тобі, що хочу навчитися краще готувати?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}{f 4 23 0 6 3 25 25}Ну, я багато пробувала відтоді, але ніяк не можу досягти потрібного смаку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 6 0 25 25}Я досі не можу зрозуміти, скільки солі мені треба сипнути. Скільки ти додаєш, {f 4 1}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Just a dash or two.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't add salt.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Just dump in a ton.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}На око.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не додаю сіль.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Просто висип усю пачку.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}A dash...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}На око?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 3 15 6}Oh, so speed is important? That makes a lot of sense, actually.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I've just been pouring it in slowly. I'll try and remember that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 3 15 6}А, тобто важливо придивлятися? Цілком логічно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Я просто особливо не вдивлялась, коли сипала. Гаразд, тоді спробую.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}What!? Is that... okay?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Що?! Хіба так... можна?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}I don't think I'm on that level yet, but I bet it helps bring out the natural flavors of the ingredients.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Не думаю, що вже досягнула такого рівня, але впевнена, що це допомагає розкрити природний смак інгредієнтів.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_005_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Hehe. I'd like to eat your cooking someday, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Хе-хе. Я б хотіла перевірити твій кулінарний талант, {f 4 1}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 3 5 6}R-Really?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 5 13 3 5 6}С-серйозно?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_007_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}W-Wow, that's quite bold of you, {f 4 1}-kun.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 6 1 25 25}...But you know, I feel like that could end up being really tasty. Maybe I'll give it a try next time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}В-вау, це досить зухвало, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 6 1 25 25}...Але знаєш, я думаю, що так дійсно може вийти щось смачне. Мабуть, я спробую так наступного разу.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_008_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}To tell you the truth...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}I was actually hoping I could make something you'd really like, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Чесно кажучи...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Власне, я сподівалася, що зможу приготувати щось, що справді тобі сподобається, {f 4 1}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_008_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}But I don't think I'll be able to do that for a while.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Але не думаю, що в мене це вийде найближчим часом.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_009_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Maybe cooking just isn't for me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Можливо, кулінарія просто не моє.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 0 0 0 17 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_009_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}O-Oh, sorry. I know you're just trying to help me, and all I'm doing is being negative.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}О-ой, вибач. Я знаю, що ти лише намагаєшся мені допомогти, а я тільки й проявляю негатив.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="SEL_010_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Just take it slow.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't get discouraged already.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Practice makes perfect.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Просто не поспішай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не варто впадати у відчай.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Практика — запорука досконалості.]]></Option>
   </Dialog>
   <Dialog id="14" name="MSG_011_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 5 13 3 15 6}Thank you.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 6 0 25 25}That really means a lot to me. I've never had someone be so supportive of me like this before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 5 13 3 15 6}Дякую.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 6 0 25 25}Для мене це багато значить. Ще ніхто мене так не підтримував.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_012_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 5 13 3 5 6}You're right.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}I'm never going to get better with that kind of attitude.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}And they do say that failure is the mother of success. I'll keep working at it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 5 13 3 5 6}Ти правий.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}З таким ставленням я ніяк не вдосконалюсь.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}А ще кажуть, що без поразок не буває перемог. Я над цим працюватиму.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_013_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 5 13 3 5 6}That's true.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}I have only just started. I can't let this keep me down.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 5 13 3 5 6}І правда.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Це тільки початок. Я не можу дозволити цьому мене пригнічувати.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_014_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Maybe I should try taking notes. That might help me figure out what I'm doing wrong.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Може, варто спробувати вести нотатки. Думаю, це мені допоможе визначити, що я роблю не так.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_015_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}I actually have quite a lot of trouble staying optimistic about things.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}In my head, I always imagine something going horribly wrong.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}That's why sometimes I feel like giving up when I'm cooking.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Насправді мені іноді важко залишатися оптимісткою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}У своїх думках я завжди уявляю, як усе йде шкереберть.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Ось чому іноді, коли я намагаюся готувати, мені хочеться опустити руки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_016_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}But you know...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}When I'm around you, or the rest of the team, I never think like that.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}You've all given me so much confidence in myself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}Але знаєш...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Коли ти або решта команди поруч зі мною, я ніколи так не думаю.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Ви всі дали мені стільки впевненості в собі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_016_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}So, I'm really thankful to be a member of SEES.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 4 23 0 6 1 25 25}That's why I want to show you all my gratitude.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}Тож я щиро вдячна бути членкинею СПВЗ.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 4 23 0 6 1 25 25}Тому я хочу виявити вам усім свою щиру вдячність.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka is starting to trust me.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фуука починає довіряти мені.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, ми стали ближчими...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_018_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Maybe I should watch one of those cooking shows on TV.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Може, мені варто подивитися якісь кулінарні шоу по телевізору?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_018_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Actually... they might be a little too advanced for me.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}The library might have some books for beginners though.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Hmm... But in that case, I can't really read while cooking. I wouldn't want to get the pages dirty.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Щоправда... вони, мабуть, будуть трохи складними для мене.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 37 0 0}А в бібліотеці можуть бути книжки для початківців.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 38 0 0}Гм-м... Але тоді я не зможу читати, готуючи. Не хочу забруднювати сторінки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="SEL_019_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go to the bookstore.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'll help you find something.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайди до книгарні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я допоможу тобі щось знайти.]]></Option>
   </Dialog>
   <Dialog id="25" name="MSG_020_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}Oh, right. I guess I could do that, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 39 0 0}А, точно. Може, я б могла це зробити, але...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 0 0 0 40 0 0}{f 4 23 0 6 3 25 25}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}I don't really like going to bookstores.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Я не дуже люблю ходити до книгарень.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_021_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}It's not a big deal, though.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 42 0 0}Хоча це не така вже й проблема.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_022_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}Oh, you don't mind?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}{f 4 23 0 6 0 25 25}But, hmm. I don't know...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}If we're looking for books, that means we'd need to go to the bookstore.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 43 0 0}О, ти не проти?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 44 0 0}{f 4 23 0 6 0 25 25}Але-е-е. Не знаю...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 45 0 0}Якщо ми шукаємо книжки, значить, нам доведеться зайти до книгарні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_023_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}It's not a big deal or anything, but... I don't really like going to bookstores.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}Це не проблема, просто... я не дуже люблю ходити до книгарень.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_024_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Oh my gosh, when did it get so late!? I have to go![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Ой, боже, коли ж так пізно стало?! Я мушу йти![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_024_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 48 0 0}Um, the hair dryer burned out, so I was planning on fixing it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 49 0 0}But I was hoping to get it done before Yukari-chan and the others got back.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 50 0 0}Sorry, do you mind if we up the pace on the way back?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 48 0 0}Фен згорів, тому я хотіла полагодити його.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 49 0 0}Але я сподівалась це зробити до повернення Юкарі та інших.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 50 0 0}Перепрошую, ти не проти, якщо ми повернемося швидшим кроком?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_025_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I hurried back to the dorm with Fuuka...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я поспішив назад до гуртожитку з Фуукою...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
