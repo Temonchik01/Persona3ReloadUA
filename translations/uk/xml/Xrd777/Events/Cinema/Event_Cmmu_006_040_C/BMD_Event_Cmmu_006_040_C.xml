@@ -58,17 +58,17 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Це не те, чим варто пишатись.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_011_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 5 13 3 5 6}Н-ні, це не правда.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 5 13 3 5 6}Н-ні, це неправда.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Ну, всі в нашій групі старанно працюють.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}And beyond that, I think you all have something that you're good at.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}І крім цього, гадаю, у кожного з вас є щось, у чому ви добре розбираєтеся.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_012_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Not me.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}I mean, I guess I'm sort of good with machines, but that's it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}Але не у мене.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Ну, я думаю, що вмію працювати технікою, але це й усе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_013_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}I-It's honestly not worth mentioning. Really![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 6 0 25 25}I just happen to like them. It's not exactly something worth boasting about.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}Ч-чесно кажучи, про це навіть не варто згадувати. Дійсно не варто![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 6 0 25 25}Це просто хобі. Це не те, чим можна хизуватись.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_014_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}When I was little, I remember my dad's hobby was to work on complicated sound equipment.[n]{f 1 1}]]></Page>
@@ -86,9 +86,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Not to mention that I'm kind of embarrassed about it all. I mean, it's not a very feminine hobby.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_015_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Maybe you're right.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Why do you think that?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чому ти так думаєш?]]></Option>
   </Dialog>
   <Dialog id="22" name="MSG_016_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}{f 5 13 3 15 6}{f 4 1}-kun...[n]{f 1 1}]]></Page>
@@ -123,6 +123,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Let's go home.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fuuka and I went back[n]to the dorm together...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми разом з Фуукою повернулися[n]разом до гуртожитку...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
