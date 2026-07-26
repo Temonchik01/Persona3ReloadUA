@@ -4,10 +4,10 @@
     <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Це рекламне повідомлення від[n]кінотеатру. Може, мені туди зараз зайти?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Це рекламне повідомлення від[n]кінотеатру. Чи піти мені туди зараз?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не йти]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
@@ -17,10 +17,10 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}UNUSED[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Схоже, вони наймають працівників на[n]неповний робочий день.Може, мені туди[n]зараз піти?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Схоже, вони шукають працівників на підробіток.[n]Чи піти мені туди зараз?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не йти]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
