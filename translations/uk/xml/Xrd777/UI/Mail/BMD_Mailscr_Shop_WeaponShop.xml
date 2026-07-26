@@ -4,7 +4,7 @@
     <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Looks like there's a good deal today.[n]Should I go to the police station...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Схоже, сьогодні є вигідна пропозиція.[n]Чи варто мені піти до поліцейського відділку?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
@@ -14,9 +14,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}UNUSED[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Looks like there's something for me at the[n]police station. Should I go there now...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Схоже, у поліцейському відділку на мене[n]щось чекає. Може, мені туди зараз піти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I've already taken care of this. Should I go[n]to the police station again anyway...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Я про це вже подбав. Чи варто мені все-таки[n]знову піти до поліцейського відділку?..[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
