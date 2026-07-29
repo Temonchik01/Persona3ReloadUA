@@ -103,85 +103,85 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Бонуси соціальних зв'язків під час злиття Персон будуть збільшені, доки ви не покинете Тартар.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="ShuffleMsg_DETAIL_CHARIO" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваш {f 0 1 34}максимальний запас HP{f 0 1 27} зросте на {f 0 1 45}10{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваш {f 0 1 34}максимальний запас ОЗ{f 0 1 27} зросте на {f 0 1 45}10{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="ShuffleMsg_DETAIL_JUSTIC" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will be able to pick one additional card from Shuffle Time until you leave Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви зможете обрати одну додаткову карту під час перетасування, доки не покинете Тартар.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="ShuffleMsg_DETAIL_HERMIT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your {f 0 1 34}maximum SP{f 0 1 27} will increase by {f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваш {f 0 1 34}максимальний запас ОД{f 0 1 27} зросте на{f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="ShuffleMsg_DETAIL_FORTUN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members' {f 0 1 34}maximum HP{f 0 1 27} will increase by {f 0 1 45}8{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Максимальний запас ОЗ{f 0 1 27} усіх поточних членів загону зросте на{f 0 1 45}8{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="ShuffleMsg_DETAIL_STRENG" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All current party members' {f 0 1 34}maximum SP{f 0 1 27} will increase by {f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Максимальний запас ОД{f 0 1 27} усіх поточних членів загону зросте на{f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="ShuffleMsg_DETAIL_HANGED" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtain one Incense Card, which increases a stat.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати одну картку пахощів, що підвищує характеристику.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MNDShuffle_EFFECT_PERSON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Acquired the Persona {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримано Персону {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MNDShuffle_EFFECT_PERSON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I already have {f 0 1 35}{f 2 4 2}{f 0 1 27} with me,[n]so my {f 2 4 3} Personas have gained EXP![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене вже є {f 0 1 35}{f 2 4 2}{f 0 1 27},[n]тому мої Персони аркани {f 2 4 3} отримують досвід![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MNDShuffle_EFFECT_PERSON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't hold any more Personas. I need[n]to choose a Persona to release...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я більше не можу носити Персон. Потрібно[n]вибрати Персону, яку я відпущу...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="MNDShuffle_EFFECT_SWORD" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained {f 2 4 3} of the Skill Card[n]{f 0 1 40}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримано картку вмінь({f 2 4 3}):[n]{f 0 1 40}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MNDShuffle_EFFECT_COIN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Obtained {f 2 4 2} yen![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримано {f 2 4 2} єн![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="MNDShuffle_EFFECT_CUP_1" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Attack will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваша атака зросте на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MNDShuffle_EFFECT_CUP_2" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Defense will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваш захист зросте на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="47" name="MNDShuffle_EFFECT_CUP_3" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Accuracy/Evasion will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваша точність/ухилення зростуть на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="MNDShuffle_EFFECT_CUP_4" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All of your stats will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усі ваші характеристики зростуть на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="49" name="MNDShuffle_EFFECT_CUP_5" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Attack will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Атака всього загону зросте на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MNDShuffle_EFFECT_CUP_6" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Defense will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Захист всього загону зросте на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MNDShuffle_EFFECT_CUP_7" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Accuracy/Evasion will increase at the start of the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Точність/Ухилення всього загону зростуть на початку наступного бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MNDShuffle_EFFECT_CUP_8" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first physical attack in the next battle will do more than double damage![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваша перша фізична атака в наступному бою завдасть більше ніж подвійної шкоди![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="53" name="MNDShuffle_EFFECT_CUP_9" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first magic attack in the next battle will do more than double damage![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваша перша магічна атака в наступному бою завдасть більше ніж подвійної шкоди![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="54" name="MNDShuffle_EFFECT_CUP_10" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your Theurgy gauge has been completely filled![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваша шкала Теургії повністю заповнилася![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="55" name="MNDShuffle_EFFECT_CUP_11" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one physical attack in the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви відіб'єте одну фізичну атаку в наступному бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="MNDShuffle_EFFECT_CUP_12" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one magic attack in the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви відіб'єте одну магічну атаку в наступному бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MNDShuffle_EFFECT_CUP_13" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Your first attack will be more than doubled in the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваша перша атака в наступному бою завдасть більше ніж подвійної шкоди![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="MNDShuffle_EFFECT_CUP_14" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You will deflect one physical or magic attack in the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви відіб'єте одну фізичну або магічну атаку в наступному бою![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="59" name="MNDShuffle_EFFECT_CUP_15" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The whole party's Theurgy gauges have been completely filled![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Шкали Теургії всього загону повністю заповнилися![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MNDShuffle_EFFECT_CUP_16" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Each ally's first attack will be more than doubled in the next battle![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Перша атака кожного союзника в наступному бою завдасть більше ніж подвійної шкоди![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="MNDShuffle_EFFECT_CUP_17" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You recovered some HP![n]{f 1 1}]]></Page>
@@ -394,9 +394,9 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}HP Recovery[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="131" name="SYSShuffle_PERSONA_EQUIP" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You cannot release a Persona that's currently equipped.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви не можете відпустити Персону, яка зараз екіпірована.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="132" name="SYSShuffle_PERSONA_GET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Acquired the Persona {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримано Персону {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
