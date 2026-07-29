@@ -2,77 +2,77 @@
 <BMD source="BMD_FldKeyFreeAnnounce_Day_Evening.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Schedule\Data\DataAsset\Bf\KeyFreeAnnounce\BMD_FldKeyFreeAnnounce_Day_Evening.uasset" dialogs="70">
   <Speakers>
     <Speaker id="0" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Голос учениці</Speaker>
-    <Speaker id="1" rawBytes="56 6F 69 63 65 20 6F 6E 20 74 68 65 20 54 56">Voice on the TV</Speaker>
+    <Speaker id="1" rawBytes="56 6F 69 63 65 20 6F 6E 20 74 68 65 20 54 56">Голос у телевізорі</Speaker>
     <Speaker id="2" rawBytes="4D 61 6C 65 20 53 74 75 64 65 6E 74 27 73 20 56 6F 69 63 65">Голос учня</Speaker>
     <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_AfterSchool_General" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Class has ended for today.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Уроки на сьогодні скінчилися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_AfterSchool_Test_End" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've finished today's exams.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогоднішні іспити закінчилися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_AfterSchool_No_0408" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Час вертатися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_1ST_TERM_END_0725" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today marks the end of the first term.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Summer break begins tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні закінчується перший семестр.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завтра починаються літні канікули.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_2ST_TERM_END_1226" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Today marks the end of the second term.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Winter break begins tomorrow.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні закінчується другий семестр.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завтра починаються зимові канікули.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_FULLMOON_0509" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There will be a full moon tonight. It is[n]the day I was forewarned about...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I wonder if something will happen...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should probably head back[n]to the dorm, just in case.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні повня. День,[n]про який мене попереджали...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цікаво, чи щось станеться...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про всяк випадок варто[n]повернутися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_FULLMOON_0707" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There will be a full moon tonight.[n]A powerful Shadow may appear.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should return to the[n]dorm and prepare myself.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні вночі буде повня.[n]Може з'явитися могутня Тінь.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені слід повернутися до[n]гуртожитку й підготуватися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_FULLMOON_0905" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There will be a full moon tonight.[n]A powerful Shadow will appear.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should return to the[n]dorm and prepare myself.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні вночі буде повня.[n]З'явиться могутня Тінь.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені слід повернутися до[n]гуртожитку й підготуватися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_INFO_0427" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Mitsuru has left the classroom...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems I can join the student council if I[n]submit some paperwork at the faculty office.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head to the faculty office[n]when I have some free time.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Міцуру вийшла з класу...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, я можу приєднатися до учнівської ради, якщо[n]подам документи до вчительської.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Слід зайти до вчительської,[n]коли з'явиться вільний час.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_INFO_0513" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The library is open for students to study in.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It might be worth taking advantage[n]of it ahead of next week's exams.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Бібліотека відкрита для учнів.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, варто скористатися цією можливістю[n]перед іспитами наступного тижня.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_INFO_0514" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the teacher in the nurse's[n]office gives out strange medicine.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should check it out sometime...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кажуть, учитель у медпункті[n]роздає дивні ліки.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, якось варто перевірити...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_Call_GoToHOME_0420" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems that something important[n]will be happening at the dorm...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back early.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, у гуртожитку відбудеться[n]щось важливе...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Варто повернутися раніше.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_Call_Sanada_0902" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}That's right, I received a message from[n]Sanada earlier asking to meet after school.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go meet up with him.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Точно, раніше Санада написав мені,[n]щоб зустрітися після уроків.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Варто піти до нього.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_Strega_0814" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should go to Tatsumi Memorial[n]Hospital for my checkup.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Слід сходити до лікарні Тацумі[n]на обстеження.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_Storm_Coming_0918" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The clouds look ominous...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хмари виглядають зловісно...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Краще повернутись до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_SportsClub_Join_0423" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the track team is[n]recruiting new members.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I can find where they practice, maybe[n]I could see about possibly joining the team.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кажуть, команда з легкої атлетики[n]набирає нових учасників.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо дізнаюся, де вони тренуються, можливо,[n]спробую приєднатися до них.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_UsedBookstoreOPEN_04" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, the bookstore at[n]the strip mall is reopening today.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, сьогодні у торговому[n]комплексі знову відкривається книгарня.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_MAIKOisShrine_0506" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, there is a lonely[n]little girl at the shrine...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кажуть, у храмі з'явилася[n]якась самотня маленька дівчинка...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should check up on[n]her to see if she's okay...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MND_CultureClub_Join_061" type="Message">
