@@ -118,30 +118,30 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 -1 0 0}{f 3 1 3 0 -1 2035 0 0}О, е-е-е... Я відмовлюся. Але дякую за пропозицію.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_JUNPEI_0429" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Oh yeah, you can use that computer over there whenever you want, by the way.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}You can put whatever software you want onto it, too![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}Oh, but don't play online games on it. It'd suck if someone else accidentally used your account.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}О так, до речі, ти можеш користуватися тим комп'ютером он там, коли захочеш.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}І ти можеш встановлювати на нього будь-яке програмне забезпечення![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}О, але не грай на ньому в онлайн-ігри. Було б прикро, якби хтось інший випадково скористався твоїм обліковим записом.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_MITSURU_TARTAROS_GO" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}{f 4 1}, I need to talk to you.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}It's been ten days since you first entered Tartarus, yet you haven't returned a single time since.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}What exactly are you thinking?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}I told you it would be dangerous if you don't train adequately.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Perhaps it was a mistake making you the leader... I hope you don't continue to disappoint me.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}We'll be going to Tartarus today, whether you like it or not. Got it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}{f 4 1}, мені треба з тобою поговорити.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Минуло десять днів відтоді, як ти вперше увійшов до Тартару, але з того часу ти жодного разу туди не повертався.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Про що взагалі ти думаєш?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Я казала тобі, що це буде небезпечно, якщо ти не тренуватимешся належним чином.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Можливо, зробити тебе лідером було помилкою... Сподіваюся, ти не продовжуватимеш мене розчаровувати.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Сьогодні ми йдемо до Тартару, подобається тобі це чи ні. Зрозуміло?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="SEL_020_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Got it.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Give me a minute...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зрозумів.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дай мені хвилину...]]></Option>
   </Dialog>
   <Dialog id="30" name="MSG_MITSURU_TARTAROS_GO_" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4088 0 0}I don't want to hear any excuses. You should have had plenty of time to prepare by now.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}I let you operate at your own convenience before, but clearly that was a mistake.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Now, we'll be doing what's best for everyone, not just you. So go get ready.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}{f 3 1 3 0 -1 4088 0 0}Я не хочу чути жодних виправдань. Досі в тебе мало б бути вдосталь часу на підготовку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 -1 0 0}Раніше я дозволяла тобі діяти на власний розсуд, але вочевидь це було помилкою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Тепер ми робитимемо те, що найкраще для всіх, а не тільки для тебе. Тож іди збирайся.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_INVITE_4F" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There is no one in the lounge...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Everyone is probably already[n]waiting on the fourth floor.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У холі нікого немає...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усі, напевно, вже чекають[n]на четвертому поверсі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_WELCOME_YUKARI_OUT" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1019 0 0}О, привіт. З поверненням.[n]{f 1 1}]]></Page>
