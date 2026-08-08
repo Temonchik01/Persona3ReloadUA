@@ -1,245 +1,245 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_WeaponShop.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\Facility\BMD_WeaponShop.uasset" dialogs="53">
   <Speakers>
-    <Speaker id="0" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Officer Kurosawa</Speaker>
+    <Speaker id="0" rawBytes="4F 66 66 69 63 65 72 20 4B 75 72 6F 73 61 77 61">Офіцер Куросава</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_INFO_ALL_MAT_SELL" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}All Valuables in your possession will be sold.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Усі цінності у вашому володінні будуть продані.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_EXIT_CONFIRM_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 2 1086 0}All done here?[n]{f 1 2 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 2 1086 0}Усе на цьому?[n]{f 1 2 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_EXIT_CONFIRM_02" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 3 1086 0}Hm? You finished?[n]{f 1 2 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 3 1086 0}Гм? Закінчив?[n]{f 1 2 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_EXIT_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1002 0 0}Come back when you need to.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1002 0 0}Приходь, коли знадобиться.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_EXIT_02" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1003 0 0}See ya.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1003 0 0}Бувайте.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_EXIT_FIRST" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1002 1086 0}If you want to buy anything, you know where to find me. Drop by anytime.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1002 1086 0}Якщо хочеш щось купити, ти знаєш, де мене знайти. Заходь будь-коли.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Keep shopping]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Exit]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Продовжити покупки]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_WEAPON_GREET_FIRST" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16425 0 0}Now, then... I don't have that much, but you should be able to find what you need.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16425 0 0}Отже... Того, що маю, небагато, але ти маєш знайти те, що потрібно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_WEAPON_GREET" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1000 1086 0}I don't have that much, but you should be able to find what you need.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1000 1086 0}Того, що маю, небагато, але ти маєш знайти те, що потрібно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_WEAPON_GREET_SALE" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1001 1086 0}Running a little sale today. See if anything catches your eye.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1001 1086 0}Сьогодні влаштовую невеликий розпродаж. Подивись, може щось припаде до душі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_WEAPON_GREET_TALK_00" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1001 0 0}Don't worry, I won't ask what you want any of this for.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}I just do what I think is right.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 3 1001 0 0}Не хвилюйся, я не питатиму, навіщо тобі все це.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Я просто роблю те, що вважаю правильним.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_WEAPON_GREET_TALK_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}I'm ashamed to admit it, but there isn't much we adults can do for you when it really counts.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Now, then... I don't have that much, but you should be able to find what you need.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}Соромно зізнаватися, але ми, дорослі, мало чим можемо вам допомогти, коли це справді важливо.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Отже... Того, що маю, небагато, але ти маєш знайти те, що потрібно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_WEAPON_GREET_TALK_02" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16405 0 0}This is all I can do for you right now, but don't you be reckless, ya hear?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Now, then... Take your time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16405 0 0}Це все, що я можу зробити для тебе зараз, але ж не роби дурниць, чув?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Ну що ж... Не поспішай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_WEAPON_GREET_TALK_03" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Some people with Apathy Syndrome have suddenly returned to normal.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}I don't know how it happened, but I do know you guys did it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}You have my thanks, too. I gotta tip my hat to ya—you guys are impressive.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Деякі люди з апатичним синдромом раптом повернулися до нормального життя.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Не знаю, як це сталося, але я точно знаю, що це ви, народ, зробили.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}І я теж вам вдячний. Мушу зняти перед вами капелюха — ви справді вражаєте.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_WEAPON_GREET_TALK_04" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}The number of people infected with Apathy Syndrome seems to be increasing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}I thought it would decrease, but I guess that was just wishful thinking...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}We could be in for the long haul, so feel free to get prepped here.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}Здається, кількість людей, уражених апатичним синдромом, зростає...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Я думав, що воно зменшиться, але, мабуть, це була лише бажання...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}Це надовго, тож почувайтеся як вдома і готуйтеся тут.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_WEAPON_GREET_TALK_05" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}Those girls from your school who had Apathy Syndrome seem to have regained their senses.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}I'm guessing you all had a hand in that, too.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Now, then... Is there anything you need?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}Ті дівчата з вашої школи, які страждали на апатичний синдром, здається, прийшли до тями.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Певно, ви теж доклали до цього руку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Ну що ж... Тобі щось потрібно?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_WEAPON_GREET_TALK_06" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Lately, there's been an increase in Apathy Syndrome cases among pairs of men and women.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}That's all I know, but could there be a reason for it?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}In any case, feel free to take a look around if you need anything.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Останнім часом зросла кількість випадків апатичного синдрому серед пар чоловіків і жінок.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Це все, що я знаю, але чи може бути для цього якась причина?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}У будь-якому разі, якщо щось знадобиться, сміливо вибирай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_WEAPON_GREET_TALK_07" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Those Apathy Syndrome cases in pairs came to an abrupt halt.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Some have even regained consciousness. I'm sure you've all been at it again.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}So, what can I get you today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Ті парні випадки апатичного синдрому різко припинилися.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Дехто навіть прийшов до тями. Певен, ви знову доклали до цього руку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Отже, що я можу запропонувати тобі сьогодні?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_WEAPON_GREET_TALK_09" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 0 0 0}Apathy Syndrome may be on the decline, but people are still on edge.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16419 0 0}I mean, who can blame them? Rumors spread, and the media fans the flames.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Anyway... Pick what you like.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 0 0 0}Апатичний синдром, можливо, йде на спад, але люди все ще на нервах.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16419 0 0}І хто їх звинувачуватиме? Чутки поширюються, а ЗМІ підливають масла у вогонь.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}У будь-якому разі... Вибирай те, що до вподоби.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_WEAPON_GREET_TALK_10" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16427 0 0}Apathy Syndrome may be a serious issue, but the people panicking over it are also a handful.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}The world is always like that. Powerlessness is a knave.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Well... Take your time and look around.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16427 0 0}Апатичний синдром — річ серйозна, але люди, які панікують через нього, теж завдають клопоту.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Світ завжди такий. Безсилля — підла річ.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Що ж... Не поспішай і озирнись навколо.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_WEAPON_GREET_TALK_08" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16407 0 0}There's been another spike in Apathy Syndrome cases. The entire city is in a panic.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}It's times like these when the police need to step up, but the reality is we've got no recourse.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}In any case... take your time and browse.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16407 0 0}Стався черговий сплеск випадків апатичного синдрому. У всьому місті паніка.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Саме в такі часи поліція має діяти рішуче, але реальність така, що ми безсилі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}У будь-якому разі... не поспішай і оглянься.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_WEAPON_GREET_TALK_11" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}You know your buddy, the kid with the hat? Iori, was it?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}He seemed real down about something. Did something happen?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Well, anyway... What'll you take today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Знаєш свого приятеля, хлопця в капелюсі? Іорі, здається?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Він виглядав якимось дуже пригніченим через щось. Щось сталося?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Ну, хай там як... Що візьмеш сьогодні?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_WEAPON_GREET_TALK_12" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}There's been a lotta talk about Apathy Syndrome both online and in the news lately.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16427 0 0}The rumors have gotten out of hand. Some say it's contagious, others insist it's a foreign conspiracy...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Well, I'm just going to do what I can.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Останнім часом і в мережі, і в новинах багато говорять про апатичний синдром.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16427 0 0}Чутки вийшли з-під контролю. Дехто каже, що він заразний, інші наполягають, що це іноземна змова...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Що ж, я просто робитиму те, що можу.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_WEAPON_GREET_TALK_13" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16407 0 0}I heard about the incident. What a terrible thing to happen...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}You guys are putting your lives on the line, and I can only gripe about my ineptitude...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}At the very least, I want to do what I can to help you out.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16407 0 0}Я чув про той інцидент. Яка жахлива річ сталася...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Ви ризикуєте своїми життями, а я можу лише нарікати на власну нездатність допомогти...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Принаймні я хочу зробити все можливе, щоб допомогти вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_WEAPON_GREET_TALK_14" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}I hear this is gonna be the last stand.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Well, then... prepare yourself as much as possible.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Don't die out there...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Я чув, це буде останній бій.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Що ж... готуйся настільки добре, наскільки це можливо.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Тільки не загинь там...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_WEAPON_GREET_TALK_15" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}Seeing as you're here, I take it things aren't over yet.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}With the Kirijo Group in the state they're in, there's no telling how things will turn out.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}All I can do right now is fulfill my duties.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}Зважаючи на те, що ти тут, я так розумію, все ще не закінчено.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}З огляду на те, у якому стані зараз «Група Кіріджьо», невідомо, чим усе обернеться.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Усе, що я можу зараз зробити, — це виконувати свої обов'язки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_WEAPON_GREET_TALK_16" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16424 0 0}I won't pry for details, but I know something happened to you guys.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Don't dwell on it for too long. No one blames you.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16405 0 0}This is all I can do for you, but I don't want you pushing yourselves too hard.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16424 0 0}Я не випитуватиму подробиць, але я знаю, що у вас щось сталося.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Не зациклюйтеся на цьому надто довго. Ніхто вас не звинувачує.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16405 0 0}Це все, що я можу для вас зробити, але я не хочу, щоб ви надто сильно себе перенапружували.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_WEAPON_GREET_TALK_17" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16401 0 0}The look on your face tells me you're ready to finish off one last big job.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}No matter what you're up against, I have faith you can pull this off.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}Spare no preparation and make sure you come back alive.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16401 0 0}Вираз твого обличчя каже мені, що ти готовий виконати останню велику роботу.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}З чим би ви не зіткнулися, я вірю, що ви впораєтеся.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}Не шкодуй часу на підготовку й обов'язково повертайся живим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_WEAPON_GREET_TALK_SE" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16415 0 0}You'd best be equipped for all contingencies. It's anyone's guess what could happen.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}If there's anything you don't need, I can take it off your hands.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16415 0 0}Тобі краще озброїтися на всі випадки життя. Ніхто не знає, що може трапитися.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Якщо є щось непотрібне, я можу забрати це в тебе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_DISAPPEAR_00" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}There's still more...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Тут є ще дещо...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_DISAPPEAR_REQUEST_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}The missing person's family sent a thank-you letter.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Take this, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Сім'я зниклої людини надіслала лист-подяку.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Візьми і це також.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_DISAPPEAR_REQUEST_02" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}That reminds me, didn't that supposed Santa[n]tell me to do something good for the world?[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should show him this letter...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}До речі, хіба той самопроголошений Санта[n]не казав мені зробити щось добре для світу?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, показати йому цей лист...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_DISAPPEAR_REWARD_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}...You're here. Take this envelope.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Hm? Oh, it's something that missing schoolgirl brought in as a reward to the one who found her.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}There was a lot about the case that stymied us on the force, so I figured you guys were involved.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}...Ти тут. Візьми цей конверт.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Мм? О, це те, що зникла школярка принесла як винагороду тому, хто її знайшов.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}У цій справі було чимало того, що завело поліцію в глухий кут, тож я здогадався, що ви до цього причетні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MSG_DISAPPEAR_REWARD_02" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16415 0 0}...This money is from the salaryman who went missing.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}I couldn't make out the full picture from questioning him, but you're the ones who saved him, right?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}The police can't accept gifts, so this is yours. Use it wisely.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16415 0 0}...Ці гроші від офісного працівника, який зник безвісти.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Я не зміг скласти повну картину з його допиту, але ж це ви його врятували, вірно?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}Поліція не може приймати подарунки, тож це ваше. Використовуйте з розумом.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MSG_DISAPPEAR_REWARD_03" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}They found that missing girl the other day. I tried questioning her, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Her answers didn't make any sense. She said some kids saved her from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}She left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Днями знайшли ту зниклу дівчину. Я намагався її допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Її відповіді не мали жодного сенсу. Вона сказала, що якісь діти врятували її від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}Вона залишила у нас винагороду, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MSG_DISAPPEAR_REWARD_04" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}I've got something for you, so here you go.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}It's a token of gratitude the missing housewife left with us a short while ago.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}You rescued her, right? I won't ask questions. Just take it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}У мене дещо для тебе є, тож тримай.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Це на знак вдячності, який зникла домогосподарка залишила у нас деякий час тому.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}Ви ж врятували її, так? Я не ставитиму запитань. Просто візьми.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MSG_DISAPPEAR_REWARD_05" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}They found that missing schoolboy the other day. I tried questioning him, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}His answers didn't make any sense. He said some kids saved him from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}He left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Днями знайшли того зниклого школяра. Я намагався його допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Його відповіді не мали жодного сенсу. Він сказав, що якісь діти врятували його від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}Він залишив винагороду у нас, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MSG_DISAPPEAR_REWARD_06" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Here, take this envelope.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}It's a token of gratitude the missing housewife left with us a short while ago.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}You rescued her, right? I won't ask questions. Just take it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Ось, візьми цей конверт.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Це знак вдячності, який зникла домогосподарка залишила у нас нещодавно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}Ви ж врятували її, так? Я не ставитиму запитань. Просто візьми.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="MSG_DISAPPEAR_REWARD_07" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}See those rocks with the strange patterns on them? The man they found the other day left them.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16427 0 0}I'm fine with one or two, but this many just gets in the way of our work.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}...You saved him, didn't ya? Just go ahead and take them all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Бачиш ті камені з дивними візерунками на них? Їх залишив чоловік, якого знайшли днями.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16427 0 0}Я не проти одного-двох, але від такої кількості тільки зайві клопоти на роботі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}...Ви ж його врятували, так? Просто візьми їх усі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_DISAPPEAR_REWARD_08" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}They found that missing office lady the other day. I tried questioning her, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}She wasn't making any sense. She said some kids saved her from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}She left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}Днями знайшли ту зниклу офісну працівницю. Я намагався її допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Її відповідь не мали жодного сенсу. Казала, що якісь діти врятували її від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}Вона залишила у нас винагороду, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MSG_DISAPPEAR_REWARD_09" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}For some reason, we just got a delivery of a bunch of mysterious dolls... You know anything about this?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Чогось нам щойно доставили цілу купу загадкових ляльок... Знаєш щось про це?[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}{f 4 25 1086}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Your face says you do. Just take them...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Твоє обличчя каже, що знаєш. Просто забирай їх...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MSG_DISAPPEAR_REWARD_10" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}They found that missing schoolgirl the other day. I tried questioning her, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Her answers didn't make any sense. She said some kids saved her from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}She left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Днями знайшли ту зниклу школярку. Я намагався її допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Її відповіді не мали жодного сенсу. Вона сказала, що якісь діти врятували її від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}Вона залишила у нас винагороду, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="MSG_DISAPPEAR_REWARD_11" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}They found a missing person the other day... Oddly, he handed over a big wad of cash.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Seems he was the president of some company. He was pretty damn low-profile for someone so self-important.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}...Anyway, the police can't accept reward money, so you can have it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Днями знайшли зниклу людину... Дивно, але він передав чималу пачку готівки.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Здається, він був директором якоїсь компанії. До біса непомітний для такої важливої персони.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}...У будь-якому разі, поліція не може приймати грошові винагороди, тож забирайте її собі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_DISAPPEAR_REWARD_12" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}They found that grade school kid the other day.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}She brought this here as a way of saying, "Thanks."[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Here, it's all yours.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Днями знайшли ту ученицю початкової школи.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Вона принесла це сюди на знак подяки.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Ось, це все ваше.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="MSG_DISAPPEAR_REWARD_13" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}They found that missing guy the other day. I tried questioning him, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}His answers didn't make any sense. He said some kids saved him from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}He left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Днями знайшли того зниклого хлопця. Я намагався його допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Його відповіді не мали жодного сенсу. Він сказав, що якісь діти врятували його від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}Він залишив винагороду у нас, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MSG_DISAPPEAR_REWARD_14" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}They found that missing woman the other day. I tried questioning her, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Her answers didn't make any sense. I'm guessing her memory's fuzzy.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}At any rate, she left this as a token of her appreciation, so I think you should have it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}Днями знайшли ту зниклу жінку. Я намагався її допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Її відповіді не мали жодного сенсу. Здається, її пам'ять затьмарилася.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}У будь-якому разі, вона залишила це на знак вдячності, тож я думаю, що це маєш отримати ти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="47" name="MSG_DISAPPEAR_REWARD_15" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Take this box. Something tells me it's for you.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}It's a token of gratitude the missing salaryman left with us.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}You rescued him, right? I won't ask questions. Just take it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Візьми цю коробку. Щось мені підказує, що вона для тебе.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Це знак вдячності, який залишив у нас зниклий офісний працівник.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}Ви ж врятували його, так? Я не ставитиму запитань. Просто візьми.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="MSG_DISAPPEAR_REWARD_16" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}They found that missing woman the other day. I tried questioning her, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Her answers didn't make any sense. She said some kids saved her from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}She left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16417 0 0}Днями знайшли ту зниклу жінку. Я намагався її допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Її відповіді не мали жодного сенсу. Вона сказала, що якісь діти врятували її від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}Вона залишила у нас винагороду, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="49" name="MSG_DISAPPEAR_REWARD_17" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16415 0 0}This is a token of gratitude the woman who was missing brought us, but...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16415 0 0}Це знак вдячності, який принесла нам жінка, що зникала, але...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16420 0 0}{f 4 25 1086}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}These coins look awfully pricey. Kids today sure are loaded...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Whatever. You guys saved her, so they're yours.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Ці монети виглядають жахливо дорогими. У нинішньої молоді точно водиться грошима...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Неважливо. Ви її врятували, тож вони ваші.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MSG_DISAPPEAR_REWARD_18" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Take this box. Something tells me it's for you.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Hm? Oh, it's something that missing woman brought in as thanks to the one who found her.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}You rescued her, right? I won't ask questions. Just take it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16402 0 0}Візьми цю коробку. Щось мені підказує, що вона для тебе.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Мм? О, це те, що зникла жінка принесла в подяку тому, хто її знайшов.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16411 0 0}Ви ж врятували її, так? Я не ставитиму запитань. Просто візьми.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MSG_DISAPPEAR_REWARD_19" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16401 0 0}Will you take a look at this for me?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}The girl they found the other day brought this in as a gift...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16413 0 0}It looks like... some sort of liquid. By the looks of the container, I'm guessing you're supposed to drink it?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}She was murmuring something about fortune telling, so maybe it has something to do with that.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}...Anyway, just take it. We can't have something this suspicious at the police station.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16401 0 0}Глянеш для мене?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Дівчина, яку знайшли днями, принесла це в подарунок...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16413 0 0}Схоже на... якусь рідину. Судячи з посудини, гадаю, це треба пити?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Вона щось бурмотіла про ворожіння, тож, можливо, це якось пов'язано з цим.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16406 0 0}...У будь-якому разі, просто візьми. Ми не можемо тримати у поліцейській дільниці щось настільки підозріле.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MSG_DISAPPEAR_REWARD_20" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}They found that missing student the other day. I tried questioning him, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}His answers didn't make any sense. He said some kids saved him from an attack by a black thing...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}He left a reward with us, so I'll hand it over to you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16416 0 0}Днями знайшли того зниклого учня. Я намагався його допитати, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}Його відповіді не мали жодного сенсу. Він сказав, що якісь діти врятували його від нападу якоїсь чорної штуки...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1086 0 -1 -1 0 0}{f 3 1 3 0 -1 16412 0 0}Він залишив винагороду у нас, тож я передаю її вам.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
