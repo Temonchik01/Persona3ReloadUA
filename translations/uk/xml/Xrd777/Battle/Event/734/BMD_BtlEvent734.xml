@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_BtlEvent734.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\734\BMD_BtlEvent734.uasset" dialogs="11">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="1" rawBytes="49 67 6F 72">Igor</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="49 67 6F 72">Ігор</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_734_0_1" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 1 0 5}I've covered the basics of combat now, but the most important thing is making decisions based on the situation at hand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 1 0 5}Я вже пояснила основи бою, але найголовніше — це приймати рішення, виходячи з поточної ситуації.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_734_0_2" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 2 0 5}I'll continue providing support, but this time, go ahead and try fighting on your own.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 2 0 5}Я й надалі надаватиму підтримку, але цього разу спробуй поборотися самостійно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_734_2_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 2 4 0 0}You, my boy, are able to possess multiple Personas and summon them at will.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 2 4 0 0}Ти, мій хлопчику, здатний володіти кількома Персонами та прикликати їх за власним бажанням.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_734_0_3" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can feel a new potential within myself...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю в собі новий потенціал...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_734_0_4" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 3 1 1 0 2 3 0 5}Your Persona just now... It looks like you really do have a special power.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 3 1 1 0 2 3 0 5}Твоя Персона щойно... Схоже, ти дійсно маєш особливу силу.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="TRL_734_1_1" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 2} carries multiple Personas, and can switch which he summons by using Change Persona.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 2} має кілька Персон і може змінювати ту, яку він прикликає, використовуючи «Зміну Персони».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="TRL_734_1_2" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Changing Personas will also change your stats, affinities, and usable skills based on the Persona you switch to.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зміна Персон також змінить ваші характеристики, спорідненості та доступні навички залежно від обраної Персони.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="TRL_734_1_3" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}During battle, open the Persona submenu to view skills, then press L1 or R1 to change Personas.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Під час бою відкрийте підменю «Персона», щоб переглянути навички, а потім натискайте L1 або R1 для зміни Персон.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="TRL_734_1_4" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You can also change your equipped Persona outside of battle by pressing △ to open the menu, then navigating to the Persona submenu.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви також можете змінити екіпіровану Персону поза боєм, натиснувши △, щоб відкрити меню, а потім перейшовши до підменю «Персона».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="TRL_734_1_5" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You can change Personas at any time, but in battle, you can only do so before taking action that turn.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви можете змінювати Персон у будь-який час, але в бою це можна зробити лише перед тим, як виконати дію в цьому ході.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_734_0_5" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}!..[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
