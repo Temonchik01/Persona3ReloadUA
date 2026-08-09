@@ -51,8 +51,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I buy the {f 4 4 1 37 1 0}[n]set for {f 2 4 3} yen...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_015_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Buy]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't buy]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Купити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не купувати]]></Option>
   </Dialog>
   <Dialog id="13" name="MND_016_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I bought the {f 4 4 1 37 1 0}[n]set for {f 2 4 3} yen.[n]{f 1 1}]]></Page>
