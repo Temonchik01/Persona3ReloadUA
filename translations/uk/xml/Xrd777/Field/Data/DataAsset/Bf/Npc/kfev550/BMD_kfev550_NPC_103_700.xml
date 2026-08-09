@@ -12,8 +12,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I buy some takoyaki?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Buy]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't buy]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Купити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не купувати]]></Option>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't hold any more Weird Takoyaki.[n]{f 1 1}]]></Page>
@@ -26,6 +26,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20105 0 0}{f 5 21 1 103}What? You aren't buying any? C'mon...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20105 0 0}{f 5 21 1 103}Thanks! Come again![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 20105 0 0}{f 5 21 1 103}Дякую. Приходь ще.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
