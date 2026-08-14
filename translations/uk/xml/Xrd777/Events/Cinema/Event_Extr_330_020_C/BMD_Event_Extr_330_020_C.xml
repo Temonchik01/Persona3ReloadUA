@@ -263,237 +263,237 @@
   </Dialog>
   <Dialog id="53" name="MSG_053_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15845 0 0}{f 5 21 0 100}А ось і запитання для всіх вас! Та-да-да-дам... {f 4 1}![n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Де знаходиться неправильно поставлена кома в цьому реченні?[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}"Because it is 10:30 right now, we will not reach the theater in time, it's already started, to my dismay."[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Де в наступному реченні неправильно поставлена кома?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}«Оскільки зараз пів на одинадцяту, ми не встигнемо до театру, бо, вистава вже почалася, на мій превеликий жаль».[n]{f 1 1]]></Page>
   </Dialog>
   <Dialog id="54" name="SEL_054_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Between "now" and "we."{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Between "time" and "it's."{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Between "started" and "to."{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Між «одинадцяту» та «ми».{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Між «бо» та «вистава».{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Між «почалася» та «на».{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="55" name="MSG_055_0_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15842 0 0}{f 5 21 0 100}Ah! Correct! The middle one is the inaccurately-used comma.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15842 0 0}{f 5 21 0 100}Ага! Правильно! Кома посередині використана некоректно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="MSG_056_0_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15816 0 0}{f 5 21 0 100}Bzzzzt! The inaccurately-used comma is between "time" and "it's."[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15816 0 0}{f 5 21 0 100}Дзи-инь! Неправильно використана кома знаходиться між «бо» та «вистава».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MSG_057_0_0" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Regardless of how logical the sentence flow may appear...[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}A comma cannot be used to link two independent clauses.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}That's a comma splice.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Got it?[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}...Well, if no one has any questions, let's move on.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Незалежно від того, наскільки логічною може здаватися побудова речення...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Кома не може використовуватися для з'єднання двох незалежних частин речення.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Це і є помилкове розділення комою.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 0 100}Зрозуміли?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 2 -1 -1 0 0}{f 5 21 0 100}...Що ж, якщо запитань немає, ідемо далі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="MSG_058_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15202 0 0}{f 5 21 0 100}Let's talk about the Heian era today. I won't spend a lot of time on this, so pay attention.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}In 794, the Heian-Kyo was established. In 894, they abolished imperial embassies to China...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}I might put this section on the exam next week... I'm feeling lazy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15202 0 0}{f 5 21 0 100}Сьогодні поговоримо про період Хеїан. Я не витрачатиму на це багато часу, тому слухайте уважно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}У 794 році було засновано Хеїан-кьо. У 894 році скасували імператорські посольства до Китаю...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Можливо, я включу цей розділ до іспиту наступного тижня... Мені ліньки вигадувати щось нове.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="59" name="MSG_059_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Anyway, on to feudalism. Listen carefully, because this has to do with the origins of the samurai![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}I choose... you, {f 4 1}! Let's see what you know.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Хай там як, переходимо до феодалізму. Слухайте уважно, бо це пов'язано з походженням самураїв![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}Я обираю... тебе, {f 4 1}! Подивимось, що ти знаєш.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MSG_060_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}So, the law permitting permanent ownership of newly-cultivated land served as a foundation for the development of feudalism.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Thanks to this decree, a lot of land was cultivated...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}At the same time, a serious problem arose for the farmers. Do you remember what that was?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Отже, закон, що дозволяв постійне володіння новоосвоєними землями, послужив основою для розвитку феодалізму.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Завдяки цьому указу було освоєно багато земель...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Водночас для фермерів виникла серйозна проблема. Пам'ятаєш, яка саме?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="SEL_061_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Land invasion.{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Environmental destruction.{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Social disparity.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Захоплення земель.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Руйнування навколишнього середовища.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Соціальна нерівність.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="62" name="MSG_062_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15218 0 0}{f 5 21 0 100}Yep, you got it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15218 0 0}{f 5 21 0 100}Саме так![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="63" name="MSG_063_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15220 0 0}{f 5 21 0 100}Wrooong! It was social disparity.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}C'mon, you can do better than that! You're descended from the samurai![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15220 0 0}{f 5 21 0 100}Неправильно! Це соціальна нерівність.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Годі тобі, ти здатен на більше! Ти ж нащадок самураїв![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="64" name="MSG_064_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}The work doesn't end after you plow the land. It costs a lot of money to build waterways and stuff on top of that.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}So, the farmers with more wealth and authority could make more money by expanding their lands...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}On the other hand, those who weren't as affluent had no choice but to remain poor—it's the same old story throughout time.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Well, that's all for the Heian period.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Робота не закінчується після того, як ви зорали землю. Побудова водних шляхів і тому подібного вимагає чимало грошей.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Тому фермери з більшим статком і владою могли заробляти більше грошей, розширюючи свої землі...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}З іншого боку, менш заможні не мали іншого вибору, як залишатися бідними — та сама стара історія впродовж усіх часів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Що ж, на цьому про період Хеїан усе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="65" name="MSG_065_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14802 0 0}{f 5 21 0 100}Silence! Class is beginning. "Uriel, Rilue, Ilili, Eulir, Leiru"...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Just a quick preface: when I use the word "magic," I mean it in a very general sense.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Anyway, today's topic is the magic of medieval Europe.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I'll be giving a crash course on the single most magical place and time in recorded history.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}So, there are a lot of materials pertaining to Western magic, from printed books to communal folklore.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}I'll cover all of it, including the changes European magic has seen since then.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}As I mentioned previously, European magic finds its origins in paganism.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Starting with Christianity, though, it has been influenced by an influx of various cultures.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Let's see, what are some well-known examples...?[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There's Kabbalah, which is the esoteric study of mystical aspects of Jewish texts.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}There's also Gnosticism, a Christian sect founded by Simon Magus, the Sorcerer.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Greece's philosophy and natural sciences were the fruits of magical researchers...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}And the same was true of Islam's scientific advances, which surpassed Europe's at the time.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Now, as for the circumstances of magic in this age...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}It was an era where the rule of Christianity and the insight of the natural sciences collided.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Magicians bravely reached up for a connection with the gods...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14802 0 0}{f 5 21 0 100}Тиша! Починається урок. «Uriel, Rilue, Ilili, Eulir, Leiru»...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Одразу зроблю невелику ремарку: коли я вживаю слово «магія», я маю на увазі його в найширшому значенні.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Хай там як, сьогоднішня тема — магія середньовічної Європи.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Я проведу вам експрес-курс про наймагічніше місце і час у всій відомій нам історії.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Отже, існує багато матеріалів, що стосуються західної магії, від друкованих книг до фольклору.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Я розповім про все, включно зі змінами, яких зазнала європейська магія відтоді.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Як я вже згадував раніше, європейська магія бере свій початок у язичництві.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Проте, починаючи з християнства, вона зазнала впливу багатьох інших культур.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Подивимось, які існують відомі приклади?..[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Наприклад, Кабала — езотеричне вчення про містичні аспекти єврейських текстів.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Також є гностицизм — християнська секта, заснована Симоном Волхвом, магом.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Грецька філософія та природничі науки були плодами роботи дослідників магії...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Те саме стосується й наукових досягнень ісламу, які на той час перевершували європейські.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Отже, що стосується становища магії в цю епоху...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Це була епоха, коли панування християнства зіштовхнулося з відкриттями природничих наук.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Маги сміливо тягнулися до зв'язку з богами...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="66" name="MSG_066_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}Say, are you still awake? You're not daydreaming, right? Eeeheehee...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}How about a test to see if you were paying attention?[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}You'll know what type of guardian angel you have, depending on how you answer. "Uriel, Rilue, Ilili, Eulir, Leiru"...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14815 0 0}{f 5 21 0 100}Now, who to call upon...? I choose thee, {f 4 1}![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}Скажіть, ви ще не спите? Ви ж не літаєте у хмарах, правда? І-хі-хі...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Як щодо тесту, щоб перевірити, чи уважно ви слухали?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Залежно від вашої відповіді, ви дізнаєтеся, який у вас янгол-охоронець. «Uriel, Rilue, Ilili, Eulir, Leiru»...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14815 0 0}{f 5 21 0 100}Отже, кого викликати?.. Я обираю вас, {f 4 1}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="67" name="MSG_067_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}What is the esoteric study of Jewish texts called?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Як називається езотеричне вивчення єврейських текстів?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="68" name="SEL_068_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Lemegeton.{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Gnosticism.{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Kabbalah.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Лемеґетон.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гностицизм.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Кабала.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="69" name="MSG_069_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14817 0 0}{f 5 21 0 100}Very good. Thank your guardian angel, because they must be kind.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14817 0 0}{f 5 21 0 100}Дуже добре. Подякуйте своєму янголу-охоронцю, він у вас, мабуть, добрий.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="70" name="MSG_070_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14820 0 0}{f 5 21 0 100}Wrong! You've got a fallen samurai from Okehazama for a guardian angel.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14820 0 0}{f 5 21 0 100}Неправильно! Ваш янгол-охоронець — це полеглий самурай із битви при Окехадзамі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="71" name="MSG_071_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The magicians of the age achieved great things...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Particularly the renowned "grimoires."[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}A grimoire is a collection of magical texts, usually as all-encompassing as possible, wherein...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Маги того часу досягли величі...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Зокрема завдяки славнозвісним «гримуарам».[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Гримуар — це збірка магічних текстів, зазвичай якомога повніша, у якій...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="72" name="MSG_072_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15203 0 0}{f 5 21 0 100}Here we go! Finally, we've reached Taira no Masakado! He's the turning point of the era of the samurai![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15203 0 0}{f 5 21 0 100}Ось воно! Нарешті ми дійшли до Таїри но Масакадо! Він — переломний момент в історії самураїв![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="73" name="MSG_073_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}It all began with infighting among the Taira clan. Their conflict escalated until the Imperial Court had to intervene.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Masakado was pursued by the Imperial Court, so he had no choice but to openly oppose them...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}The result was known as the War of Masakado.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}{f 4 1}! You may not look like a samurai, but let's see if you know this one anyway.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Усе почалося з міжусобиць у клані Таїра. Їхній конфлікт загострився настільки, що Імператорському двору довелося втрутитися.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Масакадо переслідував Імператорський двір, тому він не мав іншого вибору, як відкрито виступити проти них...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Ці події увійшли в історію як смута Джьохей-Тенґьо.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15216 0 0}{f 5 21 0 100}{f 4 1}! Може, ти й не виглядаєш як самурай, але подивимось, чи знаєш ти відповідь на це запитання.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="74" name="MSG_074_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}There's a theory that Taira no Masakado thought up the prototype for an item essential to battle.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Now, what do you think that item was? It's something every samurai needs![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Існує теорія, що Таїра но Масакадо винайшов прототип одного важливого для битви предмета.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Як думаєш, що це за предмет? Це те, що необхідно кожному самураю![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="75" name="SEL_075_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}The katana.{f 2 9 1 0 13}{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Armor.{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}The rifle.{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Катана.{f 2 9 1 0 13}{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Обладунки.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Рушниця.{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="76" name="MSG_076_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15218 0 0}{f 5 21 0 100}Knew that one already, huh? Yep, it's the katana![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Think of samurai and their swords are the first thing that come to mind! Although, it's not known whether Masakado really came up with them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15218 0 0}{f 5 21 0 100}Вже знав це, га? Так, це катана![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Коли думаєш про самураїв, перше, що спадає на думку, — це їхні мечі! Хоча достеменно не відомо, чи дійсно їх придумав сам Масакадо.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="77" name="MSG_077_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15209 0 0}{f 5 21 0 100}...No, it's the katana. Seems pretty obvious why, doesn't it?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Think of samurai and their swords are the first thing that come to mind! Although, it's not known whether Masakado really came up with them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 3 0 -1 15209 0 0}...Ні, це катана. Здається, цілком очевидно, чому, чи не так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Коли думаєш про самураїв, перше, що спадає на думку, — це їхні мечі! Хоча достеменно не відомо, чи дійсно їх придумав сам Масакадо.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="78" name="MSG_078_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}This is going to be on the {f 0 1 2}exam next week{f 0 1 27}, so prepare well![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Let's skip forward a little to the Kamakura era.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Ah, at last! I can feel them on their way... The samurai are almost here...![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}In 1185, the Kamakura shogunate was established. Yes! We're there![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}And of course, its founder was Minamoto no Yoritomo... I can't believe we finally made it![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Це буде на {f 0 1 2}іспиті наступного тижня{f 0 1 27}, тому підготуйтеся як слід![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Перенесімося трохи вперед, у період Камакура.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}Ах, нарешті! Я відчуваю, як вони наближаються... Самураї вже майже тут!..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}У 1185 році було засновано Камакурський шьоґунат. Так! Ми на місці![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 5 21 0 100}І, звісно, його засновником був Мінамото но Йорітомо... Не можу повірити, що ми нарешті дійшли до цього![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="79" name="MSG_079_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15620 0 0}{f 5 21 0 100}All right, quiet down! Summer vacation's over! You're back in school now, so act accordingly![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}We'll never get through the full textbook if you stay in vacation mode forever.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15620 0 0}{f 5 21 0 100}Гаразд, тихіше! Літні канікули скінчилися! Ви зараз у школі, тому поводьтеся відповідно![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Ми ніколи не пройдемо весь підручник, якщо ви вічно залишатиметеся в режимі канікул.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="80" name="MSG_080_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15616 0 0}{f 5 21 0 100}Okay, let's review. {f 4 1}...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15616 0 0}{f 5 21 0 100}Гаразд, давайте повторимо. {f 4 1}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="81" name="MSG_081_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Which property of electricity is relevant to superconductivity?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Яка властивість електрики пов'язана з надпровідністю?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="82" name="SEL_082_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Voltage.{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Resistance.{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Current.{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Напруга.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Опір.{f 2 9 1 0 13}{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Струм.{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="83" name="MSG_083_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15618 0 0}{f 5 21 0 100}That's right! Been studying, I see...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Anything that reaches an electrical resistance of zero at a characteristic temperature is considered superconductive.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15618 0 0}{f 5 21 0 100}Правильно! Бачу, ти вчився...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Усе, що досягає нульового електричного опору при характерній температурі, вважається надпровідним.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="84" name="MSG_084_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15619 0 0}{f 5 21 0 100}Still in vacation mode, are we?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Superconductors are materials capable, at the right temperature, of reaching zero electrical resistance. Resistance is correct![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 3 1 3 0 -1 15619 0 0}{f 5 21 0 100}Ми все ще в режимі відпустки?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Надпровідники — це матеріали, здатні при відповідній температурі досягати нульового електричного опору. Правильна відповідь — опір![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="85" name="MSG_085_0_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}As a result, electric currents can travel eternally through a superconductive circuit held at the proper temperature.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Як наслідок, електричний струм може вічно проходити через надпровідний ланцюг, що підтримується за належної температури.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 4 25 100}......[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Many years ago, I used this fact to confess my love to someone...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}"My love for you is superconductive!" I told them.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Багато років тому я використав цей факт, щоб освідчитися комусь у коханні...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}«Моя любов до тебе — надпровідна!» — сказав я їй.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 4 25 100}......[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Sure enough, my enthusiasm won her over, and we started dating...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}But enthusiasm isn't very scientific. Before too long, I'd lost interest in her.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}All right, in the next section...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Дійсно, мій ентузіазм підкорив її, і ми почали зустрічатися...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Але ентузіазм не дуже науковий. Незабаром я втратив до неї інтерес.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1084 0 -1 -1 0 0}{f 5 21 0 100}Гаразд, у наступному розділі...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="86" name="MSG_086_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14804 0 0}{f 5 21 0 100}Hello, class. "Bagahi Laca Bachabe"...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Are you ready? Then, let's begin. Today, we'll discuss the magic of the Renaissance era.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The Renaissance was a time when the arts and the sciences enjoyed a strong resurgence in Europe.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Of course, this had a profound influence on magic...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Although it may be more accurate to say the two studies helped improve one another.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}As to why the Renaissance helped to further magic...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Practitioners had finally nailed down a way to escape the rule of the church.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}By studying the teachings of previously-inaccessible sects, knowledge of magic flourished, possibly like never before.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}The Renaissance also brought about the revival of ancient Greek and Roman literature.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Magical texts, such as the Hermetica, received all-new translations and increased study.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Philosophy, natural history, alchemy, astrology...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}This book is filled with a wide range of subjects. Some even consider it the bible of magic.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Just as science and astronomy have made strides in the modern day...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}So, too, has the art of magic.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}You can see this in the emergence of one of the great magicians of all history—one who put the knowledge of the Renaissance into application.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}John Dee was a professor who advised the Queen of England, but...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}With the magical knowledge he uncovered, he was able to communicate with angels.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Of course, there was also Hohenheim, a doctor who traveled across Europe...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}He became known as Paracelsus, a renowned physician and alchemist.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Granted, the magician's life wasn't an easy one back then...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Both men dealt with great amounts of persecution in their lives.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14804 0 0}{f 5 21 0 100}Привіт, класе. «Bagahi Laca Bachabe»...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Готові? Тоді почнімо. Сьогодні ми обговоримо магію епохи Відродження.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Епоха Відродження була часом, коли мистецтво та науки переживали потужне відродження в Європі.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Звісно, це справило глибокий вплив на магію...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Хоча точніше було б сказати, що ці дві галузі допомагали вдосконалювати одна одну.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Щодо того, чому Відродження сприяло розвитку магії...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Практики нарешті знайшли спосіб уникнути влади церкви.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Завдяки вивченню вчень раніше недоступних сект, знання магії розквітло, можливо, як ніколи раніше.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Відродження також принесло відродження давньогрецької та римської літератури.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Магічні тексти, такі як Герметика, отримали абсолютно нові переклади й стали предметом глибшого вивчення.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Філософія, природознавство, алхімія, астрологія...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Ця книга наповнена широким спектром тем. Дехто навіть вважає її біблією магії.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Подібно до того, як наука та астрономія зробили крок уперед у наш час...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Те ж саме сталося і з мистецтвом магії.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Це можна побачити в появі одного з найбільших магів за всю історію — того, хто застосував знання Відродження на практиці.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Джон Ді був професором, який був радником королеві Англії, але...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Завдяки відкритим ним магічним знанням, він зміг спілкуватися з ангелами.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Звісно, був також Гогенгейм, лікар, який подорожував по Європі...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Він став відомий як Парацельс, видатний лікар та алхімік.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Певна річ, життя мага тоді було нелегким...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Обидва чоловіки стикалися з великою кількістю переслідувань у своєму житті.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="87" name="MSG_087_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}Are you still listening? Even your astral selves need to pay attention! Eeeheehee...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Here's a test to see if you were paying attention.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Get it wrong and your house will become permanently haunted. "Bagahi Laca Bachabe"...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14815 0 0}{f 5 21 0 100}Who to pick this time...? I choose thee, {f 4 1}![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 1 -1 -1 0 0}{f 5 21 0 100}Ви все ще слухаєте? Навіть ваші астральні тіла повинні бути уважними! І-хі-хі...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Ось тест, щоб перевірити, чи ви були уважними.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Дасте неправильну відповідь, і ваш дім назавжди стане населеним привидами. «Bagahi Laca Bachabe»...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14815 0 0}{f 5 21 0 100}Кого б тепер викликати?.. Я обираю тебе, {f 4 1}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="88" name="MSG_088_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Which book helped further the art of magic during the Renaissance?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Яка книга допомогла розвитку магічного мистецтва під час Відродження?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="89" name="SEL_089_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}The Book of Enoch.{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}The Book of Thoth.{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}The Hermetica.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Книга Еноха.{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Книга Тота.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Герметика.{f 2 9 1 0 13}{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="90" name="MSG_090_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14817 0 0}{f 5 21 0 100}Correct. Enjoy sleeping in your peaceful home tonight.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14817 0 0}{f 5 21 0 100}Правильно. Насолоджуйтеся сном у своєму мирному домі цієї ночі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="91" name="MSG_091_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14820 0 0}{f 5 21 0 100}Wrong! Now you'll see a woman's face in the ceiling of your room...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 3 1 3 0 -1 14820 0 0}{f 5 21 0 100}Неправильно! Тепер ви побачите жіноче обличчя на стелі вашої кімнати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="92" name="MSG_092_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}During the Renaissance, magic had a surprisingly strong influence on the church-ruled society.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Several magicians were even involved in the core part of the Renaissance—the religious revolution...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Під час Відродження магія мала напрочуд сильний вплив на кероване церквою суспільство.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1081 0 -1 -1 0 0}{f 5 21 0 100}Кілька магів були навіть залучені в основну частину Відродження — релігійну революцію...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="93" name="MSG_093_0_0" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16203 0 0}{f 5 21 0 100}We're starting a new chapter today. This one is all about Nick's tough situation.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}You know, the story reminds me of when I first met my husband. What a wild time that was![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16203 0 0}{f 5 21 0 100}Сьогодні ми починаємо нову главу. Вона присвячена складній ситуації Ніка.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Знаєте, ця історія нагадує мені про те, як я вперше зустріла свого чоловіка. Що за шалений був час![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="94" name="MSG_094_0_0" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}At first, we were somewhat distant, but after spending enough time together...[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}One day, I suddenly realized that he was my better half.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Спочатку ми були дещо відсторонені одне від одного, але після того, як провели достатньо часу разом...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Одного дня я раптом зрозуміла, що він — моя половинка.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="95" name="MSG_095_0_0" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16221 0 0}{f 5 21 0 100}Ooh, I just came up with a good question! Mr. {f 4 1}, since our eyes met first...[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Who is one referring to when speaking of their "better half"?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16221 0 0}{f 5 21 0 100}О, я щойно придумала гарне запитання! Пане {f 4 1}, оскільки наші очі зустрілися першими...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Кого мають на увазі, коли говорять про свою «половинку»?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="96" name="SEL_096_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Their soulmate.{f 2 9 1 0 13}{f 5 20 45 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Their rival.{f 5 20 45 1}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Their mentor.{f 5 20 45 2}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Рідну душу.{f 2 9 1 0 13}{f 5 20 45 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Суперника.{f 5 20 45 1}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Наставника.{f 5 20 45 2}]]></Option>
   </Dialog>
   <Dialog id="97" name="MSG_097_0_0" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16218 0 0}{f 5 21 0 100}Yes, wonderful! Your "better half" is considered your soulmate—the person you are destined to be with![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16218 0 0}{f 5 21 0 100}Так, чудово! Ваша «половинка» вважається вашою рідною душею — людиною, з якою вам судилося бути![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="98" name="MSG_098_0_0" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16219 0 0}{f 5 21 0 100}No, no, no. Your "better half" is considered your soulmate—the person you are destined to be with![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 3 1 3 0 -1 16219 0 0}{f 5 21 0 100}Ні, ні, ні. Ваша «половинка» вважається вашою рідною душею — людиною, з якою вам судилося бути![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="99" name="MSG_099_0_0" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1583 0 -1 -1 0 0}{f 5 21 0 100}Someone who you never want to leave, and will treasure always...[n]{f 1 1}]]></Page>
