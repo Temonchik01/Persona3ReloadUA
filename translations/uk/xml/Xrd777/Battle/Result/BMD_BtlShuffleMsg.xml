@@ -13,7 +13,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У вас вже є {f 0 1 35}{f 2 4 2}{f 0 1 27}. Персони аркани «{f 2 4 3}» отримають досвід.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="ShuffleMsg_DETAIL_SWORD" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати картку вмінь ({f 2 4 3}):[n]{f 0 1 40}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати карту вмінь:[n]({f 2 4 3}){f 0 1 40}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="ShuffleMsg_DETAIL_COIN" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати гроші.[n]{f 1 1}]]></Page>
@@ -109,16 +109,16 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ви зможете обрати одну додаткову карту під час перетасування, доки не покинете Тартар.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="ShuffleMsg_DETAIL_HERMIT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваш {f 0 1 34}максимальний запас ОД{f 0 1 27} зросте на{f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ваш {f 0 1 34}максимальний запас ОД{f 0 1 27} зросте на {f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="ShuffleMsg_DETAIL_FORTUN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Максимальний запас ОЗ{f 0 1 27} усіх поточних членів загону зросте на{f 0 1 45}8{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Максимальний запас ОЗ{f 0 1 27} усіх поточних членів загону зросте на {f 0 1 45}8{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="ShuffleMsg_DETAIL_STRENG" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Максимальний запас ОД{f 0 1 27} усіх поточних членів загону зросте на{f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Максимальний запас ОД{f 0 1 27} усіх поточних членів загону зросте на {f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="ShuffleMsg_DETAIL_HANGED" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати одну картку пахощів, що підвищує характеристику.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати одну карту пахощів, що підвищує характеристику.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MNDShuffle_EFFECT_PERSON" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримано Персону {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
