@@ -8,93 +8,93 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}未使用[cr][n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SYS_TUTORIAL_VELVET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The following Velvet Room tutorials have been unlocked: Persona Fusion, Social Links and Fusion, Skill Inheritance, and Persona Compendium.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Були розблоковані такі посібники Оксамитової кімнати: «Злиття Персон», «Соціальні зв'язки та злиття», «Успадкування умінь» і «Компендіум Персон».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_ENTER_VELVET_1" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1003 202 0}Welcome to the Velvet Room. How may I help you today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1003 202 0}Ласкаво просимо до Оксамитової кімнати. Чим я можу вам допомогти?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_ENTER_VELVET_2" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1004 202 0}Is there anything else I can assist you with?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1004 202 0}Я можу ще чимось вам допомогти?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_ENTER_VELVET_3" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1004 202 0}Now then... How may I be of assistance?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1004 202 0}Отже... Чим я можу бути корисною?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_ENTER_VELVET_FULLMOO" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 3 0 3 1003 202 0}The moon appears so full and perfectly round tonight...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Welcome to the Velvet Room. How may I help you today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 3 0 3 1003 202 0}Місяць сьогодні здається таким повним та ідеально круглим...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Ласкаво просимо до Оксамитової кімнати. Чим я можу вам допомогти сьогодні?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_ENTER_VELVET_FULLMOO" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1003 202 0}Are you aware that the moon grows full...?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Welcome to the Velvet Room. How may I help you today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1003 202 0}Вам відомо, що місяць стає повним?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Ласкаво просимо до Оксамитової кімнати. Чим я можу вам допомогти сьогодні?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_ENTER" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuse Personas]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Talk]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Злити Персон]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Поговорити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_EXIT_VELVET_1" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Is there anything else I can assist you with?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Я можу ще чимось вам допомогти?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_EXIT_GREETING" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1013 202 0}We look forward to your next visit.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 3 1013 202 0}Ми з нетерпінням чекаємо на ваш наступний візит.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_TALK_TITLE" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Talk[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Поговорити[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_TALK_COMMENT" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}What should I ask about?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Про що мені запитати?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_VROOM_TALK" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Fusion Basics]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Social Links]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Dyad Fusion]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Search Fusion]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Special Fusion]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Skill Inheritance]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Inheritable Skills]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Incense Cards]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Fusion Accidents]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Persona Conception]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Changing Skills]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Likelihood of Unforeseen Events]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Skill Cards]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Persona Compendium]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Registering Personas]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Personas' Effect on Social Links]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Requests]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Основи злиття]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Соціальні зв'язки]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Подвійне злиття]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пошукове злиття]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Особливе злиття]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Успадкування умінь]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вміння для успадкування]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Карти пахощів]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Інциденти під час злиття]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Концепція Персони]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зміна умінь]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ймовірність непередбачуваних подій]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Карти вмінь]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Компендіум Персон]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Реєстрація Персон]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вплив Персон на соціальні зв'язки]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Запити]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_TALK_CMB_1" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1007 0 0}My role is to create new Personas...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}By fusing your existing Personas together, a new one shall emerge.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}When a new Persona is created, it tends to be of a higher level than the ones that were fused.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}However, Personas that are fused will be lost.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Since the process requires multiple Personas, you will be left with fewer in your arsenal than you had before...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Which powers will you forsake in order to gain new ones...? It is up to you to decide.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1007 0 0}Моя роль — створювати нових Персон...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Після об'єднання ваших наявних Персон з'явиться нова.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Коли створюється нова Персона, вона, як правило, має вищий рівень, ніж ті, що були злиті.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Однак Персони, які були злиті, будуть втрачені.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Оскільки цей процес вимагає кількох Персон, у вашому арсеналі їх залишиться менше, ніж було раніше...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Якими силами ви пожертвуєте, щоб здобути нові?.. Вирішувати вам.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_TALK_CMB_2" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1007 0 0}A Persona is the power of your soul, which thrives on the bonds you have with others.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Thus, it is only natural that Social Links affect the strength of your Personas.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}If you have established a Social Link of the same Arcana as the Persona you wish to create...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Then that Persona will receive power from the Social Link and level up.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}The amount of power it will receive depends on the rank of the Social Link.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}In some cases, your Persona may even surpass your own level...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Do you understand now how important Social Links are to Persona-users?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1007 0 0}Персона — це сила вашої душі, яка живиться зв'язками, що ви маєте з іншими.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Тому цілком природно, що соціальні зв'язки впливають на силу ваших Персон.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Якщо ви встановили соціальний зв'язок тієї ж аркани, що й Персона, яку ви бажаєте створити...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Тоді ця Персона отримає силу від соціального зв'язку та підвищить свій рівень.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Кількість сили, яку вона отримає, залежить від рангу соціального зв'язку.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}У деяких випадках ваша Персона може навіть перевершити ваш власний рівень...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Тепер ви розумієте, наскільки важливі соціальні зв'язки для користувачів Персон?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_TALK_CMB_3" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1007 0 0}The most basic type of fusion would be merging two Personas together.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Generally, Persona fusion exhibits predictable patterns depending on the Arcana involved.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}By making good use of this pattern, you will be able to create a Persona of your choosing.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}There are a number of combinations, however, that do not follow convention.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}For example, when fusing Personas of the same Arcana...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}The best way to learn is to experiment on your own.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1007 0 0}Найпростішим типом злиття є об'єднання двох Персон разом.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Як правило, злиття Персон демонструє передбачувані закономірності залежно від залучених арканів.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Вдало використовуючи цю закономірність, ви зможете створити Персону на свій вибір.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Однак існує низка комбінацій, які не відповідають цим правилам.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Наприклад, при злитті Персон однакових арканів...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Найкращий спосіб навчитися — це експериментувати самостійно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_TALK_CMB_4" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1008 0 0}Allow me to briefly explain the Conceptions that involve three or more Personas.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}These fusions are a tad complex, you see...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}They will only become available once you have obtained specific Personas.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Though it will take much time and effort, the Personas you can fuse will be well worth it.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Most importantly, Personas created through these Special Fusions cannot be acquired by any other method...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}That in itself makes the endeavor worthwhile.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1008 0 0}Дозвольте мені коротко пояснити концепції, які включають три або більше Персон.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Розумієте, ці злиття трохи складні...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Вони стануть доступними лише після того, як ви здобудете певних Персон.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Хоча це вимагатиме багато часу та зусиль, Персони, яких ви зможете злити, будуть того варті.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Найважливіше те, що Персон, створених за допомогою цих особливих злиттів, неможливо отримати жодним іншим способом...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}Вже одне це робить ваші зусилля немарними.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_TALK_CMB_5" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 3 1008 0 0}A new Persona born from fusion may at times be able to inherit skills from the composite ones.[n]{f 1 1}]]></Page>
