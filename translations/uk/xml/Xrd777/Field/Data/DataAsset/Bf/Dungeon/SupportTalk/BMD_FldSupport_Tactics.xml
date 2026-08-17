@@ -130,7 +130,7 @@
   </Dialog>
   <Dialog id="39" name="MSG_FUKA_ORDER_SHOCKN_DO" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Гаразд, була не була![n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It may not affect any more enemies. Are you sure you want to use it again?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Це може більше не впливати на ворогів. Ти впевнений, що хочете використати цю здатність ще раз??[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_FUKA_NOT_ENOUGH_SP" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5058 0 0}Вибач, але я не маю достатньо сил...[n]{f 1 1}]]></Page>
@@ -143,7 +143,7 @@
   </Dialog>
   <Dialog id="43" name="MSG_TARTARUS_FIRST_TRY_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Переможіть усіх Тіней на поверсі.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Now's a good time to instruct your party members to split up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Зараз саме час дати вказівку членам групи розділитися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_TARTARUS_FIRST_TRY_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4565 0 0}Переможіть усіх Тіней на поверсі.[n]{f 1 1}]]></Page>
