@@ -18,7 +18,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 315}Are you involved in the student council?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I am.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Not yet.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
@@ -45,7 +45,7 @@
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I heard.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I haven't.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't want to hear.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
