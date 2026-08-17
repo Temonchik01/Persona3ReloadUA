@@ -162,7 +162,7 @@
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7005 0 0}Нова зброя?.. Прошу, дозволь мені скористатися нею.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="MSG_EQUIP_UPDATE_KORO_00" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф! Арф![n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Гав! Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_EQUIP_UPDATE_ARAGAKI" type="Message">
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 -1 -1 0 0}{f 3 1 3 0 -1 9007 0 0}Ну, що тут у нас? Дозволь мені використати його.[n]{f 1 1}]]></Page>
@@ -195,7 +195,7 @@
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 3 0 -1 7005 0 0}Нова зброя?.. Прошу, дозволь мені скористатися нею.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="54" name="MSG_EQUIP_UPDATE_KORO_01" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф! Арф![n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Гав! Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="55" name="MSG_EQUIP_UPDATE_ARAGAKI" type="Message">
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9007 0 0}Ну, що тут у нас? Дозволь мені використати його.[n]{f 1 1}]]></Page>
@@ -220,7 +220,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вирішити потім]]></Option>
   </Dialog>
   <Dialog id="59" name="MND_EQUIP_UPDATE_HERO_10" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've equipped the {f 4 4 1 0 1 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я екіпірував {f 4 4 1 0 1 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MSG_EQUIP_UPDATE_YUKARI_" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1039 0 0}Гей, який гарний лук! Я можу ним користуватися, так?[n]{f 1 1}]]></Page>
@@ -257,29 +257,29 @@
   </Dialog>
   <Dialog id="71" name="MSG_HIGH_RARE_TUTO_MITU_" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 50 0 0}Я більше не отримую сигнал від Тіні. Мабуть, воно досить далеко...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm sure it won't be able to ignore us if we keep opening treasure chests.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}So let's keep looking for chests. We just might run into that Shadow again.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Я впевнений, що воно не зможе нас ігнорувати, якщо ми й надалі будемо відкривати скрині зі скарбами.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тож давайте продовжувати шукати скрині. Можливо, ми знову натрапимо на ту Тінь.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="72" name="MSG_HIGH_RARE_TUTO_FUKA_" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я більше не відчуваю Тінь. Напевно, воно вже досить далеко...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="73" name="MSG_HIGH_RARE_TUTO_FUKA_" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Я більше не відчуваю Тінь. Напевно, воно вже досить далеко...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We should be able to get its attention if we keep opening chests.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Let's keep looking for them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ми зможемо привернути його увагу, якщо будемо продовжувати відкривати скрині.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Продовжуймо їх шукати.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="74" name="MSG_HIGH_RARE_BTL_MITU_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь йде до нас. Приготуйтеся![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="75" name="MSG_HIGH_RARE_BTL_MITU_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь йде до нас. Приготуйтеся![n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There aren't any Shadows left on this floor. Let's keep moving.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}На цьому поверсі більше немає Тіней. Продовжуймо рухатися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="76" name="MSG_HIGH_RARE_BTL_FUKA_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Тінь прямує прямо на нас! Це наш шанс! Ви готові?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="77" name="MSG_HIGH_RARE_BTL_FUKA_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Тінь прямує прямо на нас! Це наш шанс! Ви готові?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm not sensing any more enemies on this floor. Let's move on.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}На цьому поверсі я більше не відчуваю присутність ворогів. Рухаймось далі.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
