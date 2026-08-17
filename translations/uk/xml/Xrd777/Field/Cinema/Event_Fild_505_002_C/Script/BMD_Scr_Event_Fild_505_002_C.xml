@@ -123,10 +123,10 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 1}{f 4 23 1 2 4 25 25}Зачекай... Чи змінилася дата?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_030_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 1}Чи змінюються гороскопи під час Темної Години!? Гм... Цікавість мене вбиває.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 1}Чи змінюються гороскопи під час Темної Години?! Гм... Цікавість мене вбиває.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_031_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}{f 4 23 1 3 1 25 25}Оооо так, хто тут мужик!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2088 0 0}{f 4 23 1 3 1 25 25}Оооо так, хто тут мужик?![n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}Гадаю, ти теж був не надто пошарпаний. Продовжуй в тому ж дусі, чуваче.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="SEL_032_0_0" type="Selection">
@@ -744,20 +744,20 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 3 0 -1 7120 0 0}Так, це б точно тримало нас в тонусі... З іншого боку, ми завжди на межі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="200" name="MSG_200_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 3 0 -1 7103 0 0}{f 4 23 1 8 4 25 25}Що? Ти справді так думаєш!? {f 4 1}, ти звучиш дуже впевнено![n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 3 0 -1 7103 0 0}{f 4 23 1 8 4 25 25}Що? Ти справді так думаєш?! {f 4 1}, ти звучиш дуже впевнено![n]{f 1 1}]]></Page>
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 4 23 1 8 3 25 25}А в мене мурашки по шкірі, як подумаю про це.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="201" name="MSG_201_0_0" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 -1 0 0}{f 4 23 1 8 2 25 25}Невідомо, які козирі у них в рукаві. Будьмо пильними.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="202" name="MSG_202_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="203" name="MND_203_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару виглядає щасливим, що ми перемогли.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="204" name="MSG_204_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="205" name="SEL_205_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хороший хлопчик.]]></Option>
@@ -765,13 +765,13 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так тримати.]]></Option>
   </Dialog>
   <Dialog id="206" name="MSG_206_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="207" name="MND_207_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару виглядає гордим за себе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="208" name="MSG_208_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="209" name="MSG_209_0_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8009 0 0}(пих) (пих)[n]{f 1 1}]]></Page>
@@ -789,21 +789,21 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дозвольте мені оцінити ситуацію.]]></Option>
   </Dialog>
   <Dialog id="213" name="MSG_213_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="214" name="MND_214_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару схоже зі мною згоден.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Повертатися назад - це, мабуть, правильна ідея...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="215" name="MSG_215_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}...Арф! арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}...Гав! гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="216" name="MND_216_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Коромару сам себе накручує.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, він готовий пройти додаткову милю...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="217" name="MSG_217_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8004 0 0}арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8004 0 0}гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="218" name="MND_218_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару схоже зі мною згоден.[n]{f 1 1}]]></Page>
@@ -816,7 +816,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару має гарний настрій.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="221" name="MSG_221_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 4 23 1 9 0 25 25}арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 4 23 1 9 0 25 25}гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="222" name="SEL_222_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хочеш йти далі?]]></Option>
@@ -830,22 +830,22 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару здається рішуче налаштованим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="225" name="MSG_225_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8004 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8004 0 0}Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="226" name="MND_226_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару схоже зі мною згоден.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="227" name="MSG_227_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}{f 4 23 1 9 1 25 25}Арф! арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}{f 4 23 1 9 1 25 25}Гав! гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="228" name="MND_228_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Коромару здається рішуче налаштованим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="229" name="MSG_229_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 4 23 1 9 0 25 25}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 4 23 1 9 0 25 25}Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="230" name="MSG_230_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8008 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8008 0 0}Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="231" name="MSG_231_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Гарна робота. Ти теж, Коро.[n]{f 1 1}]]></Page>
@@ -857,31 +857,31 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}У тебе вийде, Коромару.]]></Option>
   </Dialog>
   <Dialog id="233" name="MSG_233_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="234" name="MSG_234_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, ти теж почуваєшся впевнено, Коро? Схоже у тебе вистачає хоробрості.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="235" name="MSG_235_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="236" name="MSG_236_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Коро підбадьорює. Він тебе прикриє![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="237" name="MSG_237_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8010 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8010 0 0}Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="238" name="MSG_238_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, схоже, хтось сповнений духу. Ми будемо розраховувати на тебе, Коро.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="239" name="MSG_239_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="240" name="MSG_240_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5011 0 0}Вартовий переможений! Дякуємо всім за вашу важку працю.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="241" name="MSG_241_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="242" name="MSG_242_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я знаю, що просто констатую очевидне, але Коро звісно дивовижний, чи не так?[n]{f 1 1}]]></Page>
@@ -893,7 +893,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Молодець, Коромару.]]></Option>
   </Dialog>
   <Dialog id="244" name="MSG_244_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}{f 4 23 1 9 1 25 25}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8001 0 0}{f 4 23 1 9 1 25 25}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="245" name="MSG_245_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, Коро виглядає щасливо. Бачиш? Він розуміє.[n]{f 1 1}]]></Page>
@@ -908,7 +908,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Бачиш? Поглянь, який він сумний. Звісно, він розуміє, про що ми говоримо.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="249" name="MSG_249_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}{f 4 23 1 9 1 25 25}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}{f 4 23 1 9 1 25 25}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="250" name="MSG_250_0_0" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, Коро виглядає таким щасливим. Бачиш? Він розуміє.[n]{f 1 1}]]></Page>
@@ -917,7 +917,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 4 23 1 9 0 25 25}Так тримати, Коро![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="252" name="MSG_252_0_0" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Арф, арф![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}Гав, гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="253" name="MSG_253_0_0" type="Message">
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9049 0 0}Схоже, ми тут закінчили...[n]{f 1 1}]]></Page>
@@ -1157,7 +1157,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Здається, ти став вище.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="317" name="MSG_317_0_0" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 4 23 1 8 4 25 25}Дійсно!?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 4 23 1 8 4 25 25}Дійсно?![n]{f 1 1}]]></Page>
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 4 23 1 8 1 25 25}Може, це через те, що я п'ю багато молока, хе-хе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="318" name="MSG_318_0_0" type="Message">
@@ -1174,7 +1174,7 @@
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Це... мозолі на твоїх руках?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="322" name="MSG_322_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 4 23 1 2 4 25 25}Що— Звідки ти знаєш!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 -1 0 0}{f 4 23 1 2 4 25 25}Що— Звідки ти знаєш?![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 4 23 1 2 0 25 25}Так... Вони просто трохи потріскалися. Але стріляти я все одно можу.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="323" name="SEL_323_0_0" type="Selection">
