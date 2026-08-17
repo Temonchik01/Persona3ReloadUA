@@ -5,11 +5,11 @@
   </Speakers>
   <Dialog id="0" name="SEL_OPEN" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відкрити її]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Leave it alone]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишити]]></Option>
   </Dialog>
   <Dialog id="1" name="SEL_RemainTBox" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Exit]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Stay longer]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Залишитись подовше]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_RemainTBoxTalk00" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я відчуваю скриню зі скарбами. Схоже, вона знаходиться в кінці кімнати.[n]{f 1 1}]]></Page>
@@ -47,8 +47,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}На щастя, здається, поблизу є телепорт.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_Monad03" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure thing.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}If you say so...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Без проблем.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Якщо так кажеш...]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_Monad03_02" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Дякую. Я буду чекати тебе на виході.[n]{f 1 1}]]></Page>
