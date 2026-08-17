@@ -24,7 +24,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 81 0 0}{f 3 1 1 0 1 20521 0 0}Авжеж! Давай розбий її і подивимося, що там всередині![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_NOT_GET_TBOX" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 81 0 0}{f 3 1 1 0 1 20522 0 0}Гей, давай! Хіба тобі не цікаво, що там всередині!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 81 0 0}{f 3 1 1 0 1 20522 0 0}Гей, давай! Хіба тобі не цікаво, що там всередині?![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_TUTO_BTL03_DISCOVERE" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20524 0 0}Тінь виявлена.[n]{f 1 1}]]></Page>
@@ -36,8 +36,8 @@
   </Dialog>
   <Dialog id="8" name="MSG_TUTO_BTL03_RUN_AWAY_" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20528 0 0}Стривай, ворог тебе побачить! Поки що відступи![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20529 0 0}Don't let your guard down just because you have some combat experience now.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20530 0 0}Fortunately, the enemy hasn't noticed you yet. Try getting them from behind again![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20529 0 0}Не втрачай пильності тільки тому, що ти тепер маєш певний бойовий досвід.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20530 0 0}На щастя, ворог тебе ще не помітив. Спробуй знову підійти до них ззаду![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_TUTO_BTL04_DISCOVERE" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20536 0 0}Я фіксую ще одну Тінь попереду.[n]{f 1 1}]]></Page>
@@ -48,7 +48,7 @@
   </Dialog>
   <Dialog id="11" name="MSG_TUTO_BTL04_RUN_AWAY_" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20540 0 0}Сьогоднішня мета — набути бойового досвіду! Втеча не є варіантом.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20541 0 0}Now approach the enemy from behind, carefully.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20541 0 0}А тепер обережно підійдіть до ворога ззаду.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_DISCOVERED_STAIRS_00" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 81 0 0}{f 3 1 1 0 1 20548 0 0}Гей, я знайшов сходи![n]{f 1 1}]]></Page>
