@@ -17,35 +17,35 @@
   </Dialog>
   <Dialog id="3" name="MSG_HIGHRARE_ESCAPE_MITU" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 6 -1 50 0 0}Зачекай, Тінь робить хід...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There don't appear to be other enemies around either. Well, let's keep moving.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Схоже, навколо більше немає інших ворогів. Ну що ж, рухаємося далі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_HIGHRARE_ESCAPE_FUKA" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}О! Я відчуваю рух Тіні![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_HIGHRARE_ESCAPE_FUKA" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}О! Я відчуваю рух Тіні![n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There don't seem to be any other enemies around here, so let's move on.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Схоже, тут більше немає ворогів, тож рушаймо далі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_HIGHRARE_STEAL_MITU_" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}Що!? Вона грабує скриню зі скарбами![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}Що?! Вона грабує скриню зі скарбами![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь, яка переслідує скрині зі скарбами... Цікаво, чому...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Також, можливо, це збіг, але на цьому поверсі скринь більше, ніж зазвичай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_HIGHRARE_STEAL_FUKA_" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Вона... грабує скриню зі скарбами!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Вона... грабує скриню зі скарбами?![n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Чому Тінь це робить? Можливо, воно щось шукає...[n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}О, і на цьому поверсі скринь більше, ніж зазвичай. Це просто збіг?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_HIGHRARE_STEAL_00" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}More chests, huh?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Just a "coincidence"?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Більше скринь, га?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Просто «збіг»"?]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_HIGHRARE_STEAL_MITU_" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Що!? Вона грабує скриню зі скарбами![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Що?! Вона грабує скриню зі скарбами![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь, яка переслідує скрині зі скарбами... Цікаво, чому...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_HIGHRARE_STEAL_FUKA_" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Вона... грабує скриню зі скарбами!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Вона... грабує скриню зі скарбами?![n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Чому Тінь це робить? Можливо, воно щось шукає...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="SYS_HIGHRARE_STEAL_00" type="Message">
@@ -53,12 +53,12 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вони швидкі, і їх майже неможливо наздогнати пішки. Скористайтеся їхньою одержимістю і перехопіть їх на шляху до скринь.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_HIGHRARE_STEAL_MITU_" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Що!? Вона грабує скриню зі скарбами![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Що?! Вона грабує скриню зі скарбами![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тінь, яка переслідує скрині зі скарбами... Цікаво, чому...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Також, можливо, це збіг, але на цьому поверсі скринь більше, ніж зазвичай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_HIGHRARE_STEAL_FUKA_" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Вона... грабує скриню зі скарбами!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Вона... грабує скриню зі скарбами?![n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Чому Тінь це робить? Можливо, воно щось шукає...[n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}О, і на цьому поверсі скринь більше, ніж зазвичай. Це просто збіг?[n]{f 1 1}]]></Page>
   </Dialog>
@@ -75,7 +75,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}О, ти вже закінчив намагатися зловити ту Тінь?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_HIGHRARE_BLOCK" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I won't give up!]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I guess I should keep trying.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не здамся!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Здається, треба пробувати.]]></Option>
   </Dialog>
 </BMD>
