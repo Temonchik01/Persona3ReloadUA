@@ -11,7 +11,7 @@
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's study together.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What's everyone's status?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус всіх]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I want to go to Tartarus.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}No thanks.]]></Option>
   </Dialog>
@@ -46,7 +46,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4061 0 0}These people already have plans, so they can't go tonight:[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SYS_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Yukari Takeba[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі Такеба[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Is there anything else you need?[n]{f 1 1}]]></Page>
@@ -57,7 +57,7 @@
   </Dialog>
   <Dialog id="15" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I still want to go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Never mind.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Неважливо.]]></Option>
   </Dialog>
   <Dialog id="16" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4029 0 0}...All right. Let's gather everyone.[n]{f 1 1}]]></Page>
