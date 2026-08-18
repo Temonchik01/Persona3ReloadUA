@@ -30,21 +30,21 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5086 0 0}Зважаючи на те, як далеко ми просунулися, ми мусимо наздогнати його! Це останній![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_BRANCH_00" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go right!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Направо!]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}未使用[cr]]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go left!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Наліво!]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}未使用[cr]]]></Option>
   </Dialog>
   <Dialog id="7" name="SEL_BRANCH_01" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go right next!]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go right again!]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go left next!]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Go left again!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Наступний направо!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Знову направо!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Наступний наліво!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Знову наліво!]]></Option>
   </Dialog>
   <Dialog id="8" name="SEL_BRANCH_02" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Last one is right!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Останній направо!]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}未使用[cr]]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Last one is left!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Останній наліво!]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}未使用[cr]]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_BRANCH_YUKARI_10" type="Message">
