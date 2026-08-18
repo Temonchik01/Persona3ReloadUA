@@ -1,98 +1,98 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Qest_610_155_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Qest_610_155_C\BMD_Event_Qest_610_155_C.uasset" dialogs="23">
   <Speakers>
-    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
+    <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Елізабет</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}So this is your room... I've never seen many of these items before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 4 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Отже, це ваша кімната... Багато з цих речей я ніколи раніше не бачила.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}{f 4 23 0 202 0 25 25}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}If I might be permitted to ask... when I made the request to visit your room...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 202 3 25 25}Did it... make you a little suspicious?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Якщо дозволите запитати... коли я попросила відвідати вашу кімнату...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}{f 4 23 0 202 3 25 25}Чи... викликало це у вас бодай якісь підозри?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, a little.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not really.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так, трохи.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}In truth... there is something I wanted to tell you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Правду кажучи... я хотіла вам дещо сказати.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I see...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 202 0 25 25}In truth, there is something I wanted to tell you...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Розумію...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 202 0 25 25}Правду кажучи, я хотіла вам дещо сказати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}During my forays into your world, I encountered a great many things.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Every single one of our outings is a treasured memory... Each one a polished, glittering gem.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Під час своїх вилазок у ваш світ я зіткнулася з багатьма речами.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Кожна наша прогулянка — це дорогоцінний спогад... Кожна з них — як відполірована, блискуча коштовність.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_004_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Walking around the crowded Port Island streets... Sampling the local cuisine...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Idling the hours away at the shrine... Even visiting your school for a day...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 202 0 25 25}And... I came to a realization.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Прогулянки галасливими вулицями Порт-Айленда... Куштування місцевої кухні...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Дозвілля в храмі... Навіть відвідування вашої школи на один день...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 4 23 0 202 0 25 25}І... я дещо зрозуміла.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_005_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}I had been subconsciously requesting to visit locations that were... more and more central to your life.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}And today, I endeavored to visit the one place in your world where I could learn the most about you...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}That is the reason as to why I requested to visit your room.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Я підсвідомо просила відвідати місця, які були... все більш значущими у вашому житті.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}А сьогодні я спробувала відвідати єдине місце у вашому світі, де я могла б дізнатися про вас найбільше...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Саме з цієї причини я попросила відвідати вашу кімнату.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}If I may be so bold...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Якщо дозволите бути відвертою...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_007_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Do you recall the day you gave me a tour of your school?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}There was a moment where I mentioned that I "felt very fulfilled" when I touched you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}Ви пам'ятаєте той день, коли провели для мене екскурсію вашою школою?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Тоді був момент, коли я згадала, що «відчувала себе дуже наповненою», торкаючись вас.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I remember.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Doesn't ring a bell.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я пам'ятаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Щось не пригадую.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_009_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}It was the first time I'd ever felt that way.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Я вперше відчула щось подібне.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 0 0 0 20 0 0}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 202 0 25 25}It was the first time I'd ever felt that way.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 202 0 25 25}Я вперше відчула щось подібне.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_011_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}I thought to myself, why did I feel so fulfilled?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 202 0 25 25}But after coming all the way here, I finally found my answer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Я думала про себе: чому я відчуваю себе такою наповненою?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 202 0 25 25}Але виконавши такий довгий шлях сюди, я нарешті знайшла свою відповідь.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_012_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}I believe it's because I had the chance to walk in your shoes.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 202 1 25 25}Those of us who reside in the Velvet Room wait with great anticipation for our "guests"...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Здається, це через те, що я мала змогу побути на вашому місці.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 202 1 25 25}Ми, мешканці Оксамитової кімнати, з великим нетерпінням чекаємо на наших «гостей»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_012_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Their arrival is our only link to the outside world, and gives us a reason for being.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 202 0 25 25}When I'm together with you... I can have that all for myself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Їхній прихід — наша єдина сполучна ланка із зовнішнім світом, що дає нам сенс існування.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 202 0 25 25}Коли я разом із вами... я можу мати все це тільки для себе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="SEL_013_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think I get it.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't really get it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Здається, я розумію.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не зовсім розумію.]]></Option>
   </Dialog>
   <Dialog id="17" name="MSG_014_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Let me put it more plainly.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}I'm rather naive to the ways of your world, and there must have been many times when I behaved quite strangely...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 202 1 25 25}However... even I understand the significance of inviting a gentleman into his own room.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Дозвольте висловитися простіше.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}Я не надто обізнана у звичаях вашого світу, і, напевно, було чимало випадків, коли я поводилася вельми дивно...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 1 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 202 1 25 25}Проте... навіть я розумію значущість запрошення чоловіка до його власної кімнати.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_015_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}If you wouldn't mind...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}I'd love for you... to guide me through it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Якщо ви не проти...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Я б хотіла, щоб ви... стали моїм провідником у цьому.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_016_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Boldly accept]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Gently decline]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Сміливо погодитися]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}М'яко відмовити]]></Option>
   </Dialog>
   <Dialog id="20" name="MSG_017_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}Thank you...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}Дякую вам...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_018_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 3 -1 -1 0 0}{f 3 1 0 0 0 34 0 0}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 23 0 202 0 25 25}I understand.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}I will refrain from asking any further.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}{f 4 23 0 202 0 25 25}Я розумію.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}Я утримаюся від подальших прохань.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_019_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I spent some time alone with Elizabeth.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я провів трохи часу наодинці з Елізабет.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
