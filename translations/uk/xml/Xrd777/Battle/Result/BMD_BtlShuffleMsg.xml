@@ -7,10 +7,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: UNUSED[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="ShuffleMsg_DETAIL_PERSON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати Персону аркани «{f 2 4 3}» — {f 0 1 35}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати Персону Аркани «{f 2 4 3}» — {f 0 1 35}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="ShuffleMsg_DETAIL_PERSON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У вас вже є {f 0 1 35}{f 2 4 2}{f 0 1 27}. Персони аркани «{f 2 4 3}» отримають досвід.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У вас вже є {f 0 1 35}{f 2 4 2}{f 0 1 27}. Персони Аркани «{f 2 4 3}» отримають досвід.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="ShuffleMsg_DETAIL_SWORD" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримати карту вмінь:[n]({f 2 4 3}){f 0 1 40}{f 2 4 2}{f 0 1 27}.[n]{f 1 1}]]></Page>
@@ -124,7 +124,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Отримано Персону {f 0 1 35}{f 2 4 2}{f 0 1 27}![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MNDShuffle_EFFECT_PERSON" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене вже є {f 0 1 35}{f 2 4 2}{f 0 1 27},[n]тому мої Персони аркани {f 2 4 3} отримують досвід![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене вже є {f 0 1 35}{f 2 4 2}{f 0 1 27},[n]тому мої Персони Аркани {f 2 4 3} отримують досвід![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MNDShuffle_EFFECT_PERSON" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я більше не можу носити Персон. Потрібно[n]вибрати Персону, яку я відпущу...[n]{f 1 1}]]></Page>
@@ -256,22 +256,22 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}З Арканою відбулися зміни![n]БОНУСНИЙ БУМ![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="85" name="ShuffleMsg_Tutorial_1_1" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Навчання - карти старших арканів[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Навчання - карти старших Арканів[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="86" name="ShuffleMsg_Tutorial_1_2" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Могутні карти старших арканів можуть з'являтися під час перетасування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Могутні карти старших Арканів можуть з'являтися під час перетасування.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="87" name="ShuffleMsg_Tutorial_1_3" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Більше карт старших арканів може з'являтися кожного разу, коли ви успішно долаєте випробування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Більше карт старших Арканів може з'являтися кожного разу, коли ви успішно долаєте випробування.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="88" name="ShuffleMsg_Tutorial_1_4" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо ви зберете всі карти старших арканів, з іншими картами відбудуться певні зміни.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо ви зберете всі карти старших Арканів, з іншими картами відбудуться певні зміни.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="89" name="ShuffleMsg_Tutorial_2_1" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Навчання - карти вже наявних Персон[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="90" name="ShuffleMsg_Tutorial_2_2" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо ви оберете Персону, яка у вас вже є, усі Персони цієї ж аркани отримають досвід.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо ви оберете Персону, яка у вас вже є, усі Персони цієї ж Аркани отримають досвід.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="91" name="ShuffleMsg_ALLGET_COUTDO" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кількість карт до БОНУСНОГО БУМУ: {f 2 4 4}[n]{f 1 1}]]></Page>
