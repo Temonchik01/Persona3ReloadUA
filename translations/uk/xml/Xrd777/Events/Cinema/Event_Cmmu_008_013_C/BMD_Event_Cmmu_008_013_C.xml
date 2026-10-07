@@ -1,69 +1,69 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_008_013_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_008_013_C\BMD_Event_Cmmu_008_013_C.uasset" dialogs="29">
   <Speakers>
-    <Speaker id="0" rawBytes="53 65 72 76 65 72">Server</Speaker>
-    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
-    <Speaker id="2" rawBytes="54 56 20 53 6F 75 6E 64">TV Sound</Speaker>
+    <Speaker id="0" rawBytes="53 65 72 76 65 72">Сервер</Speaker>
+    <Speaker id="1" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="2" rawBytes="54 56 20 53 6F 75 6E 64">Звук телевізора</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1091}Welcome! Take any open seat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1091}Ласкаво просимо! Виберіть будь-яке вільне місце.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}...He's not here.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}...Його тут немає.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Oh, uh, it's nothing![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}О, е-е, це дрібниця![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Sorry for asking you to go out all of a sudden.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}I just wanted someone to come with me. It's a little intimidating going to get food by myself.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}People tend to stare when they see an elementary school kid like me out on his own.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}Вибач, що попросив тебе так несподівано прогулятися.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Я просто хотів, щоб хтось пішов зі мною. Трохи страшно самому йти по їжу.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Люди зазвичай витріщаються, коли бачать такого школяра, як я, що ходить сам по собі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1091}Your order?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1091}Що замовляєте?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Two specials.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Two regulars.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}A kid's ramen.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дві фірмові.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дві стандартні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Дитячий рамен.]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1091}Two specials, comin' right up![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1091}Дві спеціальні, зараз будуть![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Seems like that's the thing to get, huh. Thanks for ordering.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Схоже, тут усі це беруть, га? Дякую, що замовив.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_008_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1091}Two regulars, comin' right up![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1091}Дві стандартні, зараз будуть![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_009_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Thank you.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Hm, looks like there's a special ramen too. I wonder if that's what most people get.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Дякую.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Хм, схоже, є ще й фірмовий рамен. Цікаво, чи саме його замовляє більшість.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 1091}Err, sorry, we don't have that here...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 1091}Е-е-е, вибачте, у нас цього немає...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}I-I'm fine with the regular! I can totally eat that much![n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 8 3 25 25}That was mean, {f 4 1}-san... Please don't treat me like a kid.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}М-мені цілком вистачить звичайної порції! Я точно зможу стільки з’їсти!![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 8 3 25 25}Це було неприємно, {f 4 1}... Будь ласка, не стався до мене як до дитини.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_012_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}...So I saw some people from our dorm stop by here a while back.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Like Sanada-san, and that guy who recently joined... Aragaki-san.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Do you come here with them too, {f 4 1}-san? What kinds of things do you talk about?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}...До речі, я бачив, як деякий час тому тут зупинилися наші сусіди з гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Наприклад, Санада і той хлопець, який нещодавно приєднався... Араґакі.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Ти теж приходиш сюди разом з ними, {f 4 1}? Про що ви зазвичай розмовляєте??[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...Oh, sorry for asking something so weird.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}I just thought I should know a bit more about everyone, since we'll be fighting together from now on.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}...Ой, вибач, це було дивне питання.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}Я просто подумав, що мені варто трохи краще дізнатися про всіх, адже відтепер ми будемо битися пліч-о-пліч.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_014_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}But it's good either way, 'cause I've always wanted to have a proper chat with you, {f 4 1}-san.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Everyone in the dorm is amazing, but you're on a completely different level.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 8 0 25 25}I can't believe how many Personas you're able to use![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}В будь-якому разі, все добре, бо я завжди хотів поговорити з тобою особисто, {f 4 1}.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Усі в гуртожитку круті, але ти виходиш на зовсім інший рівень.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 8 0 25 25}Я навіть не можу повірити, скільки Персон ти вмієш використовувати![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_015_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 1091}Here you are![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 1091}Ось, будь ласка![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_016_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 1 0 0 26 0 0}Ikutsuki-san and Mitsuru-san said that each person normally has only one Persona, and that it doesn't change.[n]{f 1 1}]]></Page>
