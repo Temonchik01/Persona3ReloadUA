@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_OBJ_TV_PROGRAM.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\Tv\BMD_OBJ_TV_PROGRAM.uasset" dialogs="343">
   <Speakers>
-    <Speaker id="0" rawBytes="4E 65 77 73 63 61 73 74 65 72">Newscaster</Speaker>
+    <Speaker id="0" rawBytes="4E 65 77 73 63 61 73 74 65 72">Ведучий новин</Speaker>
     <Speaker id="1" rawBytes="46 65 6D 61 6C 65 20 52 65 70 6F 72 74 65 72">Female Reporter</Speaker>
-    <Speaker id="2" rawBytes="4E 61 72 72 61 74 6F 72">Narrator</Speaker>
+    <Speaker id="2" rawBytes="4E 61 72 72 61 74 6F 72">Оповідач</Speaker>
     <Speaker id="3" rawBytes="52 65 70 6F 72 74 65 72">Reporter</Speaker>
     <Speaker id="4" rawBytes="4D 61 6C 65 20 52 65 70 6F 72 74 65 72">Male Reporter</Speaker>
     <Speaker id="5" rawBytes="42 61 63 6B 70 61 63 6B 65 72">Backpacker</Speaker>
@@ -47,7 +47,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}—and all the tourist families have had a wonderful spring.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The attraction will remain in operation until May 5th, the last day of the holidays next month.[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="6" name="MND_006_0_0" type="Message" />
+  <Dialog id="6" name="MND_006_0_0" type="Message"/>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Tomorrow is forecasted to be a great day for fun. Why not participate in some outdoor events?[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Up next is today's exchange rate.[n]{f 1 1}]]></Page>
@@ -678,7 +678,7 @@
   <Dialog id="145" name="MND_145_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems a special about the game[n]that was revealed today is on...[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="146" name="MSG_146_0_0" type="Message" />
+  <Dialog id="146" name="MSG_146_0_0" type="Message"/>
   <Dialog id="147" name="MND_147_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's nothing interesting on the news.[n]{f 1 1}]]></Page>
   </Dialog>

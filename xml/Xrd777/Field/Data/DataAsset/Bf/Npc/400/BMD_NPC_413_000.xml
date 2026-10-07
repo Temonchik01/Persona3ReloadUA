@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_413_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\400\BMD_NPC_413_000.uasset" dialogs="36">
   <Speakers>
     <Speaker id="0" rawBytes="43 61 74 2D 4C 6F 76 69 6E 67 20 42 6F 79">Cat-Loving Boy</Speaker>
@@ -54,7 +54,7 @@
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}A stray cat.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't care.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мені байдуже.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}Okay! Then I'll tell you![n]{f 1 1}]]></Page>
@@ -77,7 +77,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 413}Yeah, I'm gonna go buy some milk. He'll like that, I think.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="SEL_015_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}That's a good idea.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це хороша ідея.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's a bad idea.]]></Option>
   </Dialog>
   <Dialog id="16" name="MSG_016_0_0" type="Message">

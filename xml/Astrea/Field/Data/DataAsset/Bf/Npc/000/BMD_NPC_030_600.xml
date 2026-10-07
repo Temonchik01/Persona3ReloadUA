@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_030_600.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Field\Data\DataAsset\Bf\Npc\000\BMD_NPC_030_600.uasset" dialogs="22">
   <Speakers>
     <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
@@ -86,7 +86,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Should I spend time with Junpei-san?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="SEL_049_5_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think I will.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я думаю, що так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="18" name="MSG_054_0_0" type="Message">

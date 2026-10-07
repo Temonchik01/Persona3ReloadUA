@@ -39,7 +39,7 @@ from directx.texconv import Texconv
 VERSION = "4.27"   # P3R uses UE 4.27
 
 FORCE_INLINE_RELS = {
-    os.path.normcase(os.path.normpath(path))
+    os.path.normcase(os.path.normpath(path.replace(chr(92), os.sep)))
     for path in (
         r"Xrd777\UI\Title\Material\Textures\T_UI_Title_PRESSANYBUTTON_Line.uasset",
         r"Xrd777\UI\Title\Material\Textures\T_UI_Title_PRESSANYBUTTON_Shadow.uasset",
@@ -119,6 +119,7 @@ def batch_export(src_dir: str, dds_dir: str):
 
     print(f"\nDone: {ok} exported  |  {skip} skipped (no texture)  |  {fail} errors", flush=True)
     print(f"DDS files at: {dds_dir}", flush=True)
+    return fail
 
 
 # ── batch import ──────────────────────────────────────────────────────────────
@@ -185,6 +186,7 @@ def batch_import(dds_dir: str, src_dir: str, out_dir: str):
             print(f"  ... {ok + fail + no_src}/{len(dds_files)}")
 
     print(f"\nDone: {ok} injected  |  {no_src} skipped (no source)  |  {fail} errors")
+    return fail
 
 
 # ── batch roundtrip ───────────────────────────────────────────────────────────
@@ -267,13 +269,15 @@ def main():
         if len(rest) < 2:
             print("Usage: --batch-export <uasset-src-dir> <dds-out-dir>")
             sys.exit(1)
-        batch_export(rest[0], rest[1])
+        if batch_export(rest[0], rest[1]):
+            sys.exit(1)
 
     elif cmd == "batch-import":
         if len(rest) < 3:
             print("Usage: --batch-import <dds-dir> <uasset-src-dir> <mod-assets-dir>")
             sys.exit(1)
-        batch_import(rest[0], rest[1], rest[2])
+        if batch_import(rest[0], rest[1], rest[2]):
+            sys.exit(1)
 
     elif cmd == "batch-roundtrip":
         if len(rest) < 1:

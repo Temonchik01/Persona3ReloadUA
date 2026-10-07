@@ -1,15 +1,16 @@
 import os
 import shutil
 import subprocess
+import sys
 
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 MOD_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, '..', '..'))
 
 DDS_TOOL_ROOT = os.path.join(MOD_ROOT, 'tools', 'UE4-DDS-Tools')
-PYTHON = os.path.join(DDS_TOOL_ROOT, 'python', 'python.exe')
+PYTHON = sys.executable
 TEX_TOOL = os.path.join(DDS_TOOL_ROOT, 'src', 'p3rtex.py')
-DDS_ROOT = os.path.join(MOD_ROOT, 'dds')
+DDS_ROOT = os.environ.get('P3R_DDS_INPUT', os.path.join(MOD_ROOT, 'dds'))
 DEFAULT_SOURCE = os.path.join(SCRIPT_DIR, 'source')
 FALLBACK_CONTENT_ROOT = os.path.join(SCRIPT_DIR, 'fallback_content')
 FALLBACK_EN_ROOT = os.path.join(SCRIPT_DIR, 'fallback_l10n_en')

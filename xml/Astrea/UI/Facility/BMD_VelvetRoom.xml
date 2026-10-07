@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_VelvetRoom.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\UI\Facility\BMD_VelvetRoom.uasset" dialogs="269">
   <Speakers>
     <Speaker id="0" rawBytes="45 6C 69 7A 61 62 65 74 68">Elizabeth</Speaker>
@@ -346,7 +346,7 @@
   </Dialog>
   <Dialog id="73" name="SEL_BOOK_READ" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Wait...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекайте...]]></Option>
   </Dialog>
   <Dialog id="74" name="MSG_BOOK_READ_PURCHASE" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Here is {f 0 1 35}{f 2 4 0}{f 0 1 27}, as requested.[n]{f 1 1}]]></Page>

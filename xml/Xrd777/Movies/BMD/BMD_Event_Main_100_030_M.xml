@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_100_030_M.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Movies\BMD\BMD_Event_Main_100_030_M.uasset" dialogs="26">
   <Speakers>
-    <Speaker id="0" rawBytes="54 68 65 6D 65 20 50 6F 65 6D">Theme Poem</Speaker>
+    <Speaker id="0" rawBytes="54 68 65 6D 65 20 50 6F 65 6D">Тематична поема</Speaker>
     <Speaker id="1" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E3 82 AC E3 83 A4 E7 94 B7 EF BC A1">（ＳＥ）ガヤ男Ａ</Speaker>
     <Speaker id="2" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E3 82 AC E3 83 A4 E5 A5 B3 EF BC A1">（ＳＥ）ガヤ女Ａ</Speaker>
     <Speaker id="3" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E3 82 AC E3 83 A4 E7 94 B7 EF BC A2">（ＳＥ）ガヤ男Ｂ</Speaker>
@@ -12,15 +12,15 @@
     <Speaker id="8" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E3 82 AC E3 83 A4 E7 94 B7 EF BC A3">（ＳＥ）ガヤ男Ｃ</Speaker>
     <Speaker id="9" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E3 82 AC E3 83 A4 E7 94 B7 EF BC A4">（ＳＥ）ガヤ男Ｄ</Speaker>
     <Speaker id="10" rawBytes="EF BC 88 EF BC B3 EF BC A5 EF BC 89 E6 90 BA E5 B8 AF E4 BC 9A E8 A9 B1 E3 81 AE E7 94 B7 EF BC A1">（ＳＥ）携帯会話の男Ａ</Speaker>
-    <Speaker id="11" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74">Female Student</Speaker>
-    <Speaker id="12" rawBytes="54 72 61 69 6E 20 43 6F 6E 64 75 63 74 6F 72">Train Conductor</Speaker>
-    <Speaker id="13" rawBytes="54 72 61 69 6E 20 41 6E 6E 6F 75 6E 63 65 6D 65 6E 74">Train Announcement</Speaker>
+    <Speaker id="11" rawBytes="46 65 6D 61 6C 65 20 53 74 75 64 65 6E 74">Учениця</Speaker>
+    <Speaker id="12" rawBytes="54 72 61 69 6E 20 43 6F 6E 64 75 63 74 6F 72">Провідник поїзда</Speaker>
+    <Speaker id="13" rawBytes="54 72 61 69 6E 20 41 6E 6E 6F 75 6E 63 65 6D 65 6E 74">Оголошення про поїзди</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Time never waits.[n]It delivers all equally to the same end.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}You, who wish to safeguard the future, however limited it may be...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}You will be given one year;[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}go forth without falter,[n]with your heart as your guide...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Час ніколи не чекає.[n]Він нас усіх однаково приводить до одного кінця.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ви, хто прагне захистити майбутнє, яким би обмеженим воно не було...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Вам дається один рік;[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}йдіть уперед без вагань[n]із серцем як вашим провідником...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}ほら、こーいうフツーの醤油が[n]うまいのが名店なのよ。[cr][n]{f 1 1}]]></Page>
@@ -56,45 +56,45 @@
     <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}あー暇暇。すぐ行くわー。[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_012_0_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}*gasp* *gasp*[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}(вдих) (вдих)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_012_3_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Just put it... to my head...[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Просто прикласти... до голови...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_012_5_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}And then pull the trigger...[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}А потім натиснути на курок...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_012_7_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Come on...[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Ну ж бо...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_013_0_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}*sigh*[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}(зітхання)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_013_5_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}*sigh*[n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}(зітхання)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_013_7_0" type="Message">
     <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_014_0_0" type="Message">
-    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Ugh, there's no way! I can't![n]{f 1 1}]]></Page>
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}Не виходить! Я не можу![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_015_0_0" type="Message">
-    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}Your attention please. Today's[n]train schedule will be modified...[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}Прошу уваги. Сьогодні у розклад руху поїздів[n]будуть зміни...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_015_5_0" type="Message">
-    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}...due to a rail switching malfunction.[n]We apologize for any inconvenience.[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}...через несправність рейкового перемикача.[n]Просимо вибачення за тимчасові незручності.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_015_7_0" type="Message">
-    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}The next stop is Iwatodai.[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}Наступна зупинка — Іватодай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_016_0_0" type="Message">
-    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Iwatodai, Iwatodai.[n]{f 1 1}]]></Page>
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Іватодай, Іватодай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_016_5_0" type="Message">
-    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}This is the final train bound[n]for Tatsumi Port Island.[n]{f 1 1}]]></Page>
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Це останній поїзд, що прямує[n]до острова Тацумі Порт-Айленд.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_016_7_0" type="Message">
-    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Please board before the[n]scheduled departure time.[n]{f 1 1}]]></Page>
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, займіть місця до[n]запланованого часу відправлення.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

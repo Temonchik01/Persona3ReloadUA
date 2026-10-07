@@ -1,327 +1,327 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldInitScript_299_all.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Init\F299\BMD_FldInitScript_299_all.uasset" dialogs="462">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="1" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 56 6F 69 63 65">Mysterious Voice</Speaker>
-    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
-    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
-    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="5" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
-    <Speaker id="6" rawBytes="41 69 67 69 73">Aigis</Speaker>
-    <Speaker id="7" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
-    <Speaker id="8" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
-    <Speaker id="9" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 56 6F 69 63 65">Загадковий голос</Speaker>
+    <Speaker id="2" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
+    <Speaker id="5" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="6" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="7" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="8" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
+    <Speaker id="9" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_TUTORIAL_START" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10115 0 0}Right, let's begin.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10116 0 0}Defeat all the Shadows on that floor.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10115 0 0}Гаразд, почнемо.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10116 0 0}Убийте всіх Тіней на цьому поверсі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_MITSURU_NOISE" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Communication is breaking up...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зв'язок переривається...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_NOISE_MES" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_MITSURU_OVER" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Communication has been lost...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зв'язок втрачено...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_MITSURU_CALL_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10118 0 0}Are— ...all ri—[cr][n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10119 0 0}...too far— ...can't provi— ...backup—[cr][n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10121 0 0}I'm sor— ...Akihiko— ...the others—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10118 0 0}Чи— ...всі в поря—[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10119 0 0}...задалеко— ...не може надати— ...підтрим—[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 10121 0 0}Вибач— ...Акіхіко— ...та інші—[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_MITSURU_CALL_02" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}未使用[cr][n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_MITSURU_CALL_04" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}What's— ...current loca— ...Reply immed—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Яка ваша— ...поточна позиц— ...Негайно надай—[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_UNKNOWN_02" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Who's there...?[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Where am I? Why am I here?[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Please, answer me...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Хто там?..[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Де я? Чому я тут?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Будь ласка, відзивіться...[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="8" name="MSG_MITSURU_TYPE1_BURST" type="Message" />
-  <Dialog id="9" name="MSG_MITSURU_TYPE2_BURST" type="Message" />
-  <Dialog id="10" name="MSG_MITSURU_TYPE3_BURST" type="Message" />
-  <Dialog id="11" name="MSG_MITSURU_TYPE4_BURST" type="Message" />
-  <Dialog id="12" name="MSG_MITSURU_TYPE5_BURST" type="Message" />
-  <Dialog id="13" name="MSG_MITSURU_TYPE8_BURST" type="Message" />
-  <Dialog id="14" name="MSG_FUKA_TYPE1_BURST" type="Message" />
-  <Dialog id="15" name="MSG_FUKA_TYPE2_BURST" type="Message" />
-  <Dialog id="16" name="MSG_FUKA_TYPE3_BURST" type="Message" />
-  <Dialog id="17" name="MSG_FUKA_TYPE4_BURST" type="Message" />
-  <Dialog id="18" name="MSG_FUKA_TYPE5_BURST" type="Message" />
-  <Dialog id="19" name="MSG_FUKA_TYPE8_BURST" type="Message" />
-  <Dialog id="20" name="MND_TYPE6_BURST" type="Message" />
-  <Dialog id="21" name="MND_TYPE7_BURST" type="Message" />
-  <Dialog id="22" name="MND_HELP_011F" type="Message" />
+  <Dialog id="8" name="MSG_MITSURU_TYPE1_BURST" type="Message"/>
+  <Dialog id="9" name="MSG_MITSURU_TYPE2_BURST" type="Message"/>
+  <Dialog id="10" name="MSG_MITSURU_TYPE3_BURST" type="Message"/>
+  <Dialog id="11" name="MSG_MITSURU_TYPE4_BURST" type="Message"/>
+  <Dialog id="12" name="MSG_MITSURU_TYPE5_BURST" type="Message"/>
+  <Dialog id="13" name="MSG_MITSURU_TYPE8_BURST" type="Message"/>
+  <Dialog id="14" name="MSG_FUKA_TYPE1_BURST" type="Message"/>
+  <Dialog id="15" name="MSG_FUKA_TYPE2_BURST" type="Message"/>
+  <Dialog id="16" name="MSG_FUKA_TYPE3_BURST" type="Message"/>
+  <Dialog id="17" name="MSG_FUKA_TYPE4_BURST" type="Message"/>
+  <Dialog id="18" name="MSG_FUKA_TYPE5_BURST" type="Message"/>
+  <Dialog id="19" name="MSG_FUKA_TYPE8_BURST" type="Message"/>
+  <Dialog id="20" name="MND_TYPE6_BURST" type="Message"/>
+  <Dialog id="21" name="MND_TYPE7_BURST" type="Message"/>
+  <Dialog id="22" name="MND_HELP_011F" type="Message"/>
   <Dialog id="23" name="MSG_MITSURU_002F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4008 0 0}Each floor's dimensions may vary, but don't feel compelled to explore every inch of each new layout.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Rushing directly for the stairs is a completely viable strategy. I leave that choice to your discretion.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4008 0 0}Розміри кожного поверху можуть відрізнятися, але не варто відчувати себе зобов'язаним вивчати кожен сантиметр нової структури.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Поспішати прямо до сходів - цілком дієва стратегія. Я залишаю цей вибір на твій розсуд.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_MITSURU_003F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4063 0 0}You're likely to find a plethora of these strange mineral deposits scattered throughout Tartarus.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Supposedly, these formations are the crystallized remains of Shadows.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There's sure to be useful materials inside them. When you find one, try cracking it open.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4063 0 0}Ти, швидше за все, знайдеш безліч цих дивних скупчень мінералів, розкиданих по всьому Тартару.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Імовірно, ці утворення є кристалізованими рештками Тіней.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Усередині них обов'язково знайдуться корисні матеріали. Коли знайдеш такий, спробуй розбити його.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_MITSURU_004F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4073 0 0}I keep a running record on hand of each area you explore.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}After you've established a route, navigating you through it again should be no issue.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}However, due to Tartarus's changing nature, these records become useless the next time you visit.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4073 0 0}Я веду поточний облік кожної області, яку ти досліджуєш.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Після того, як ви проклали маршрут, повторна навігація по ньому не повинна бути проблемою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Однак через мінливу природу Тартару ці записи стають марними при наступному відвідуванні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_MITSURU_005F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}Judging by the frequency of the signal, this is undoubtedly a stronger foe.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}It would be a wise decision to regroup before approaching...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}Судячи з частоти сигналу, тут, безсумнівно, знаходиться сильний ворог.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Було б мудрим рішенням перегрупуватися перед наступом...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_MITSURU_006F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4138 0 0}It would seem your enemies grow stronger with every floor.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Despite the imminent danger, it stands to reason we've gained valuable experience. Let's continue on.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4138 0 0}Здавалося б, вороги стають сильнішими з кожним поверхом.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Незважаючи на неминучу небезпеку, ми отримали цінний досвід. Продовжуємо далі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_MITSURU_007F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to manage your energy and resources. Don't overexert yourself—sometimes retreating is the smartest option.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Подбай про те, щоб розумно керувати своєю витривалістью та ресурсами. Не перенапружуйся - іноді відступ є найкращим варіантом.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_MITSURU_008F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4077 0 0}How are you feeling? You're not likely to make much meaningful progress when you're worn down.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Be sure to recover if your health is low. It isn't prudent to risk your wellbeing unnecessarily.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4077 0 0}Як ви себе почуваєте? Ви навряд чи досягнете значного прогресу, коли виснажені.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Обов'язково лікуйтеся, якщо ваше здоров'я на межі. Не варто без потреби ризикувати своїм здоров'ям.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_MITSURU_009F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_MITSURU_010F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4071 0 0}There's trouble waiting for us one floor up. It's like the Shadow we faced on the fifth floor...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4071 0 0}Поверхом вище на нас чекають неприємності. Це як Тінь, з якою ми зіткнулися на п'ятому поверсі...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_MITSURU_011F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}I've observed that every few floors, you'll encounter a powerful foe blocking your way.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}These "Gatekeepers," as we'll call them, aren't going to simply let you pass—you'll need to be prepared for a real fight.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Ensure you are ready before engaging a Gatekeeper, and make use of teleporters if needed.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}Я помітила, що кожні кілька поверхів ви зустрічаєте потужного ворога, який перекриває вам шлях.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Ці «Вартові», як ми їх назвемо, не дадуть вам просто так пройти - вам потрібно бути готовим до справжнього бою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Переконайтеся, що ви всі готові, перш ніж атакувати Вартового, і скористайтеся телепортами, якщо це необхідно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_MITSURU_012F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4068 0 0}Is that...?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There's a rare Shadow up ahead. Perhaps you can ambush it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4068 0 0}Невже це?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Попереду рідкісна Тінь. Можливо, вам вдасться влаштувати засідку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MSG_MITSURU_013F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4078 0 0}I'm detecting a stronger foe on an upcoming floor. Another Gatekeeper...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}It'd be wise to conserve our strength. Have you made use of the {f 0 1 2}Escape{f 0 1 27} order?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}A strategic retreat can mean the difference between life and death. You can always regroup and try again.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4078 0 0}Я відчуваю сильного ворога на наступному поверсі. Схоже це Вартовий...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Було б розумно поберегти наші сили. Чи ти колись наказував {f 0 1 2}Відступити{f 0 1 27} ?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Стратегічний відступ може бути рішенням між життям і смертю. Ти завжди можеш перегрупуватися і спробувати знову.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MSG_MITSURU_014F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MSG_MITSURU_015F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4103 0 0}We're coming up on a tougher foe. Be aware this will be more of a challenge than your standard Shadow.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}You can always use a teleporter if you need to regroup beforehand.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4103 0 0}Ми наближаємося до сильного ворога. Май на увазі, що це буде складніша битва, ніж зі звичайною Тінню.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Ти завжди можеш скористатися телепортом, якщо тобі потрібно перегрупуватися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MSG_MITSURU_016F_NONE" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MSG_MITSURU_017F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4001 0 0}I see you're making good progress. And you appear to be getting the hang of things in combat.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}On the topic, have you been paying attention to enemy weaknesses?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Exploiting a weakness will make you hit harder and more often. Doing so can turn the tide of a battle.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}The more kinds of attacks you can use, the more chances you'll have to hit a weakness. That's where your ability comes in handy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4001 0 0}Бачу, ви робите успіхи. І, схоже, ти вже освоюєшся в бою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}І ось питання, чи звертав ти увагу на слабкі місця противника?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Використовуючи слабкість ворогів, ти будеш бити сильніше і частіше. Це може переломити хід битви.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Чим більше видів атак ти можеш використовувати, тим більше шансів у тебе буде вдарити по слабкому місцю. Ось тут і знадобляться твої здібності.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="MSG_MITSURU_018F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4094 0 0}Huh, well, well...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}The Shadows on this floor are much weaker than you. This may be a good opportunity to try the "Rush" command.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Rushing can be greatly useful if you're trying to move through a floor without spending much time in battle.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}When you choose "Rush," all party members will default to their basic weapon attacks in rapid succession.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}While this isn't the most tactically involved strategy, it will allow you to move much faster through combat encounters.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4094 0 0}Гмм, ну, ну...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Тіні на цьому поверсі набагато слабші за тебе. Це може бути гарною нагодою спробувати команду «Поспіх».[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Поспіх може бути дуже корисним, якщо ти намагаєшся пересуватися по поверху, не витрачаючи багато часу на бій.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Якщо ти вибереш «Поспіх», всі члени групи за замовчуванням будуть атакувати зі своєї основної зброї у швидкій послідовності.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Хоча це не найбільш тактично складна стратегія, вона дозволить тобі набагато швидше просуватися крізь бойові зіткнення.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_MITSURU_019F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MSG_MITSURU_020F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MSG_MITSURU_021F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}There don't appear to be any enemies on this floor.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}Wait... What's going on? There aren't any enemies on the next floor either.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}...Ah, these seem to be special floors. I'll need you to go up through them for the investigation.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}На цьому поверсі, схоже, немає ворогів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}Зачекай... Що відбувається? На сусідньому поверсі теж немає ворогів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}...Здається, це особливі поверхи. Мені потрібно, щоб ти дослідив їх.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="MSG_MITSURU_022F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_MITSURU_023F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Hmm... There are more Shadows on this floor than normal.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}They're roaming in droves, and they look particularly formidable. Proceed with caution.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Гмм... На цьому поверсі більше Тіней, ніж зазвичай.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Вони бродять натовпами і виглядають особливо грізно. Дій з обережністю.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="MSG_MITSURU_024F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4122 0 0}This is some rugged terrain... Keep your eyes peeled for any blind spots.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4122 0 0}Це пересічена місцевість... Слідкуйте за сліпими зонами.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MSG_MITSURU_025F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="47" name="MSG_MITSURU_026F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4067 0 0}There's a Gatekeeper on a floor not far from here. Have you healed up recently?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4067 0 0}На поверсі неподалік є Вартовий. Ти готовий до сутичкі?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="MSG_MITSURU_027F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="49" name="MSG_MITSURU_028F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}This foe is... unique. I wish there were a way to glean information on them preemptively...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}No matter. Once you're in combat, I can analyze our enemies.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Use this information at your discretion. Plan strategically, and you're sure to come out on top.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4061 0 0}Цей ворог... унікальний. Якби ж то можна було зібрати інформацію про нього заздалегідь...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Неважливо. Коли ти будеш в бою, я зможу проаналізувати наших ворогів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Використовуй цю інформацію на власний розсуд. Плануй стратегічно, і ти обов'язково вийдеш переможцем.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MSG_MITSURU_029F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4073 0 0}Have you had a chance to explore status ailments yet?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}If you run into a powerful enemy, you may be able to weaken them with a status ailment.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}For instance, inflict Distress to diminish their attack, or Confuse them to render them passive.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}You'll want to gauge the situation and pick your tactics accordingly.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4073 0 0}Ти вже мав нагоду дізнатися про статусні недуги?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Якщо ти зіткнешся зі сильним ворогом, ти можеш послабити його за допомогою різноманітних недугів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Наприклад, викличи у них тривогу, щоб зменшити їх шкоду від атак, або заплутай їх, щоб зробити їх слабкими.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Тобі потрібно оцінити ситуацію та обрати тактику відповідно до неї.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MSG_MITSURU_030F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4098 0 0}Hang on. This floor...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}I'm getting an unusual enemy signal. Stay alert.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4098 0 0}Зачекай. Цей поверх...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Я отримую незвичний ворожий сигнал. Будьте напоготові.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MSG_MITSURU_031F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="53" name="MSG_MITSURU_032F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4073 0 0}By the way, have you been taking advantage of your physical skills?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Physical skills have a chance to knock enemies down regardless of their weaknesses.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Akihiko and Iori specialize in that regard, if I recall.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Give it a try in the next battle.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4073 0 0}До речі, чи використовував ти свої фізичні вміння?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Фізичні вміння мають шанс збити ворогів з ніг незалежно від їхніх слабкостей.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Акіхіко та Іорі спеціалізуються на цьому, якщо я не помиляюся.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Випробуй це у наступній битві.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="54" name="MSG_MITSURU_033F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="55" name="MSG_MITSURU_034F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4106 0 0}There don't seem to be any enemies on this floor.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}That should spell some reprieve for us, but it could very well be the calm before a storm.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Fortunately, there's a two-way teleporter nearby, so I'd say a quick regroup may be warranted.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4106 0 0}Здається, на цьому поверсі немає ворогів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Це повинно дати нам певний перепочинок, але цілком можливо, що це затишшя перед бурею.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}На щастя, поблизу є телепорт, тож я б сказала, що швидке перегрупування може бути виправданим.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="MSG_MITSURU_035F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4098 0 0}What? There's no teleporter!?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}We'll just have to barrel through for now. Better be prepared for the worst.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4098 0 0}Що? Тут немає телепорту?![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Поки що нам доведеться пробиватися крізь них. Краще бути готовим до найгіршого.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MSG_MITSURU_036F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4099 0 0}These battles are just going to keep coming... Hang in there![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 4 25 5}...![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}I'm picking up on another {f 0 1 2}border floor{f 0 1 27}. It's {f 0 1 2}seven{f 0 1 27} floors from here.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}I suppose that means this is a border guard, in a manner of speaking. We've got our work cut out for us. I'm counting on you.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}{f 3 1 3 0 -1 4099 0 0}Ці бої продовжуватимуться і надалі... Тримайтесь![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}{f 4 25 5}!..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Я відчуваю ще один {f 0 1 2}прикордонний поверх{f 0 1 27}. Це {f 0 1 2}сім{f 0 1 27} поверхів звідси.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 2 -1 50 0 0}Гадаю, це означає, що це, так би мовити, прикордонник. У нас багато роботи. Я розраховую на вас.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="MSG_MITSURU_037F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4071 0 0}There's a faint enemy presence on a floor much higher up from where we are...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4071 0 0}Слабка присутність ворога на поверсі набагато вище від нас...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="59" name="MSG_MITSURU_038F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MSG_MITSURU_039F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="MSG_MITSURU_040F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}So this is floor forty. The number probably doesn't mean much...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}But this is a veritable accomplishment. Keep up the good work.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4060 0 0}Отже, це сороковий поверх. Це число, мабуть, нічого не означає...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Але це справжнє досягнення. Продовжуйте в тому ж дусі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="62" name="MSG_MITSURU_041F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="63" name="MSG_MITSURU_042F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4077 0 0}If an enemy isn't letting up, consider using skills to buff your allies or enervate enemies.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}By raising your defense and lowering an enemy's attack, you may be able to weather the storm.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}It's an effective strategy in battles that might get more involved than expected. Think tactically to fight efficiently.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4077 0 0}Якщо ворог не відступає, скористайся уміннями, щоб підсилити союзників або розлютити ворогів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Підвищивши свій захист і знизивши атаку ворога, ти зможеш пережити шторм.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Це ефективна стратегія в боях, які можуть бути більш затяжними, ніж очікувалося. Мисліть тактично, щоб боротися ефективно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="64" name="MSG_MITSURU_043F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take care to watch your stamina. Knowing when to retreat is as much a life-saving skill as any battle tactic.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Слідкуй за своєю витривалістю. Знати, коли відступити - це така ж життєво важлива навичка, як і будь-яка тактика ведення бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="65" name="MSG_MITSURU_IMPOSSIBLE" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}What? No, it can't be...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 4 -1 50 0 0}Що? Ні, не може бути!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="66" name="MSG_FUKA_002F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}Floors sizes may vary as you explore, but there's no need to check every nook and cranny.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}You can just make a beeline for the stairs if that works best for you. The decision's up to you, Leader.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}Розміри поверхів можуть змінюватися під час дослідження, але немає необхідності перевіряти кожен куточок і щілину.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ти можеш просто попрямувати до сходів, якщо тобі так зручніше. Рішення за тобою, Лідере.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="67" name="MSG_FUKA_003F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5074 0 0}I'm sure you've noticed these crystal-like things growing all over this floor.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Supposedly, those are Shadow remains. You'll want to break any you come across.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There might be some useful items inside.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5074 0 0}Я впевнена, що ти помітив ці кристалоподібні речі, що ростуть по всьому поверху.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Імовірно, це рештки Тіней. Ти захочеш розбити будь-яку, на яку натрапиш.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Усередині може бути щось корисне.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="68" name="MSG_FUKA_004F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}I keep a log of all the places you've explored.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}After you've established a route, navigating you through it again shouldn't be a problem.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}But only until you leave for the night, since Tartarus changes every day.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Я веду журнал усіх місць, де ти побував.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Після того, як ти проклав маршрут, повторна навігація по ньому не повинна бути проблемою.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Але тільки до тих пір, поки ти не відправишся назад, оскільки Тартар змінюється кожен день.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="69" name="MSG_FUKA_005F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}This signal is strong. We've got a tough fight ahead.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}I think it'd be a good idea for us to regroup...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Цей сигнал сильний. Попереду нас чекає важка битва.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Думаю, нам варто перегрупуватися...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="70" name="MSG_FUKA_006F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health and stamina are low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="71" name="MSG_FUKA_007F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="72" name="MSG_FUKA_008F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5011 0 0}We're making some good progress, but how are you feeling?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please don't forget to heal as you need it.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5011 0 0}Ми робимо певні успіхи, але як ти себе почуваєш?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, не забувай лікуватись, коли тобі це потрібно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="73" name="MSG_FUKA_009F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="74" name="MSG_FUKA_010F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}There's a powerful enemy on the next floor. It's the same type of Shadow as the one we faced on the fifth floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}На наступному поверсі сильний ворог. Це та сама Тінь, з якою ми зіткнулися на п'ятому поверсі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="75" name="MSG_FUKA_011F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}There seems to be an extra powerful Shadow every few floors.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}It's like these Gatekeepers are put here to test us...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please, if you need to take some time to regroup, use a teleporter to fall back.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Здається, що кожні кілька поверхів з'являється надпотужна тінь.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Схоже, що ці Вартові тут, щоб випробовувати нас...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, якщо тобі потрібен час, щоб перегрупуватися, скористайся телепортом, щоб повернутися назад.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="76" name="MSG_FUKA_012F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5073 0 0}Huh? This Shadow's giving off an unusual signal...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's on this floor. Though I don't get the impression it's particularly strong...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5073 0 0}Га? Ця Тінь подає незвичайний сигнал...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Це на цьому поверсі. Хоча у мене не склалося враження, що він особливо сильний...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="77" name="MSG_FUKA_013F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}I'm detecting a stronger foe on a floor not too far off. It must be another Gatekeeper...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It'd be best if you went into that fight refreshed. Have you made use of the {f 0 1 2}Escape{f 0 1 27} order?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There's no shame in retreating. Keep that option in mind going forward.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Я відчуваю сильнішого ворога на поверсі. Це, мабуть, ще один Вартовий...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Буде краще, якщо ти підеш на бій свіжим. Ти скористався наказом {f 0 1 2}Відступити{f 0 1 27}?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Відступати не соромно. Не забувай про цю можливість у майбутньому.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="78" name="MSG_FUKA_014F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="79" name="MSG_FUKA_015F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}We're getting close to the Gatekeeper. Stay sharp.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Hopefully there's a teleporter nearby so that we can recoup.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}Ми наближаємося до Вартового. Будьте напоготові.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Сподіваюся, поблизу є телепорт, щоб ти міг повернутися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="80" name="MSG_FUKA_016F_NONE" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="81" name="MSG_FUKA_017F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}It's risky to try and progress while your health is low. Please be sure to heal frequently, all right?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Ризиковано намагатися досягти прогресу, поки твоє здоров'я на низькому рівні. Будь ласка, не забувай відновлювати здоров'я?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="82" name="MSG_FUKA_018F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5066 0 0}There don't seem to be too many powerful Shadows on this floor.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}The "Rush" command is most effective when you're up against weaker enemies.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}When you order a Rush, the party will default to their basic weapon attacks.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}You won't have the opportunity to make tactical decisions during a Rush, but it will end combat quickly.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5066 0 0}Здається, на цьому поверсі не надто багато потужних Тіней.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Команда «Поспіх» найефективніша, коли ти маєш справу зі слабшими супротивниками.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Коли ти наказуєш Поспіх, група за замовчуванням буде атакувати своєю основною зброєю.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}У тебе не буде можливості приймати тактичні рішення під час Поспіху, але він швидко закінчить бій.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="83" name="MSG_FUKA_019F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="84" name="MSG_FUKA_020F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="85" name="MSG_FUKA_021F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}I'm not detecting any enemies on this floor.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Huh? There aren't any on the next floor either... What's going on?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Maybe it's a special floor. Well, I don't sense any danger, so let's keep going.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Я не відчуваю ворогів на цьому поверсі.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Що? На наступному поверсі теж нікого немає... Що відбувається?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Може це якийсь особливий поверх. Ну, я не відчуваю ніякої небезпеки, тому йдемо далі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="86" name="MSG_FUKA_022F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="87" name="MSG_FUKA_023F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="88" name="MSG_FUKA_024F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}There are so many twists and turns here. Be careful not to get ambushed by any Shadows.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="89" name="MSG_FUKA_025F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="90" name="MSG_FUKA_026F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}There's a Gatekeeper on the next floor. Please be careful![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="91" name="MSG_FUKA_027F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="92" name="MSG_FUKA_028F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5004 0 0}If you're having trouble against the enemies on one floor, try challenging some Shadows on a lower floor first.[n]{f 1 1}]]></Page>
@@ -337,7 +337,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}An enemy on this floor is giving off an abnormal signal. Stay alert.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="95" name="MSG_FUKA_031F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="96" name="MSG_FUKA_032F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5074 0 0}By the way, have you been making use of your physical skills?[n]{f 1 1}]]></Page>
@@ -345,7 +345,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}If you're ever unsure about an enemy's weak spot, a basic attack might just do the trick.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="97" name="MSG_FUKA_033F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="98" name="MSG_FUKA_034F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}I don't detect any enemy presences on this floor.[n]{f 1 1}]]></Page>
@@ -365,17 +365,17 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5092 0 0}I'm sensing another strong presence. It's still a ways away...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="102" name="MSG_FUKA_038F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="103" name="MSG_FUKA_039F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="104" name="MSG_FUKA_040F_NONE" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}This is the 40th floor. It might be a milestone, but it's hard to tell with Tartarus...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I wonder how tall this tower really is...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="105" name="MSG_FUKA_041F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="106" name="MSG_FUKA_042F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5004 0 0}When enemies have you in a tight spot, you can always use support skills.[n]{f 1 1}]]></Page>
@@ -384,16 +384,16 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}They're also helpful in battles that look like they might drag on, so don't hesitate to use them when needed.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="107" name="MSG_FUKA_043F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="108" name="MSG_FUKA_044F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5042 0 0}I remember how helpless I felt being here alone.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5042 0 0}Я пам'ятаю, якою безпорадною я почувалася тут сама.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="109" name="MSG_FUKA_045F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="110" name="MSG_FUKA_046F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="111" name="MSG_FUKA_047F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}You'll be going up against another Gatekeeper. It won't be an easy fight.[n]{f 1 1}]]></Page>
@@ -403,10 +403,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Well, this is it. Stay safe, and good luck, team. I'm here if you need me![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="112" name="MSG_FUKA_048F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5098 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5098 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="113" name="MSG_FUKA_049F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="114" name="MSG_FUKA_050F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5067 0 0}This brings us to the 50th floor, but we've still a long ways to go...[n]{f 1 1}]]></Page>
@@ -419,7 +419,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I really recommend testing combinations of status ailments and physical skills.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="116" name="MSG_FUKA_052F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="117" name="MSG_FUKA_053F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}There's a strong enemy on the next floor! Be careful.[n]{f 1 1}]]></Page>
@@ -429,20 +429,20 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If you're low on stamina, do consider coming back.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="119" name="MSG_FUKA_055F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="120" name="MSG_FUKA_056F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="121" name="MSG_FUKA_057F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5091 0 0}Huh!? I'm sensing high-level threats all over this floor...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}This entire area is crawling with strong enemies![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="122" name="MSG_FUKA_058F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="123" name="MSG_FUKA_059F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="124" name="MSG_FUKA_060F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5128 0 0}This fight's going to be a tough one... We can't get careless![n]{f 1 1}]]></Page>
@@ -452,16 +452,16 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's still pretty far off... Let's focus on the path ahead of us, first.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="125" name="MSG_FUKA_061F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="126" name="MSG_FUKA_062F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5110 0 0}My goodness... This floor is huge, isn't it? I imagine mapping it out in its entirety would be a lot of work...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="127" name="MSG_FUKA_063F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5091 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5091 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="128" name="MSG_FUKA_064F_NONE" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="129" name="MSG_FUKA_065F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}I think it's incredible how you're able to juggle so many different Personas.[n]{f 1 1}]]></Page>
@@ -469,20 +469,20 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Oh, sorry! I was thinking out loud.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="130" name="MSG_FUKA_066F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="131" name="MSG_FUKA_067F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="132" name="MSG_FUKA_068F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}Oh! The {f 0 1 2}floor after this one{f 0 1 27} is a {f 0 1 2}border floor{f 0 1 27}![n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}It seems like the coast is clear for now, so you'll get a bit of a break.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="133" name="MSG_FUKA_069F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="134" name="MSG_FUKA_070F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="135" name="MSG_FUKA_071F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Is this... some kind of machine? I wonder what it's powered by...[n]{f 1 1}]]></Page>
@@ -491,16 +491,16 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5122 0 0}What is this place? It feels... different here.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="137" name="MSG_FUKA_073F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="138" name="MSG_FUKA_074F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5079 0 0}There's a strong enemy coming up on a nearby floor! Let's be sure to pace ourselves.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="139" name="MSG_FUKA_075F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="140" name="MSG_FUKA_076F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="141" name="MSG_FUKA_077F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}No matter how strong the enemy, there's almost always some way to gain the upper hand.[n]{f 1 1}]]></Page>
@@ -508,14 +508,14 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}With that in mind, make sure you're rested and prepared before battle. Can't have you keeling over after the first blow.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="142" name="MSG_FUKA_078F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="143" name="MSG_FUKA_079F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Huh? What is this?[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's different from any response I've gotten until now. It's... shrouded.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="144" name="MSG_FUKA_080F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="145" name="MSG_FUKA_081F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}There's a Gatekeeper on the next floor. What kind of Shadow could it be this time...?[n]{f 1 1}]]></Page>
@@ -527,23 +527,23 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That's coming up much sooner than it seems. Let's keep at it.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="147" name="MSG_FUKA_083F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="148" name="MSG_FUKA_084F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}Do you ever wonder—I mean, given how heavy this place must be—whether or not it'll topple over...?[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Then again, it does seem different from your typical building. Probably no use worrying... Hopefully...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="149" name="MSG_FUKA_085F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="150" name="MSG_FUKA_086F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="151" name="MSG_FUKA_087F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="152" name="MSG_FUKA_088F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="153" name="MSG_FUKA_089F_NONE" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5113 0 0}There aren't any enemies here. That's a relief...[n]{f 1 1}]]></Page>
@@ -558,26 +558,26 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}The {f 0 1 2}next floor{f 0 1 27} is a {f 0 1 2}border floor{f 0 1 27}. We need to get through this, no matter what![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="156" name="MSG_FUKA_092F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="157" name="MSG_FUKA_093F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}Yikes... There isn't much cover in this area, so we'll be spotted more easily.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="158" name="MSG_FUKA_094F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="159" name="MSG_FUKA_095F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}There are enemies on this floor as well. But...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}They're acting strange. Almost fidgety, restless...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="160" name="MSG_FUKA_096F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="161" name="MSG_FUKA_097F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="162" name="MSG_FUKA_098F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="163" name="MSG_FUKA_099F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}Against tougher enemies like these, Theurgy will go a long way.[n]{f 1 1}]]></Page>
@@ -588,14 +588,14 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That's a mind-boggling number, but the end's not even in sight... Well, there's no hurry, so let's keep a steady pace.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="165" name="MSG_FUKA_101F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="166" name="MSG_FUKA_102F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5098 0 0}This again?[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}The enemies are acting strangely. Please be careful.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="167" name="MSG_FUKA_103F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="168" name="MSG_FUKA_104F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}You've probably noticed the mineral chunks lying around...[n]{f 1 1}]]></Page>
@@ -611,7 +611,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}It's still a short ways off, but I'm detecting a strong enemy coming up![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="171" name="MSG_FUKA_107F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="172" name="MSG_FUKA_108F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}I'm getting a slightly different reading from the Shadows on this floor.[n]{f 1 1}]]></Page>
@@ -620,10 +620,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5074 0 0}It's hard to visualize a building with over a hundred floors, isn't it?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="174" name="MSG_FUKA_110F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="175" name="MSG_FUKA_111F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="176" name="MSG_FUKA_112F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5103 0 0}There are still strong foes ahead, so please prepare as much as possible if you want to keep going.[n]{f 1 1}]]></Page>
@@ -632,17 +632,17 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We'll be there shortly if we can win this fight. Ready to do this?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="177" name="MSG_FUKA_113F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="178" name="MSG_FUKA_114F_NONE" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="179" name="MSG_FUKA_115F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5094 0 0}I can't imagine anyone believing us about the Dark Hour or Tartarus...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I mean, I've seen them in person and I can still hardly believe everything that's happened.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="180" name="MSG_FUKA_116F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="181" name="MSG_FUKA_117F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}There aren't any Shadows here, but I'm picking up the signal of a certain kind of door.[n]{f 1 1}]]></Page>
@@ -650,7 +650,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There won't be any enemies here, so you can check out the area without stressing over it.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="182" name="MSG_FUKA_118F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="183" name="MSG_FUKA_119F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}How are you feeling? Please don't push yourself too hard.[n]{f 1 1}]]></Page>
@@ -664,10 +664,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}The entire floor's pitch black. Use your map and tread carefully![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="186" name="MSG_FUKA_122F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="187" name="MSG_FUKA_123F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="188" name="MSG_FUKA_124F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}There's a teleporter. A breather might be a good idea...[n]{f 1 1}]]></Page>
@@ -686,28 +686,28 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5110 0 0}Phew... Consecutive battles really test your endurance, but it's such a relief when it's all over.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="192" name="MSG_FUKA_128F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="193" name="MSG_FUKA_129F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="194" name="MSG_FUKA_130F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}I'm sensing another strong presence. It's still a ways off, though.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="195" name="MSG_FUKA_131F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="196" name="MSG_FUKA_132F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Are you sure you're not too tired? Please come back if you have any concerns about your condition.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="197" name="MSG_FUKA_133F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="198" name="MSG_FUKA_134F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="199" name="MSG_FUKA_135F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="200" name="MSG_FUKA_136F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5030 0 0}There's a strong enemy on this floor. Are you prepared?[n]{f 1 1}]]></Page>
@@ -715,19 +715,19 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We're reaching the final stretch! Hang in there![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="201" name="MSG_FUKA_137F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="202" name="MSG_FUKA_138F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}There's another strong enemy up ahead. Don't let up![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="203" name="MSG_FUKA_139F_NONE" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="204" name="MSG_FUKA_140F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="205" name="MSG_FUKA_141F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="206" name="MSG_FUKA_142F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}While everyone has different conditions for activating Theurgy...[n]{f 1 1}]]></Page>
@@ -737,90 +737,90 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5067 0 0}Oh! The {f 0 1 2}next floor{f 0 1 27} is a {f 0 1 2}border floor{f 0 1 27}. Just a little more of a push and we're on to the next area.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="208" name="MSG_FUKA_144F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="209" name="MSG_FUKA_145F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Floor 145... with the end of the labyrinth nowhere in sight.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There's a strong presence, but it's still a ways ahead of us. Let's take our time getting there.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="210" name="MSG_FUKA_146F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="211" name="MSG_FUKA_147F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="212" name="MSG_FUKA_148F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}It's a little suffocating when the scenery never changes, isn't it?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="213" name="MSG_FUKA_149F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="214" name="MSG_FUKA_150F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="215" name="MSG_FUKA_151F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}Watch out for coordinated attacks when facing multiple enemies at once.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It may be safest to concentrate on taking one down at a time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="216" name="MSG_FUKA_152F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="217" name="MSG_FUKA_153F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="218" name="MSG_FUKA_154F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="219" name="MSG_FUKA_155F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}It's a long road to travel... If nothing else, please don't force yourself.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We even have a teleporter at our disposal, so let's play it safe.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="220" name="MSG_FUKA_156F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="221" name="MSG_FUKA_157F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="222" name="MSG_FUKA_158F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5077 0 0}We're currently on the 158th floor, but there's a strong presence on a floor not too high above us...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There doesn't seem to be a set pattern for where the Gatekeepers are. Let's just focus on one at a time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="223" name="MSG_FUKA_159F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="224" name="MSG_FUKA_160F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="225" name="MSG_FUKA_161F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}It's important to know your enemies' weaknesses, but pay attention to the other relevant intel as well.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Knowledge of an enemy's tactics can help you predict their next move.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That means less damage taken and more opportunities to—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That means less damage taken and more opportunities to—[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Oh, what's that...?[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 0 1 2}Eleven{f 0 1 27} floors away, I'm sensing another {f 0 1 2}border floor{f 0 1 27}.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's still a ways off. It might be best for you to return.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="226" name="MSG_FUKA_162F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="227" name="MSG_FUKA_163F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}There's another strong presence guarding the way to the {f 0 1 2}border floor{f 0 1 27}.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's still a ways away, but we'll want to be ready regardless.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="228" name="MSG_FUKA_164F_NONE" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="229" name="MSG_FUKA_165F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="230" name="MSG_FUKA_166F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}The roaming Shadows seem to spawn without limit...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}I hope we're able to cut them off at the source...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="231" name="MSG_FUKA_167F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="232" name="MSG_FUKA_168F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="233" name="MSG_FUKA_169F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5113 0 0}There aren't any enemies on this floor, but there is a teleporter.[n]{f 1 1}]]></Page>
@@ -837,23 +837,23 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}We're in the final stretch of this area! We can overcome this![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="236" name="MSG_FUKA_172F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="237" name="MSG_FUKA_173F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="238" name="MSG_FUKA_174F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5110 0 0}This place hurts your eyes, doesn't it?[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It's awfully distracting, so be on the lookout for ambushes.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="239" name="MSG_FUKA_175F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="240" name="MSG_FUKA_176F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="241" name="MSG_FUKA_177F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="242" name="MSG_FUKA_178F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}There's a strong enemy on the next floor! We'll want to be good and ready.[n]{f 1 1}]]></Page>
@@ -862,7 +862,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5116 0 0}There's a teleporter here, so make sure you use it if you need to.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="244" name="MSG_FUKA_180F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="245" name="MSG_FUKA_181F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5074 0 0}What a colorful wall. I wonder what it's modeled after...[n]{f 1 1}]]></Page>
@@ -871,20 +871,20 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}There's a strong presence not too far ahead! You'll want to keep an eye on your stamina.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="247" name="MSG_FUKA_183F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="248" name="MSG_FUKA_184F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}The further you climb, the more combinations of enemies you'll encounter.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Choosing your squad based on the enemy types is one useful approach you could take.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="249" name="MSG_FUKA_185F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="250" name="MSG_FUKA_186F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="251" name="MSG_FUKA_187F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="252" name="MSG_FUKA_188F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5036 0 0}You can always restock on consumables, so don't hesitate to use them.[n]{f 1 1}]]></Page>
@@ -894,13 +894,13 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}There's a strong enemy waiting a few floors up— Wait, just how many are there...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="254" name="MSG_FUKA_190F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="255" name="MSG_FUKA_191F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="256" name="MSG_FUKA_192F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="257" name="MSG_FUKA_193F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5008 0 0}We're almost at the 200th floor. There's another Gatekeeper first, though...[n]{f 1 1}]]></Page>
@@ -909,39 +909,39 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Just a little further to go. Let's get through here first![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="258" name="MSG_FUKA_194F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="259" name="MSG_FUKA_195F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="260" name="MSG_FUKA_196F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="261" name="MSG_FUKA_197F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}I'm not sensing any enemies... The next floor also seems safe.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}It ought to be a {f 0 1 2}border floor{f 0 1 27}. Let's investigate.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="262" name="MSG_FUKA_198F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="263" name="MSG_FUKA_199F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="264" name="MSG_FUKA_200F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}I've detected a strong enemy a few floors up from here.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="265" name="MSG_FUKA_201F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="266" name="MSG_FUKA_202F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="267" name="MSG_FUKA_203F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5139 0 0}We've beaten so many strong Shadows... How many has it been so far?[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}However many it is, we can't get careless now. Let's stay focused![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="268" name="MSG_FUKA_204F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="269" name="MSG_FUKA_205F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I'm sensing another Gatekeeper! It's still quite a ways off, though...[n]{f 1 1}]]></Page>
@@ -951,37 +951,37 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Do you think the floors will ever end? If only we had a clue...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="271" name="MSG_FUKA_207F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="272" name="MSG_FUKA_208F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="273" name="MSG_FUKA_209F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="274" name="MSG_FUKA_210F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}Even the run-of-the-mill Shadows have gotten too strong to let your guard down around...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="275" name="MSG_FUKA_211F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="276" name="MSG_FUKA_212F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5004 0 0}Please return to the entrance whenever you're tired, okay?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="277" name="MSG_FUKA_213F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="278" name="MSG_FUKA_214F_NONE" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="279" name="MSG_FUKA_215F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}There's a strong enemy a few floors above you... What kind could it be this time?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="280" name="MSG_FUKA_216F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="281" name="MSG_FUKA_217F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="282" name="MSG_FUKA_218F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}We've reached the floor with the strong enemy. Please get ready if you intend to confront it now.[n]{f 1 1}]]></Page>
@@ -989,19 +989,19 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Keep on pushing and we'll be there in no time. You've got this![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="283" name="MSG_FUKA_219F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="284" name="MSG_FUKA_220F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5123 0 0}You've reached the 220th floor. Just how tall is this place?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="285" name="MSG_FUKA_221F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="286" name="MSG_FUKA_222F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="287" name="MSG_FUKA_223F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="288" name="MSG_FUKA_224F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}There's a strong presence on the next floor. We should start preparing now.[n]{f 1 1}]]></Page>
@@ -1012,17 +1012,17 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}This won't be an easy fight! You'll need to be ready![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="290" name="MSG_FUKA_226F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="291" name="MSG_FUKA_227F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="292" name="MSG_FUKA_228F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}It's been a long road... But we've made it so far.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Let's stay calm and keep at it one step at a time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="293" name="MSG_FUKA_229F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="294" name="MSG_FUKA_230F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}The enemies may be no pushovers, but neither are we...[n]{f 1 1}]]></Page>
@@ -1033,45 +1033,45 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}I'm anticipating a tough fight, so we'll want to be ready.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="296" name="MSG_FUKA_232F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="297" name="MSG_FUKA_233F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="298" name="MSG_FUKA_234F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="299" name="MSG_FUKA_235F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="300" name="MSG_FUKA_236F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5089 0 0}These Shadows are strong... And five of them to boot...[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}The order you take them out in is going to be the key to your success in battle. Make sure you're thoroughly prepared for them, too.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="301" name="MSG_FUKA_237F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="302" name="MSG_FUKA_238F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5072 0 0}There's another high-level threat... It's a few floors up.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="303" name="MSG_FUKA_239F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="304" name="MSG_FUKA_240F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="305" name="MSG_FUKA_241F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}This enemy is going to be a real test. You'll need to be at the top of your game.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Don't worry, you can win this together. Full speed ahead![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="306" name="MSG_FUKA_242F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="307" name="MSG_FUKA_243F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="308" name="MSG_FUKA_244F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="309" name="MSG_FUKA_245F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}I don't sense any Shadows. This floor seems safe...[n]{f 1 1}]]></Page>
@@ -1089,16 +1089,16 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Could this be the last one? Let's find out for ourselves![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="312" name="MSG_FUKA_248F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="313" name="MSG_FUKA_249F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="314" name="MSG_FUKA_250F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="315" name="MSG_FUKA_251F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="316" name="MSG_FUKA_252F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}{f 3 1 3 0 -1 5120 0 0}No way... What's that!?[n]{f 1 1}]]></Page>
@@ -1120,10 +1120,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Let's put it all out there! Last big push, everyone![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="320" name="MSG_FUKA_256F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="321" name="MSG_FUKA_257F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="322" name="MSG_FUKA_258F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}We're getting closer to Strega. I'm getting a reading one floor above us.[n]{f 1 1}]]></Page>
@@ -1136,10 +1136,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}I don't know what they have up their sleeve, but for now, our only way is up.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="324" name="MSG_FUKA_260F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="325" name="MSG_FUKA_261F" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please come back to the entrance if your health is low.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, повернись до входу, якщо ти відчуваєш себе погано.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="326" name="MSG_FUKA_262F" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}This signal that likely belongs to the Strega leader is fast approaching...[n]{f 1 1}]]></Page>
@@ -1149,21 +1149,21 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5008 0 0}This floor seems safe. You ought to get the team organized and prepare for the upcoming battle here.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}Once you're ready... we'll have to settle the score.[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="328" name="MSG_FUKA_220F_AB" type="Message" />
-  <Dialog id="329" name="MSG_FUKA_228F_AB" type="Message" />
-  <Dialog id="330" name="MSG_FUKA_236F_AB" type="Message" />
-  <Dialog id="331" name="MSG_FUKA_244F_AB" type="Message" />
-  <Dialog id="332" name="MSG_FUKA_252F_AB" type="Message" />
+  <Dialog id="328" name="MSG_FUKA_220F_AB" type="Message"/>
+  <Dialog id="329" name="MSG_FUKA_228F_AB" type="Message"/>
+  <Dialog id="330" name="MSG_FUKA_236F_AB" type="Message"/>
+  <Dialog id="331" name="MSG_FUKA_244F_AB" type="Message"/>
+  <Dialog id="332" name="MSG_FUKA_252F_AB" type="Message"/>
   <Dialog id="333" name="MSG_GATE_NOT_OPEN_MITU_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20105 0 0}This floor...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There's no mistaking it! Do you recall, {f 4 1}...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}How I once told you Tartarus was separated into multiple areas by borders resembling rifts?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I believe... this is one of those {f 0 1 2}border floors{f 0 1 27}.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I'm not sensing any enemies. Would you mind taking a look around?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20105 0 0}Цей поверх...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Це точно не помилка! Ти пам'ятаєш, {f 4 1}...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Я колись розповідала тобі, що Тартар розділений на кілька областей кордонами, схожими на розломи?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}IЯ вважаю... це один з тих {f 0 1 2}граничні поверхи{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Я не відчуваю ворогів. Не міг би ти озирнутися навколо?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="334" name="MSG_GATE_NOT_OPEN_MITU_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20111 0 0}Another dead end... This is as far as we can go for now.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Nice work—that's another checkpoint under our belt. Come on back whenever you're ready.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20111 0 0}Цей поверх...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}Це точно не помилка! Ти пам'ятаєш, {f 4 1}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="335" name="MSG_GATE_NOT_OPEN_MITU_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}未使用[cr][n]{f 1 1}]]></Page>
@@ -1172,12 +1172,12 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}未使用[cr][n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="337" name="MSG_GATE_NOT_OPEN_FUKA_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 1 20134 0 0}A dead end. Looks like we can't progress any further for now...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 1 20134 0 0}未使用[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}On the other hand, we've made good headway—nicely done.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Come back whenever you're ready. It's your call to make, Leader.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="338" name="MSG_GATE_NOT_OPEN_FUKA_0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}We've made it to the 256th floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}未使用[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}I sense an open area with no walls a few floors up.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That's probably what Ryoji-kun was talking about...[n]{f 1 1}]]></Page>
@@ -1188,10 +1188,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}It's time to put it all on the line... This is the fight to end them![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="339" name="MSG_GATE_OPEN_MITU_00_00" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20105 0 0}This floor...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}There's no mistaking it! Do you recall, {f 4 1}...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}How I once told you Tartarus was separated into multiple areas by borders resembling rifts?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}I believe... this is one of those {f 0 1 2}border floors{f 0 1 27}.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 1 20105 0 0}Цей поверх...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Це точно не помилка! Ти пам'ятаєш, {f 4 1}...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Я колись розповідала тобі, що Тартар розділений на кілька областей кордонами, схожими на розломи?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}IЯ вважаю... це один з тих {f 0 1 2}граничні поверхи{f 0 1 27}.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}Take a look around for me, would you? Fortunately, there aren't any enemies nearby, but still, don't get careless.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="340" name="MSG_GATE_OPEN_MITU_00_01" type="Message">
@@ -1220,7 +1220,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}But you should be able to get past it. Could you check?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="346" name="MSG_GATE_OPEN_FUKA_02_00" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}We've made it to the 256th floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}未使用[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 4 25 6}......[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}I sense an open area with no walls a few floors up.[n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}That's probably what Ryoji-kun was talking about...[n]{f 1 1}]]></Page>
@@ -1271,7 +1271,7 @@
   </Dialog>
   <Dialog id="359" name="MSG_FUKA_HIGH_RARE_02" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Could it be attracted to the loot somehow?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Oh![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}О![n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}The Shadow's on the move now![n]{f 1 1}]]></Page>
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}It's headed your way—brace for combat![n]{f 1 1}]]></Page>
   </Dialog>
@@ -1342,30 +1342,30 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'll track it down myself.]]></Option>
   </Dialog>
   <Dialog id="378" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Got it![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Readyyy... Now![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}We can use my Tartarus Search to make sure we corner it![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="379" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}I'll call out directions for you—follow them to guide the Shadow into a dead end![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="380" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Make a left there! You're so close—hang in there![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="381" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Make a right![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="382" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Left, please![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="383" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}It's a right there! Almost there![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="384" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Okay, go straight from there! We've got him where we want him![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="385" name="MSG_FUKA_HIGH_RARE_SKILL" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}D-Do you have something up your sleeve?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Okay, you're the boss! He's quick though, so be careful![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Understood! In that case...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}We can use my Tartarus Search to make sure we corner it![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="386" name="MSG_FUKA_HIGH_RARE_DEFEA" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Well, that was a lucky find, wasn't it? Now that that's settled, shall we get back to exploring?[n]{f 1 1}]]></Page>
@@ -1455,10 +1455,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}It's a floor we haven't been to yet, though. I hope we can get there soon...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="412" name="MSG_MISSING_NOT_REACHED0" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}There's another human presence, too. It's coming from above us.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}But they're on a floor we haven't reached yet. I hope we can make it there before it's too late...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}I sense someone on a higher floor.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}It's a floor we haven't been to yet, though. I hope we can get there soon...[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="413" name="MND_TUTO_MONAD01" type="Message" />
+  <Dialog id="413" name="MND_TUTO_MONAD01" type="Message"/>
   <Dialog id="414" name="MSG_TUTO_MONAD02" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}It doesn't seem like a Shadow... It's larger and seems almost like a wall...[n]{f 1 1}]]></Page>
   </Dialog>
@@ -1505,11 +1505,11 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5102 0 0}There are so many enemies, I don't think we'll be able to avoid them entirely...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="426" name="SEL_TUTO_JAMMING" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's just press through, then.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}We'll be fine—we have Fuuka.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Тоді давай просто прорвемося.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}З нами все буде гаразд—у нас є Фуука.]]></Option>
   </Dialog>
   <Dialog id="427" name="MSG_TUTO_JAMMING_02_01" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Please wait! It could be dangerous without a plan...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Зачекай, будь ласка! Без плану може бути небезпечно...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="428" name="MSG_TUTO_JAMMING_02_02" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Um, I appreciate your confidence in me, but I mostly just locate enemies...[n]{f 1 1}]]></Page>
@@ -1520,9 +1520,9 @@
   </Dialog>
   <Dialog id="430" name="MSG_TUTO_JAMMING_04" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 0 1 35}Jamming{f 0 1 27} obstructs enemy detection, making it harder for them to find you.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}In other words, enemies shouldn't attack you even if you enter their line of sight.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It won't always work on all enemies, but for these ones here...[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Help me, Lucia...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Іншими словами, вороги не повинні атакувати тебе, навіть якщо ти потрапляєш у їхню зону видимості.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Це не завжди спрацює для всіх ворогів, але для цих...[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Допоможи мені, Люсія!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="431" name="MSG_TUTO_ENEMY_ESCAPE_M0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4103 0 0}Hm? The enemies on this floor seem restless...[n]{f 1 1}]]></Page>
@@ -1612,7 +1612,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Theurgy is very powerful. We'll definitely want to use it as much as we can.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="455" name="PFM_SHIFT_GET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You can now perform Shifts in combat.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тепер ви можете робити Заміну в бою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="456" name="MND_Uranai_Type01_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I had a {f 0 1 2}Rarity Fortune{f 0 1 27} read today...[n]{f 1 1}]]></Page>
@@ -1635,6 +1635,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Apparently, {f 0 1 2}my destiny holds a moment[n]of tranquility{f 0 1 27}. Maybe I'll avoid setbacks...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="461" name="SYS_Tuto_BadStatus01" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Status Ailments{f 0 1 27} has been added to Tutorials.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 2}Стан Недугів{f 0 1 27} було додано до Навчання.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
