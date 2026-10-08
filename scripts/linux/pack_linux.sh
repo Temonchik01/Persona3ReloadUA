@@ -4,7 +4,7 @@ root=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/../.." && pwd)
 if [[ ${1:-} == --help ]]; then
   echo 'Usage: ./scripts/linux/pack_linux.sh [UnrealEssentials-directory]'
   echo 'Environment: RETOC, GAME_PAKS, FONT_PAK, P3R_PACK_MEMORY_MB (default 1536), P3R_PACK_TIMEOUT (default 900 seconds)'
-  echo 'Outputs are created in artifacts/pak-builds. Nothing is installed automatically.'
+  echo 'Outputs: dist/<time>/mod (three files), ZIP and reports. Temporary work: build/pak-builds; cleaned after verification.'
   exit 0
 fi
 if [[ -f "$root/config.local.env" ]]; then source "$root/config.local.env"; fi

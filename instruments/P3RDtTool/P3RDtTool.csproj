@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <AssemblyName>P3RDtTool</AssemblyName>
+    <Version>0.1.0</Version>
+    <Authors>KartinX</Authors>
+    <Description>Experimental Persona 3 Reload cooked DataTable XML exporter/importer.</Description>
+    <RepositoryUrl>https://github.com/KartinX/P3RDtTool</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

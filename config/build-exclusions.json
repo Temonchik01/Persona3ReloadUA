@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "reason": "Temporary: DT text importer does not update serialized property sizes. Preserve source files; exclude these packages in all cultures until the importer is fixed.",
+  "resource_paths": [
+    "Astrea/Field/Data/DataTable/Texts/DT_FldDailyHitName.uasset",
+    "Astrea/Field/Data/DataTable/Texts/DT_FldDungeonHitName.uasset",
+    "Astrea/Field/Data/DataTable/Texts/DT_FldNpcName.uasset",
+    "Astrea/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset",
+    "Astrea/Field/Data/DataTable/Texts/DT_FldShortcutName.uasset",
+    "Astrea/UI/Tables/GenericSelect/ItemSelect/GenSelItemDefineDataAsset.uasset",
+    "Astrea/UI/Tables/UITextDataAsset.uasset",
+    "Xrd777/Field/Data/DataTable/Texts/DT_FldDailyHitName.uasset",
+    "Xrd777/Field/Data/DataTable/Texts/DT_FldDungeonHitName.uasset",
+    "Xrd777/Field/Data/DataTable/Texts/DT_FldNpcName.uasset",
+    "Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset",
+    "Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName.uasset",
+    "Xrd777/Sound/Table/DT_DlcBgm.uasset",
+    "Xrd777/UI/SystemText/DT_SystemTextName.uasset",
+    "Astrea/UI/SystemText/DT_SystemTextName.uasset"
+  ],
+  "diagnostic_note": "Temporarily exclude DT_SystemTextName in Xrd777 and Astrea to test missing saves. Historical pipeline notes flag this resource; cause not yet confirmed in current build."
+}

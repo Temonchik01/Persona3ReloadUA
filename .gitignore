@@ -4,3 +4,14 @@
 __pycache__/
 *.py[cod]
 *.log
+/tools/dt/linux/
+**/obj/
+**/bin/
+core
+core.*
+
+# Local work, generated builds and tool caches
+/build/
+/dist/
+/.cache/
+/workspace/

@@ -12,10 +12,8 @@ files:
   - source: /dt_xml/**/*.xml
     translation: /translations/%two_letters_code%/dt_xml/**/%original_file_name%
     content_segmentation: 0
+    translate_content: 1
+    translate_attributes: 0
     translatable_elements:
-      - /P3RDataTableText
-      - /P3RDataTableText/Text
-      - /P3RDataTableText/Text/Translation
-      - /P3RDataTableFStrings
-      - /P3RDataTableFStrings/String
-      - /P3RDataTableFStrings/String/Translation
+      - "/P3RDataTableText/Text[@role='value' or not(@role)]/Translation"
+      - "/P3RDataTableFStrings/String[@role='value' or not(@role)]/Translation"
