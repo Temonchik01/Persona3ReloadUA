@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<P3RDataTableText source="UITextDataAsset.uasset" textBlockCount="21">
+  <Text index="0" offset="0x2D3" length="16" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:20&gt;">
+    <Source>KEWWORD_SAMPLE1</Source>
+    <Translation>KEWWORD_SAMPLE1</Translation>
+  </Text>
+  <Text index="1" offset="0x300" length="11" role="value" property="Text" a="StructProperty" b="Package" c="UITextDataAsset">
+    <Source>OutputText</Source>
+    <Translation>OutputText</Translation>
+  </Text>
+  <Text index="2" offset="0x328" length="-34" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:72&gt;">
+    <Source>Textに書いた文が出力されます。Textの項目を編集してください</Source>
+    <Translation>Textに書いた文が出力されます。Textの項目を編集してください</Translation>
+  </Text>
+  <Text index="3" offset="0x391" length="8" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="StrProperty">
+    <Source>KW_NEXT</Source>
+    <Translation>KW_NEXT</Translation>
+  </Text>
+  <Text index="4" offset="0x3B6" length="21" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:25&gt;">
+    <Source>Go to the Next Floor</Source>
+    <Translation>Go to the Next Floor</Translation>
+  </Text>
+  <Text index="5" offset="0x3E8" length="-23" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:50&gt;">
+    <Source>階段を発見済みなら有効化1つ上の階に移動する</Source>
+    <Translation>階段を発見済みなら有効化1つ上の階に移動する</Translation>
+  </Text>
+  <Text index="6" offset="0x43B" length="8" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="StrProperty">
+    <Source>KW_EXIT</Source>
+    <Translation>KW_EXIT</Translation>
+  </Text>
+  <Text index="7" offset="0x460" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
+    <Source>Return to Entrance</Source>
+    <Translation>Return to Entrance</Translation>
+  </Text>
+  <Text index="8" offset="0x490" length="-26" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:56&gt;">
+    <Source>帰還装置を発見済みなら有効化エントランスに帰還する</Source>
+    <Translation>帰還装置を発見済みなら有効化エントランスに帰還する</Translation>
+  </Text>
+  <Text index="9" offset="0x4E9" length="15" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:19&gt;">
+    <Source>KW_TRANSPORTER</Source>
+    <Translation>KW_TRANSPORTER</Translation>
+  </Text>
+  <Text index="10" offset="0x515" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
+    <Source>Use the Teleporter</Source>
+    <Translation>Use the Teleporter</Translation>
+  </Text>
+  <Text index="11" offset="0x545" length="-27" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:58&gt;">
+    <Source>転送装置を起動済なら有効化転送装置用のUIを起動する</Source>
+    <Translation>転送装置を起動済なら有効化転送装置用のUIを起動する</Translation>
+  </Text>
+  <Text index="12" offset="0x5A0" length="15" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:19&gt;">
+    <Source>KW_MOVE_MONADO</Source>
+    <Translation>KW_MOVE_MONADO</Translation>
+  </Text>
+  <Text index="13" offset="0x5CC" length="12" role="value" property="Text" a="StructProperty" b="Package" c="UITextTable">
+    <Source>Enter Monad</Source>
+    <Translation>Enter Monad</Translation>
+  </Text>
+  <Text index="14" offset="0x5F5" length="-37" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:78&gt;">
+    <Source>月末ゲートフロア手前にあるモナドの扉開放済みで有効化モナドの中に移動する</Source>
+    <Translation>月末ゲートフロア手前にあるモナドの扉開放済みで有効化モナドの中に移動する</Translation>
+  </Text>
+  <Text index="15" offset="0x664" length="23" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:27&gt;">
+    <Source>KW_SHORTCUT_DAILY_WARD</Source>
+    <Translation>KW_SHORTCUT_DAILY_WARD</Translation>
+  </Text>
+  <Text index="16" offset="0x698" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
+    <Source>Where should I go?</Source>
+    <Translation>Where should I go?</Translation>
+  </Text>
+  <Text index="17" offset="0x6C8" length="-26" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:56&gt;">
+    <Source>ショートカットを表示した際に日常で呼び出される文章</Source>
+    <Translation>ショートカットを表示した際に日常で呼び出される文章</Translation>
+  </Text>
+  <Text index="18" offset="0x721" length="26" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:30&gt;">
+    <Source>KW_SHORTCUT_TARTAROS_WARD</Source>
+    <Translation>KW_SHORTCUT_TARTAROS_WARD</Translation>
+  </Text>
+  <Text index="19" offset="0x758" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
+    <Source>Where should I go?</Source>
+    <Translation>Where should I go?</Translation>
+  </Text>
+  <Text index="20" offset="0x788" length="-29" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:62&gt;">
+    <Source>ショートカットを表示した際にダンジョンで呼び出される文章</Source>
+    <Translation>ショートカットを表示した際にダンジョンで呼び出される文章</Translation>
+  </Text>
+</P3RDataTableText>
