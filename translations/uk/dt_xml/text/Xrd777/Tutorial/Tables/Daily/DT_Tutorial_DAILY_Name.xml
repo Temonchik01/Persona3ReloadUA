@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<P3RDataTableText source="DT_Tutorial_DAILY_Name.uasset" textBlockCount="106">
+  <Text index="0" offset="0x5A5" length="-11" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ScriptStruct">
+    <Source>１２３４５６７８９●</Source>
+    <Translation>１２３４５６７８９●</Translation>
+  </Text>
+  <Text index="1" offset="0x606" length="-4" role="technical" property="Comment" a="Class" b="ScriptStruct" c="Class">
+    <Source>未使用</Source>
+    <Translation>未使用</Translation>
+  </Text>
+  <Text index="2" offset="0x666" length="31" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:78&gt;">
+    <Source>Accessing Downloadable Content</Source>
+    <Translation>Accessing Downloadable Content</Translation>
+  </Text>
+  <Text index="3" offset="0x6D0" length="-15" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:80&gt;">
+    <Source>DLCがここで受け取れるよ。</Source>
+    <Translation>DLCがここで受け取れるよ。</Translation>
+  </Text>
+  <Text index="4" offset="0x746" length="15" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Default__DataTable">
+    <Source>Going to Sleep</Source>
+    <Translation>Going to Sleep</Translation>
+  </Text>
+  <Text index="5" offset="0x7A0" length="-34" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:118&gt;">
+    <Source>ベッドを使用すると寝れるよ。夜に寝ると時間が経過して、翌日になるよ</Source>
+    <Translation>ベッドを使用すると寝れるよ。夜に寝ると時間が経過して、翌日になるよ</Translation>
+  </Text>
+  <Text index="6" offset="0x83C" length="15" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Default__DataTable">
+    <Source>Looking Around</Source>
+    <Translation>Looking Around</Translation>
+  </Text>
+  <Text index="7" offset="0x896" length="-35" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:120&gt;">
+    <Source>スティックでカメラの操作ができるよでもフィールドによってはパスカメラ</Source>
+    <Translation>スティックでカメラの操作ができるよでもフィールドによってはパスカメラ</Translation>
+  </Text>
+  <Text index="8" offset="0x934" length="19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ObjectProperty">
+    <Source>Maps and Shortcuts</Source>
+    <Translation>Maps and Shortcuts</Translation>
+  </Text>
+  <Text index="9" offset="0x992" length="-26" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:102&gt;">
+    <Source>マップを開けるショートカットで好きなところに飛べる</Source>
+    <Translation>マップを開けるショートカットで好きなところに飛べる</Translation>
+  </Text>
+  <Text index="10" offset="0xA1E" length="22" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ScriptStruct">
+    <Source>Studying in Your Room</Source>
+    <Translation>Studying in Your Room</Translation>
+  </Text>
+  <Text index="11" offset="0xA7F" length="-24" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:98&gt;">
+    <Source>机を調べると勉強ができる時間経過して学力アップ</Source>
+    <Translation>机を調べると勉強ができる時間経過して学力アップ</Translation>
+  </Text>
+  <Text index="12" offset="0xB07" length="24" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
+    <Source>After-School Activities</Source>
+    <Translation>After-School Activities</Translation>
+  </Text>
+  <Text index="13" offset="0xB6A" length="-17" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:84&gt;">
+    <Source>この後は自由時間のチュートリアル</Source>
+    <Translation>この後は自由時間のチュートリアル</Translation>
+  </Text>
+  <Text index="14" offset="0xBE4" length="25" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:72&gt;">
+    <Source>Using the Stores in Town</Source>
+    <Translation>Using the Stores in Town</Translation>
+  </Text>
+  <Text index="15" offset="0xC48" length="-32" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:114&gt;">
+    <Source>街中の施設を利用すると時間経過するその代わりに色々恩恵があるよ</Source>
+    <Translation>街中の施設を利用すると時間経過するその代わりに色々恩恵があるよ</Translation>
+  </Text>
+  <Text index="16" offset="0xCE0" length="17" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
+    <Source>Drawing Fortunes</Source>
+    <Translation>Drawing Fortunes</Translation>
+  </Text>
+  <Text index="17" offset="0xD3C" length="-43" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:136&gt;">
+    <Source>一緒に時間を過ごさなくてもコミュポイント入手ランクアップはできないよ、時間経過するよ</Source>
+    <Translation>一緒に時間を過ごさなくてもコミュポイント入手ランクアップはできないよ、時間経過するよ</Translation>
+  </Text>
+  <Text index="18" offset="0xDEA" length="40" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:87&gt;">
+    <Source>Duplicating Skill Cards at Inari Shrine</Source>
+    <Translation>Duplicating Skill Cards at Inari Shrine</Translation>
+  </Text>
+  <Text index="19" offset="0xE5D" length="-39" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:128&gt;">
+    <Source>スキルカードの複製ができるよ日数経過ナシで即受け取れる（P3Pからの変更点）</Source>
+    <Translation>スキルカードの複製ができるよ日数経過ナシで即受け取れる（P3Pからの変更点）</Translation>
+  </Text>
+  <Text index="20" offset="0xF04" length="29" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:77&gt;">
+    <Source>Leaving Money as an Offering</Source>
+    <Translation>Leaving Money as an Offering</Translation>
+  </Text>
+  <Text index="21" offset="0xF6D" length="-35" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:121&gt;">
+    <Source>好きな額をお賽銭に供えられるよ学力アップ額次第で結果が変わるかも…！</Source>
+    <Translation>好きな額をお賽銭に供えられるよ学力アップ額次第で結果が変わるかも…！</Translation>
+  </Text>
+  <Text index="22" offset="0x100C" length="19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Package">
+    <Source>Mandragora Karaoke</Source>
+    <Translation>Mandragora Karaoke</Translation>
+  </Text>
+  <Text index="23" offset="0x106B" length="-16" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:83&gt;">
+    <Source>1人でカラオケに行って勇気上昇</Source>
+    <Translation>1人でカラオケに行って勇気上昇</Translation>
+  </Text>
+  <Text index="24" offset="0x10E4" length="-13" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:74&gt;">
+    <Source>Chagall Café</Source>
+    <Translation>Chagall Café</Translation>
+  </Text>
+  <Text index="25" offset="0x114A" length="-30" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:111&gt;">
+    <Source>コーヒーを飲んで魅力アップできるよ月～水はアルバイトも可能</Source>
+    <Translation>コーヒーを飲んで魅力アップできるよ月～水はアルバイトも可能</Translation>
+  </Text>
+  <Text index="26" offset="0x11DF" length="15" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="DT_Tutorial_DAILY_Name">
+    <Source>Wilduck Burger</Source>
+    <Translation>Wilduck Burger</Translation>
+  </Text>
+  <Text index="27" offset="0x123A" length="-20" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:91&gt;">
+    <Source>人パラアップ裏メニューがあるらしい…？</Source>
+    <Translation>人パラアップ裏メニューがあるらしい…？</Translation>
+  </Text>
+  <Text index="28" offset="0x12BB" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
+    <Source>Wakatsu Kitchen</Source>
+    <Translation>Wakatsu Kitchen</Translation>
+  </Text>
+  <Text index="29" offset="0x1317" length="-20" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:91&gt;">
+    <Source>人パラアップ裏メニューがあるらしい…？</Source>
+    <Translation>人パラアップ裏メニューがあるらしい…？</Translation>
+  </Text>
+  <Text index="30" offset="0x1398" length="15" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="DT_Tutorial_DAILY_Name">
+    <Source>Hagakure Ramen</Source>
+    <Translation>Hagakure Ramen</Translation>
+  </Text>
+  <Text index="31" offset="0x13F3" length="-20" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:91&gt;">
+    <Source>人パラアップ裏メニューがあるらしい…？</Source>
+    <Translation>人パラアップ裏メニューがあるらしい…？</Translation>
+  </Text>
+  <Text index="32" offset="0x1474" length="26" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:74&gt;">
+    <Source>Screen Shot Movie Theater</Source>
+    <Translation>Screen Shot Movie Theater</Translation>
+  </Text>
+  <Text index="33" offset="0x14DA" length="-21" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:93&gt;">
+    <Source>人パラアップタイトルは時期によって変わる</Source>
+    <Translation>人パラアップタイトルは時期によって変わる</Translation>
+  </Text>
+  <Text index="34" offset="0x155D" length="39" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:87&gt;">
+    <Source>Entering the Velvet Room from the City</Source>
+    <Translation>Entering the Velvet Room from the City</Translation>
+  </Text>
+  <Text index="35" offset="0x15D0" length="-21" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:93&gt;">
+    <Source>ベルベットルームにつながっているようだ…</Source>
+    <Translation>ベルベットルームにつながっているようだ…</Translation>
+  </Text>
+  <Text index="36" offset="0x1653" length="19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Package">
+    <Source>Game Parade Arcade</Source>
+    <Translation>Game Parade Arcade</Translation>
+  </Text>
+  <Text index="37" offset="0x16B2" length="-35" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:121&gt;">
+    <Source>人パラや装備ペルソナのステータスアップ遊べるゲームは曜日によって変化</Source>
+    <Translation>人パラや装備ペルソナのステータスアップ遊べるゲームは曜日によって変化</Translation>
+  </Text>
+  <Text index="38" offset="0x1751" length="33" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:81&gt;">
+    <Source>Going Home Straight After School</Source>
+    <Translation>Going Home Straight After School</Translation>
+  </Text>
+  <Text index="39" offset="0x17BE" length="-11" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:73&gt;">
+    <Source>時間経過して夜になる</Source>
+    <Translation>時間経過して夜になる</Translation>
+  </Text>
+  <Text index="40" offset="0x182D" length="18" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ObjectProperty">
+    <Source>Going to Tartarus</Source>
+    <Translation>Going to Tartarus</Translation>
+  </Text>
+  <Text index="41" offset="0x188B" length="-25" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:101&gt;">
+    <Source>今日からダンジョン自由潜入。ナビ担当員から行ける</Source>
+    <Translation>今日からダンジョン自由潜入。ナビ担当員から行ける</Translation>
+  </Text>
+  <Text index="42" offset="0x1916" length="19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Package">
+    <Source>Going Out at Night</Source>
+    <Translation>Going Out at Night</Translation>
+  </Text>
+  <Text index="43" offset="0x1975" length="-19" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:89&gt;">
+    <Source>夜施設の解禁ショートカットも使えるよ</Source>
+    <Translation>夜施設の解禁ショートカットも使えるよ</Translation>
+  </Text>
+  <Text index="44" offset="0x19F4" length="14" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Default__DataTable">
+    <Source>The Informant</Source>
+    <Translation>The Informant</Translation>
+  </Text>
+  <Text index="45" offset="0x1A4E" length="-35" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:121&gt;">
+    <Source>WEBサイトの情報を買える買った情報は寮ラウンジのパソコンで確認可能</Source>
+    <Translation>WEBサイトの情報を買える買った情報は寮ラウンジのパソコンで確認可能</Translation>
+  </Text>
+  <Text index="46" offset="0x1AED" length="27" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:75&gt;">
+    <Source>Receiving Invites by Email</Source>
+    <Translation>Receiving Invites by Email</Translation>
+  </Text>
+  <Text index="47" offset="0x1B54" length="-29" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:109&gt;">
+    <Source>知り合った人や行った店からメールが届く誘いに乗るかは自由</Source>
+    <Translation>知り合った人や行った店からメールが届く誘いに乗るかは自由</Translation>
+  </Text>
+  <Text index="48" offset="0x1BE7" length="13" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="DatNameTable">
+    <Source>Social Links</Source>
+    <Translation>Social Links</Translation>
+  </Text>
+  <Text index="49" offset="0x1C40" length="-6" role="technical" property="Comment" a="Class" b="ScriptStruct" c="DT_Tutorial_DAILY_Name">
+    <Source>コミュとは</Source>
+    <Translation>コミュとは</Translation>
+  </Text>
+  <Text index="50" offset="0x1CA5" length="30" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:78&gt;">
+    <Source>Receiving Invites on Days Off</Source>
+    <Translation>Receiving Invites on Days Off</Translation>
+  </Text>
+  <Text index="51" offset="0x1D0F" length="-60" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:171&gt;">
+    <Source>休日に誘いメールを受信するタイミングでメールを受けるときにその誘いを受けるとどうなるか、どんなイベントが始まるかの説明</Source>
+    <Translation>休日に誘いメールを受信するタイミングでメールを受けるときにその誘いを受けるとどうなるか、どんなイベントが始まるかの説明</Translation>
+  </Text>
+  <Text index="52" offset="0x1DE0" length="26" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:74&gt;">
+    <Source>Using the Shared Computer</Source>
+    <Translation>Using the Shared Computer</Translation>
+  </Text>
+  <Text index="53" offset="0x1E46" length="-22" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:95&gt;">
+    <Source>パソコンで出来る事の軽い説明チュートリアル</Source>
+    <Translation>パソコンで出来る事の軽い説明チュートリアル</Translation>
+  </Text>
+  <Text index="54" offset="0x1ECB" length="-19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:86&gt;">
+    <Source>MangaStar Net Café</Source>
+    <Translation>MangaStar Net Café</Translation>
+  </Text>
+  <Text index="55" offset="0x1F3D" length="-19" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:89&gt;">
+    <Source>販売物等の軽い説明をチュートリアルで</Source>
+    <Translation>販売物等の軽い説明をチュートリアルで</Translation>
+  </Text>
+  <Text index="56" offset="0x1FBC" length="24" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:72&gt;">
+    <Source>Playing the Online Game</Source>
+    <Translation>Playing the Online Game</Translation>
+  </Text>
+  <Text index="57" offset="0x2020" length="-11" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:73&gt;">
+    <Source>ネットコミュに関して</Source>
+    <Translation>ネットコミュに関して</Translation>
+  </Text>
+  <Text index="58" offset="0x208F" length="17" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="None">
+    <Source>Using Mail Order</Source>
+    <Translation>Using Mail Order</Translation>
+  </Text>
+  <Text index="59" offset="0x20EC" length="-27" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:105&gt;">
+    <Source>毎週日曜の午後に通販ができるアイテムは数日後に届くよ</Source>
+    <Translation>毎週日曜の午後に通販ができるアイテムは数日後に届くよ</Translation>
+  </Text>
+  <Text index="60" offset="0x217B" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
+    <Source>Linked Episodes</Source>
+    <Translation>Linked Episodes</Translation>
+  </Text>
+  <Text index="61" offset="0x21D7" length="-40" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:131&gt;">
+    <Source>コミュの無い仲間とも絆を深めることができる時期を逃すと話ができなくなるので注意</Source>
+    <Translation>コミュの無い仲間とも絆を深めることができる時期を逃すと話ができなくなるので注意</Translation>
+  </Text>
+  <Text index="62" offset="0x2280" length="25" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:73&gt;">
+    <Source>Studying with Your Peers</Source>
+    <Translation>Studying with Your Peers</Translation>
+  </Text>
+  <Text index="63" offset="0x22E5" length="-38" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:127&gt;">
+    <Source>テスト前に寮の仲間と勉強することができる1人で勉強するよりも効率が良さそう</Source>
+    <Translation>テスト前に寮の仲間と勉強することができる1人で勉強するよりも効率が良さそう</Translation>
+  </Text>
+  <Text index="64" offset="0x238A" length="35" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:83&gt;">
+    <Source>Using the Rooftop Vegetable Garden</Source>
+    <Translation>Using the Rooftop Vegetable Garden</Translation>
+  </Text>
+  <Text index="65" offset="0x23F9" length="-33" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:117&gt;">
+    <Source>屋上菜園で野菜などを育てられる収穫した食べ物はバトル中に使用可能</Source>
+    <Translation>屋上菜園で野菜などを育てられる収穫した食べ物はバトル中に使用可能</Translation>
+  </Text>
+  <Text index="66" offset="0x2494" length="42" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:90&gt;">
+    <Source>Spending Time with Your Peers in the Dorm</Source>
+    <Translation>Spending Time with Your Peers in the Dorm</Translation>
+  </Text>
+  <Text index="67" offset="0x250A" length="-49" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:149&gt;">
+    <Source>仲間と寮の施設を利用して交流を深めることができる一緒に時間を過ごす中で、戦闘で役立つスキルを入手</Source>
+    <Translation>仲間と寮の施設を利用して交流を深めることができる一緒に時間を過ごす中で、戦闘で役立つスキルを入手</Translation>
+  </Text>
+  <Text index="68" offset="0x25C5" length="45" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:93&gt;">
+    <Source>Tending to the Vegetable Garden with Friends</Source>
+    <Translation>Tending to the Vegetable Garden with Friends</Translation>
+  </Text>
+  <Text index="69" offset="0x263E" length="-33" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:117&gt;">
+    <Source>仲間と屋上菜園の世話をできる事前に植えておいた作物の効果がアップ</Source>
+    <Translation>仲間と屋上菜園の世話をできる事前に植えておいた作物の効果がアップ</Translation>
+  </Text>
+  <Text index="70" offset="0x26D9" length="10" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Class">
+    <Source>Be Blue V</Source>
+    <Translation>Be Blue V</Translation>
+  </Text>
+  <Text index="71" offset="0x272F" length="-27" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:105&gt;">
+    <Source>仲間を施設に呼び、スキル付け替え（思い出し）ができる</Source>
+    <Translation>仲間を施設に呼び、スキル付け替え（思い出し）ができる</Translation>
+  </Text>
+  <Text index="72" offset="0x27BE" length="21" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ScriptStruct">
+    <Source>Growing Social Links</Source>
+    <Translation>Growing Social Links</Translation>
+  </Text>
+  <Text index="73" offset="0x281F" length="-43" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:137&gt;">
+    <Source>相手と時間を過ごすことでランクアップするコミュを育てていくうちに他のコミュが見つかる</Source>
+    <Translation>相手と時間を過ごすことでランクアップするコミュを育てていくうちに他のコミュが見つかる</Translation>
+  </Text>
+  <Text index="74" offset="0x28CE" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
+    <Source>Fortune Telling</Source>
+    <Translation>Fortune Telling</Translation>
+  </Text>
+  <Text index="75" offset="0x292A" length="-27" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:105&gt;">
+    <Source>満月の日は占いができないその日中に効果が切れてしまう</Source>
+    <Translation>満月の日は占いができないその日中に効果が切れてしまう</Translation>
+  </Text>
+  <Text index="76" offset="0x29B9" length="19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Package">
+    <Source>Twilight Fragments</Source>
+    <Translation>Twilight Fragments</Translation>
+  </Text>
+  <Text index="77" offset="0x2A18" length="-25" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:101&gt;">
+    <Source>薄明の欠片は大切なもの。あちこちで見つかります。</Source>
+    <Translation>薄明の欠片は大切なもの。あちこちで見つかります。</Translation>
+  </Text>
+  <Text index="78" offset="0x2AA3" length="22" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="TextProperty">
+    <Source>Network Functionality</Source>
+    <Translation>Network Functionality</Translation>
+  </Text>
+  <Text index="79" offset="0x2B05" length="-26" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:103&gt;">
+    <Source>タッチパッド押すと他プレイヤーの行動記録が見れます</Source>
+    <Translation>タッチパッド押すと他プレイヤーの行動記録が見れます</Translation>
+  </Text>
+  <Text index="80" offset="0x2B92" length="13" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="DatNameTable">
+    <Source>Social Stats</Source>
+    <Translation>Social Stats</Translation>
+  </Text>
+  <Text index="81" offset="0x2BEB" length="-15" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:81&gt;">
+    <Source>人間パラメータの説明と鍛え方</Source>
+    <Translation>人間パラメータの説明と鍛え方</Translation>
+  </Text>
+  <Text index="82" offset="0x2C62" length="34" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:82&gt;">
+    <Source>Twilight Fragments from Elizabeth</Source>
+    <Translation>Twilight Fragments from Elizabeth</Translation>
+  </Text>
+  <Text index="83" offset="0x2CD0" length="-19" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:89&gt;">
+    <Source>エリザベスから貰える薄明の欠片の説明</Source>
+    <Translation>エリザベスから貰える薄明の欠片の説明</Translation>
+  </Text>
+  <Text index="84" offset="0x2D4F" length="9" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="9">
+    <Source>Town Map</Source>
+    <Translation>Town Map</Translation>
+  </Text>
+  <Text index="85" offset="0x2DA4" length="-27" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:105&gt;">
+    <Source>kfev175で表示するタウンマップのチュートリアル</Source>
+    <Translation>kfev175で表示するタウンマップのチュートリアル</Translation>
+  </Text>
+  <Text index="86" offset="0x2E33" length="28" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:76&gt;">
+    <Source>Tatsumi East Police Station</Source>
+    <Translation>Tatsumi East Police Station</Translation>
+  </Text>
+  <Text index="87" offset="0x2E9B" length="-10" role="technical" property="Comment" a="Class" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
+    <Source>交番初入店時に説明</Source>
+    <Translation>交番初入店時に説明</Translation>
+  </Text>
+  <Text index="88" offset="0x2F08" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
+    <Source>Equipment Types</Source>
+    <Translation>Equipment Types</Translation>
+  </Text>
+  <Text index="89" offset="0x2F64" length="-10" role="technical" property="Comment" a="Class" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
+    <Source>交番初入店時に説明</Source>
+    <Translation>交番初入店時に説明</Translation>
+  </Text>
+  <Text index="90" offset="0x2FD1" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
+    <Source>Aohige Pharmacy</Source>
+    <Translation>Aohige Pharmacy</Translation>
+  </Text>
+  <Text index="91" offset="0x302D" length="-11" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:73&gt;">
+    <Source>道具屋初入店時に説明</Source>
+    <Translation>道具屋初入店時に説明</Translation>
+  </Text>
+  <Text index="92" offset="0x309C" length="11" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Comment">
+    <Source>Sale Dates</Source>
+    <Translation>Sale Dates</Translation>
+  </Text>
+  <Text index="93" offset="0x30F3" length="-21" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:93&gt;">
+    <Source>セール日に青ひげ・交番に入店した時に説明</Source>
+    <Translation>セール日に青ひげ・交番に入店した時に説明</Translation>
+  </Text>
+  <Text index="94" offset="0x3176" length="17" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="None">
+    <Source>Mayoido Antiques</Source>
+    <Translation>Mayoido Antiques</Translation>
+  </Text>
+  <Text index="95" offset="0x31D3" length="-11" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:73&gt;">
+    <Source>眞宵堂初入店時に説明</Source>
+    <Translation>眞宵堂初入店時に説明</Translation>
+  </Text>
+  <Text index="96" offset="0x3242" length="21" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ScriptStruct">
+    <Source>Elizabeth's Requests</Source>
+    <Translation>Elizabeth's Requests</Translation>
+  </Text>
+  <Text index="97" offset="0x32A3" length="-15" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:81&gt;">
+    <Source>エリザベスの依頼解禁時に説明</Source>
+    <Translation>エリザベスの依頼解禁時に説明</Translation>
+  </Text>
+  <Text index="98" offset="0x331A" length="23" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
+    <Source>Outings with Elizabeth</Source>
+    <Translation>Outings with Elizabeth</Translation>
+  </Text>
+  <Text index="99" offset="0x337D" length="-19" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:89&gt;">
+    <Source>お出かけ解禁のメッセージ表示時に説明</Source>
+    <Translation>お出かけ解禁のメッセージ表示時に説明</Translation>
+  </Text>
+  <Text index="100" offset="0x33FC" length="23" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
+    <Source>Combat Characteristics</Source>
+    <Translation>Combat Characteristics</Translation>
+  </Text>
+  <Text index="101" offset="0x345F" length="-12" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:75&gt;">
+    <Source>仲間の特性解禁時に説明</Source>
+    <Translation>仲間の特性解禁時に説明</Translation>
+  </Text>
+  <Text index="102" offset="0x34D0" length="24" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:72&gt;">
+    <Source>Missing Persons Reports</Source>
+    <Translation>Missing Persons Reports</Translation>
+  </Text>
+  <Text index="103" offset="0x3534" length="-20" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:91&gt;">
+    <Source>失踪者説明、掲示板で詳細が判明する説明</Source>
+    <Translation>失踪者説明、掲示板で詳細が判明する説明</Translation>
+  </Text>
+  <Text index="104" offset="0x35B5" length="31" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:79&gt;">
+    <Source>Accessing Downloadable Content</Source>
+    <Translation>Accessing Downloadable Content</Translation>
+  </Text>
+  <Text index="105" offset="0x3620" length="-29" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:109&gt;">
+    <Source>DLCがここで受け取れるよ。(MSプラットフォーム用語)</Source>
+    <Translation>DLCがここで受け取れるよ。(MSプラットフォーム用語)</Translation>
+  </Text>
+</P3RDataTableText>
