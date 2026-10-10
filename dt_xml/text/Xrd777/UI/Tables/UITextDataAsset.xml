@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <P3RDataTableText source="UITextDataAsset.uasset" textBlockCount="21">
   <Text index="0" offset="0x2D3" length="16" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:20&gt;">
     <Source>KEWWORD_SAMPLE1</Source>
@@ -18,7 +18,7 @@
   </Text>
   <Text index="4" offset="0x3B6" length="21" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:25&gt;">
     <Source>Go to the Next Floor</Source>
-    <Translation>Go to the Next Floor</Translation>
+    <Translation>Піти на наступний поверх</Translation>
   </Text>
   <Text index="5" offset="0x3E8" length="-23" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:50&gt;">
     <Source>階段を発見済みなら有効化1つ上の階に移動する</Source>
@@ -30,7 +30,7 @@
   </Text>
   <Text index="7" offset="0x460" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
     <Source>Return to Entrance</Source>
-    <Translation>Return to Entrance</Translation>
+    <Translation>Повернутися до входу</Translation>
   </Text>
   <Text index="8" offset="0x490" length="-26" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:56&gt;">
     <Source>帰還装置を発見済みなら有効化エントランスに帰還する</Source>
@@ -42,7 +42,7 @@
   </Text>
   <Text index="10" offset="0x515" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
     <Source>Use the Teleporter</Source>
-    <Translation>Use the Teleporter</Translation>
+    <Translation>Використати телепорт</Translation>
   </Text>
   <Text index="11" offset="0x545" length="-27" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:58&gt;">
     <Source>転送装置を起動済なら有効化転送装置用のUIを起動する</Source>
@@ -54,7 +54,7 @@
   </Text>
   <Text index="13" offset="0x5CC" length="12" role="value" property="Text" a="StructProperty" b="Package" c="UITextTable">
     <Source>Enter Monad</Source>
-    <Translation>Enter Monad</Translation>
+    <Translation>Увійти до Монади</Translation>
   </Text>
   <Text index="14" offset="0x5F5" length="-37" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:78&gt;">
     <Source>月末ゲートフロア手前にあるモナドの扉開放済みで有効化モナドの中に移動する</Source>
@@ -66,7 +66,7 @@
   </Text>
   <Text index="16" offset="0x698" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
     <Source>Where should I go?</Source>
-    <Translation>Where should I go?</Translation>
+    <Translation>Куди мені піти?</Translation>
   </Text>
   <Text index="17" offset="0x6C8" length="-26" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:56&gt;">
     <Source>ショートカットを表示した際に日常で呼び出される文章</Source>
@@ -78,7 +78,7 @@
   </Text>
   <Text index="19" offset="0x758" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
     <Source>Where should I go?</Source>
-    <Translation>Where should I go?</Translation>
+    <Translation>Куди мені піти?</Translation>
   </Text>
   <Text index="20" offset="0x788" length="-29" role="technical" property="Comment" a="Class" b="Package" c="&lt;Size:62&gt;">
     <Source>ショートカットを表示した際にダンジョンで呼び出される文章</Source>
