@@ -17,11 +17,11 @@
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Nope.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Нє.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why do you ask?]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 3 0 -1 4093 0 0}I see...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f -5 -1, 0 -0}{f 1 0 -4093 0 0}я бачу. .[n]{f 1 }]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}But I—[cr][n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_004_5_0" type="Message">
