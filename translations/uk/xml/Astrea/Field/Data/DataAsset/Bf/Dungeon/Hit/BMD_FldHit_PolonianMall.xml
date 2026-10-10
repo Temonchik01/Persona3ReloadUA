@@ -14,7 +14,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекайте...]]></Option>
   </Dialog>
   <Dialog id="1" name="MND_STOP_UFO_CATCHER" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, електрики немає...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, зникло живлення...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_SHOP_STOP_YUKARI" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Що не так?[n]{f 1 1}]]></Page>
@@ -62,7 +62,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Аптека «Аоґіґе»]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Антикварна крамниця «Майоїдо»]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Задній провулок]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Мапа міста]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міська мапа]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_FLD_ORDERN" type="Message">
