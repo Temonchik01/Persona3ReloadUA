@@ -10,7 +10,7 @@
   </Speakers>
   <Dialog id="0" name="SEL_BOSS" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай секунду.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекайте секунду.]]></Option>
   </Dialog>
   <Dialog id="1" name="MND_OUT_STOP_SOUTH" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає необхідності повертатися[n]на станцію зараз.[n]{f 1 1}]]></Page>
@@ -58,7 +58,7 @@
   <Dialog id="13" name="SEL_SHOP_SHOTCUT" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Станція Іватодай]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}2П]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Мапа міста]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міська мапа]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_FLD_ORDER" type="Message">
