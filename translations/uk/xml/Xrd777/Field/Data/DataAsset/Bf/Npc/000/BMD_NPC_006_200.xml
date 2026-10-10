@@ -12,7 +12,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1019 0 0}Oh, hi. What're you doing?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Nothing.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ніча.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Just looking around.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Not much. How about you?]]></Option>
   </Dialog>
@@ -506,7 +506,7 @@
   <Dialog id="124" name="SEL_116_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}He won't.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки не маю.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's possible.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}це можливо.]]></Option>
   </Dialog>
   <Dialog id="125" name="MSG_117_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1042 0 0}Okay... I feel a little better about it now. Thanks.[n]{f 1 1}]]></Page>
@@ -842,7 +842,7 @@
   </Dialog>
   <Dialog id="205" name="SEL_201_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Nope.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
   </Dialog>
   <Dialog id="206" name="MSG_202_0_0" type="Message">
@@ -1289,7 +1289,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Do you have any friends besides us who don't believe in the cult?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="313" name="SEL_310_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I think so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мені так здається.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}None.]]></Option>
   </Dialog>
   <Dialog id="314" name="MSG_311_0_0" type="Message">
