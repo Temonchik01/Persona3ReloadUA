@@ -5,104 +5,104 @@
     <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11801 0 0}Я так чекав, {f 4 2}![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}Перейдімо до кабінету домоводства![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 0 5 254}{f 2 1}{f 4,512 0 -1 -1 0}{f №3 -11801 0}Я чекаю, {f 4 2}-dono![n]{f 1 }]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 112 -1 -1 -1 0}Тепер перейдемо до будинку економіці![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11878 0 0}Ах, {f 4 2}...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}Чи ти приєднаєшся до мене сьогодні? Я маю тобі дещо сказати...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11878 0 0}Ahhh, {f 4 2}-dono...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 -1 -1 0}Чи будете ви приєднатися до мене сьогодні? Є щось, що я повинен тобі сказати. .[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11886 0 0}О, {f 4 2}. Які плани на сьогодні?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}Якщо не зайнятий, то ходімо ж зі мною до кабінету домоводства.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11886 0 0}Ah, {f 4 2}-dono. What are your plans for today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 -1 -1 0}Якщо ти не зайнятий, потім, будь ласка, зайдіть в кімнату домашньої економіки.[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час після[n]школи в гуртку моди?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час[n]після школи в гуртку моди?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти до гуртка моди]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти в гурток модт]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус соціального зв'язку]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11834 0 0}Шиття це ж так весело! Я шитиму собі на втіху![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11834 0 0}Sewing is such fun! And I shall sew to my heart's content![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11849 0 0}Дуже-дуже дякую... А тепер... ходімо![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 --1 -1 0}{f 1 0 -11849 0}Великий, багато подяки. . А тепер, поки ми підемо![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11902 0 0}Ага... Тоді буду я один сьогодні...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11902 0 0}Oh... Then, I shall be all alone today...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_008_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11898 0 0}Я розумію...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11898 0 0}I understand...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_009_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}А тепер ходімо ж до кабінету домоводства![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 112 -1 -1 0 0}тепер давайте пройдемо шлях до будинку економіці![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}О, так... Прийдеш сьогодні? Я маю тобі дещо сказати.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}Ah, yes... Will you be coming today? There is something I must tell you.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}О, так... Що плануєш робити сьогодні?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Якщо не зайнятий, то ходімо ж зі мною до кабінету домоводства.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}Ah, yes... What are you doing today?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 512 0 -1 -1 0 0}Якщо ти не зайнятий, потім, будь ласка, зайдіть в кімнату домашньої економіки.[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_012_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11805 0 0}О, {f 4 2}! Екзамени добігли кінця.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f -2 1}{f 4,112 -1 -1 -1 0}{f №3 -11805 0}О, {f 4 2}-dono! Екзамени закінчилися.[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11811 0 0}Ох, {f 4 2}... Екзамени добігли кінця. Нарешті.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 0, 5 254}{f 2 1}{f 4,512 0 -1 -1 0}{f 1 0 -11811 0 0}hhh, {f 42}-dono. . Нарешті екзамени надійшли до кінця.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_014_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}Ми обидвоє боролися як леви... І тепер мій мозок виснажений.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 -1 -1 0}Ми обоє боролися. . Тепер мій мозок вичерпано.[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_015_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}Ми обидвоє вели напружену боротьбу... І тепер мій мозок виснажений.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 112 -1 -1 -1 0}ми обидва воювали інтенсивну битву. . Тепер мій мозок вичерпано.[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_016_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11812 0 0}Я так чекав, {f 4 2}![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Перейдімо до кабінету домоводства![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 -112 -1 -1 -1 0 0}{f -1 11812 0}я чекаю, {f 4 2}-dono![n]{f 1 }]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 112 0 -1 -1 0}Тепер перейдемо до будинку економіці![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_016_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Ну гаразд, перейдімо до кабінету домоводства![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 112 0 -1 -1 0 0}А тепер давайте повернемося до кімнати для економіки будинку![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_017_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11912 0 0}Шиття це ж так весело! Я шитиму собі на втіху![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11912 0 0}Sewing is such fun! And I shall sew to my heart's content![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_018_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11802 0 0}Oh, {f 4 2}! Як справи?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Якщо в тебе буде вільний час, чи згодишся пошити зі мною?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f -2 1}{f 4,112 -1 -1 -1 0}{f №3 -11802 0}О, {f 4 2}-dono! Як зробити це?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 --1 -1 0 0}Якщо у вас є час чекати, чи не бажаєте ви приєднатися до мене за шию?[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_018_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}До речі, як справи?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Якщо в тебе буде вільний час, чи згодишся пошити зі мною?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}By the way, how do you do?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 --1 -1 0 0}Якщо у вас є час чекати, чи не бажаєте ви приєднатися до мене за шию?[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_019_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11912 0 0}Дуже дякую... katajikenai![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}У тебе пречудово виходить шити, {f 4 2}. Будь ласка, продемонструй мені сьогодні ще більше своїх умінь![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 -1 -1 -1 0}{f 1, 3 0 -11912 0 0}Багато подяки — катайкенейська![n]{f 1 }]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 (-512 -1 -1 -1 0}}Ви маєте відмінне уявлення про шиління, {f 4 2}-dono. Будь ласка, покажіть мені ще свої навички уже сьогодні![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_020_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11887 0 0}О, {f 4 2}...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}Уже збираєшся додому? Може зайдеш до кабінету домоводства?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}{f 3 1 3 0 -1 11887 0 0}Oh, {f 4 2}-dono...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 3 -1 -1 0 0}Are you now departing for home? Or will you come to the home economics room?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_020_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Ну гаразд, а ти вже збираєшся додому? Може зайдеш до кабінету домоводства?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Now then, are you departing for home? Or will you come to the home economics room?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_021_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11912 0 0}У такі часи мушу шити... Продовжімо з чого зупинились.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4, 5 112 -1 -1 -1 0 0}{f 3 0 -11912 0 }}Частково як ці, Я мушу шити. . Продовжіть, де ми зупинились.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_022_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}{f 3 1 3 0 -1 11808 0 0}Вітаю, {f 4 2}.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}Я скромно прошу вас приєднатися до мене в гурток моди![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 0, 5 254}{f 2 1}{f 4,512 0 -1 -1 0}{f №3 0 -11808 0}Вітання, {f 42}-dono.[n]{f 1 }]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 112 -1 -1 -1 0}я м'яко запрошую вас до мого клубу![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_022_5_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}Ну гаразд, я скромно прошу вас приєднатися до мене в гурток моди![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 112 -1 -1 -1 0}тепер я смішно запрошую тебе приєднатися до мого клубу![n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_023_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11882 0 0}О-о-о, отже рушаймо! До кабінету домоводства![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11882 0 0}Ohhh, then off we go! To the home economics room![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Твої навички продовжують квітнути, але я не відставатиму...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_024_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 1 -1 -1 0 0}{f 3 1 3 0 -1 11802 0 0}Я так очікував, {f 4 2}![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 -112 -1 -1 -1 0}{f 3 0 -11802 0}{f було очікує тебе, {f 4 2}-dono![n]{f 1 }]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 112 0 -1 -1 0 0}Схоже, що ниті долі зв'язали нас разом. Не проти, якщо ми трохи поговоримо?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_024_5_0" type="Message">
@@ -173,19 +173,19 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Message issued by the script. [n]{f 1 5 0}Comm Event Replay.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MND_GENERAL_PERSPNA" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні {f 2 4 2}, {f 2 4 5}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні {f 2 4 2}, {f 0 1 35}{f 2 4 5}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MND_GENERALSELECTMSG_MAX" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю нерозвивний зв'язок[n]із {f 2 4 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю нерозривний зв'язок[n]з {f 2 4 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MND_GENERALMSG_BS_MAX" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю нерозривний зв'язок[n]із літнім подружжям...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю нерозривний зв'язок[n]з літнім подружжям...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="53" name="MND_GENERALSELECTMSG_RAN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що можу стати ближчим[n]до {f 2 4 0} скоро...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що незабаром можу стати ближче до {f 2 4 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="54" name="MND_GENERALMSG_BS_RANKUP" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що можу стати ближчим[n]до літнього подружжя скоро...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що незабаром можу стати ближчим[n]до літнього подружжя...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="55" name="MND_GENERALSELECTMSG_NOR" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Не думаю, що наш зв'язок[n]стане міцнішим, навіть якщо я проведу[n]більше часу з {f 2 4 0}...[n]{f 1 1}]]></Page>
@@ -194,55 +194,55 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Не думаю, що наш зв'язок[n]стане міцнішим, навіть якщо я проведу[n]більше часу з ними...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MND_GENERALSELECTMSG_MAX" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю нерозвивний зв'язок[n]із {f 2 4 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю нерозривний зв'язок[n]з {f 2 4 0}...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені ще проводити з ними час?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="MND_GENERAL_MSG_SOLO_AS" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час після[n]школи з {f 2 4 0}?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені проводити час після[n]школи з {f 2 4 0}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="59" name="MND_GENERAL_MSG_SOLO_DT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести день[n]із {f 2 4 0}?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести[n]день з {f 2 4 0}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="60" name="MND__GENERAL_MSG_NET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто провести час,[n]граючи в онлайн-рольову гру з {f 2 4 0}?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто проводити час граючи в [n]ММОРПГ з {f 2 4 0}?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="61" name="MND_GENERAL_MSG_SOLO_NT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести вечір[n]із {f 2 4 0}?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести вечір[n]з {f 2 4 0}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="62" name="SEL_GENERALSELECTMSG_SOL" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час із {f 2 4 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час з {f 2 4 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус соціального зв'язку]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зважай]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не забувайте]]></Option>
   </Dialog>
   <Dialog id="63" name="MND_GENERAL_MSG_MULTIPLE" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час після[n]школи із {f 2 4 1}?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час[n]після школи з {f 2 4 1}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="64" name="MND_GENERAL_MSG_FASHION_" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час після[n]школи в гуртку моди?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час[n]після школи в гуртку моди?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="65" name="MND_GENERAL_MSG_BOOKSTOR" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести день у книгарні?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести день[n]в книжковому магазині?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="66" name="MND_GENERAL_MSG_BOOKSTOR" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести день у книгарні?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести день[n]в книжковому магазині?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="67" name="MND_GENERAL_MSG_MULTIPLE" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час після[n]школи із {f 2 4 1}?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести час[n]після школи з {f 2 4 1}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="68" name="SEL_GENERALSELECTMSG_MUL" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час з {f 2 4 1}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус соціального зв'язку]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зважай]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не забувайте]]></Option>
   </Dialog>
   <Dialog id="69" name="SEL_GENERALSELECTMSG_FCL" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Піти до гуртка моди]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти в гурток модт]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус соціального зв'язку]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зважай]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не забувайте]]></Option>
   </Dialog>
   <Dialog id="70" name="SEL_GENERALSELECTMSG_BS" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти в книгарню]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти в книжковий магазин]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити статус соціального зв'язку]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зважай]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не забувайте]]></Option>
   </Dialog>
   <Dialog id="71" name="MSG_GENERAL_EXAMREWARD_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4029 0 0}А, {f 4 1}.[n]{f 1 1}]]></Page>
@@ -284,7 +284,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4029 0 0}А, {f 4 1}.[n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Я бачила твої результати на іспиті. Хороша робота.[n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Ось, це від шефа.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}Це нагорода за ефективне поєднання навчання в школі та нашої... кхм, «позашкільної діяльності».[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}Я принесла тобі подарунок, щоб віддячити за твою сумлінну працю. Ось, тримай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="80" name="MND_GENERAL_EXAMREWARD_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}未使用ラベルです。[cr][n]{f 1 1}]]></Page>
@@ -293,7 +293,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}{f 3 1 3 0 -1 4029 0 0}А, {f 4 1}.[n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}Я бачила твої результати на іспиті. Хороша робота.[n]{f 1 1}]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}Ось, це від шефа.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}Це нагорода за ефективне поєднання навчання в школі та нашої... кхм, «позашкільної діяльності».[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 6 -1 0 0}Я принесла тобі подарунок, щоб віддячити за твою сумлінну працю. Ось, тримай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="82" name="MND_GENERAL_EXAMREWARD_1" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Оскільки я посів перше місце на іспитах,[n]я також отримав {f 4 4 1 37 1 3}.[n]{f 1 1}]]></Page>
