@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Extr_500_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_500_010_C\Script\BMD_Scr_Event_Extr_500_010_C.uasset" dialogs="23">
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}For as long as life exists, so too shall death.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The flame of life burns bright,[n]stoked by pain and hardship.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Now with the light of life snuffed out,[n]    the clock has come to a stop.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What is the meaning of life?[n]Alas, the answer shall remain forever out of grasp...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_015_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Game Over[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_003_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Resume play?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Lower difficulty level {f 4 26 10 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Retry battle {f 4 26 11 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Start from arena entrance {f 4 26 12 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Return to title screen {f 4 26 14 0}]]></Option>
+  </Dialog>
+  <Dialog id="4" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Lower difficulty level {f 4 26 10 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Retry battle {f 4 26 11 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Start from Desert of Doors {f 4 26 13 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Return to title screen {f 4 26 14 0}]]></Option>
+  </Dialog>
+  <Dialog id="5" name="SYS_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}You will return to the entrance of the arena and lose this visit's progress, except for the change in difficulty. Are you sure?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SYS_005_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}You will return to the Desert of Doors and lose this visit's progress, except for the change in difficulty. Are you sure?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SYS_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}You will return to the title screen and lose all progress made since you last saved the game. Are you sure?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}No]]></Option>
+  </Dialog>
+  <Dialog id="9" name="SYS_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}If you change the difficulty from Heartless, {f 0 1 2}you cannot change it back to Heartless later{f 0 1 27}. Do you still want to change to Hard difficulty?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Lower the difficulty by one level.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MND_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Start over from the beginning of the battle.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Start again from the entrance to the arena.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Start again from the Desert of Doors.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Return to the title screen.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="SYS_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}The difficulty is currently set to {f 0 1 2}Easy{f 0 1 27}. Would you like to change it to {f 0 1 2}Peaceful{f 0 1 27}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SYS_011_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}The difficulty is currently set to {f 0 1 2}Normal{f 0 1 27}. Would you like to change it to {f 0 1 2}Easy{f 0 1 27}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SYS_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}The difficulty is currently set to {f 0 1 2}Hard{f 0 1 27}. Would you like to change it to {f 0 1 2}Normal{f 0 1 27}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="SYS_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}The difficulty is currently set to {f 0 1 2}Heartless{f 0 1 27}. Would you like to change it to {f 0 1 2}Hard{f 0 1 27}?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="SYS_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The difficulty has been changed to {f 0 1 2}Peaceful{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="SYS_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The difficulty has been changed to {f 0 1 2}Easy{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="SYS_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The difficulty has been changed to {f 0 1 2}Normal{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="SYS_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The difficulty has been changed to {f 0 1 2}Hard{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

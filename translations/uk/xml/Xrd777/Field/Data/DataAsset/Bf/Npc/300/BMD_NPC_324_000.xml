@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_324_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\300\BMD_NPC_324_000.uasset" dialogs="6">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 6C 75 73 74 65 72 65 64 20 53 74 75 64 65 6E 74">Flustered Student</Speaker>
+    <Speaker id="1" rawBytes="52 65 6C 69 65 76 65 64 20 53 74 75 64 65 6E 74">Relieved Student</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}Oh man, this is bad... Where did I drop my student handbook...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}Do you need something? I'm a little busy now... Hey, wait, that handbook you're holding...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}Can I see that student handbook? I was just looking for mine...![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}This might be it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're mistaken.]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}It IS mine! Phew... Thanks, you saved me![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}...Oh yeah, as a thank-you, here, take this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}I got this for free when I was shopping at Aohige Pharmacy, but I don't own a cat.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}Anyway, if you have no use for it, just give it to one of the cats at the strip mall.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}I see... Sorry for demanding to see your stuff all of a sudden...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}Oh man, where did I drop it...? I gotta try to remember...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_004_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}Thanks again.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 324}If you have no use for that, just give it to one of the cats at the strip mall.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

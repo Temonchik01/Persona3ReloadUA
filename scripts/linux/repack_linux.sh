@@ -13,7 +13,7 @@ fi
 if [[ "$mode" == bmd ]]; then
   tool="$root/tools/bmd/P3RBmdTool.exe"
   source_dir="$root/tools/dds_l10n/source"
-  input_dir=${2:-"$root/xml"}
+  input_dir=${2:-"$root/translations/uk/xml"}
 else
   tool="$root/tools/dt/P3RDtTool.exe"
   source_dir="$root/tools/dt/source"

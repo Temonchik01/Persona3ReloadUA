@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_BtlEvent801.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Event\801\BMD_BtlEvent801.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_801_1_1" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 1 0 5}Ви протистоїте складному супротивнику. Але якщо є розвіддані, я можу вам допомогти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_801_1_2" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 2 0 5}Я можу запропонувати найефективнішу атаку, спираючись на слабке місце ворога.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_801_1_3" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 3 0 5}Але я можу допомагати так лише тоді, коли ми знаємо слабке місце ворога.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_801_1_4" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 1 0 2 4 0 5}Вибачте, але поки ви не отримаєте більше інформації, ви самі за себе.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_801_2_1" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 2 5 0 6}Ворог тут виглядає сильним. Але якщо у нас є якась розвідінформація про нього, я можу вам допомогти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_801_2_2" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 2 6 0 6}Я можу підказати, яка атака спрацює найкраще, враховуючи слабке місце ворога.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_801_2_3" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 2 7 0 6}Але я можу допомагати так лише тоді, коли ми вже знаємо, до чого ворог слабкий...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_801_2_4" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 1 0 2 8 0 6}Спершу вам потрібно проаналізувати його, перш ніж я зможу допомогти.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="TRL_801_1_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Натисніть кнопку R1 під час бою, щоб скористатися функцією допомоги.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="TRL_801_1_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо є доступне вміння, яка може вдарити по слабкому місцю ворога, курсор автоматично виділить її.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="TRL_801_1_3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це допоможе прискорити навігацію по меню під час бою, тож спробуйте.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

@@ -5,16 +5,16 @@
   </Dialog>
   <Dialog id="1" name="SEL_002_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Duplicate a card]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нічого не робити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Do nothing]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What kind of card should I duplicate?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Фізичну]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Магічну]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Physical]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Magic]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Healing/Support]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Пасивну]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Passive]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel duplication]]></Option>
   </Dialog>
   <Dialog id="4" name="MND_003_0_0" type="Message">

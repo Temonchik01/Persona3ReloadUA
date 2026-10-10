@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Battle_024.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Battle\BMD_Tutorial_Battle_024.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="54 68 65 75 72 67 79 20 47 61 75 67 65">Заряд Теургії</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 27}Ваш заряд Теургії буде зростати протягом бою щоразу, коли ви атакуєте або викликаєте Персону.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 28}Швидкість заряду Теургії відрізняється залежно від союзника. {f 0 1 2}Дії, які узгоджуються з індивідуальністю учасника команди{f 0 1 27} призведуть до значного зростання його заряду.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}У Фууки також є заряд Теургії. Коли він досягне максимуму, ви зможете активувати її Теургію під час ходу будь-якого члена команди. [n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Однак заряд Теургії припиняється, коли персонаж перебуває під дією недуги, а в разі повалення союзників їхній прогрес {f 0 1 2}зменшується наполовину{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

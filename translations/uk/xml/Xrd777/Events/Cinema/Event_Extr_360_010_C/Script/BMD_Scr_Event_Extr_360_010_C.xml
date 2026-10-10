@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Scr_Event_Extr_360_010_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_360_010_C\Script\BMD_Scr_Event_Extr_360_010_C.uasset" dialogs="153">
+  <Speakers>
+    <Speaker id="0" rawBytes="4C 65 73 73 6F 6E 73 20 69 6E 20 45 74 69 71 75 65 74 74 65">Lessons in Etiquette</Speaker>
+    <Speaker id="1" rawBytes="56 69 72 74 75 61 6C 20 44 69 65 74">Virtual Diet</Speaker>
+    <Speaker id="2" rawBytes="50 69 63 6B 75 70 20 4C 69 6E 65 20 4D 61 73 74 65 72">Pickup Line Master</Speaker>
+    <Speaker id="3" rawBytes="44 69 67 69 74 61 6C 20 43 72 61 6D 20 53 63 68 6F 6F 6C">Digital Cram School</Speaker>
+    <Speaker id="4" rawBytes="53 61 67 65 20 42 72 61 69 6E 20 54 72 61 69 6E 69 6E 67">Sage Brain Training</Speaker>
+    <Speaker id="5" rawBytes="50 61 72 74 2D 54 69 6D 65 20 4D 61 73 74 65 72">Part-Time Master</Speaker>
+    <Speaker id="6" rawBytes="56 65 67 67 69 65 20 46 61 72 6D 65 72 20 53 69 6D">Veggie Farmer Sim</Speaker>
+    <Speaker id="7" rawBytes="4D 75 73 63 6C 65 20 42 6F 6F 74 20 43 61 6D 70">Muscle Boot Camp</Speaker>
+    <Speaker id="8" rawBytes="49 6D 61 67 65 20 4D 75 73 63 6C 65 20 54 72 61 69 6E 65 72">Image Muscle Trainer</Speaker>
+    <Speaker id="9" rawBytes="4D 69 6E 64 66 75 6C 20 42 6F 6F 74 20 43 61 6D 70">Mindful Boot Camp</Speaker>
+    <Speaker id="10" rawBytes="55 6D 69 75 73 68 69 20 4F 66 66 69 63 69 61 6C 20 57 65 62 73 69 74 65">Umiushi Official Website</Speaker>
+    <Speaker id="11" rawBytes="49 77 61 74 6F 64 61 69 20 46 6F 72 75 6D">Iwatodai Forum</Speaker>
+    <Speaker id="12" rawBytes="49 77 61 74 6F 64 61 69 20 46 6F 72 75 6D 20 52 65 70 6C 69 65 73">Iwatodai Forum Replies</Speaker>
+    <Speaker id="13" rawBytes="4D 6F 6F 6E 6C 69 67 68 74 20 43 68 61 6E 6E 65 6C">Moonlight Channel</Speaker>
+    <Speaker id="14" rawBytes="4D 6F 6F 6E 6C 69 67 68 74 20 43 68 61 6E 6E 65 6C 20 52 65 70 6C 69 65 73">Moonlight Channel Replies</Speaker>
+    <Speaker id="15" rawBytes="4D 79 20 4C 6F 76 65 6C 79 20 56 65 67 67 69 65 20 47 61 72 64 65 6E 20 42 6C 6F 67">My Lovely Veggie Garden Blog</Speaker>
+    <Speaker id="16" rawBytes="52 65 76 65 6E 67 65 20 57 65 62 73 69 74 65 20 50 6F 73 74">Revenge Website Post</Speaker>
+    <Speaker id="17" rawBytes="54 68 65 20 42 6F 6F 6B 20 6F 66 20 4E 79 78">The Book of Nyx</Speaker>
+    <Speaker id="18" rawBytes="54 68 65 20 41 72 74 20 6F 66 20 48 75 6D 61 6E 20 44 65 6D 6F 6C 69 74 69 6F 6E">The Art of Human Demolition</Speaker>
+    <Speaker id="19" rawBytes="48 69 73 74 6F 72 69 65 73 20 6F 66 20 74 68 65 20 57 6F 72 6C 64 27 73 20 47 72 65 61 74 65 73 74">Histories of the World's Greatest</Speaker>
+    <Speaker id="20" rawBytes="4E 69 6E 6A 61 20 48 69 64 65 6F 75 74">Ninja Hideout</Speaker>
+    <Speaker id="21" rawBytes="4E 69 6E 6A 61 20 48 69 64 65 6F 75 74 20 50 6F 73 74">Ninja Hideout Post</Speaker>
+    <Speaker id="22" rawBytes="4D 61 74 63 68 6D 61 6B 69 6E 67 20 53 75 70 65 72 73 68 72 69 6E 65">Matchmaking Supershrine</Speaker>
+    <Speaker id="23" rawBytes="53 63 72 65 65 6E">Screen</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_LASTWORD_NIGHT" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...It's gotten late. I should[n]head back to my room...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MND_LASTWORD_AFTERNOON" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...It's almost nighttime. I should[n]head back to my room...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MND_006_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Lessons in Etiquette"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A quiz with right-or-wrong questions on[n]manners popped up on the screen...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Q: Should you arrive ten minutes early to important meetings?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}A: No. You should arrive ten minutes early to all meetings, not just important ones.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_008_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}The tricky questions continue...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MND_009_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I finished answering a large[n]number of quiz questions.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The manners I learned might make[n]me more attractive and respected...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MND_010_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Virtual Diet"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Now, you too can have a slim body without having to suffer through exercise![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}First, train yourself to curb your appetite by looking at blue food![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looking at all the blue food on-screen[n]is making me lose my appetite...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MND_013_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I finished watching all the videos.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I have a slimmer,[n]more attractive body already...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Pickup Line Master"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems to be a game where you[n]talk to 108 different characters.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_015_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}Love comes in all shapes and sizes! Let's get you hooked up with someone too![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_016_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I guess it's a love simulation game.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I should try to pick answers that will[n]make the other character happy...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_017_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...I ended up forming a relationship[n]with an aging, 15-year-old dog.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I can effectively convey my[n]charm to just about anyone now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_018_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Digital Cram School"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems to be a set of practice questions[n]from a famous school in the mountains.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_019_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}Whether you're brilliant or average, your journey here begins by answering questions all the same.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MND_020_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I should try some questions in the[n]areas I'm studying right now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MND_021_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I finished answering a challenging,[n]yet satisfying set of questions.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I've gotten better[n]at thinking outside the box...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Language Made Easy"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are conversational dialogues paired[n]with pictures for overseas travelers.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The protagonist wants to go to the airport,[n]but keeps getting distracted on the way...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I watch as they speak with broken[n]grammar to get a discounted burger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_023_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Eventually, the protagonist overcame the[n]language barrier and reached the airport.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel more confident in[n]my speaking skills now...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Sage Brain Training"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_025_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}With the right training, you can have the mind of a sage! Use these puzzles to train your brain![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MND_026_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Looks like puzzles involving shapes,[n]wordplay, and numbers...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_027_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}Your IQ level is... "Sage Next Door"![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_028_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...I don't know how to feel about the results.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}But, if nothing else, I feel a little[n]smarter after training my brain.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MND_029_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Animal Othello"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This looks like a game where you play[n]Othello against cutely drawn animals.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The elephant begins to bawl[n]after I beat it in Othello...![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I keep playing, and the cute animals[n]continue to weep when they lose...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MND_030_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I managed to make all the[n]animals break into tears.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}They seem to be staring through[n]the screen with big, pitiful puppy eyes...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...I feel like this experience has[n]strengthened my mental fortitude.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MND_031_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"TypinGhoul"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like a game where you[n]take down zombies by typing.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The zombies are explaining the[n]rules very kindly to me...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...I don't feel like they're the enemy.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MND_032_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I decimated the zombies that patiently[n]provided me with a helpful tutorial...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I obtained unwavering[n]mental strength from this.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MND_033_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Sengoku Chronicles"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems I can experience the Sengoku[n]period through the eyes of a warlord.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A cuckoo bird chose for me. Guess I'll[n]be seeing the life of Tokugawa Ieyasu...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MND_034_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I finished experiencing the[n]eventful life of Ieyasu.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel inspired by the man who unified[n]the country amidst an age of turmoil...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MND_041_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Part-Time Master"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like it teaches skills in customer[n]service, accounting, and product stocking.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_042_0_0" type="Message">
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}Improve your skill set! Start with a promotion, end up a billionaire![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MND_043_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A series of easy-to-understand[n]instructions begins to play...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MND_044_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I finished learning about a[n]number of workplace skills.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I can apply this knowledge[n]to my part-time work![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="SYS_JOBMANEY_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The amount of money you can earn from part-time jobs has increased.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MND_045_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Veggie Farmer Sim"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like a game that[n]simulates raising crops.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="MSG_046_0_0" type="Message">
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}Plants don't need "love"—they need appropriate amounts of nutrients and water![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="38" name="MND_047_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A knowledgeable-seeming dwarf[n]is giving a lecture on agriculture.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I should follow their instructions[n]and adjust the water and fertilizer...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MND_048_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I was able to produce a bountiful harvest.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I learned something tangible[n]about growing vegetables...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="SYS_VEGETABLE_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The amount of crops you can harvest from the rooftop planters has increased.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MND_049_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Muscle Boot Camp"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems to be educational software[n]that teaches you about muscles.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="42" name="MSG_050_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}In this short session, you'll learn 600 ways to use your muscles![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="43" name="MND_051_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}An immense amount of information[n]is being presented at a rapid pace...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="44" name="MSG_052_0_0" type="Message">
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}Congratulations! You are hereby promoted to Muscle Sergeant![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="45" name="MND_053_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I sure learned a lot about[n]how to use my muscles.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I have more stamina[n]now that I've watched this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="46" name="PFM_HPUP7_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 34}Max HP{f 0 1 27} increased by {f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="47" name="MND_054_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Image Muscle Trainer"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like software that stimulates[n]muscles through image training.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="48" name="MSG_055_0_0" type="Message">
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}Now watch these strength training videos and imagine yourself participating...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="49" name="MND_056_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I watch the videos and picture[n]myself working out in my head...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="50" name="MND_057_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}For some reason, I feel as exhausted[n]as if I actually did the training.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the image training may have[n]actually strengthened my muscles...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="51" name="PFM_HPUP9_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 34}Max HP{f 0 1 27} increased by {f 0 1 45}9{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="52" name="MND_058_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Mindful Boot Camp"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It appears to be software that[n]teaches mindfulness meditation.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="53" name="MSG_059_0_0" type="Message">
+    <Page spk="0009"><![CDATA[{f 0 5 254}{f 2 1}Even those who have a hard time concentrating will be able to focus their minds with this program.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="54" name="MND_060_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Lessons on proper breathing[n]and posture begin to play...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="55" name="MND_061_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}My head feels clearer than before.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the meditation has[n]helped me train my mind...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="56" name="PFM_SPUP5_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 34}Max SP{f 0 1 27} increased by {f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="57" name="MND_062_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Mental Instructor"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems to teach breathing techniques[n]and stretches at varying difficulty levels.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I follow the on-screen instructions[n]and begin diaphragmatic breathing...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="58" name="MND_063_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I was able to reach the final level, where[n]I could hear my true inner thoughts.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like this spiritual training[n]has helped me free my mind...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="59" name="PFM_SPUP7_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 34}Max SP{f 0 1 27} increased by {f 0 1 45}7{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="60" name="MND_064_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}The Umiushi official website...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="61" name="MSG_065_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}MEMBERS ONLY: Exclusive takeout perks![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="62" name="MND_067_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like if I register, I'll be able[n]to order takeout from Umiushi.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I should enter the membership code[n]from the {f 4 4 1 37 2 0}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="63" name="MSG_068_0_0" type="Message">
+    <Page spk="000A"><![CDATA[{f 0 5 254}{f 2 1}Thank you for registering! We hope you enjoy the Umiushi taste in the comfort of your own home![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="64" name="MND_069_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I've successfully[n]become a registered member.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="65" name="SYS_UMIUSHIOPEN_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You are now able to order takeout from Umiushi at the Iwatodai strip mall.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="66" name="MND_070_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Iwatodai Forum"... Looks like[n]a message board for locals.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The most recently updated topic is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="67" name="MSG_071_0_0" type="Message">
+    <Page spk="000B"><![CDATA[{f 0 5 254}{f 2 1}[[NEW?]] Secret about the vending machine in front of the station[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="68" name="MND_072_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I'll take a look at this thread...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="69" name="MSG_073_0_0" type="Message">
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}anonymous10: when r they gonna fix that vending machine lol[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}anonymous11: wait what's this secret???[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}anonymous14: @anonymous11 you can actually still buy drinks that are marked as sold out.[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}the machines broken so theres drinks marked sold out when its not.[n]{f 1 1}]]></Page>
+    <Page spk="000C"><![CDATA[{f 0 5 254}{f 2 1}just press the button. i recommend the 4biotic pack.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="70" name="MND_074_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like drinks that are marked[n]as sold out can still be bought.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should try it out on the {f 0 1 2}vending{f 0 1 27}[n]{f 0 1 2}machine in front of Iwatodai Station{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="71" name="MND_075_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Moonlight Channel"... Looks like an[n]unofficial forum for Gekkoukan High.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Topics include things like, "3rd-years[n]only!" and, "Who do u think is hot?"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Seems like the newest topic is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="72" name="MSG_076_0_0" type="Message">
+    <Page spk="000D"><![CDATA[{f 0 5 254}{f 2 1}Anyone try the taiyaki at the school store?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="73" name="MND_077_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I'll take a look at this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="74" name="MSG_078_0_0" type="Message">
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}aaaaaaaaa: never seen this on sale. why is there such a limited amount?[n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}Sardine: i saw someone complain to the vendor about this[n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}Beta: Good news! The taiyaki is gonna be a permanent item now![n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}I asked about it and apparently there were a lot of requests for it.[n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}It sounds like they'll have it in stock daily now![n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}TennisLover: wait so we can srsly get it whenevs now???[n]{f 1 1}]]></Page>
+    <Page spk="000E"><![CDATA[{f 0 5 254}{f 2 1}Oda Nobunaga: ima get one[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="75" name="MND_079_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems like a special {f 0 1 2}taiyaki{f 0 1 27} will[n]be available at the school store.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should take a look[n]next time I'm there...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="76" name="MND_080_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"My Lovely Veggie Garden Blog"...[n]Looks like it's about home gardening.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The blogger seems to have expressed[n]their love by writing entirely in baby talk...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="77" name="MSG_081_0_0" type="Message">
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Hewwo~ Hab you eber seen a tomato this shoiny!? {f 1 3 139}[n]{f 1 1}]]></Page>
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}It's shooooo pwetty!!! {f 1 3 146} And it's vewy rare. {f 1 3 135}{f 1 3 135}[n]{f 1 1}]]></Page>
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Did you know {f 0 1 2}Golden Tomato Sprouts{f 0 1 27} are onwy avaiwable at certain fwower shops!? {f 1 3 145}[n]{f 1 1}]]></Page>
+    <Page spk="000F"><![CDATA[{f 0 5 254}{f 2 1}Yew can find some at Raffwesia Fwower Shop over at Port Iswand Station! Yaaay!! {f 1 3 136}{f 1 3 146}[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="78" name="MND_082_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like new vegetable seedlings[n]will be available for purchase.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I should {f 0 1 2}stop by Rafflesia next{f 0 1 27}[n]{f 0 1 2}time I'm at Port Island Station{f 0 1 27}...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="79" name="MND_100_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The "revenge website"... This must[n]be the site from those rumors...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There are all kinds of[n]requests posted here...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="80" name="MSG_101_0_0" type="Message">
+    <Page spk="0010"><![CDATA[{f 0 5 254}{f 2 1}[[REDACTED]]: I know he's always talking about me behind my back.[n]{f 1 1}]]></Page>
+    <Page spk="0010"><![CDATA[{f 0 5 254}{f 2 1}I hate it. I want revenge.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="81" name="MND_102_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="82" name="MND_103_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The hate-filled posts pleading[n]for revenge go on and on...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Bearing witness to the ugly side of[n]humanity has strengthened my resolve...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="83" name="MND_104_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I can't access the site the[n]URL normally leads to...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="84" name="MND_105_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems the revenge website[n]has been shut down.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should do something[n]else to pass the time...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="85" name="MND_106_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"The Book of Nyx"... It looks like[n]a site for those who worship Nyx.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="86" name="MSG_107_0_0" type="Message">
+    <Page spk="0011"><![CDATA[{f 0 5 254}{f 2 1}The end that frees us from suffering is nigh.[n]{f 1 1}]]></Page>
+    <Page spk="0011"><![CDATA[{f 0 5 254}{f 2 1}We are all but fools. We perpetuate our own fear and misery, and allow them to control us.[n]{f 1 1}]]></Page>
+    <Page spk="0011"><![CDATA[{f 0 5 254}{f 2 1}But Nyx-sama will show us the way. Nyx-sama will save us all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="87" name="MND_108_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems as though the blog hasn't[n]been updated in a little while.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I need to be ready for the fight[n]that awaits us on January 31st...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="88" name="PFM_SPUP5_1_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 34}Max SP{f 0 1 27} increased by {f 0 1 45}5{f 0 1 27}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="89" name="MND_194_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Effective Security Measures Online"...[n]This seems to be a website that helps[n]with training security team members...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There's a list of self-defense videos here,[n]each with a detailed text explanation...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I guess I'll start with the[n]most-watched video...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="90" name="MND_196_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I watched a how-to video on[n]subduing violent individuals.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I learned the importance of having[n]the will to stand up to an enemy...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I can use what I learned[n]in our fights in Tartarus...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="91" name="SYS_170_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}You learned how to use {f 0 1 2}Ambush{f 0 1 27}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="92" name="MND_197_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"The Art of Human Demolition"... Looks[n]like it's about the body's weak points.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="93" name="MSG_198_0_0" type="Message">
+    <Page spk="0012"><![CDATA[{f 0 5 254}{f 2 1}Humans know their own weaknesses, and here, we'll explain how to take full advantage of them![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="94" name="MND_199_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I glance at the smiling mascot character,[n]Demolii-tan, and continue to read...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="95" name="MND_200_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I winced a bit, but managed to learn[n]new approaches to hit where it hurts.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I've learned how to examine[n]the enemy before making the first strike...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="96" name="SYS_175_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ambush has been enhanced! When attacking an enemy from behind, you will now inflict Distress without fail.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="97" name="MND_201_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Histories of the World's Greatest"...[n]Looks like trivia on historical figures.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="98" name="MSG_202_0_0" type="Message">
+    <Page spk="0013"><![CDATA[{f 0 5 254}{f 2 1}[[TODAY'S TOPIC]] Leaders in Battle[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="99" name="MND_203_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I think I'll read more about this...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="100" name="MND_204_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I read about the decisions historical[n]leaders made in pursuit of their goals.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like I've learned how to maintain[n]morale in the face of adversity...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="101" name="SYS_182_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ambush has been enhanced! After successfully attacking an enemy from behind, your Theurgy gauge will rise.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="102" name="MND_205_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me see what this URL leads to...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Ninja Hideout"... It looks like a foreign[n]forum where people post about ninjas.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="103" name="MSG_206_0_0" type="Message">
+    <Page spk="0014"><![CDATA[{f 0 5 254}{f 2 1}Ninpo: Ninja Research Score, 222[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="104" name="MND_207_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Looks like people are serious about[n]becoming real ninjas. I'll take a look...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="105" name="MSG_208_0_0" type="Message">
+    <Page spk="0015"><![CDATA[{f 0 5 254}{f 2 1}no_ninnin: Ninjas have unique breathing methods, such as "futae-ibuki," "okinaga," and more...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="106" name="MND_209_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I found interesting breathing techniques[n]that ninjas used for long-distance travel.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Maybe I can use this to run[n]swiftly like a ninja myself...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="107" name="SYS_186_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ambush has been enhanced! The amount of time needed to dash before being able to Ambush has been decreased.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="108" name="MND_235_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}This site seems to require an "offering."[n]Luckily, the note came with a free pass...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="109" name="MSG_236_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Thank you for the offering, and welcome to the Matchmaking Supershrine.[n]{f 1 1}]]></Page>
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Picture anyone you wish to intensify your relationship with and click the button below.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="110" name="MND_237_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="111" name="MND_251_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I'll think about {f 2 4 0}[n]and click the button...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="112" name="MND_252_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I'll think about the monk[n]and click the button...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="113" name="MND_269_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I'll think about Bunkichi-san and[n]Mitsuko-san and click the button...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="114" name="MSG_240_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Praying... Current progress: 3%[n]Continue focusing while you wait.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="115" name="MND_241_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The progress bar seems stuck at 3%...[n]I'll continue thinking of {f 2 4 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="116" name="MND_254_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The progress bar seems stuck at 3%...[n]I'll continue thinking of the monk.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="117" name="MND_267_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The progress bar seems stuck at 3%...[n]I'll continue thinking of Bunkichi-san[n]and Mitsuko-san.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="118" name="MSG_244_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Prayer complete. Your relationship has intensified.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="119" name="MND_243_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems the prayer is done...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Having meditated on our[n]relationship, {f 2 4 0} feels[n]more important to me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="120" name="MND_256_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems the prayer is done...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Having meditated on our relationship,[n]the monk feels more important to me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="121" name="MND_264_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems the prayer is done...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Having meditated on our relationship,[n]Bunkichi-san and Mitsuko-san feel[n]more important to me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="122" name="MSG_258_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}If you would like to ask for another prayer, please purchase another Offering Pass.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="123" name="MND_247_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}Let me try the prepaid Offering Pass[n]that came with the URL note again...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="124" name="MSG_248_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Picture anyone you wish to intensify your relationship with and click the button below.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="125" name="MND_249_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="126" name="MSG_259_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}Praying... Current progress: 3%[n]Continue focusing while you wait.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="127" name="MND_260_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The progress bar seems stuck at 3%...[n]I'll continue thinking of {f 2 4 0}.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="128" name="MND_255_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It seems the prayer is done...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Having meditated on our[n]relationship, {f 2 4 0} feels[n]more important to me...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="129" name="MSG_023_0_0" type="Message">
+    <Page spk="0016"><![CDATA[{f 0 5 254}{f 2 1}If you would like to ask for another prayer, please purchase another Offering Pass.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="130" name="MND_164_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Intro to Dynamic and Kinetic Visual Acuity"...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="131" name="MSG_165_0_0" type="Message">
+    <Page spk="0017"><![CDATA[{f 0 5 254}{f 2 1}Dynamic and kinetic visual acuity is the ability to process moving visual input and react accordingly to it.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="132" name="MND_168_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}...I followed a series of balls and shapes[n]that moved across the screen.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel I've become more sensitive[n]to motion in my peripheral vision.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This might be useful when[n]exploring Tartarus...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="133" name="MND_166_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}I decided to first try the training mode.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="134" name="MND_173_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I've achieved a high score and[n]survived three lightyears.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel as if I learned the importance of[n]observing an enemy for weak points...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="135" name="MND_171_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Simple Shooting Game"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}This looks like a game where I[n]shoot down enemies to survive.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Hitting the enemies' weak points[n]will destroy them faster.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If I look closely, I can see a mark[n]where the enemy's weakness is...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="136" name="MND_176_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Training + Mind"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It looks like I have to choose the most[n]positive-sounding phrase out of the group.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="137" name="MSG_177_0_0" type="Message">
+    <Page spk="0017"><![CDATA[{f 0 5 254}{f 2 1}A) "Tastes bad," B) "A unique taste," C) "Not really my thing," D) "Some people might like it."[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="138" name="MND_178_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 25 60}I tried selecting the most[n]positive-sounding one...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="139" name="MND_180_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}After that, I solved puzzles and[n]got inordinate amounts of praise.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my self-confidence[n]has improved...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="140" name="MND_183_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 4 22 0 1 61 5 60}"Reaction Training"...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}"Watch with your eyes, decide with[n]your brain, and move with your body!"[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Seems to be a game of rapidly tapping[n]glowing orbs that fly onto the screen...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I couldn't quite keep up, but I stuck[n]with it until I got the hang of it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="141" name="MND_184_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I was able to get a high score by[n]diligently continuing to play.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel I've gained the ability to[n]react even quicker to things...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="142" name="MND_215_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I can't think of anyone I want[n]a stronger relationship with...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="143" name="MND_217_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Fortune[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="144" name="SEL_218_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yukari Takeba{f 4 27 2 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Fuuka Yamagishi{f 4 27 6 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Mitsuru Kirijo{f 4 27 5 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Aigis{f 4 27 7 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Team Manager{f 4 27 106 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Treasurer{f 4 27 109 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Classmate{f 4 27 101 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Student Council{f 4 27 102 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Track Team{f 4 27 105 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Art Club{f 4 27 108 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Transfer Student{f 4 27 112 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Old Couple{f 4 27 103 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Rival Athlete{f 4 27 115 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Girl at the Shrine{f 4 27 110 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Dying Young Man{f 4 27 117 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Gourmet King{f 4 27 116 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Businessman{f 4 27 113 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Unusual Monk{f 4 27 114 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Online Game{f 4 27 107 0}]]></Option>
+  </Dialog>
+  <Dialog id="145" name="MND_220_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Who should I think of...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="146" name="MND_222_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't think we could get any[n]closer than we already are...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="147" name="MND_233_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with[n]{f 2 4 0} has grown stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="148" name="MND_265_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like the bond I have with[n]the monk has grown stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="149" name="MND_262_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my bond with Bunkichi-san[n]and Mitsuko-san has grown stronger...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="150" name="MND_261_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I already used the Offering Pass, but[n]maybe I don't want to do this after all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="151" name="SEL_262_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Actually, I'll think of someone.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, I'll quit.]]></Option>
+  </Dialog>
+  <Dialog id="152" name="SEL_263_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Use the matchmaking site]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't]]></Option>
+  </Dialog>
+</BMD>

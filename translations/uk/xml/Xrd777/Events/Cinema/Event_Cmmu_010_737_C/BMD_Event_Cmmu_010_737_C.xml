@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_010_737_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_010_737_C\BMD_Event_Cmmu_010_737_C.uasset" dialogs="11">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 1 0 0}We're havin' katsudon again, got it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 2 0 0}...Don't give me that look. We got a lot of pork 'cause it was cheap.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 3 0 0}Part of me thinks startin' with fried food might be hard, but the basics are pretty much the same.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 4 0 0}You're a real oddball, you know that? Askin' me to teach you how to cook.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 5 0 0}Why do you wanna learn so much?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I care about my health.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I just felt like it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I want to be popular.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 6 0 0}...Ya do, huh?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 7 0 0}Well, good a reason as any.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 3 159 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 10 3 25 25}You don't really think things through, do you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 10 0 25 25}Well, whatever. It can't hurt to know.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_016_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 10 0 0}Well, we all got our own reasons...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 11 0 0}It can't hurt to know this stuff. But, you better put in the work if you wanna be popular.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_017_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 12 0 0}I was taught how to cook by someone else too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 13 0 0}So, when I see someone who wants to learn, I can kinda relate.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 14 0 0}Alright, that's enough rambling. Let's get started.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 15 0 0}...You're gonna do it this time. So first, get the meat ready.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_018_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 16 0 0}When you're frying something, stick a chopstick in the oil and check for little bubbles.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 17 0 0}Wait, you're putting on too much heat. The meat ain't gonna taste good if it's too tough.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_019_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 1 159 -1 0 0}{f 3 1 1 0 0 18 0 0}{f 4 23 0 10 1 25 25}Pretty good job, considering it was your first try.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_019_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 10 0 25 25}You've still got room for improvement though. Especially in the way you handle the knife and fryer...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 20 0 0}But if you're serious about it, then just practice.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 21 0 0}Alright, let's clean up.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 159 -1 0 0}{f 3 1 1 0 0 22 0 0}You ain't done cooking until everything's put away, so don't slack off.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

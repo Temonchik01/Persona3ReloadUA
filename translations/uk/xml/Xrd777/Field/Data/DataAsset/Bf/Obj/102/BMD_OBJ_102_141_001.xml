@@ -16,7 +16,7 @@
   <Dialog id="3" name="MND_003_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це блок приладів.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Камера спостереження[n]сама ввімкнулася і записала відео...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто дивитися відеозапис...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто дивитися відеозапис?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дивітись]]></Option>
@@ -24,17 +24,17 @@
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це блок приладів.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, є новий запис.[n]Чи варто дивитися відео...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, є новий запис.[n]Чи варто дивитися відео?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нових записів.[n]Чи варто переглянути старе відео...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нових записів.[n]Чи варто переглянути старе відео?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Яке з них подивитися...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Яке з них подивитися?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_008_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
@@ -67,7 +67,7 @@
   </Dialog>
   <Dialog id="13" name="SEL_011_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перша сторінка]]></Option>
   </Dialog>
@@ -86,7 +86,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
   </Dialog>
   <Dialog id="16" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перша сторінка]]></Option>
   </Dialog>
@@ -101,7 +101,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
   </Dialog>
   <Dialog id="19" name="SEL_017_0_0" type="Selection">
@@ -118,7 +118,7 @@
   <Dialog id="21" name="SEL_019_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перша сторінка]]></Option>
   </Dialog>
@@ -130,7 +130,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
   <Dialog id="23" name="SEL_021_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перша сторінка]]></Option>
   </Dialog>
@@ -143,14 +143,14 @@
   </Dialog>
   <Dialog id="25" name="SEL_023_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перша сторінка]]></Option>
   </Dialog>
   <Dialog id="26" name="SEL_024_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
@@ -160,12 +160,12 @@
   </Dialog>
   <Dialog id="28" name="SEL_026_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
   <Dialog id="29" name="SEL_027_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюнпея]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Джюмпея]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Ікуцукі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>

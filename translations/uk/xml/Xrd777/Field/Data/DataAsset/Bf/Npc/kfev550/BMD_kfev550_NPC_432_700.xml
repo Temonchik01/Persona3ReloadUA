@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_kfev550_NPC_432_700.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev550\BMD_kfev550_NPC_432_700.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="59 6F 2D 59 6F 20 46 69 73 68 69 6E 67 20 53 74 61 6C 6C 20 4F 77 6E 65 72">Yo-Yo Fishing Stall Owner</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 432}Hey, kid. Here for your first shrine visit of the year, eh? I'll have to pay my own respects after work.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 432}Today's yo-yo fishing is a New Year's version. Great luck if you catch it, worst luck if it breaks![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

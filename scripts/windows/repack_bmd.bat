@@ -21,7 +21,7 @@ echo Guard: BMD output is locked to L10N/en only.
 echo.
 
 "%~dp0..\..\tools\bmd\P3RBmdTool.exe" --batch-import-xml ^
-    "%~dp0..\..\xml" ^
+    "%~dp0..\..\translations\uk\xml" ^
     "%~dp0..\..\tools\dds_l10n\source" ^
     "%OUT_DIR%" ^
     %REPACK_ARGS%

@@ -11,9 +11,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Скажи, як тобі життя користувача Персони?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Fulfilling.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Something's missing.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's whatever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Цікаве.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чогось не вистачає.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Таке.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Радий це чути.[n]{f 1 1}]]></Page>

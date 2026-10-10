@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_BattleResult.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Battle\Result\BMD_BattleResult.uasset" dialogs="9">
+  <Speakers>
+    <Speaker id="0" rawBytes="44 45 56 3A 20 53 79 73 74 65 6D 20 4D 45 53">DEV: System MES</Speaker>
+  </Speakers>
+  <Dialog id="0" name="BattleResult_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Відсутньо[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="PFM_BattleResult_1" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сила {f 4 3} зросла. Тепер ви можете мати при собі до восьми Персон одночасно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="PFM_BattleResult_2" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сила {f 4 3} зросла. Тепер ви можете мати при собі до десяти Персон одночасно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="PFM_BattleResult_3" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сила {f 4 3} зросла. Тепер ви можете носити з собою до дванадцяти Персон одночасно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MND_BattleResult_4" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю більше сили, ніж раніше...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SYS_BattleResult_Persona" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Отримавши {f 0 1 41}Яскраве перо{f 0 1 27}, тепер ви можете створити Персону {f 0 1 35}Людина-Метелик{f 0 1 27} – крилату міфічну потвору![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SYS_BattleResult_Persona" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Отримавши {f 0 1 41}Камінь пентаграми{f 0 1 27}, тепер ви можете створити Персону {f 0 1 35}Декарабіа{f 0 1 27} – демона пентакля![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="SYS_BattleResult_Persona" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Отримавши {f 0 1 41}Пелюстку лілії{f 0 1 27}, тепер ви можете створити Персону {f 0 1 35}Ліліт{f 0 1 27} – королеву ночі![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SYS_BattleResult_Persona" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Отримавши {f 0 1 41}Хвіст фенікса{f 0 1 27}, тепер ви можете створити Персону {f 0 1 35}Хоуоу{f 0 1 27} – птаха щастя![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

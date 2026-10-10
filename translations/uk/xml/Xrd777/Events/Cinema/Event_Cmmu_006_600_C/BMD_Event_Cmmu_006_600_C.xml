@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_006_600_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_006_600_C\BMD_Event_Cmmu_006_600_C.uasset" dialogs="15">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="46 75 74 75 72 69 73 74 69 63 20 48 69 67 68 20 53 63 68 6F 6F 6C 20 47 69 72 6C">Futuristic High School Girl</Speaker>
+    <Speaker id="2" rawBytes="48 65 6C 70 65 72 20 52 6F 62 6F 74">Helper Robot</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 1 0 0}I always wondered what they meant by "hard" science fiction.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 2 0 0}So the last time I passed by this theater, I asked the ticket clerk.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_000_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 3 0 0}He said, "It's a science fiction story that could actually happen."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 4 0 0}I actually don't find movies about far away galaxies or magic and spellcasting that interesting...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_000_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 5 0 0}I like movies that make you think, "Ten years down the road, maybe this could happen."[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 6 0 0}You get to see a familiar world, but just slightly more advanced.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_000_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 7 0 0}I think it's fun to imagine our world slowly changing like that...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_000_8_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 5 -1 0 0}{f 3 1 1 0 0 8 0 0}Oh, sorry! I got a little carried away. We still haven't even seen the movie yet.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 6 1 25 25}I hope we can get good seats.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_900_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}...Morning, Roboco.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_901_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}GOOD MORNING, MASTER. THERE ARE NO CHANGES TO YOUR REGULAR SCHEDULE TODAY.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_902_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}I'm so bored. When will I meet my shining android prince atop a gallant white steed...?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MND_001_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I got a look at what life could[n]be like in the near future.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}And learned about cutting-edge[n]scientific theories...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 13 0 0}Wow, that was amazing. I wonder if our civilization will ever advance that far...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 21 6 7}Like, did you see that iron!? It got rid of the wrinkles on their clothes in half a second.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_002_3_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 15 0 0}To get that much heat out of an iron so quickly, you'd probably have to keep it charged.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 16 0 0}Though it wouldn't have to be with electricity. It could be gas-powered, or even a hybrid...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_002_7_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 17 0 0}Or maybe they have a totally new energy source! But they'd still need some sort of system to send energy into the iron...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 0 0 0 18 0 0}......[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 5 -1 0 0}{f 3 1 1 0 0 19 0 0}Oh! I-I'm sorry![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 5 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 6 0 25 25}{f 4 21 6 11}The movie got me all excited, so I got a bit carried away.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_003_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 5 -1 0 0}{f 3 1 1 0 0 21 0 0}Anyway, I hope we can come again sometime.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_004_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I decided to go back to[n]the dorm with Fuuka.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

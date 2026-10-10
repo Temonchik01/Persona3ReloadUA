@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Dungeon_041.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Tutorial\Dungeon\BMD_Tutorial_Dungeon_041.uasset" dialogs="2">
+  <Speakers>
+    <Speaker id="0" rawBytes="43 72 75 6D 62 6C 69 6E 67 20 4F 62 6A 65 63 74 73">Crumbling Objects</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 45}You are now able to {f 0 1 2}Crumble{f 0 1 27} breakable objects while exploring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 45}While in the {f 0 1 2}assault state{f 0 1 27}, you will destroy breakable objects simply by making contact with them. Keep in mind, however, that Shadows will not be affected by Crumble in any way.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

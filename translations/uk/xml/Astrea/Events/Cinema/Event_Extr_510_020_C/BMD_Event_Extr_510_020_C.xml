@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_510_020_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_510_020_C\BMD_Event_Extr_510_020_C.uasset" dialogs="25">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 65 74 69 73 27 73 20 56 6F 69 63 65">Metis's Voice</Speaker>
+    <Speaker id="1" rawBytes="4D 65 74 69 73">Metis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MND_000_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Metis asked to meet with me,[n]but I don't see her anywhere...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}Sisteeerrr![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 1 0 0 2 0 0}Apologies for the wait— Oh! I mean...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 3 0 0}Sorry, did I keep you waiting?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, you did.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I just got here.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What did you need?]]></Option>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 3 52 -1 0 0}{f 3 1 1 0 0 4 0 0}Oh... I'm so sorry. I should've known better—that was rude of me.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 3 52 -1 0 0}{f 3 1 1 0 0 5 0 0}I was under the impression that I was observing proper etiquette... I must have been mistaken.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 6 0 0}Ooh, you actually said it! According to proper etiquette, that's the correct response![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 1 0 0 7 0 0}Huh? That's not in the script. Did I not follow proper etiquette?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 8 0 0}I read a book at the dorm that illustrated how two people in uniform rendezvous.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 9 0 0}Is it not custom for those of similar age to don matching clothes and do all sorts of activities together?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 10 0 0}I thought it'd be a shame should these outfits only be associated with exploration and combat...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 11 0 0}So I was hoping the two of us could make some more pleasant memories in them while we still have the chance.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="SEL_010_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's a wonderful idea.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Should I have worn mine?]]></Option>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 12 0 0}You really think so? Well, in that case...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 13 0 0}You should wear your uniform, too! No, you must! Please![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Faced with Metis's enthusiasm,[n]I returned to the dorm to change[n]into my school uniform...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 14 0 0}Y-You really don't mind!?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 15 0 0}I mean, yes! Please do! I'll wait right here while you go get changed![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MND_014_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Metis was vibrating with excitement[n]as she saw me off to the dorm...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 11 52 -1 0 0}{f 3 1 1 0 0 16 0 0}...Is this what true bliss feels like?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 2 52 -1 0 0}{f 3 1 1 0 0 17 0 0}Now that we're finally matching, I can't afford to squander even a single second of our time together![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 2 52 -1 0 0}{f 3 1 1 0 0 18 0 0}We must hurry and seize the opportunity to make new memories![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 1 0 0 19 0 0}{f 4 23 0 1 0 25 25}Please take the lead, Sister. What kinds of things are supposed to be done in school uniforms?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="SEL_017_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Studying to gain knowledge.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Drinking coffee to refine charisma.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Singing karaoke to build tenacity.]]></Option>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}{f 3 1 1 0 0 20 0 0}I see—you are a student, after all. So the real thrill of wearing a uniform isn't from going out and having fun with friends...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 21 0 0}{f 4 23 0 1 1 25 25}I learned something new today! Okay then, let's head back to the dorm and study there![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MND_019_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I decided to head back[n]home with Metis.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}In the end, all we did was talk[n]instead of studying, but Metis[n]still seemed very satisfied...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 1 0 0 22 0 0}So students drink coffee... to refine themselves? Does it make their skin smoother or something?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 23 0 0}{f 4 23 0 1 1 25 25}I also want to polish and refine myself for your sake, so I hope drinking coffee works for me, too![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 1 0 0 24 0 0}I wasn't sure what to make of karaoke, but... If it requires tenacity, doesn't that mean it's dangerous?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 25 0 0}{f 4 23 0 1 1 25 25}Is the mundane world a more hazardous place than I had originally thought...? What a surprising discovery.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 1 0 0 26 0 0}Well then, no time to waste! Let's get going.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 11 52 -1 0 0}{f 3 1 1 0 0 27 0 0}Just me and my sister—in our school uniforms![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_024_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We spent time at Paulownia Mall[n]until Metis was fully satisfied...[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

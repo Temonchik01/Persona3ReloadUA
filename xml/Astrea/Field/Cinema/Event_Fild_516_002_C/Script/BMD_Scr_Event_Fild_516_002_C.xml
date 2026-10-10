@@ -5,9 +5,9 @@
     <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}На цьому поверсі... Тут є замкнена скриня зі скарбами. Можеш спробувати знайти й відкрити її?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 50 0 0}This floor... There's a locked treasure chest here. Can you try finding and opening it?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_1_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Я отримую дані про замкнену скриню зі скарбами! Було б чудово, якби ми змогли її забрати.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}I'm getting a reading on a locked treasure chest! It'd be great if we could collect it.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

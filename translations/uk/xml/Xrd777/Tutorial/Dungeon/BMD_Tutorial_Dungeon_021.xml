@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Tutorial_Dungeon_021.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Tutorial\Dungeon\BMD_Tutorial_Dungeon_021.uasset" dialogs="4">
+  <Speakers>
+    <Speaker id="0" rawBytes="4D 69 73 73 69 6E 67 20 50 65 72 73 6F 6E 73">Зниклі безвісти</Speaker>
+  </Speakers>
+  <Dialog id="0" name="TRL_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 20}Іноді ви зустрінете {f 0 1 2}зниклих безвісти{f 0 1 27}, які заблукали в Тартарі.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="TRL_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Зниклих безвісти неможливо врятувати {f 0 1 2}після повного місяця{f 0 1 27}, тому краще якомога швидше рятувати всіх, кого ви знайдете.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="TRL_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Ви можете {f 0 1 2}отримати нагороду в поліцейському відділку{f 0 1 27} на наступний день після успішного порятунку, тож не забудьте зайти туди.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="TRL_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 8 0}Ви можете {f 0 1 2}запитати Елізабет{f 0 1 27}, де перебувають зниклі безвісти. Регулярно звертайтеся до неї за порадою, щоб врятувати тих, хто загубився в Тартарі.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

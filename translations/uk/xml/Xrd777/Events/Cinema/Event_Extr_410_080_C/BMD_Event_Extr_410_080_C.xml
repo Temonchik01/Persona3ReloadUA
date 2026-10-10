@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_410_080_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Extr_410_080_C\BMD_Event_Extr_410_080_C.uasset" dialogs="28">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="2" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="3" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="5" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69 20 28 53 45 29">Junpei Iori (SE)</Speaker>
+    <Speaker id="6" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61 20 28 53 45 29">Akihiko Sanada (SE)</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}{f 3 1 1 0 0 1 0 0}Good work out there, team![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 1 0 0 2 0 0}I'm sorry. I should have been able to navigate better.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="SEL_002_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not a problem.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You did great for your first time.]]></Option>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 3 0 0}I agree. I'm convinced that you're the one we need on support.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 52 -1 0 0}{f 3 1 1 0 0 4 0 0}Yeah, thanks a lot, Fuuka.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 1 0 0 6 0 0}I didn't do anything. It was all you, Yukari-chan.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}{f 3 1 1 0 0 7 0 0}That special attack sure was cool though, Yuka-tan! How'd you do it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 52 -1 0 0}{f 3 1 1 0 0 8 0 0}How...?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 52 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 2 10 25 25}I just focused really hard and thought to myself, I have to do whatever it takes.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 52 -1 0 0}{f 3 1 1 0 0 10 0 0}And while I was thinking that, I kind of felt something surging inside me.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 52 -1 0 0}{f 3 1 1 0 0 11 0 0}The chairman did say the cartridge would synchronize with our emotions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 1 0 0 12 0 0}Right. Although, I'm still not entirely sure how it works.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 1 0 0 13 0 0}From what I could tell, it reacted to Yukari-chan's strong emotions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 14 0 0}So this weapon gives the user strength beyond their limits when their emotions are heightened?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 52 -1 0 0}{f 3 1 1 0 0 15 0 0}Uh, I don't really get it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}{f 3 1 1 0 0 16 0 0}{f 4 23 0 3 1 25 25}But basically, if we're fired up enough, we can really pop off, right!?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 1 0 0 17 0 0}And thanks to you, Yukari-chan, we have a good idea of how it works.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 1 0 0 18 0 0}From now on, I should be able to tell when someone can use theirs.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="SEL_013_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's all thanks to Yukari.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm dying to try for myself.]]></Option>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 52 -1 0 0}{f 3 1 1 0 0 19 0 0}I-I didn't do much.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 52 -1 0 0}{f 3 1 1 0 0 20 0 0}{f 4 23 0 2 10 25 25}I just got lucky. I don't know much more than anyone else.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}{f 3 1 1 0 0 21 0 0}Me too, me too![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 9 52 -1 0 0}{f 3 1 1 0 0 22 0 0}{f 4 23 0 3 9 25 25}Actually, I'm pretty fired up right now. Maybe I can already cook one up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 52 -1 0 0}{f 3 1 1 0 0 23 0 0}U-Um, actually I think it's too dangerous to use here, Junpei-kun.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 1 0 0 24 0 0}I'll do more research into how the syncing with emotions works later.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 1 0 0 25 0 0}Everyone has different feelings when they're fighting, so the timing on when they can use these will probably be different too.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_018_0_0" type="Message">
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 52 -1 0 0}{f 3 1 1 0 0 26 0 0}I'd like to give it a go myself, but we should call it a day for now.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 52 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 4 23 0 4 0 25 25}We can't overwork {f 4 1}, and we've got some time until the next full moon.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 1 0 0 28 0 0}I'm a little worried about the change with the floors though. What if something like that happens again?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 6 52 -1 0 0}{f 3 1 1 0 0 29 0 0}Yes, if something has changed in the tower, we'll need to be extra careful when exploring from now on.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 30 0 0}In any case, we may have had some problems, but we learned a lot today.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 52 -1 0 0}{f 3 1 1 0 0 31 0 0}Not only did we get to test our new lineup and equipment, but we also got to see that we're all improving at a remarkable pace.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}{f 3 1 1 0 0 32 0 0}Aww, Kirijo-senpai! Quit buttering me up![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 52 -1 0 0}{f 3 1 1 0 0 33 0 0}Just leave everything to Junpei Iori, the soon-to-be MVP![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 52 -1 0 0}{f 3 1 1 0 0 34 0 0}Maybe I shouldn't be the one to say this, but...[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 52 -1 0 0}{f 3 1 1 0 0 35 0 0}You literally didn't do anything today.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message"/>
+  <Dialog id="25" name="MSG_025_0_0" type="Message"/>
+  <Dialog id="26" name="MSG_026_0_0" type="Message"/>
+  <Dialog id="27" name="PFM_027_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}All allies can now use Theurgy.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

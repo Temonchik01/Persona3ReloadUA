@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Cmmu_003_720_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_003_720_C\BMD_Event_Cmmu_003_720_C.uasset" dialogs="19">
+  <Speakers>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}So in the last volume, we left off just as the hero passed out from pushin' himself too hard.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}That part where his teammates manage to keep an even score while he's out was such a tear-jerker![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 3 1 25 25}The game's almost over, and our hero—still weak after a short rest—steps up to bat...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="SEL_001_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's getting exciting!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's pretty cliché.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What happens next?]]></Option>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}Hey, you totally get it! I honestly thought you wouldn't be into it so much.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}It's predictable, but it doesn't stop it from being awesome! Man I forgot how good stories like these are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}{f 3 1 1 0 0 6 0 0}Well sure, but... you gotta just enjoy it for what it is, y'know?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 3 1 25 25}It's predictable, but it doesn't stop it from being awesome! Man I forgot how good stories like these are.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Well read it and find out! Unless you want me to just spoil it all for ya.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 9 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}{f 4 23 0 3 9 25 25}I know it's only a manga, but it's been a long time since I've been this pumped up![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Alright, now that we're at the best part, let's go full speed 'til the end![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Whew... What a ride.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_006_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}The hero totally kicks everyone's asses in the end. And that part where he's so exhausted that he, like, surges with power...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}It's like his senses heightened to a whole 'nother level. Wouldn't it be so freakin' cool if we could do that?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="SEL_007_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Why don't you give it a shot?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That only happens in manga.]]></Option>
+  </Dialog>
+  <Dialog id="9" name="MSG_008_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}Think so? It's gonna be intense, y'know. It's what separates the chumps from the masters.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}No way, man! I think it's worth a shot! It's what separates the chumps from the masters![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_010_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}You can't just rely on raw strength. You gotta concentrate, let go of all that tension...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}{f 4 23 0 3 1 25 25}Then gzzzzt! Your power's all like womwomwom, and you unleash it like pchooooo![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 18 0 0}Or maybe you power up like HNNNGH, then let 'er rip—FYOOO, PCHOOOOO! That make sense?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MND_010_7_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Junpei picked up some combat tips[n]from the hero of the baseball manga.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_011_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 19 0 0}Dude, I think I might actually be able to pull this off. I gotta look into this more.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 20 0 0}Wanna read it one more time? Just the last part, I mean.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MND_012_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}The young hero's dedication[n]filled me with {f 4 30 2 1 1 0}![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_013_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 0 21 0 0}And that, my friend, wraps up the series.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_013_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 22 0 0}Reading alone's fine, but with gems like this one, it's better to share the fun with a pal.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}I'll bring you somethin' else next time. We should do this again when you're free.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}Let's call it a night, shall we? Man, I'm gonna sleep like a log.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

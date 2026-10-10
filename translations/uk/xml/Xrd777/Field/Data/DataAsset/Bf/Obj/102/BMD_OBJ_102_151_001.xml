@@ -13,7 +13,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_SEED_THINK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що посадити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що посадити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_SEED_PLANTED" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я посадив {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
@@ -29,7 +29,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не садити]]></Option>
   </Dialog>
   <Dialog id="7" name="MND_PLANT_AGAIN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи треба щось садити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи треба щось садити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_SEED_TUTORIAL" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це те, про що мені сказали подбати.[n]{f 1 1}]]></Page>

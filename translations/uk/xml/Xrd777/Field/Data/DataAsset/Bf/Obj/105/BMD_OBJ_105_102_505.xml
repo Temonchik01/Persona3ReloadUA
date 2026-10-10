@@ -37,7 +37,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На вивісці написано, «Закрито для знищення[n]термітів. Відчинимось 25 квітня.»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_009_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені заходити до книгарні...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені заходити до книгарні?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти]]></Option>
@@ -90,7 +90,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести[n]день з {f 2 4 0}?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MND__GENERAL_MSG_NET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто проводити час граючи в [n]ММОРПГ з {f 2 4 0}...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто проводити час граючи в [n]ММОРПГ з {f 2 4 0}?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MND_GENERAL_MSG_SOLO_NT" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести вечір[n]з {f 2 4 0}?[n]{f 1 1}]]></Page>

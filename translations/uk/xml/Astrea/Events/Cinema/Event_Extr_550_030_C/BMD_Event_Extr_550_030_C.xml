@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Extr_550_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\Events\Cinema\Event_Extr_550_030_C\BMD_Event_Extr_550_030_C.uasset" dialogs="25">
+  <Speakers>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="4D 65 74 69 73">Metis</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 52 -1 0 0}{f 3 1 3 0 -1 5001 0 0}Aigis, do you have a minute? I wanted to ask you something.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}Oh, um... Should I leave?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_001_5_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}...I'll come back later, then.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}No, no, I didn't mean it like that. Actually, I'd like your opinion, too, Metis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_002_5_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}No, wait! I'd actually like your opinion, too, Metis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="MSG_003_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 3 0 -1 5003 0 0}Have I, um... Have I been doing a good job providing support? It's been a while, so I'm not that confident anymore...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="6" name="SEL_004_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're doing as well as ever.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I can't really say...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You should be more confident.]]></Option>
+  </Dialog>
+  <Dialog id="7" name="MSG_005_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 3 0 -1 5049 0 0}Really...? Well, if you say so...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_006_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 3 0 -1 5053 0 0}Because it's too hard to say it out loud...? I'm so sorry, Aigis. I didn't mean to pressure you.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_007_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 3 0 -1 5094 0 0}Yeah... You're right. I need to get my act together.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}...I don't understand. Why do you lack confidence in your area of expertise?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}Even if we had said that your performance was flawless, you still wouldn't have believed us.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_009_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 52 -1 0 0}{f 3 1 3 0 -1 5098 0 0}Huh...? Y-You think so? I didn't mean that at all...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 0 52 -1 0 0}Aren't you in the support role because you wanted it?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_011_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30081 0 0}Take me, for example. I'm here because I want to protect my sister![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}And I don't second-guess my decisions.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}Hehe, wow... You're so cool, Metis.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_013_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}Huh...? Isn't this just normal?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 52 -1 0 0}{f 3 1 3 0 -1 5084 0 0}Well... It's hard for me to have as much confidence as other people would. I see what you mean, though.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 4 23 0 1 1 25 25}And the way you're so sure of yourself is actually really inspiring.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="17" name="MSG_015_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 3 0 -1 5025 0 0}I doubt I can change right away, but... I do want to be more confident in myself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}I need some time to think about what it is I want to accomplish.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="MSG_016_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}Don't make this weird... I was just saying what anyone else would. Right, Sister?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="19" name="SEL_017_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You're truly inspirational.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}There's no need to be shy.]]></Option>
+  </Dialog>
+  <Dialog id="20" name="MSG_018_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 1 52 -1 0 0}{f 3 1 3 0 -1 30107 0 0}Y-You really think so? Ehehe...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_019_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}{f 3 1 3 0 -1 30105 0 0}I'm not, though...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 4 52 -1 0 0}...Okay, maybe just a little bit.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_020_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 52 -1 0 0}{f 3 1 3 0 -1 5043 0 0}Regardless, thank you both for your help. Rest assured, you can count on me for our next trip![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 11 2 52 -1 0 0}Wh-What!? You're not going to outclass me! Just watch, Sister—I'll handle everything myself next time![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MND_022_0_0" type="Message">
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It took a joint effort between[n]Fuuka-san and me to get Metis[n]to calm down.[n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

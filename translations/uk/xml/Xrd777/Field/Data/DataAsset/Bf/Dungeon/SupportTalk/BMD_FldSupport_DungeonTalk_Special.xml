@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_FldSupport_DungeonTalk_Special.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\SupportTalk\BMD_FldSupport_DungeonTalk_Special.uasset" dialogs="1916">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
-    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="2" rawBytes="41 69 67 69 73">Aigis</Speaker>
-    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
-    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
-    <Speaker id="5" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
-    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
-    <Speaker id="7" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
-    <Speaker id="8" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="2" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="3" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
+    <Speaker id="4" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюмпей Іорі</Speaker>
+    <Speaker id="5" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="6" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="7" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
+    <Speaker id="8" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
   </Speakers>
   <Dialog id="0" name="AST_DNG_LIMITED_002_0_00" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1 0 0}It's kinda weird to be all alone together in a place like this...[n]{f 1 1}]]></Page>
@@ -2541,7 +2541,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 2593 0 0}Ahaha... The thought probably never even crossed their minds.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="843" name="AST_DNG_REGULAR_124_09_0" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}(скиглення)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="844" name="AST_DNG_REGULAR_124_09_1" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 3559 0 0}Koro-chan, I know it must be hot, but please try to bear with your protective gear, okay?[n]{f 1 1}]]></Page>
@@ -3132,7 +3132,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 634 0 0}Don't you start with that "Believe It, or Don't" schtick, or I'm gonna snap.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1040" name="AST_DNG_REGULAR_146_03_1" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}(скиглення)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1041" name="AST_DNG_REGULAR_146_06_0" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 2140 0 0}Please be on the lookout for any nearby Shadows.[n]{f 1 1}]]></Page>
@@ -3144,7 +3144,7 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 2142 0 0}Man, the Shadows just keep comin', and Tartarus just keeps goin' and goin'...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1044" name="AST_DNG_REGULAR_146_09_0" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}(скиглення)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1045" name="AST_DNG_REGULAR_146_09_1" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 3582 0 0}Come to think of it, Aragaki-senpai was usually the one feeding Koro-chan...[n]{f 1 1}]]></Page>
@@ -5694,7 +5694,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 1704 0 0}This time, for sure... We'll put an end to Tartarus and the Dark Hour![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1894" name="AST_DNG_REGULAR_260_09_0" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}*whine*[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 635 0 0}(скиглення)[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1895" name="AST_DNG_REGULAR_260_09_1" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 3711 0 0}It's really sad when you can understand someone else's words... but not their feelings.[n]{f 1 1}]]></Page>

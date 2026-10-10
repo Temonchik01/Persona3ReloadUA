@@ -8,7 +8,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}In this scene, the main character says, "That ass better not crack under pressure."[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Usually, people's asses are already cracked. Yours is as well, right, -san?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Usually, people's asses are already cracked. Yours is as well, right, {f 4 2}-san?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Obviously.]]></Option>
@@ -35,7 +35,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}If you don't mind, could I ask you to read with me until the end?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_008_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 5 13 22 1 7}Thank you very much, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}{f 5 13 22 1 7}Thank you very much, {f 4 2}-san.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}With your help, I've been able to update my records with new information.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_009_0_0" type="Message">
@@ -45,7 +45,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}If it is possible, I would like to read with you again sometime.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_10_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю як  {f 4 30 1 1 1 0} [n]покращилось після прочитання про[n]праведний дух головного героя...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my {f 4 30 1 1 1 0} has[n]increased after reading about the[n]main character's righteous spirit...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_011_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 17 0 0}It's gotten rather late.[n]{f 1 1}]]></Page>
@@ -83,7 +83,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 30 0 0}{f 4 23 0 7 1 25 25}If you don't mind... could I ask you to keep reading with me until the end?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_020_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}{f 5 13 22 1 7}Thank you very much, -san.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}{f 5 13 22 1 7}Thank you very much, {f 4 2}-san.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}I have a much better understanding now, as a result of your help.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_021_0_0" type="Message">
@@ -93,7 +93,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 4 23 0 7 1 25 25}If you don't mind, could we read together again sometime?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю як  {f 4 30 1 1 1 0} [n]покращилось після прочитання про[n]праведний дух головного героя...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my {f 4 30 1 1 1 0} has[n]increased after reading about the[n]main character's righteous spirit...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_023_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}It's already gotten late. We should both head back to our turf...[n]{f 1 1}]]></Page>
@@ -144,7 +144,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 55 0 0}Maybe I can find some tips in this book...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MND_034_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю як  {f 4 30 1 1 1 0} [n]покращилось після прочитання про[n]праведний дух головного героя...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my {f 4 30 1 1 1 0} has[n]increased after reading about the[n]main character's righteous spirit...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MSG_035_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 56 0 0}{f 5 13 22 1 7}I think this is enough reading for now. We should return to our rooms.[n]{f 1 1}]]></Page>
@@ -193,7 +193,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 74 0 0}{f 4 23 0 7 3 25 25}Maybe I can find some tips in this book...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MND_046_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю як  {f 4 30 1 1 1 0} [n]покращилось після прочитання про[n]праведний дух головного героя...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like my {f 4 30 1 1 1 0} has[n]increased after reading about the[n]main character's righteous spirit...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MSG_047_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 75 0 0}{f 4 23 0 7 1 25 25}{f 5 13 22 1 7}I think that's enough for today. Good night.[n]{f 1 1}]]></Page>

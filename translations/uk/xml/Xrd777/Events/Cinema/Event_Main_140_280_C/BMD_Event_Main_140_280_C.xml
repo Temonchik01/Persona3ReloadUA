@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_Event_Main_140_280_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_280_C\BMD_Event_Main_140_280_C.uasset" dialogs="42">
+  <Speakers>
+    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюмпей Іорі</Speaker>
+    <Speaker id="2" rawBytes="50 72 65 74 74 79 20 4C 61 64 79">Гарна пані</Speaker>
+    <Speaker id="3" rawBytes="44 65 6C 75 73 69 6F 6E 61 6C 20 4C 61 64 79">Маревна пані</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 102 -1 0 0}{f 3 1 1 0 0 1 0 0}Он там жінка, зовсім одна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 102 -1 0 0}{f 3 1 1 0 0 2 0 0}Це рідкість — побачити когось не в компанії.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 3 0 0}І хлопців поблизу теж не видно! Здається, шлях вільний![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 4 0 0}Гаразд, час встановлювати контакт.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 5 0 0}Перепрошую, пані![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 6 0 0}{f 5 21 0 1001}О, привіт! Чим можу допомогти?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="3" name="MSG_003_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 7 0 0}Ого, яка гаряча штучка.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 8 0 0}{f 4 23 0 3 1 25 25}Слухайте, ем, ви тут самі?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="4" name="MSG_004_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 9 0 0}{f 5 21 0 1001}Ага, і мені та-а-ак нудно.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 10 0 0}{f 5 21 0 1001}До речі, я за вами спостерігала. Ви вже давно намагаєтеся підчепити якихось дівчат.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 11 0 0}{f 5 21 0 1001}І як ваші успіхи?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="5" name="SEL_005_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ми були близькі до цього.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Це був повний провал.]]></Option>
+  </Dialog>
+  <Dialog id="6" name="MSG_006_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 12 0 0}{f 5 21 0 1001}Розумію. Ви, хлопчики, такі милі.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 13 0 0}{f 5 21 0 1001}Але знаєте, чому вам не вдалося? Тому що ви не розумієте, що відчуває жінка.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="7" name="MSG_007_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 14 0 0}{f 5 21 0 1500}Ха-ха, я так і знала. Ви, хлопчики, зовсім не розумієте жінок.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="8" name="MSG_008_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 15 0 0}Мабуть, із цим не посперечаєшся...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="9" name="MSG_009_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 16 0 0}{f 5 21 0 1001}Ти, в капелюсі. Ти занадто зациклений на собі.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 17 0 0}{f 5 21 0 1001}Хіба ти не повинен більше думати про те, як зробити свою партнерку щасливою?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="10" name="MSG_010_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 102 -1 0 0}{f 3 1 1 0 0 18 0 0}Так, пані.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="11" name="MSG_011_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 19 0 0}{f 5 21 0 1001}Ти, у футболці. Ти з тих, хто виглядає суворо, але не має великого досвіду спілкування з дівчатами.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="12" name="MSG_012_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 102 -1 0 0}{f 3 1 1 0 0 20 0 0}Т-так, гадаю, це може бути правдою.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="13" name="MSG_013_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 21 0 0}{f 5 21 0 1001}До того ж ти здаєшся трохи проблемним. Ніби до всього підходиш надто логічно.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="14" name="MSG_014_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 102 -1 0 0}{f 3 1 1 0 0 22 0 0}Нгх...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="15" name="MSG_015_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 23 0 0}{f 5 21 0 1001}А щодо тебе, хлопче з довгим волоссям... Я навіть не знаю, що сказати.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="16" name="SEL_016_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що ви маєте на увазі?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гей, не стримуйте себе.]]></Option>
+  </Dialog>
+  <Dialog id="17" name="MSG_017_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 24 0 0}{f 5 21 0 1001}Ха-ха, я маю на увазі, що ти загадковий. Ніби ніхто ніколи не може зрозуміти, про що ти насправді думаєш.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 1001}Розумієш мене?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="18" name="SEL_018_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Розумію.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки не маю.]]></Option>
+  </Dialog>
+  <Dialog id="19" name="MSG_019_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 26 0 0}{f 5 21 0 1001}О, який ти розумник.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 27 0 0}{f 5 21 0 1001}Мгм, мені здається, ти саме в моєму смаку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="20" name="MSG_020_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 28 0 0}{f 5 21 0 1001}Ого, який ти наївний.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 29 0 0}{f 5 21 0 1001}Мгм, мені здається, ти саме в моєму смаку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="21" name="MSG_021_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 30 0 0}Г-гей, зачекайте хвилинку![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="22" name="MSG_022_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 31 0 0}{f 5 21 0 1001}Та я про-о-осто жартую.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 32 0 0}{f 5 21 0 1001}Ви мені теж дуже подобаєтеся.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="23" name="MSG_023_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 33 0 0}П-правда?![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="24" name="MSG_024_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 34 0 0}{f 5 21 0 1001}Хочете, скажу, що зробило б мене по-справжньому щасливою?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="25" name="MSG_025_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 35 0 0}Т-так, пані![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="26" name="MSG_026_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 36 0 0}{f 5 21 0 1001}Чи не могли б ви допомогти мені нанести сонцезахисний крем?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="27" name="MSG_027_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 37 0 0}Що?! Тобто, ем, ви справді не проти?![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="28" name="MSG_028_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 38 0 0}{f 5 21 0 1001}Звісно, що ні. У мене і для вас вистачить.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="29" name="MSG_028_5_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 17 3 11 1}]]></Page>
+  </Dialog>
+  <Dialog id="30" name="MSG_029_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 39 0 0}О-О-О![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 102 -1 0 0}{f 3 1 1 0 0 40 0 0}Ой, блін, хлопці, мені справді дуже шкода, але я не змарную такий шанс![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="31" name="MSG_030_0_0" type="Message">
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 41 0 0}{f 5 21 0 1001}Не бажаєте приєднатися? Я зроблю вам гарну знижку.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="32" name="MSG_031_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 102 -1 0 0}{f 3 1 1 0 0 42 0 0}...Знижку?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="33" name="MSG_032_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 43 0 0}{f 5 21 0 1001}Ви ж знаєте, що сонце на небі несправжнє, так? Це штучне світило, яке відправили в космос ще у 1980-х.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="34" name="MSG_033_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 102 -1 0 0}{f 3 1 1 0 0 44 0 0}...Га?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="35" name="MSG_034_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 45 0 0}{f 5 21 0 1001}Хіба не знали? Виявляється, це сонце випромінює шкідливі промені, які порушують рівновагу вашого організму. Звичайний сонцезахисний крем тут безсилий.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 46 0 0}{f 5 21 0 1001}Але саме для цього є ось цей особливий засіб. І якщо ви погодитеся просто зараз, то зможете отримати три флакони всього за 300 000 єн![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="36" name="MSG_035_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 102 -1 0 0}{f 3 1 1 0 0 47 0 0}Слухай, {f 4 1}, тобі не здається, що вона каже якісь дивні речі?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="37" name="SEL_036_0_0" type="Selection">
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Рятуймо Джюмпея.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відступаємо, відступаємо!]]></Option>
+  </Dialog>
+  <Dialog id="38" name="MSG_037_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 48 0 0}А-а-а! Якого біса! Не кидайте мене тут![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="39" name="MSG_038_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 49 0 0}{f 5 21 0 1001}Що-о-о, уже йдете?[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="40" name="MSG_039_0_0" type="Message">
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 102 -1 0 0}{f 3 1 1 0 0 50 0 0}В-вибачте, що потурбували![n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="41" name="MSG_040_0_0" type="Message">
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 51 0 0}{f 5 21 0 1001}Ой, які ж ви жорсто-о-окі![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

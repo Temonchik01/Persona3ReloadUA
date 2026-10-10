@@ -4,19 +4,19 @@
     <Speaker id="0" rawBytes="44 45 56 3A 20 49 6E 74 65 72 6E 61 6C 20 4D 45 53">DEV: Internal MES</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_000_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Полити квіти]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не поливати їх]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Water the flowers]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't water them]]></Option>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Здається, квіти[n]ось-ось зів'януть...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The flowers seem like[n]they're about to wilt...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що це місце не отримало води.[n]Можливо, варто полити клумбу...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Looks like this spot didn't get any water.[n]Maybe I should water the flowerbed...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Я полив квіти...З ними[n]поки що все гаразд.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I gave the flowers some water...[n]They should be fine for now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Здається, що квіти почуваються чудово.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}The flowers seem to be doing great.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BMD source="BMD_NPC_608_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\600\BMD_NPC_608_000.uasset" dialogs="3">
+  <Speakers>
+    <Speaker id="0" rawBytes="53 74 75 64 65 6E 74 20 77 69 74 68 20 48 65 61 76 79 20 4D 61 6B 65 75 70">Student with Heavy Makeup</Speaker>
+  </Speakers>
+  <Dialog id="0" name="MSG_000_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}I can't let people see me without my makeup on...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}I'll have to wait for everyone to go to sleep before I take it off.[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="1" name="MSG_001_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}I made sure to wake up earlier than anyone else this morning so I could put my makeup on first.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}I really don't want anybody seeing me without it...[n]{f 1 1}]]></Page>
+  </Dialog>
+  <Dialog id="2" name="MSG_002_0_0" type="Message">
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}It's been a really rough three days, but it's almost over...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}What, can't you tell what I'm talking about?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 608}Trying to keep anyone from seeing me without my makeup, of course![n]{f 1 1}]]></Page>
+  </Dialog>
+</BMD>

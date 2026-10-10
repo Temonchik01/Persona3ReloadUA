@@ -1,321 +1,321 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Scr_Event_Fild_620_110_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Cinema\Event_Fild_620_110_C\Script\BMD_Scr_Event_Fild_620_110_C.uasset" dialogs="60">
   <Speakers>
-    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
-    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюнпей Іорі</Speaker>
-    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
-    <Speaker id="4" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
-    <Speaker id="5" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
-    <Speaker id="6" rawBytes="4B 6F 72 6F 6D 61 72 75">Коромару</Speaker>
-    <Speaker id="7" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
-    <Speaker id="8" rawBytes="4B 65 6E 20 41 6D 61 64 61">Кен Амада</Speaker>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="1" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="2" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="3" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="4" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
+    <Speaker id="5" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="6" rawBytes="4B 6F 72 6F 6D 61 72 75">Koromaru</Speaker>
+    <Speaker id="7" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Shinjiro Aragaki</Speaker>
+    <Speaker id="8" rawBytes="4B 65 6E 20 41 6D 61 64 61">Ken Amada</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_WIN_COMMON_FUKA_00" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Тінь знищено! Гарна робота![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Shadow eliminated! Good work![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_WIN_COMMON_FUKA_10" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}Попереду може бути скриня зі скарбами, але я відчуваю присутність ворога і там.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Якщо ти втомився від битви, не перенапружуйся. Відпочинь трохи.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5003 0 0}There might be a treasure chest up ahead, but I sense an enemy presence there, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If you're worn out from battling, don't push yourself too hard. Take some time to recuperate.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_WIN_COMMON_FUKA_11" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Схоже, ти переміг усіх тіней у цій місцевості.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Залишилося лише відкрити скриню зі скарбами. Давай зробимо це![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}It looks as though you've defeated all of the Shadows in this area.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}All we have to do now is open that treasure chest. Let's do it![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_WIN_RETURN" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Повернутися до входу]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Продовжити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Return to Entrance]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Continue]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_WIN_RETURN_FUKA_00" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Зрозуміло.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Будь ласка, будь обережним. Тут легко загубитися.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Understood.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Please be careful. It's easy to get lost here.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_WIN_RETURN_FUKA_10" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Зрозуміло. Я продовжу надавати підтримку.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Якщо стане небезпечно, без вагань відступайте.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Understood. I'll continue to provide support.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If it gets dangerous, don't hesitate to retreat.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_WIN_3_0_1_YUKARI" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}{f 3 1 3 0 -1 1119 0 0}...Невже я одна думала, що це буде легко? Тому що це точно не так, і це застало мене зненацька.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 0 0 0}Що ж, тепер я знаю, що не варто судити про книгу за обкладинкою. Наступного разу буду обережнішою.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Схоже, попереду ще багато чого, тож давайте перевіримо.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}{f 3 1 3 0 -1 1119 0 0}...Was I the only one who thought this would be easy? 'Cause it definitely wasn't, and that kinda caught me off-guard.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 0 0 0}Well, guess I know better than to judge a book by its cover now. Next time I'll be more careful.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Looks like there's more up ahead, so let's check it out.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_WIN_3_0_1_JUNPEI" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}{f 3 1 3 0 -1 2115 0 0}Фух... Радий, що все скінчилося. Думав, що це буде легко, але я помилявся.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Намагаєшся застати нас зненацька, так? Але потрібно більше, ніж це, щоб здолати нас.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}У всякому разі, попереду скарб, так? Ходімо, візьмемо нашу здобич![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}{f 3 1 3 0 -1 2115 0 0}Phew... Glad that's over. Thought it'd be a cinch, but boy was I wrong.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Tryin' to catch us off-guard, eh? But it'll take more than that to bring us down.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Anyways, there's treasure up ahead, right? C'mon, let's go grab our loot![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_WIN_3_0_1_SANADA" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}{f 3 1 3 0 -1 3060 0 0}Цей бій був важчим, ніж я думав.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Можливо, ворог намагався нас обдурити, прикинувшись слабким? Не думаю, що такі брудні трюки спрацюють.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Попереду ще багато чого. Йдемо далі.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}{f 3 1 3 0 -1 3060 0 0}That fight was tougher than I thought it'd be.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Maybe the enemy tried to pull one over on us by pretending to be weak? Not that dirty tricks like that would work.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}There's still more up ahead. Let's keep moving.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_WIN_3_0_1_MITSURU" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4112 0 0}Це був досить потужний ворог... А може, я просто недооцінила його силу.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}У такому разі, я прошу вибачення. Я повинна була знати краще, ніж припускати, тим більше, що це буде ризикувати нашими життями.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}Будьмо уважними і продовжуємо рухатися.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4112 0 0}That was quite a powerful enemy... Or perhaps I was simply underestimating its strength.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}In which case, I apologize. I should've known better than to assume, especially since it'll be our lives at risk.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}Let's stay focused and keep moving.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_WIN_3_0_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Тінь знищено! Всі молодці![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Він виглядав як будь-яка інша Тінь, з якою ми стикалися, але насправді був набагато сильнішим, чи не так?..[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Давайте приготуємося на випадок, якщо щось подібне повториться, і діятимемо обережно.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Shadow eliminated! Great job, everyone![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It looked like any other Shadow we've encountered, but it was actually a lot stronger, wasn't it...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Let's brace ourselves in case something like this happens again and proceed with caution.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_WIN_3_0_2_SANADA" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3073 0 0}Здається, що Тіні з різною спорідненістю об'єднуються разом. Вони навіть прийшли з власною підтримкою.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Якщо вони працюють разом, як одна команда, то все може бути дуже ризиковано.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Але, гадаю, це доводить, що командна робота значно збільшує бойову міць групи.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Тож ми розраховуємо на тебе, Лідере.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3073 0 0}Seems like Shadows with different affinities are banding together. They even brought their own support.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}If they're working together as a team, then things could get dicey.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}But I suppose this proves that teamwork significantly increases a group's combat power.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}So we'll be counting on you, Leader.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_WIN_3_0_2_MITSURU" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4078 0 0}Щойно... у кожної Тіні була своя роль, і всі їхні дії були добре скоординовані.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}Команда, де кожен прикриває слабкі місця іншого, може бути грізною, але принаймні ми вийшли переможцями.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}Це все завдяки тому, що у нас є винятковий лідер. Я розраховую на тебе і в наступній битві.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4078 0 0}Just now... each Shadow had a designated role, and their actions were all well-coordinated.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}A team where individuals can cover each other's weaknesses can be formidable, but at least we emerged victorious.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}This was all because we have a particularly exceptional leader. I'll be counting on you for the next battle as well.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_WIN_3_0_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Ті Тіні, які щойно... Кожен з них мав унікальний набір здібностей, що робило їх дійсно збалансованою командою.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Якщо Тіні збираються працювати разом, нам потрібно бути дуже обережними.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Але якщо ми з'ясуємо, яку тактику вони використовують, то, можливо, зможемо використати їхні слабкі сторони.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Я продовжуватиму аналіз, тож розраховую на ваші рішення, Лідере.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5006 0 0}Those Shadows just now... Each of them had a unique set of abilities, which made them a really balanced team.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If Shadows are going to be working together from here on out, we'll need to be extra careful.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}But if we can figure out what tactics they're using, then maybe we can exploit their weaknesses.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}I'll stay on top of the analysis, so I'm counting on you to make the calls, Leader.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_WIN_3_0_2_AEGIS" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}Команда, з якою ми щойно билися, складалася з Тіней, у кожного з яких була здатність, в якій вони досягли успіху.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Наприклад, я добре вправляюся з вогнепальною зброєю.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}...Хоча, можливо, ви вже знаєте про це. Так чи інакше, продовжимо далі.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}The team we fought just now was comprised of Shadows, each one with an ability they exceled at.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}For instance, I excel at eliminating enemies with my firearms.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}...Though you may already be aware of that. At any rate, let us continue onward.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_WIN_3_1_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5068 0 0}Не знаю, чи це збіг обставин, але цей ворог був схожий на гральний кубик...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Чи був у нього певний хід дій в залежності від кидка? Типу, кожне число прив'язане до певної дії?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Якщо так, то це досить ризиковано. Я не можу собі уявити, що можна все покласти на удачу.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Але я думаю, що іноді всім не завадило б трохи удачі. Бажаю вам удачі і в наступній битві.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5068 0 0}I'm not sure if it's just coincidence, but that enemy resembled a die...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Did it have a set course of action depending on the roll? Like, each number is tied to a specific action?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}If that is the case, then that's pretty risky. I can't imagine leaving everything to chance like that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}But I guess everyone could use a little luck sometimes. I wish you all the best of luck in your next battle as well.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_WIN_3_1_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Ще один ворожий кубик... І коли випадає, наприклад, четвірка, то...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Я ускладнюю... Він просто використовував інші атаки, ніж той. Але, можливо, була якась закономірність у його поведінці...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Хоча наступний ворог не обов'язково може бути іншим кубиком. Але май на увазі, що деякі вороги можуть мати певні шаблони поведінки.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ходімо далі?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Another dice enemy... And when this one rolled let's say a four, for example, it...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Um, I'm complicating things... It just used different attacks from the other one. But maybe there was a pattern to its behavior...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}The next enemy might not necessarily be another dice one, though. But keep in mind that some enemies may have patterns.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Shall we keep going?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_WIN_3_1_3_YUKARI" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 0 0 0}{f 3 1 3 0 -1 1114 0 0}Я була надто зайнята боротьбою з цією штукою, щоб спочатку навіть помітити, але чи справді є якась закономірність у киданні кубиків?..[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Ну, зрештою, ми перемогли, тож удача явно на нашому боці.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 0 0 0}Хто знає? Може, нам ще пощастить і ми зірвемо джекпот у вигляді скрині зі скарбами, що чекає на нас попереду.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}А може й ні. В будь-якому випадку, давай перевіримо.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 0 0 0}{f 3 1 3 0 -1 1114 0 0}I was too occupied with fighting that thing to even notice at first, but is there really some kinda pattern with the dice roll...?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Oh well, we won in the end, so clearly luck's on our side.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 4 -1 0 0 0}Who knows? Maybe we'll get really lucky and hit the jackpot with the treasure chest up ahead.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}Or maybe not. Anyway, let's go check it out.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_WIN_3_1_3_JUNPEI" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 0 0 0}{f 3 1 3 0 -1 2115 0 0}Чесно кажучи, я не дуже звернув увагу, чи кидання кубиків дійсно щось змінило?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Хіба це має значення? Ми ж виграли! Гадаю, ми просто були сильнішими і щасливішими за них![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 0 0 0}Секундочку... Це означає, що ми зірвемо великий куш, коли відкриємо скриню зі скарбами?![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Чувак, а якщо звідти посиплеться золото і коштовне каміння? Ми будемо багаті! Готові до життя! Ходімо, перевіримо![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 0 0 0}{f 3 1 3 0 -1 2115 0 0}To be honest, I wasn't really paying attention, but did the dice roll actually do anything?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Does it even matter? We won! So I guess we were just stronger and luckier than them![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 0 0 0}Wait a sec... Does that mean we'll hit the jackpot big time when we pop open the treasure chest!?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Oh dude, what if gold and gems start pouring out!? We'd be rich! Set for life! C'mon, let's check it out![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_WIN_3_1_3_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5116 0 0}Схоже, що кидання гральних кісток якось пов'язане з нападами.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Якщо удача є вирішальним фактором у битві, то як би ти покращив свою удачу?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5116 0 0}Looks like the dice roll had something to do with the attacks.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}If luck is a decisive factor in battle, then how would you go about improving your luck...?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MSG_WIN_3_1_3_KOROMARU" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8013 0 0}Гав, Гав! Гав![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8013 0 0}Arf, arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_WIN_3_1_3_KOROMARU_F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Гадаю, Коро хоче, щоб ми помолилися в храмі.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Хі-хі, можливо, ти правий, Коро. Треба буде заскочити до храму, коли будемо гуляти.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Oh, I think Koro-chan is telling us to pray at the shrine.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Heehee, you might be right, Koro-chan. We should swing by the shrine when we go on walks.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_WIN_3_1_3_KOROMARU_2" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 0 0 0}{f 3 1 3 0 -1 8008 0 0}Гав![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 1 -1 0 0 0}{f 3 1 3 0 -1 8008 0 0}Arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_WIN_4_0_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}Отруїтися - це страшно... Воно постійно виснажує твоє здоров'я.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Переконайся, що у тебе завжди є спосіб вилікуватися, коли будеш досліджувати Тартар.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Але з іншого боку, це може бути потужною стратегією проти наших ворогів. Спробуй використати її, коли матимеш нагоду.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}Getting poisoned is scary... It continuously depletes your health.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Make sure you always have some way to cure it whenever you explore Tartarus.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}But on the flip side, it could be a potent strategy against our enemies. You should try using it when you get the chance.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_WIN_4_0_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Ворога знищено. Чудова робота![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Це трохи несправедливо, що ворог зміг виснажити твою енергію... Навіть якщо ми перемогли, це може вплинути на наш прогрес.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Попереду нас чекає ще один сильний ворог. Якщо ти вважаєш, що битися занадто ризиковано, я пропоную відступити.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Enemy annihilated. Great work![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}It's kind of unfair how the enemy could drain your energy... Even though we won, this could affect our progress.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We can expect to encounter another powerful enemy up ahead. If you think fighting might be too risky, then I suggest retreating.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_WIN_4_0_3_SANADA" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3095 0 0}Це був сильний ворог, але я нізащо не програю у випробуванні на міцність.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Тінь з жіночою фігурою не знала пощади. Вона нагадала мені Міц—[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 6 -1 0 0 0}Забудьте. Я надто дорожу своїм життям, щоб говорити про це.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3095 0 0}That was one powerful enemy, but there's no way I'll lose in a test of strength.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}The Shadow with the feminine figure showed us no mercy though. It kinda reminded me of Mi—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 6 -1 0 0 0}Never mind. I value my life too much to say any more.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_WIN_4_0_3_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Гарна робота. Тобі вдалося впоратися з тією могутньою Тінню.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}До речі, я випадково подумала, але той стілець, на якому сиділа Тінь...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Як воно трималося в повітрі? Там був якийсь реактивний двигун? Чи антигравітаційний пристрій? Але що б воно використовувало як паливо?..[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Ох! Вибач. Це просто не давало мені спокою, ось і все.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}У-У будь-якому випадку, я рада, що ти зміг його перемогти. Ходімо подивимось на скриню зі скарбами.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5143 0 0}Good work. You managed to take down that powerful Shadow.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}By the way, just a random thought I had, but that chair the Shadow was on...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}How did it float in the air? Was there some kind of jet attached? Or an anti-gravity device? But what would it use as fuel...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Oh! Sorry. It was just bugging me, that's all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}A-Anyway, I'm just glad you were able to beat it. Let's go take a look at the treasure chest.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_WIN_4_0_3_AEGIS" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}Ця Тінь прийняла форму того, що я вважаю «Святою Матір'ю»...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Можливо, кожна мати в цьому світі здатна здійснювати такі потужні, руйнівні атаки.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6142 0 0}Я розумію... Я буду обережною, щоб ніколи не розгнівати її.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}That Shadow took the form of what I assume to be the "Holy Mother"...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Perhaps every mother in this world is capable of executing such powerful, devastating attacks.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6142 0 0}I comprehend... I shall exercise caution so that I may never anger one.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_WIN_4_0_3_AEGIS_H" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 0 0 0}{f 3 1 3 0 -1 6110 0 0}Ця Тінь прийняла форму того, що я вважаю «Святою Матір'ю»...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Можливо, кожна мати в цьому світі здатна здійснювати такі потужні, руйнівні атаки.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Тепер я розумію, чому матерів порівнюють з ведмедями. Вони, мабуть, стають страшенно лютими, коли їх тицяють.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 0 0 0}{f 3 1 3 0 -1 6110 0 0}That Shadow took the form of what I assume to be the "Holy Mother"...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Perhaps every mother in this world holds the same devastating power.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}I now understand why mothers are comparable to bears. They must become terribly ferocious when poked.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_WIN_4_0_3_ARAGAKI" type="Message">
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}{f 3 1 3 0 -1 9105 0 0}Хз, чи є у цих Тіней стать чи щось таке, але ця дала по повній.[n]{f 1 1}]]></Page>
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}У будь-якому разі, ніколи не дратуйте жінку. Особливо Кі...[n]{f 1 1}]]></Page>
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}Я не зовсім правильно це сформулював. Забудьмо, продовжимо.[n]{f 1 1}]]></Page>
-    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 0 0 0}Серйозно. Просто... забудь про це.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}{f 3 1 3 0 -1 9105 0 0}Dunno if these Shadows have a gender or whatever, but that one packed a punch.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}Anyway, never piss off a woman. Especially Ki—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 0 0 0}I didn't phrase that right. Forget it, let's move.[n]{f 1 1}]]></Page>
+    <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 2 -1 0 0 0}Seriously. Just... forget about it.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_WIN_4_1_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}Чудовисько з тілом людини і головою бика, що опинилося в пастці в лабіринті...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ніби якась міфічна істота... З жахливою силою.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Але ти зміг його перемогти! Це неймовірно.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Продовжуйте в тому ж дусі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}A monster with a human body and a bull's head, trapped within a labyrinth...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}As if it were some mythological creature... One with terrifying strength, too.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}But you were able to beat it! That's incredible.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Keep up the good work.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_WIN_4_1_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Чорні і білі замки... Хіба в шахах немає схожих фігур?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Але в шахах чорні та білі були б на протилежних сторонах... Навіщо їм об'єднуватися?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Ну, незважаючи на це, ти зміг легко поставити їм мат. Йдемо далі.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5062 0 0}Black and white castles... Aren't there similar pieces in chess?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}But black and white would be on opposing sides in chess... Why would they team up?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Well, regardless, you were able to checkmate them easily. Let's keep moving.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_WIN_4_1_3_MITSURU" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4001 0 0}Противники, які щойно... Пам'ятаєш їх? Ми вже перемагали їх раніше.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}Їх набагато важче перемогти, коли вони разом.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}...Хоча, гадаю, те саме можна сказати і про нас. Це гарне нагадування, що командна робота важлива.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4001 0 0}The opponents just now... Do you remember them? We've defeated them before.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}They're much tougher to beat when they're together.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}...Though I suppose the same could be said about us. It's a good reminder that teamwork is important.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_WIN_4_1_3_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Пам'ятаєш тих ворогів? Ми вже перемагали їх раніше.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Здається, їхня сила зростає в геометричній прогресії, коли вони об'єднуються. Це не так просто, як додати один плюс один...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Дивно прислухатися до підказки Тіні, але ми повинні переконатися, що наша командна робота така ж міцна.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5076 0 0}Do you remember those enemies? We've beaten them before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}It seems like their strength grows exponentially when they team up. It's not as simple as adding one plus one...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}It feels weird to take a hint from a Shadow, but we should make sure our teamwork is just as solid.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MSG_WIN_4_1_3_AMADA" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}{f 3 1 3 0 -1 7001 0 0}Той лицар, з яким ми щойно билися... Виглядало круто, правда?[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}Як у казці. Знаєш, де лицар галантно рятує принцесу від злого дракона?[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}Ну, це просто казка на ніч для маленьких дітей. Не те, щоб я хотів врятувати принцесу чи щось таке...[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}Я-Я справді не хочу, ясно? Х-Ходімо, не зупиняємося![n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}{f 3 1 3 0 -1 7001 0 0}That knight we fought just now... It looked pretty cool, didn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}Kinda like one from a fairytale. You know, where a knight gallantly saves a princess from an evil dragon?[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}Well, that's just a bedtime story for little kids. Not like there's a princess I wanna save or anything...[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}I-I really don't, okay? C-C'mon, let's keep moving![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MSG_WIN_4_1_3_KOROMARU" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8001 0 0}Гав, Гав![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8001 0 0}Arf, arf![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MSG_WIN_4_1_3_KOROMARU_F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5131 0 0}Молодець, Коро! Як щодо частування?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Тінь, з якою ти щойно бився, була на коні, так? Я чув, що коні люблять моркву...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Чому б мені не приготувати моркву з рисом? Може, залишити моркву сирою, щоб надати їй текстури...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5131 0 0}Good job, Koro-chan! How about a treat?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That Shadow you just fought was on horseback, right? I hear horses like carrots...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Why don't I make carrots mixed with rice for this occasion? Maybe I should leave the carrots raw to give them some texture...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MSG_WIN_4_1_3_KOROMARU_2" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8003 0 0}(скиглення)[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8003 0 0}*whine*[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MSG_WIN_5_0_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5070 0 0}Схоже, що цього разу у Тіні була ціла купа підлеглих.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Четверо з них віддали свої життя, щоб захистити змієподібну Тінь...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Цікаво, чому вони були готові пожертвувати собою... Змушує задуматися.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5070 0 0}It looked like that one Shadow had a bunch of underlings this time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}The four of them gave up their lives to protect the snake-like Shadow...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}I wonder why they'd be willing to sacrifice themselves... Makes you think a little.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="MSG_WIN_5_0_2_YUKARI" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 0 0 0}{f 3 1 3 0 -1 1119 0 0}Багато Тіней дуже схожі... Скільки варіацій існує тількі однієї Тіні?[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 0 0 0}Агх, Це все так заплутано... Чому б нам просто не витягнути пластини і не пофарбувати їх в один колір?[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}Зачекай, це нічого не вирішить... Боже, я божеволію.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 -1 0 0 0}{f 3 1 3 0 -1 1119 0 0}A lot of Shadows are really similar... How many variations does that one Shadow even have?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 0 0 0}Ugh, this is so confusing... Why don't we just pull off the plates and paint them all the same color?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}Wait, that won't solve anything... Oh god, I'm losing my mind.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_WIN_5_0_2_JUNPEI" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 0 0 0}{f 3 1 3 0 -1 2124 0 0}Знаєш Тіні, схожі на луску? Я заплутався, намагаючись встежити за ними.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Гаразд, питання: якого кольору пластини були в останнього?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 0 0 0}Чорні, так? Чекай, ні, зачекай. Тіло було чорне... Так?[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}Е, {f 4 2}, ти пам'ятаєш?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 0 0 0}{f 3 1 3 0 -1 2124 0 0}You know those Shadows that look like scales? I get confused tryna keep track of 'em.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Okay, question: what color plates did the last one have?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 0 0 0}Black, right...? Wait, no, hold up. The body was black... Right?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}Er, {f 4 2}, do you remember?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="41" name="MSG_WIN_5_0_2_SANADA" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3061 0 0}Ці Тіні виглядають незбалансованими, але залишаються у вертикальному положенні. Схоже, вони не хочуть падати — не без бою.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}До речі, під час зважування боксери зазвичай використовують не цифрові, а механічні ваги.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Не через традицію чи щось інше. Якщо тобі цікаво, спробуй пошцкати про це інформацію.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}{f 3 1 3 0 -1 3061 0 0}Those Shadows look unbalanced, but remain upright. It's like they don't wanna go down—not without a fight.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Incidentally, when boxers weigh in, they usually use mechanical scales rather than digital ones.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Not because of tradition or anything. If you're interested, try looking it up.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="42" name="MSG_WIN_5_0_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5063 0 0}Ти не відчуваєш спокуси покласти щось на пластину? Перевірити, чи справді ці ваги працюють?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Ті Тіні виглядають досить міцними, тож, можливо, ми з Юкарі зможемо—[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}В-Взагалі-то, неважливо! Погана ідея. Це може розкрити занадто багато інформації...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5063 0 0}Don't you get kinda tempted to put stuff on the plates? See if those scales actually work?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}I mean, those Shadows looked pretty sturdy, so maybe Yukari-chan and I could get on and—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}A-Actually, never mind! Bad idea. That might reveal a little too much information...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="43" name="MSG_WIN_5_1_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Це була така моторошна Тінь. Слава Богу, тобі вдалося її перемогти.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Я не дуже вірю в привидів абощо, але якщо щось подібне з'явилося вночі...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}... З іншого боку, тепер, коли ми його перемогли, я не думаю, що мені було б так страшно. Дивно, що я зараз байдужа до таких речей.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}That was such a creepy Shadow. Thank goodness you managed to beat it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}I don't really believe in ghosts or anything, but if something like that showed up at night...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}...Then again, now that we've actually defeated it, I don't think I'd be as scared. Kinda weird how I'm unfazed by these things now.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="44" name="MSG_WIN_5_1_2_MITSURU" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4122 0 0}Цього разу їх з'явилося одразу п'ятеро. Вони мали бути... Як це називається?.. "Пір'яна Людина"?[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}Я знаю, що вони знімаються у власному телешоу... Група Кіріджьо вже спонсорувала їх раніше, якщо я правильно пам'ятаю.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}Гм... Вони коли-небудь їздять на мотоциклах? Чи, можливо, це було інше шоу...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}{f 3 1 3 0 -1 4122 0 0}Five of them appeared all at once this time. Were they supposed to be... What is it called...? "Featherman"?[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}I know they star in their own TV show... The Kirijo Group has sponsored them before, if I remember correctly.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}Hm... Do they ever ride motorbikes? Or perhaps that was a different show...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="45" name="MSG_WIN_5_1_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}П'ять осіб, кожна з яких має свій колір, працюють разом як команда... Щось на кшталт дитячих шоу про Пір'яну Людину.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}О, мабуть, не варто казати, що вони тільки для дітей. Я чула, що вони насправді дуже добре зроблені і подобаються людям різного віку.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Було б весело, якби кожен з нас обрав свій колір. Гадаю, ти будеш червоним, бо ти лідер, {f 4 1}.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Треба запитати про це Амаду. Здається, він багато знає про Пір'яну Людину.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5061 0 0}Five individuals, each with different colors, working together as a team... Kind of like those Featherman shows for kids.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Oh, maybe I shouldn't say they're just for kids. I hear they're actually very well done and enjoyed by people of all ages.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}It could be fun if each of us chose a different color to wear. I guess you'd be red since you're the leader, {f 4 1}-kun.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}I should ask Amada-kun about it. He seems to know a lot about Featherman.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MSG_WIN_5_1_2_AEGIS" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}...Битва вже закінчилася? Дивно. Ці результати суперечать попереднім даним.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}Під час бою з групою з п'яти різнокольорових супротивників є ще одна фаза бою, де ми виростаємо до гігантських розмірів.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 0 0 0}Чи, можливо, ми повинні були пілотувати гігантського робота?.. Я мушу переглянути свої дані, коли матиму час.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6060 0 0}...The battle has already concluded? Strange. These results contradict pre-existing data.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}When fighting a group of five colorful opponents, there is another battle phase where we grow to gargantuan sizes.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 2 -1 0 0 0}Or perhaps we were supposed to pilot a giant robot...? I must review my data when I have the time.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="47" name="MSG_WIN_5_1_2_AMADA" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}{f 3 1 3 0 -1 7063 0 0}Золото, срібло, чорний, білий і рожевий... Рідкісне поєднання.[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 0 0 0}Вони називаються... «Тартаренджери»? Ні, це звучить якось тупо....[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}Що—?![n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}А-А, нічого! Я не думав про Пір'яну Людину чи щось подібне! Д-Давай, продовжуймо![n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 0 0 0}{f 3 1 3 0 -1 7063 0 0}Gold, silver, black, white, and pink... That's a rare combination.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 3 -1 0 0 0}Would they be called... the Tartarangers? Er, no, that sounds kinda lame...[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}Wha—!?[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 4 -1 0 0 0}O-Oh, nothing! I-I wasn't thinking about Featherman or anything dumb like that! C-C'mon, let's keep going![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="MSG_WIN_6_0_1_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}Здається несправедливим, що він може влучити стількома пострілами одразу...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}Але, думаю, не варто очікувати, що ворог буде воювати чесно і справедливо. Вони роблять все можливе, щоб нас знищити...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Ми не можемо дозволити їм це зробити, тому я тебе повністю підтримую![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}It feels unfair that it could get in so many shots at once...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}But I guess we shouldn't expect the enemy to fight fair and square. They're doing all they can to take us down...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}We can't let them have their way, so you've got my full support![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="49" name="MSG_WIN_6_0_2_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5113 0 0}Це було важко... Вигляд чотирьох самураїв у повному озброєнні дійсно лякає.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ви помітили невеликі відмінності в їх шоломах? Може, містер Оно знає, чому вони відрізняються, адже історія - це його сфера.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}З іншого боку, він міг би просто продовжувати і продовжувати... поки Тіні врешті-решт не помруть від нудьги.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Ну... Йдемо далі. Попереду ще одна потужна Тінь.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5113 0 0}That was tough... The sight of four samurai in full armor is really intimidating.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Did you spot the slight variations in their helms? Maybe Mr. Ono knows why they're different, since history's his field and all.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}Then again, he might just go on and on and on... until the Shadows would eventually die from boredom.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}Well... Let's keep going. There's still another powerful Shadow up ahead.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MSG_WIN_6_0_3_YUKARI" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}{f 3 1 3 0 -1 1114 0 0}Це був найважчий бій серед усіх... Але ми перемогли![n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Хто б міг подумати, що ми зможемо здолати щось подібне тоді?..[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}Помітно було, як я злякалася на початку? Ну, може, у тебе просто сталеві нерви...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Як би там не було, нам вдалося пройти так далеко, тож будемо боротися до кінця.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}{f 3 1 3 0 -1 1114 0 0}That was the toughest battle yet... But we won![n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Who would've thought we'd be able to take down something like that way back when...?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 6 -1 0 0 0}Oh, it was obvious how scared I was at the start? Well, maybe you just have nerves of steel...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 0 0 0}Anyway, we've managed to make it this far, so let's keep fighting till the very end.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="51" name="MSG_WIN_6_0_3_JUNPEI" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}{f 3 1 3 0 -1 2118 0 0}Оооо, так! Ми сьогодні добряче надрали їм дупи![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Ніщо не здолає силу дружби! Зв'язок, який ми всі поділяємо, сильніший за—[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}А? Хто я такий, щоб говорити? Е, так, думаю, ти маєш рацію... Особливо після всіх тих неприємностей, що я спричинив.[n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 9 -1 0 0 0}Але я все тобі компенсую! Ось побачиш! Джюнпей Іорі заб'є той грандіозний хоум-пол![n]{f 1 1}]]></Page>
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 0 0 0}Та ну, чувак... Тебе це вб'є, якщо ти щось скажеш? Наприклад, «Я розраховую на тебе, брате»?[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}{f 3 1 3 0 -1 2118 0 0}Awww yeah! We gave one massive ass-whoopin' tonight![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 0 0 0}Nothing beats the power of friendship! The bond we all share is stronger than anything—[cr][n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 3 -1 0 0 0}Huh? Who am I to talk? Er, yeah, I guess you got a point there... Especially after all the trouble I caused.[n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 9 -1 0 0 0}But I'm gonna make it up to you! Just you watch! Junpei Iori's gonna hit that grand slam homer![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 4 -1 0 0 0}Oh, c'mon, dude... Would it kill ya to say somethin'? Like "I'm countin' on you, bro"?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="52" name="MSG_WIN_6_0_3_SANADA" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}{f 3 1 3 0 -1 3087 0 0}Ііі... Нокаут![n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Це була, мабуть, найскладніша Тінь, з якою нам доводилося стикатися.[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Непогана розминка перед фінальним поєдинком, як гадаєш?[n]{f 1 1}]]></Page>
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}Він майже закінчився... Цього разу ми - противники, тож не втрачаємо темпу.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}{f 3 1 3 0 -1 3087 0 0}And... KO![n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}This might've been the toughest Shadow we've faced yet.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 0 0 0}Not a bad warmup before our final match, don't you think?[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 0 0 0}It's almost over... This time, we're the challengers, so let's keep up the momentum.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="53" name="MSG_WIN_6_0_3_MITSURU" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}{f 3 1 3 0 -1 4132 0 0}Бездоганна перемога.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}Ніколи не думала, що ми зайдемо так далеко, не кажучи вже про те, що переможемо такого сильного супротивника...[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}Рік тому я вважала би це неможливим. Чесно кажучи, я вражена власним прогресом...[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}Це все завдяки нашій бездоганній командній роботі. Я дуже ціную все, що ти зробив.[n]{f 1 1}]]></Page>
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}І я обіцяю робити все, що в моїх силах, до самого кінця, тому прошу тебе надати мені свої сили до того часу.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}{f 3 1 3 0 -1 4132 0 0}A flawless victory.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}I never imagined that we would get this far, never mind defeat an enemy this powerful...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}A year ago, I would've thought it impossible. Honestly, I'm astounded by my own personal progress...[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 0 0 0}This is all because of our impeccable teamwork. I really appreciate all that you've done.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 0 0 0}And I promise to do all that I can up to the very end, so I ask that you lend me your strength until then.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="54" name="MSG_WIN_6_0_3_FUKA" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}Ця остання Тінь була такою ж потужною - ні, навіть потужнішою, ніж ті великі Тіні, з якими ми стикалися щомісяця.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}Ми боролися з багатьма з них...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Але з кожної битви ти виходиш сильнішим. Це не перестає мене дивувати.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Спостерігаючи за тим, як усі б'ються, я мотивую себе до самовдосконалення. Дякую, що надихаєш мене.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Е-е... Гадаю, ще трохи зарано говорити щось подібне. Я хочу сказати, що...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Не зупинятися на досягнутому, боротися до кінця![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5114 0 0}That last Shadow was just as powerful— No, even more powerful than the large Shadows we faced every month.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}We've fought so many of them now...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}But you all come out of every battle stronger. It never ceases to amaze me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Watching everyone fight motivated me to improve myself. Thank you for inspiring me.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 50 0 0}Er... I guess it's a little too early to say something like that though. What I mean to say is...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Let's keep pressing forward, fighting hard all the way until the end![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="55" name="MSG_WIN_6_0_3_AEGIS" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6087 0 0}Ми перемогли.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}...Я була створена, щоб бути зброєю. Причина мого існування - знищення Тіней.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 0 0 0}Це те, що ніколи не зміниться, але тепер це не єдина моя мета...[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 0 0 0}Це важко передати словами, але я хочу бути поруч з усіма, поруч з тобою, {f 4 2}.[n]{f 1 1}]]></Page>
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 0 0 0}І саме тому я продовжуватиму боротися.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}{f 3 1 3 0 -1 6087 0 0}We have won.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 0 0 0}...I was designed to be a weapon. The reason I exist is to destroy Shadows.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 0 0 0}That's something that won't ever change, but that's not my only purpose now...[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 0 0 0}It's difficult to put into words, but I wish to stay by everyone's side—by your side, {f 4 2}-san.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 0 0 0}And that is why I'll continue to fight.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="MSG_WIN_6_0_3_AMADA" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}{f 3 1 3 0 -1 7115 0 0}Звичайно, він виглядав як гігантський монстр, але я не хвилювався, що ми програємо - ні на секунду![n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}Не може бути, щоб він був сильнішим за остаточного ворога. Якби ми не змогли перемогти навіть його, у нас не було б жодного шансу.[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 0 0 0}Не те, щоб я недооцінював ворога чи щось таке. Я просто відчуваю, що... Я повинен бути хоробрим.[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 0 0 0}Тому що я не хочу нікого підводити. Ні тебе... І його теж.[n]{f 1 1}]]></Page>
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}Тому ми повинні продовжувати боротися![n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}{f 3 1 3 0 -1 7115 0 0}Sure, it looked like a giant monster, but I wasn't worried we'd lose—not even for a second![n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}There's no way it was stronger than the final enemy. If we couldn't even beat that thing, we wouldn't stand a chance.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 0 0 0}Not that I'm underestimating the enemy or anything. I just feel like... I gotta be brave.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 2 -1 0 0 0}Because I don't want to let anyone down. Not you... Not him either.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 1 -1 0 0 0}So we have to keep fighting![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MSG_WIN_6_0_3_KOROMARU" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8007 0 0}Авуууууу![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8007 0 0}Awoooooo![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="58" name="MSG_WIN_6_0_3_KOROMARU_F" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5132 0 0}Коро виглядає готовим до всього. Легко сказати по ньому.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Можливо, я не розумію його так добре, як Аїґіс, але за весь час, що ми провели разом, я винесла для себе кілька уроків.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Коро сказав, що він розраховує на тебе, {f 4 1}. Давай битися разом, до кінця.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5132 0 0}Koro-chan looks ready for anything. It's easy to tell.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}I might not understand him as well as Aigis, but I picked up a few things from all the time we've spent together.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Koro-chan says he's counting on you, {f 4 1}-kun. Let's fight together, to the very end.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="59" name="MSG_WIN_6_0_3_KOROMARU_2" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8012 0 0}Гав! Гав![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 0 0 0}{f 3 1 3 0 -1 8012 0 0}Arf! Arf![n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

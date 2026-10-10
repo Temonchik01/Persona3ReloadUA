@@ -34,7 +34,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Робота тут може допомогти покращити мої[n]{f 4 30 0 1 1 0} та {f 4 30 2 1 1 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені проводити тут цілий день...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені проводити тут цілий день?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_012_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Проводити час в «Знімку»]]></Option>
@@ -86,7 +86,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Перегляд цього фільму може допомогти[n]з моїм {f 4 30 2 1 1 1 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_033_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен перевірити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен перевірити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="SEL_034_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що показує]]></Option>
@@ -99,21 +99,21 @@
   </Dialog>
   <Dialog id="35" name="MND_036_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 0 1 1 1 0}[n]не може стати вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки дивитися цей фільм...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки дивитися цей фільм?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MND_037_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0}[n]не може стати вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки дивитися цей фільм...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки дивитися цей фільм?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MND_038_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може стати вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки дивитися цей фільм...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки дивитися цей фільм?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="MND_039_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кінотеатр «Знімок»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="39" name="MND_040_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я маю тут робити...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я маю тут робити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="SEL_041_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Працювати неповний робочий день{f 4 26 41 0}]]></Option>
@@ -135,6 +135,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може стати вищим...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MND_047_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені тут працювати неповний робочий день...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені тут працювати неповний робочий день?..[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
