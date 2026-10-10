@@ -41,7 +41,7 @@
   </Dialog>
   <Dialog id="10" name="SEL_006_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Let's read together.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not today.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не сьогодні.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4001 0 0}If you're not too busy, would you care to join me, {f 4 1}?[n]{f 1 1}]]></Page>
@@ -150,7 +150,7 @@
   </Dialog>
   <Dialog id="39" name="SEL_029_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Sure, I'll have some tea.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm a bit busy today...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я трохи зайнятий сьогодні...]]></Option>
   </Dialog>
   <Dialog id="40" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4024 0 0}Ah, {f 4 1}. If you're free, why don't you join me for some tea?[n]{f 1 1}]]></Page>
