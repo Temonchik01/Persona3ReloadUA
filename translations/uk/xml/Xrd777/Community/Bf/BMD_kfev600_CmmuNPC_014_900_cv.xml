@@ -6,19 +6,19 @@
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 1 14 0}André... Laurent...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 2 14 0}André... Laurent... Jean... Geraux?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 3 14 0}{f 4 25 14}......[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 4 14 0}Too long! A samurai's name should be simple and short![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5, 1083 -1, 0 -0}{f 1 0 6 2 14 }André. . Лаурент... Jean... Geraux?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5, 1083 -1, 0 -0}{f 1 0 6 3 14 0}{f 4 25 14}. ....[n]{f 1 }]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 --1 0 0}{f 1 0 0 6 4 0}Занадто довге! Ім'я самурая має бути простим і коротким![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 5 14 0}...Oh, {f 4 1}.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 6 14 0}This letter was sent to the school. It looks like it's addressed to one of our students...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 7 14 0}...Wait, is this actually for you? The writing's so shaky, I didn't recognize your name.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5, 1083 -1 -1 0 0}{f 1 0 6 7 0}... a,,це насправді для вас? Така хитка, я не впізнав ваше ім'я.[n]{f 1 }]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 8 14 0}It's from an André... something. I don't recall a student with such a foreign name.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1083 0 -1 -1 0 0}{f 3 1 1 0 6 9 14 0}The only one that comes to mind is Bebe...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5, 1083 --1 -1 0}{f 1 0 0 6 9 0}, тільки той, який спадає на думку, це Бім. .[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}The sender's name is listed as[n]André Laurent Jean Geraux...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Ім'я відправника знаходиться в списку, як[n]Andrerent Jean Gerox...[n]{f 1 }]]></Page>
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}It's from Bebe... I should read this letter.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
