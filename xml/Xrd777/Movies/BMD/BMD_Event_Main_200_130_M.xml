@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <BMD source="BMD_Event_Main_200_130_M.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Movies\BMD\BMD_Event_Main_200_130_M.uasset" dialogs="37">
   <Speakers>
     <Speaker id="0" rawBytes="52 79 6F 6A 69 20 4D 6F 63 68 69 7A 75 6B 69">Ryoji Mochizuki</Speaker>
@@ -43,7 +43,7 @@
   <Dialog id="12" name="MSG_003_9_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}I had no other choice...[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="13" name="MSG_004_0_0" type="Message"/>
+  <Dialog id="13" name="MSG_004_0_0" type="Message" />
   <Dialog id="14" name="MSG_004_3_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Now I see... I was inside of him all this time.[n]{f 1 1}]]></Page>
   </Dialog>
@@ -56,7 +56,7 @@
   <Dialog id="17" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}...I get it. I understand now...[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="18" name="MSG_006_0_0" type="Message"/>
+  <Dialog id="18" name="MSG_006_0_0" type="Message" />
   <Dialog id="19" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}I remember everything...[n]{f 1 1}]]></Page>
   </Dialog>
@@ -105,7 +105,7 @@
   <Dialog id="34" name="MSG_014_3_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}I'm so sorry...[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="35" name="MSG_014_5_0" type="Message"/>
+  <Dialog id="35" name="MSG_014_5_0" type="Message" />
   <Dialog id="36" name="MSG_015_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}...I'm scared...[n]{f 1 1}]]></Page>
   </Dialog>

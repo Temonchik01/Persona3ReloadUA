@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <BMD source="BMD_CampSystem.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\UI\Camp\BMD_CampSystem.uasset" dialogs="70">
   <Speakers>
     <Speaker id="0" rawBytes="49 67 6F 72">Igor</Speaker>
@@ -27,7 +27,7 @@
   <Dialog id="7" name="SYS_SKILLCARD_ALREADY" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 0 1 35}{f 2 4 0}{f 0 1 27} has already been learned.[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="8" name="SYS_SKILL_CHANGE" type="Message"/>
+  <Dialog id="8" name="SYS_SKILL_CHANGE" type="Message" />
   <Dialog id="9" name="SYS_REMEMBER_CONF" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Are you sure you want to exit?[n]{f 1 4 1}{f 1 1}]]></Page>
   </Dialog>
@@ -46,7 +46,7 @@
   <Dialog id="14" name="SYS_SAVE_LOAD_CHECK" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Load this save data?[n]{f 1 4 1}{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="15" name="SYS_SAVE_LOAD_OK" type="Message"/>
+  <Dialog id="15" name="SYS_SAVE_LOAD_OK" type="Message" />
   <Dialog id="16" name="SYS_SAVE_NETWORK_LOAD" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Loading network save data...[n]{f 1 1}]]></Page>
   </Dialog>
@@ -77,7 +77,7 @@
   <Dialog id="25" name="SYS_SAVE_OVERWRITE_CHECK" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Save data already exists. Do you want to overwrite this data?[n]{f 1 4 1}{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="26" name="SYS_SAVE_OK" type="Message"/>
+  <Dialog id="26" name="SYS_SAVE_OK" type="Message" />
   <Dialog id="27" name="SYS_SAVE_ROLLBACK_CHECK" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}If you return to this point, any more recent rewind data will be lost. Continue?[n]{f 1 4 1}{f 1 1}]]></Page>
   </Dialog>
@@ -135,11 +135,11 @@
   <Dialog id="45" name="MND_SKILL_NOT_CHANGE" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}[[Not used]] {f 2 4 2} gave a sharp cry.[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="46" name="SYS_NETWORK_CONNECT_CHEC" type="Message"/>
+  <Dialog id="46" name="SYS_NETWORK_CONNECT_CHEC" type="Message" />
   <Dialog id="47" name="SYS_NETWORK_CONNECT_YES" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Network functionality has been turned {f 0 1 2}ON{f 0 1 27}. You can change this at any time from the Config menu.[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="48" name="SYS_NETWORK_CONNECT_NO" type="Message"/>
+  <Dialog id="48" name="SYS_NETWORK_CONNECT_NO" type="Message" />
   <Dialog id="49" name="SYS_NETWORK_VOICE_ERROR" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Network error. Please check your connection.[n]{f 1 1}]]></Page>
   </Dialog>

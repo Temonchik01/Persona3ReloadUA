@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <BMD source="BMD_Event_Main_100_210_B.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_100_210_B\BMD_Event_Main_100_210_B.uasset" dialogs="13">
   <Speakers>
     <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 4F 6C 64 20 47 65 6E 74 6C 65 6D 61 6E">Mysterious Old Gentleman</Speaker>
@@ -46,7 +46,7 @@
   <Dialog id="10" name="MSG_010_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 15 0 0}Hold on to this.[n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="11" name="MND_011_0_0" type="Message"/>
+  <Dialog id="11" name="MND_011_0_0" type="Message" />
   <Dialog id="12" name="MSG_012_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Until we meet again...[n]{f 1 1}]]></Page>
   </Dialog>

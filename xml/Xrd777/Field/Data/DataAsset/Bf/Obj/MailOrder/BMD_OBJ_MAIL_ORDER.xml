@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <BMD source="BMD_OBJ_MAIL_ORDER.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\MailOrder\BMD_OBJ_MAIL_ORDER.uasset" dialogs="106">
   <Speakers>
     <Speaker id="0" rawBytes="54 56 20 54 61 6E 61 6B 61">TV Tanaka</Speaker>
@@ -40,7 +40,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}I'm your host, Tanaka, with a live presentation of my Amazing Commodities![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}We'll show you great products at unbeatable prices! So don't touch that dial, because you won't want to miss these![n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="9" name="MSG_013_0_0" type="Message"/>
+  <Dialog id="9" name="MSG_013_0_0" type="Message" />
   <Dialog id="10" name="MSG_013_1_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}Oh my goodness! It's wonderful![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}But wait, there's more![n]{f 1 1}]]></Page>

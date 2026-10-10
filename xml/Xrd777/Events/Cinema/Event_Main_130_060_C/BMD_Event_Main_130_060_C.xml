@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <BMD source="BMD_Event_Main_130_060_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_130_060_C\BMD_Event_Main_130_060_C.uasset" dialogs="26">
   <Speakers>
     <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
@@ -71,7 +71,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 25 0 0}{f 5 21 0 10}Ever since then, that dog has continued to go on walks, always stopping to sit by the site of the accident.[n]{f 1 1}]]></Page>
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 26 0 0}{f 5 21 0 10}But he refuses to let anyone take him in. Why, just the other day, my son—[cr][n]{f 1 1}]]></Page>
   </Dialog>
-  <Dialog id="18" name="MND_018_0_0" type="Message"/>
+  <Dialog id="18" name="MND_018_0_0" type="Message" />
   <Dialog id="19" name="MSG_019_0_0" type="Message">
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 27 0 0}{f 5 21 0 10}Oh my goodness, look at the time! I must be going! My son will be home soon.[n]{f 1 1}]]></Page>
   </Dialog>
