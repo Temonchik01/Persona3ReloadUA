@@ -21,7 +21,7 @@ echo Guard: DT output is locked to L10N/en only.
 echo.
 
 "%~dp0..\..\tools\dt\P3RDtTool.exe" --batch-import-xml ^
-    "%~dp0..\..\dt_xml" ^
+    "%~dp0..\..\translations\uk\dt_xml" ^
     "%~dp0..\..\tools\dt\source" ^
     "%OUT_DIR%" ^
     %REPACK_ARGS%

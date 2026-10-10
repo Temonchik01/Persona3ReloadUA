@@ -17,7 +17,7 @@ if [[ "$mode" == bmd ]]; then
 else
   tool="$root/tools/dt/P3RDtTool.exe"
   source_dir="$root/tools/dt/source"
-  input_dir=${2:-"$root/dt_xml"}
+  input_dir=${2:-"$root/translations/uk/dt_xml"}
 fi
 [[ -d "$input_dir" && -d "$source_dir" && -f "$tool" ]] || { echo 'Missing XML directory, source templates or compiler.' >&2; exit 1; }
 native_dt=${P3R_DT_TOOL_DLL:-"$root/tools/dt/linux/P3RDtTool.dll"}

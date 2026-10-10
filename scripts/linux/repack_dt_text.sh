@@ -8,6 +8,6 @@ fi
 mkdir -p "$root/build"
 input=$(mktemp -d "$root/build/dt-text-input.XXXXXX")
 trap 'rm -rf -- "$input"' EXIT
-cp -a "$root/dt_xml/text" "$input/text"
+cp -a "$root/translations/uk/dt_xml/text" "$input/text"
 "$root/scripts/linux/repack_linux.sh" dt "$input" --force
 echo 'DT text built; packaging exclusions remain active until an explicit game test.'
