@@ -10,7 +10,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 3 19 0}Ви ... {f 4 1}-kun?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}...А ти хто?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
@@ -28,7 +28,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 11 19 0}Якщо у вас є час, ви хотіли б трошки лишитися й побалакати?[n]{f 1 }]]></Page>
   </Dialog>
   <Dialog id="5" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я трохи зайнятий сьогодні...]]></Option>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
