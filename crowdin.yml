@@ -9,11 +9,21 @@ files:
       - /BMD/Dialog
       - /BMD/Dialog/Page
       - /BMD/Dialog/Option
-  - source: /dt_xml/**/*.xml
-    translation: /translations/%two_letters_code%/dt_xml/**/%original_file_name%
+  - source: /dt_xml/text/**/*.xml
+    translation: /translations/%two_letters_code%/dt_xml/text/**/%original_file_name%
+    type: xml
+    update_option: update_without_changes
     content_segmentation: 0
     translate_content: 1
     translate_attributes: 0
     translatable_elements:
       - /P3RDataTableText/Text/Translation
+  - source: /dt_xml/fstrings/**/*.xml
+    translation: /translations/%two_letters_code%/dt_xml/fstrings/**/%original_file_name%
+    type: xml
+    update_option: update_without_changes
+    content_segmentation: 0
+    translate_content: 1
+    translate_attributes: 0
+    translatable_elements:
       - /P3RDataTableFStrings/String/Translation
