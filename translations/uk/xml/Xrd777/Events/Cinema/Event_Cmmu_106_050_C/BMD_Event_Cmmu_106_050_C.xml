@@ -6,7 +6,7 @@
     <Speaker id="2" rawBytes="53 70 75 6E 6B 79 20 42 6F 79">Енергійний хлопчик</Speaker>
     <Speaker id="3" rawBytes="4B 69 64 73">Діти</Speaker>
     <Speaker id="4" rawBytes="28 53 45 29 20 53 70 75 6E 6B 79 20 42 6F 79">(SE) Енергійний хлопчик</Speaker>
-    <Speaker id="5" rawBytes="28 53 45 29 20 45 6E 65 72 67 65 74 69 63 20 42 6F 79">(SE) Energetic Boy</Speaker>
+    <Speaker id="5" rawBytes="28 53 45 29 20 45 6E 65 72 67 65 74 69 63 20 42 6F 79">(SE) Енергійний хлопчик</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Спину рівно! Працюйте руками![n]{f 1 1}]]></Page>
@@ -125,7 +125,7 @@
   </Dialog>
   <Dialog id="31" name="MND_029_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко довіряє мені більше.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 50 0 0}О, точно...[n]{f 1 1}]]></Page>
@@ -134,6 +134,6 @@
   </Dialog>
   <Dialog id="33" name="MND_031_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я тренувався з дітьми,[n]доки сонце не сховалось за обрій.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back to the dorm...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Час повертатись до гуртожитку...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
