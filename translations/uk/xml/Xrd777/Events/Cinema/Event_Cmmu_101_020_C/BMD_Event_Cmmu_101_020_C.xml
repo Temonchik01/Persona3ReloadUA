@@ -14,9 +14,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 4 23 0 101 1 25 25}Ти що, можеш просто так узяти й зайти до кімнати Такеби?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Авжеж.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Та ні.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це секрет.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's a secret.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 2 -1 -1 0 0}{f 3 1 1 0 0 4 0 0}А-авжеж?! Ну, хоча це не так уже й дивно.[n]{f 1 1}]]></Page>
