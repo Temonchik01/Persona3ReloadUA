@@ -7,15 +7,15 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Гей, дякую, що прийшов, чуваче. Можеш почекати тут хвилинку?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Звичайно.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}А чого так?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Sure.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чому?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Гаразд, слухай, але не лякайся![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Я покличу панну Каноу на побачення! Типу, прямо зараз![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нехай щастить!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Щасти!]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не роби цього.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Та як хочеш.]]></Option>
   </Dialog>
@@ -42,7 +42,7 @@
   </Dialog>
   <Dialog id="10" name="MND_010_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, таємний план Томочіки[n]вдався.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились…[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Я ось-ось вирушаю до неї. Чорт, я не готовий до цього![n]{f 1 1}]]></Page>
