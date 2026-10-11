@@ -35,7 +35,7 @@
   </Dialog>
   <Dialog id="11" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час за іграми]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
   </Dialog>
   <Dialog id="12" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що мені не доведеться[n]чекати в черзі, щоб пограти...[n]{f 1 1}]]></Page>
@@ -49,14 +49,14 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Будинок фортуни Едгара {f 4 26 6 0}]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_010_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_012_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_013_0_0" type="Message">
@@ -82,9 +82,9 @@
   <Dialog id="25" name="MND_037_0_0" type="Message"/>
   <Dialog id="26" name="MND_038_0_0" type="Message"/>
   <Dialog id="27" name="MND_039_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Я повинен відправитися в Тартар...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Мені треба йти до Тартару...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MND_040_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
