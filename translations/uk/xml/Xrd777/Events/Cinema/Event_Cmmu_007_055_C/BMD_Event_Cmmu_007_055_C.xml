@@ -34,9 +34,9 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Здається, жити це не заняття для одного.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_006_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти може маєш рацію.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки немаю.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}You might be right.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_007_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 5 13 22 15 7}Так.[n]{f 1 1}]]></Page>
@@ -72,7 +72,7 @@
   </Dialog>
   <Dialog id="18" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аїґіс сором'язливо посміхається...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається ми зблизилися один з одним...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, ми стали ближчими...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_012_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}Однак, я тут подумала...[n]{f 1 1}]]></Page>
@@ -88,6 +88,6 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 34 0 0}{f 4 23 0 7 1 25 25}Нам варто повертатися назад.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми вирішили повернутися до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We decided to go back to the dorm.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
