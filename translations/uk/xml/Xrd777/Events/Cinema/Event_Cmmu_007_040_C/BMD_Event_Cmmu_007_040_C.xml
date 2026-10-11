@@ -2,7 +2,7 @@
 <BMD source="BMD_Event_Cmmu_007_040_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_040_C\BMD_Event_Cmmu_007_040_C.uasset" dialogs="18">
   <Speakers>
     <Speaker id="0" rawBytes="54 72 6F 75 62 6C 65 64 20 4F 6C 64 20 4C 61 64 79">Стурбована стара пані</Speaker>
-    <Speaker id="1" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="1" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1701}Перепрошую... Чи не можу я у вас дещо запитати?[n]{f 1 1}]]></Page>
@@ -28,7 +28,7 @@
   <Dialog id="6" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Біля станції метро.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Біля торового центру.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't remember.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не пам'ятаю.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 8 0 0}{f 5 21 0 1701}Спасибі, любчику! Піду її пошукаю.[n]{f 1 1}]]></Page>
