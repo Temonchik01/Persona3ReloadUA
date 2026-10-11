@@ -8,7 +8,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Чим я відрізняюся?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Серйозно?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Справді?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 117 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Я не очікував побачити тебе знову.[n]{f 1 1}]]></Page>
@@ -28,7 +28,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 117 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}{f 4 23 0 117 0 25 25}Помирати не так уже й страшно, правда? Навіщо тягнути час у цьому світі?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SEL_005_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}You have a point.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У цьому є сенс.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я не згоден.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я ніколи про це не думав.]]></Option>
   </Dialog>
