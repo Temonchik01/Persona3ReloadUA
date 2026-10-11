@@ -4,8 +4,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені вчитися сьогодні перед сном?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вчитися]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Навчатись]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені ще вчитися?..[n]{f 1 1}]]></Page>
@@ -17,7 +17,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Пора йти до школи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 0 1 1 0}[n] не може бути вищим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 0 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене є плани на вечір.[n]{f 1 1}]]></Page>
@@ -61,7 +61,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Нічого не робити]]></Option>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, інтернет-з'єднання відновилося.[n]Тепер я можу грати в гру, яку мені дав Джюмпей...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, інтернет-з'єднання відновилося.[n]Тепер я можу грати в гру, яку мені дав Джюнпей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_016_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}※UNUSED ※[n]{f 1 5 0}（Ｖ）コミュ　ランク『（Ｖ）』[n]{f 1 1}]]></Page>
@@ -74,11 +74,11 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}※UNUSED※[n]{f 1 5 0}このアルカナ属性のペルソナは[n]全て解禁している…[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_019_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні, {f 0 1 35}{f 2 4 5}{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки можуть стати міцнішими завдяки[n]Персоні {f 2 4 2}, {f 0 1 35}{f 2 4 5}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вікно чату блимає.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Мая хоче пограти зі мною в[n]«Невинні Гріхи Онлайн».[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Майя хоче пограти зі мною в[n]Innocent Sin Online.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MND_021_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Майя може бути онлайн в цю годину...[n]{f 1 1}]]></Page>
@@ -88,11 +88,11 @@
   </Dialog>
   <Dialog id="23" name="MND_023_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}З'єднання з Інтернетом відновилося.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тепер я можу грати в гру, яку мені дав Джюмпей...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тепер я можу грати в гру, яку мені дав Джюнпей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_024_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вікно чату блимає.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Мая хоче пограти зі мною в[n]«Невинні Гріхи Онлайн».[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Майя хоче пограти зі мною в[n]Innocent Sin Online.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MND_025_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Майя може бути онлайн в цю годину...[n]{f 1 1}]]></Page>
@@ -114,7 +114,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Стіл організований, але я повинен[n]сьогодні лягти спати раніше, про всяк випадок...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_GENERALSELECTMSG_RAN" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що незабаром можу стати[n]ближче до {f 2 4 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що незабаром можу стати ближче до {f 2 4 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_GENERALSELECTMSG_NOR" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Не думаю, що наш зв'язок[n]стане міцнішим, навіть якщо я проведу[n]більше часу з {f 2 4 0}...[n]{f 1 1}]]></Page>
@@ -123,14 +123,14 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Мені треба йти до Тартару...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MND_029_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="35" name="MND_030_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене є плани на вечір.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я провести час[n] столом до цього часу?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="36" name="MND_031_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене є дуже важливе завдання на вечір...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене дуже важливе діло на вечір...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я провести час[n] столом до цього часу?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="37" name="MND_032_0_0" type="Message">
