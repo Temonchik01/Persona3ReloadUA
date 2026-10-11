@@ -41,7 +41,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 16 0 0}Гмм... А ти любиш дітей?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_009_0_0" type="Message">
@@ -69,7 +69,7 @@
   <Dialog id="16" name="SEL_012_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хлопчика.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дівчинку.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Байдуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мені байдуже.]]></Option>
   </Dialog>
   <Dialog id="17" name="MSG_013_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 -1 -1 0 0}{f 3 1 1 0 0 27 0 0}{f 5 13 12 5 106}Розумію... Хлопчика, кажеш?[n]{f 1 1}]]></Page>
@@ -96,7 +96,7 @@
   </Dialog>
   <Dialog id="24" name="MND_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко, здається, замислилася.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_021_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 36 0 0}До речі, ти більше схожий на тата чи на маму?[n]{f 1 1}]]></Page>
