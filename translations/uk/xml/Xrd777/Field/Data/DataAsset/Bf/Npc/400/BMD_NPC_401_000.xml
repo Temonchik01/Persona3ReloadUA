@@ -14,7 +14,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 401}You know this place is called Paulownia Mall, right? Well, you know how it got that name?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Розумію.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
@@ -149,7 +149,7 @@
   </Dialog>
   <Dialog id="29" name="SEL_029_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти в порядку?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What happened?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що сталось?]]></Option>
   </Dialog>
   <Dialog id="30" name="MSG_030_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 401}Thanks for your concern... You're a nice guy, unlike the kids I saw earlier...[n]{f 1 1}]]></Page>
