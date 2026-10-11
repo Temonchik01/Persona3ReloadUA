@@ -11,7 +11,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 104 61 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Ех...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Щось не так?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}What happened?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ви знову сваритесь?]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
@@ -56,7 +56,7 @@
   </Dialog>
   <Dialog id="15" name="SEL_014_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Саме так.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Про що це ви?]]></Option>
   </Dialog>
   <Dialog id="16" name="MSG_015_0_0" type="Message">
