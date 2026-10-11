@@ -4,7 +4,7 @@
     <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 42 6F 79">Загадковий хлопчик</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я, мабуть, втратив свідомість...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
@@ -18,7 +18,7 @@
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Де інші?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Чому ти тут?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Чому ви тут?]]></Option>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 111 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Не хвилюйся, ти скоро їх побачиш.[n]{f 1 1}]]></Page>
