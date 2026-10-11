@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_OBJ_101_102_512.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\101\BMD_OBJ_101_102_512.uasset" dialogs="7">
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет музики. Здається,[n]там збирається музичний гурток.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет музики. Здається, це місце[n]де збирається музичний гурток.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}В кабінеті музики тихо...[n]{f 1 1}]]></Page>
@@ -15,14 +15,14 @@
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час з Рьоуджі]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
   </Dialog>
   <Dialog id="5" name="MND_026_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет музики. Здається, саме тут збирається музичний гурток.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет музики. Здається, це місце[n]де збирається музичний гурток.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Крізь матове скло я бачу рояль в кабінеті...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_027_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет музики. Здається,[n]там збирається музичний гурток.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет музики. Здається, це місце[n]де збирається музичний гурток.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Крізь матове скло здається, що на мене дивляться портрети музикантів...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
