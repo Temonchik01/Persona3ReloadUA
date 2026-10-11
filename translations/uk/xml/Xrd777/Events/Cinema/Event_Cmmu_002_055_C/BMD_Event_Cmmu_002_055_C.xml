@@ -3,7 +3,7 @@
   <Speakers>
     <Speaker id="0" rawBytes="46 69 65 72 63 65 20 47 75 79">Запальний тип</Speaker>
     <Speaker id="1" rawBytes="53 6D 69 72 6B 69 6E 67 20 47 75 79">Глузливий тип</Speaker>
-    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
+    <Speaker id="2" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 0 1 0 0}{f 5 21 0 1001}Що ти сказала?! Закрий свій пиздак, сучка![n]{f 1 1}]]></Page>
@@ -79,7 +79,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 2 -1 -1 0 0}{f 3 1 1 0 0 23 0 0}Не те що мені потрібна була твоя допомога![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_020_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вибач.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пробач.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Немає нічого поганого в тому, щоб покладатися на інших.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти дівчинка, то ж...{f 2 9 1 1 70}]]></Option>
   </Dialog>
