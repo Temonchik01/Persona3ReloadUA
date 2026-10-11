@@ -16,7 +16,7 @@
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так і треба.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Хочеш цукру?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I know.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я знаю.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 3 0 -1 11454 0 0}{f 5 13 9 15 109}О-ой, е-е-е... Можливо, тоді варто було замовити каву з льодом...[n]{f 1 1}]]></Page>
@@ -50,6 +50,6 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}Я б хотіла, щоб ця мить тривала вічно...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We chatted for a while longer before[n]I decided to go back to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми ще трохи поговорили,[n]а потім я вирішив повернутися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
