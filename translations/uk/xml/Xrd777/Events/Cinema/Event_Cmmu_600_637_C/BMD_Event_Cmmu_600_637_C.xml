@@ -5,7 +5,7 @@
     <Speaker id="1" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Панна Торіумі</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}For some reason, Tomochika[n]is in front of the restaurant...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
@@ -35,7 +35,7 @@
   </Dialog>
   <Dialog id="6" name="SEL_006_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Nothing I can do.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Let's go together.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ходім разом.]]></Option>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}{f 4 23 0 1 3 25 25}Well, yeah, but... C'mon, you gotta help me! Any ideas at all!?[n]{f 1 1}]]></Page>
@@ -59,7 +59,7 @@
   </Dialog>
   <Dialog id="12" name="SEL_012_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Lying is wrong.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Fine...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Добре...]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 1 3 25 25}Aw, c'mon, man! You gotta help me, {f 4 1}![n]{f 1 1}]]></Page>
@@ -153,7 +153,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 1 0 0 62 0 0}Have you heard anything from Iori?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="38" name="SEL_038_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зовсім.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Чому?]]></Option>
   </Dialog>
   <Dialog id="39" name="MSG_039_0_0" type="Message">
@@ -171,7 +171,7 @@
   <Dialog id="42" name="MND_042_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I continued my work[n]through the afternoon...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Tomochika wasn't chewed out[n]too badly, but he worked the[n]rest of his shift in silence...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}When my first day of internship[n]concluded, I returned to the dorm.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
