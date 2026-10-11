@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_007_100_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_100_C\BMD_Event_Cmmu_007_100_C.uasset" dialogs="38">
   <Speakers>
-    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Ох, ем... Будь ласка, не переймайтесь.[n]{f 1 1}]]></Page>
@@ -30,8 +30,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}Те, що я можу сказати, бо навідміну від інших, я безсмертна.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Що?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't really get it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}І що це?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я не второпав про що ти.]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_003_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Це дуже примітивне.[n]{f 1 1}]]></Page>
@@ -105,7 +105,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 1 -1 -1 0 0}{f 3 1 1 0 0 41 0 0}Не просто якийсь спогад, а чогось постійне... Те, що неможливо стерти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аїґіс пильно дивиться на мене...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Айґіс пильно дивиться на мене...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="SEL_014_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Мовчки кивнути]]></Option>
