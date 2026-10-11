@@ -398,34 +398,34 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Not now.]]></Option>
   </Dialog>
   <Dialog id="110" name="SEL_SEED_CHOOSE" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 0}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 1}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 2}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 3}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 4}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 5}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 6}"]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}"{f 4 4 1 0 0 7}"]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 0}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 1}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 2}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 3}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 4}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 5}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 6}»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}«{f 4 4 1 0 0 7}»]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
   </Dialog>
   <Dialog id="111" name="MND_SEED_THINK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}What should I plant...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що посадити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="112" name="MND_SEED_DAY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like it can be harvested on {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що урожай можна збирати з {f 0 1 2}{f 2 4 1}/{f 2 4 2}{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="113" name="SEL_PLANT_CHOOSE" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Plant it]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Don't plant it]]></Option>
   </Dialog>
   <Dialog id="114" name="MND_NO_PLANT_DORMITORY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Come to think of it, I don't think I've planted[n]anything in the rooftop planters yet...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, то, здається, я ще[n]нічого не садив у кашпо...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="115" name="MND_PLANT_CAN_NOT" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Looks like I won't be able to harvest it[n]before the Promised Day, January 31st...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що я не зможу зібрати його[n]до Обіцяного дня, 31 січня...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="116" name="MND_PLANT_OK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}There should still be produce in the rooftop[n]planter that has yet to be harvested.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should harvest those first...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще має[n]бути урожай, який потрібно зібрати.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я маю зібрати його першим...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
