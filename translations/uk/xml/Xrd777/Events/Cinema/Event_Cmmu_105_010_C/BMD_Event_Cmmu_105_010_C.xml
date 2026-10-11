@@ -12,7 +12,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я {f 4 3}.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Приємно познайомитись.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Радий знайомству.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 0 101 -1 0 0}{f 3 1 1 0 0 2 0 0}Ласкаво просимо, {f 4 1}. Я Юко Нішівакі.[n]{f 1 1}]]></Page>
@@ -42,7 +42,7 @@
   </Dialog>
   <Dialog id="10" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ага.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Нє.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 105 1 151 -1 0 0}{f 3 1 1 0 0 12 0 0}Коротше, відтепер ти мій після школи.[n]{f 1 1}]]></Page>
