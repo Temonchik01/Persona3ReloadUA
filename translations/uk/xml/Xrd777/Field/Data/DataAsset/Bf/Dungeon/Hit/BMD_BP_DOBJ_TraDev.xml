@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_BP_DOBJ_TraDev.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Dungeon\Hit\BMD_BP_DOBJ_TraDev.uasset" dialogs="24">
   <Speakers>
-    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Mitsuru Kirijo</Speaker>
-    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
+    <Speaker id="1" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_EXPLORATION" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Повернутись на {f 2 4 0}П]]></Option>
@@ -11,7 +11,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_YESNO" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ага.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Hold on.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай но.]]></Option>
   </Dialog>
   <Dialog id="2" name="SEL_CheckFull" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Використати телепорт]]></Option>
@@ -78,7 +78,7 @@
   </Dialog>
   <Dialog id="17" name="MND_WARP_NOT_BOOT_2" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Очевидно, використовуючи односторонній телепорт[n]в Тартар, я повернуся сюди.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Але не схоже, що я можу використати йогощоб повернутися[n]на поверх, звідки прийшов.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Але не схоже, що я можу використати його щоб повернутися на поверх, звідки прийшов.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_MITSURU_GREET" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 1 10099 0 0}Дякуючи Ямаґіші, я теж можу досліджувати з вами. Але я все одно хотів би дотримуватися стратегії з чотирма людьми.[n]{f 1 1}]]></Page>
