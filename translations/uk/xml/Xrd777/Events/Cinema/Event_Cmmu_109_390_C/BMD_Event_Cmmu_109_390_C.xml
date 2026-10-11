@@ -16,8 +16,8 @@
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Мабуть, що ні.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Секрет.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Probably not.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's a secret.]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 3 0 -1 11479 0 0}{f 5 13 9 30 109}Чесно?[n]{f 1 1}]]></Page>
@@ -47,8 +47,8 @@
   </Dialog>
   <Dialog id="10" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Мабуть, що ні.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Секрет.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Probably not.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}It's a secret.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 1 -1 -1 0 0}{f 3 1 3 0 -1 11451 0 0}{f 5 13 9 30 109}Ну, коли ти отримаєш, можливо, ми зможемо поїхати в невеличку подорож.[n]{f 1 1}]]></Page>
@@ -64,7 +64,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}Мабуть, ти чудово обійдешся без водійського посвідчення.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чіхіро посміхається.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чіхіро всміхається.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я дізнався про неї трохи більше сьогодні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_015_0_0" type="Message">
