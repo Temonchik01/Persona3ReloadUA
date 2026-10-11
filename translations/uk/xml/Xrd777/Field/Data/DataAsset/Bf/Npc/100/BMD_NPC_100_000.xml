@@ -7,10 +7,10 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 3 0 -1 22501 0 0}{f 5 21 1 100}Привіт! Ласкаво просимо![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Shop]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Магазин]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Купити щось]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Talk]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Cancel]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Поговорити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_047_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, мені варто розпитати про чутки[n]щодо {f 0 1 2}тайякі{f 0 1 27}, про які я читав на сайті...[n]{f 1 1}]]></Page>
