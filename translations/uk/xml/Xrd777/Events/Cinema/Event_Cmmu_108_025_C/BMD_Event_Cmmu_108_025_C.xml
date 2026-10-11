@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_108_025_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_108_025_C\BMD_Event_Cmmu_108_025_C.uasset" dialogs="28">
   <Speakers>
-    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Fuuka Yamagishi</Speaker>
+    <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
     <Speaker id="1" rawBytes="4B 65 69 73 75 6B 65 20 48 69 72 61 67 61">Кеїсуке Хіраґа</Speaker>
     <Speaker id="2" rawBytes="46 65 6D 61 6C 65 20 43 6C 75 62 20 4D 65 6D 62 65 72">Female Club Member</Speaker>
   </Speakers>
@@ -9,7 +9,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}...![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What's wrong?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Що таке?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Do you need some rest?]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
@@ -100,7 +100,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}U-Uh, that's okay. I'm fine. Really.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MND_023_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}It's getting dark out.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Уже сутеніє.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I said goodbye to the club members[n]and went back to the dorm.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
