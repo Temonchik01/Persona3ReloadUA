@@ -7,7 +7,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 109 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Пробач, що потягнула тебе із собою на закупи...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не переймайся.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't worry about it.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я однаково нудьгував.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
@@ -105,7 +105,7 @@
   </Dialog>
   <Dialog id="27" name="MND_027_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, Чіхіро до душі моя компанія.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="SYS_028_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}DEV: Unused[n]{f 1 1}]]></Page>
