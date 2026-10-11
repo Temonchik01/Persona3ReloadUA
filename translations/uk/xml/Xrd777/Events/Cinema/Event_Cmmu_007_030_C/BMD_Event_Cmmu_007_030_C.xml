@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_007_030_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_030_C\BMD_Event_Cmmu_007_030_C.uasset" dialogs="35">
   <Speakers>
-    <Speaker id="0" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
     <Speaker id="1" rawBytes="42 6C 61 63 6B 20 53 68 69 62 61 20 49 6E 75">Чорний Шіба-іну</Speaker>
     <Speaker id="2" rawBytes="42 72 6F 77 6E 20 43 61 74">Коричнева кішка</Speaker>
   </Speakers>
@@ -91,7 +91,7 @@
   </Dialog>
   <Dialog id="24" name="SEL_019_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Можливо так і є.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
   </Dialog>
   <Dialog id="25" name="MSG_020_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 35 0 0}Я маю радіти своїм новознайденим емоціям...[n]{f 1 1}]]></Page>
@@ -118,7 +118,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 3 -1 -1 0 0}{f 3 1 1 0 0 46 0 0}Якщо я зможу бути поруч із вами, тоді ніщо мене не має похитнути. Знаю це, але...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_023_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю невиразну прихильність від Аїґіс...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю невиразну прихильність Аїґіс...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_024_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 47 0 0}Я маю переконатися, що друзі Коромару зрозуміли наше становище.[n]{f 1 1}]]></Page>
