@@ -5,7 +5,7 @@
     <Speaker id="1" rawBytes="53 74 75 64 65 6E 74">Учень</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це зал гучномовця.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кімната гучномовця.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут є мікрофони, навушники та[n]ще якісь незнайомі пристрої...[n]{f 1 1}]]></Page>
@@ -30,8 +30,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Спробувати увійти в залу гучномовца?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не заходити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не входити]]></Option>
   </Dialog>
   <Dialog id="8" name="MSG_005_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}Вибачте, вам потрібен дозвіл, щоб увійти...[n]{f 1 1}]]></Page>
