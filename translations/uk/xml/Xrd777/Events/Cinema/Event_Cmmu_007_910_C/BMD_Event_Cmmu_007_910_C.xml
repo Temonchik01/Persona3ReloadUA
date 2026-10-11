@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_007_910_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_007_910_C\BMD_Event_Cmmu_007_910_C.uasset" dialogs="7">
   <Speakers>
-    <Speaker id="0" rawBytes="41 69 67 69 73">Aigis</Speaker>
+    <Speaker id="0" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}З сьогоднішнього дня я приєднаюся до операцій з дослідження Тартару. Я готова до розгортання..[n]{f 1 1}]]></Page>
@@ -11,7 +11,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Я надам більше деталей пізніше, але достатньо сказати, що ви не захочете це пропустити.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Looking forward to it.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}З нетерпінням чекаю.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не навантажуй себе.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ти можеш трансформуватись?]]></Option>
   </Dialog>
