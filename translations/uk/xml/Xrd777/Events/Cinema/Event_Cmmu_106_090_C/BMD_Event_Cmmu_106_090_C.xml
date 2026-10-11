@@ -37,7 +37,7 @@
   <Dialog id="8" name="SEL_006_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зірка легкої атлетики?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Інструкторка?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вихователька в дитсадку?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вихователька в дитсадочку?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Без поняття...]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_007_0_0" type="Message">
@@ -74,8 +74,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 1 -1 -1 0 0}{f 3 1 1 0 0 28 0 0}{f 4 23 0 1 1 25 25}Тому... дякую.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко виглядає вдячною.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I feel like our relationship has grown...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, Юко справді вдячна.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MSG_014_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 29 0 0}І-І ще...[n]{f 1 1}]]></Page>
@@ -86,7 +86,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 106 3 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}Я зрозуміла, що, можливо, занадто на тебе покладалася.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_015_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не заперечую.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Мені не важко.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Можеш покладатися на мене ще більше.]]></Option>
   </Dialog>
   <Dialog id="22" name="MSG_016_0_0" type="Message">
@@ -98,10 +98,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко виглядає схвильованою.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_018_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I better choose my words carefully here...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Краще обирати слова обережно...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MND_019_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I better choose my words carefully here...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Краще обирати слова обережно...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}До того ж {f 0 1 2}у мене вже є особливі{f 0 1 27}[n]{f 0 1 2} стосунки з іншою людиною{f 0 1 27}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_016_5_0" type="Message">
@@ -206,6 +206,6 @@
   </Dialog>
   <Dialog id="53" name="MND_042_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юко поспіхом пішла з кафе.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I should head back to the dorm...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мабуть, час повертатися до гуртожитку...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
