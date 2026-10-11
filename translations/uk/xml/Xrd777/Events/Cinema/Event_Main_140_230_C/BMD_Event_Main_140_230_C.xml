@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Main_140_230_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Main_140_230_C\BMD_Event_Main_140_230_C.uasset" dialogs="58">
   <Speakers>
-    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Юкарі Такеба</Speaker>
-    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюмпей Іорі</Speaker>
+    <Speaker id="0" rawBytes="59 75 6B 61 72 69 20 54 61 6B 65 62 61">Yukari Takeba</Speaker>
+    <Speaker id="1" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 5 -1 0 0}{f 3 1 1 0 0 1 0 0}Я так довго вірила в нього.[n]{f 1 1}]]></Page>
@@ -58,7 +58,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 5 -1 0 0}{f 3 1 1 0 0 20 0 0}Але тепер... Тепер я бачу, що все це було марно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Це неправда.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}That's not true.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Мабуть, так...]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Та ну, не сумуй.]]></Option>
   </Dialog>
@@ -80,7 +80,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 10 5 -1 0 0}{f 3 1 1 0 0 27 0 0}...Я жахлива людина, так?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="SEL_012_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зовсім ні.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Not at all.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не звинувачуй себе.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Таке життя.]]></Option>
   </Dialog>
@@ -110,7 +110,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 3 5 -1 0 0}{f 3 1 1 0 0 37 0 0}Просто скажи, що мені тепер робити?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="SEL_016_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не втрачай надії.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Don't lose hope.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Це нормально — не знати.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Залишся з нами й борися.]]></Option>
   </Dialog>
@@ -203,7 +203,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 5 -1 0 0}{f 3 1 1 0 0 67 0 0}Ну, тоді гаразд! Повертаймося![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="56" name="MND_039_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Таке відчуття, ніби за мною знову стежать...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="57" name="MND_040_0_0" type="Message">
