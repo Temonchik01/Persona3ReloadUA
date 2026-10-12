@@ -5,7 +5,7 @@
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Навчатись]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені ще вчитися?..[n]{f 1 1}]]></Page>
@@ -61,7 +61,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Нічого не робити]]></Option>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, інтернет-з'єднання відновилося.[n]Тепер я можу грати в гру, яку мені дав Джюнпей...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, інтернет-з'єднання відновилося.[n]Тепер я можу грати в гру, яку мені дав Джюмпей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_016_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}※UNUSED ※[n]{f 1 5 0}（Ｖ）コミュ　ランク『（Ｖ）』[n]{f 1 1}]]></Page>
@@ -88,7 +88,7 @@
   </Dialog>
   <Dialog id="23" name="MND_023_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}З'єднання з Інтернетом відновилося.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тепер я можу грати в гру, яку мені дав Джюнпей...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тепер я можу грати в гру, яку мені дав Джюмпей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MND_024_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вікно чату блимає.[n]{f 1 1}]]></Page>
@@ -108,7 +108,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я повинен відпочивати на[n]ліжку, а не сидіти на стільці...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MND_GOTO_BED_0407" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це стіл, надана гуртожитком. Я повинен[n]тримати речі в порядку, коли користуюся ним...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це стіл, наданий гуртожитком. Я повинен[n]тримати речі в порядку, коли користуюся ним...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MND_GOTO_BED_0417" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Стіл організований, але я повинен[n]сьогодні лягти спати раніше, про всяк випадок...[n]{f 1 1}]]></Page>
