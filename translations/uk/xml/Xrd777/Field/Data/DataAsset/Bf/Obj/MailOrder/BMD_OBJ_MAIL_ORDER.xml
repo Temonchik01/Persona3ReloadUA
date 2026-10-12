@@ -58,7 +58,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I bought the {f 4 4 1 37 1 0}[n]set for {f 2 4 3} yen.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене не вистачає грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_018_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 113 0 -1 -1 0 0}{f 3 1 3 0 -1 12032 0 0}Next time, we'll be introducing a jelly-tasting set! Don't miss it![n]{f 1 1}]]></Page>
@@ -404,6 +404,6 @@
   </Dialog>
   <Dialog id="105" name="MND_115_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I decided to watch TV.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я такого ще не бачив...[n]Поки що залишу це собі.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
