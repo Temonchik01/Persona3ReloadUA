@@ -27,7 +27,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене не вистачає грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_007_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Стоп, я вже молився[n]сьогодні в храмі...[n]{f 1 1}]]></Page>
@@ -48,8 +48,8 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені запропонувати 10,000 єн?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="SEL_014_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні]]></Option>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
