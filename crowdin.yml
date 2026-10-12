@@ -11,13 +11,11 @@ files:
       - /BMD/Dialog/Option
   - source: /dt_xml/text/**/*.xml
     translation: /translations/%two_letters_code%/dt_xml/text/**/%original_file_name%
-    type: xml
-    update_option: update_without_changes
     content_segmentation: 0
-    translate_content: 1
-    translate_attributes: 0
     translatable_elements:
       - /P3RDataTableText/Text/Translation
+    type: xml
+    update_option: update_without_changes
   - source: /dt_xml/fstrings/**/*.xml
     translation: /translations/%two_letters_code%/dt_xml/fstrings/**/%original_file_name%
     type: xml
