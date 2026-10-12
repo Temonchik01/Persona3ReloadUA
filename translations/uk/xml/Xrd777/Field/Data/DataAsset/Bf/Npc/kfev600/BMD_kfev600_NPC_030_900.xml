@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_kfev600_NPC_030_900.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\kfev600\BMD_kfev600_NPC_030_900.uasset" dialogs="18">
   <Speakers>
-    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Junpei Iori</Speaker>
+    <Speaker id="0" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюмпей Іорі</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 1 0 4 1 0 0}'Sup, dude? Wanna grab a bite at Hagakure?[n]{f 1 1}]]></Page>
@@ -45,7 +45,7 @@
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Well...]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I don't know.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки немаю.]]></Option>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 6 -1 -1 0 0}{f 3 1 1 0 4 19 0 0}Yeah, I know, I know. You don't remember either, right?[n]{f 1 1}]]></Page>
