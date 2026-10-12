@@ -1,239 +1,495 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<P3RDataTableFStrings source="DT_SystemTextName.uasset" layout="text-property" stringCount="59">
-  <String index="2" offset="0x983" length="9" encoding="utf-8" role="value">
+<?xml version="1.0" encoding="UTF-8"?>
+<P3RDataTableFStrings source="DT_SystemTextName.uasset" layout="tagged-text" stringCount="120">
+  <String index="0" offset="0x983" length="9" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Peaceful</Source>
-    <Translation>Мирна</Translation>
+    <Translation>Peaceful</Translation>
   </String>
-  <String index="8" offset="0xA46" length="5" encoding="utf-8" role="value">
+  <String index="1" offset="0xA46" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
     <Source>Easy</Source>
-    <Translation>Легка</Translation>
+    <Translation>Easy</Translation>
   </String>
-  <String index="14" offset="0xB01" length="7" encoding="utf-8" role="value">
+  <String index="2" offset="0xB01" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Normal</Source>
-    <Translation>Нормальна</Translation>
+    <Translation>Normal</Translation>
   </String>
-  <String index="20" offset="0xBC0" length="5" encoding="utf-8" role="value">
+  <String index="3" offset="0xBC0" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
     <Source>Hard</Source>
-    <Translation>Важка</Translation>
+    <Translation>Hard</Translation>
   </String>
-  <String index="26" offset="0xC7B" length="10" encoding="utf-8" role="value">
+  <String index="4" offset="0xC7B" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2115">
     <Source>Merciless</Source>
-    <Translation>Безжалісна</Translation>
+    <Translation>Merciless</Translation>
   </String>
-  <String index="32" offset="0xD40" length="23" encoding="utf-8" role="value">
+  <String index="5" offset="0xD40" length="23" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2128">
     <Source>You are not signed in.</Source>
     <Translation>You are not signed in.</Translation>
   </String>
-  <String index="38" offset="0xE85" length="18" encoding="utf-8" role="value">
-    <Source>DT_SystemTextName</Source>
-    <Translation>DT_SystemTextName</Translation>
+  <String index="6" offset="0xE15" length="78" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="9004">
+    <Source>You have been signed out.
+
+Network functionality will no longer be available.</Source>
+    <Translation>You have been signed out.
+
+Network functionality will no longer be available.</Translation>
   </String>
-  <String index="53" offset="0x1157" length="36" encoding="utf-8" role="value">
+  <String index="7" offset="0xF16" length="94" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="&lt;Size:139&gt;">
+    <Source>Any progress made since your last save will be lost.
+
+Are you sure you wish to exit the game?</Source>
+    <Translation>Any progress made since your last save will be lost.
+
+Are you sure you wish to exit the game?</Translation>
+  </String>
+  <String index="8" offset="0x1027" length="120" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="&lt;Size:165&gt;">
+    <Source>A device was disconnected. Please check the status of the connection.
+
+Pressing any button will return you to the game.</Source>
+    <Translation>A device was disconnected. Please check the status of the connection.
+
+Pressing any button will return you to the game.</Translation>
+  </String>
+  <String index="9" offset="0x1157" length="36" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3013">
     <Source>Game started on a different device.</Source>
     <Translation>Game started on a different device.</Translation>
   </String>
-  <String index="59" offset="0x123A" length="53" encoding="utf-8" role="value">
+  <String index="10" offset="0x123A" length="53" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3030">
     <Source>The game can only be played on one device at a time.</Source>
     <Translation>The game can only be played on one device at a time.</Translation>
   </String>
-  <String index="65" offset="0x1327" length="17" encoding="utf-8" role="value">
+  <String index="11" offset="0x1327" length="17" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2121">
     <Source>Persona 3 Reload</Source>
     <Translation>Persona 3 Reload</Translation>
   </String>
-  <String index="71" offset="0x13EB" length="10" encoding="utf-8" role="value">
+  <String index="12" offset="0x13EB" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Game Data</Source>
     <Translation>Game Data</Translation>
   </String>
-  <String index="77" offset="0x14AB" length="6" encoding="utf-8" role="value">
+  <String index="13" offset="0x14AB" length="6" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
     <Source>Month</Source>
     <Translation>Month</Translation>
   </String>
-  <String index="83" offset="0x1564" length="4" encoding="utf-8" role="value">
+  <String index="14" offset="0x1564" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2108">
     <Source>Day</Source>
     <Translation>Day</Translation>
   </String>
-  <String index="89" offset="0x161A" length="3" encoding="utf-8" role="value">
+  <String index="15" offset="0x161A" length="3" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2107">
     <Source>Lv</Source>
     <Translation>Lv</Translation>
   </String>
-  <String index="95" offset="0x16D7" length="10" encoding="utf-8" role="value">
+  <String index="16" offset="0x16D7" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>PLAY TIME</Source>
     <Translation>PLAY TIME</Translation>
   </String>
-  <String index="101" offset="0x1798" length="6" encoding="utf-8" role="value">
+  <String index="17" offset="0x1798" length="6" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
     <Source>Hours</Source>
     <Translation>Hours</Translation>
   </String>
-  <String index="107" offset="0x1850" length="8" encoding="utf-8" role="value">
+  <String index="18" offset="0x1850" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Minutes</Source>
     <Translation>Minutes</Translation>
   </String>
-  <String index="113" offset="0x190C" length="11" encoding="utf-8" role="value">
+  <String index="19" offset="0x190C" length="11" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2115">
     <Source>Difficulty</Source>
-    <Translation>Складність</Translation>
+    <Translation>Difficulty</Translation>
   </String>
-  <String index="119" offset="0x19CF" length="5" encoding="utf-8" role="value">
+  <String index="20" offset="0x19CF" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(Su)</Source>
     <Translation>(Su)</Translation>
   </String>
-  <String index="125" offset="0x1A8A" length="5" encoding="utf-8" role="value">
+  <String index="21" offset="0x1A8A" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(Mo)</Source>
     <Translation>(Mo)</Translation>
   </String>
-  <String index="131" offset="0x1B45" length="5" encoding="utf-8" role="value">
+  <String index="22" offset="0x1B45" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(Tu)</Source>
     <Translation>(Tu)</Translation>
   </String>
-  <String index="137" offset="0x1C00" length="5" encoding="utf-8" role="value">
+  <String index="23" offset="0x1C00" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(We)</Source>
     <Translation>(We)</Translation>
   </String>
-  <String index="143" offset="0x1CBB" length="5" encoding="utf-8" role="value">
+  <String index="24" offset="0x1CBB" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(Th)</Source>
     <Translation>(Th)</Translation>
   </String>
-  <String index="149" offset="0x1D76" length="5" encoding="utf-8" role="value">
+  <String index="25" offset="0x1D76" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(Fr)</Source>
     <Translation>(Fr)</Translation>
   </String>
-  <String index="155" offset="0x1E31" length="5" encoding="utf-8" role="value">
+  <String index="26" offset="0x1E31" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>(Sa)</Source>
     <Translation>(Sa)</Translation>
   </String>
-  <String index="161" offset="0x1EEC" length="14" encoding="utf-8" role="value">
+  <String index="27" offset="0x1EEC" length="14" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
     <Source>Early Morning</Source>
     <Translation>Early Morning</Translation>
   </String>
-  <String index="167" offset="0x1FB6" length="8" encoding="utf-8" role="value">
+  <String index="28" offset="0x1FB6" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Morning</Source>
     <Translation>Morning</Translation>
   </String>
-  <String index="173" offset="0x207C" length="13" encoding="utf-8" role="value">
+  <String index="29" offset="0x207C" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2117">
     <Source>Late Morning</Source>
     <Translation>Late Morning</Translation>
   </String>
-  <String index="179" offset="0x2142" length="10" encoding="utf-8" role="value">
+  <String index="30" offset="0x2142" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Lunchtime</Source>
     <Translation>Lunchtime</Translation>
   </String>
-  <String index="185" offset="0x2207" length="10" encoding="utf-8" role="value">
+  <String index="31" offset="0x2207" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Afternoon</Source>
     <Translation>Afternoon</Translation>
   </String>
-  <String index="191" offset="0x22CA" length="13" encoding="utf-8" role="value">
+  <String index="32" offset="0x22CA" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2117">
     <Source>After School</Source>
     <Translation>After School</Translation>
   </String>
-  <String index="197" offset="0x2393" length="8" encoding="utf-8" role="value">
+  <String index="33" offset="0x2393" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Daytime</Source>
     <Translation>Daytime</Translation>
   </String>
-  <String index="203" offset="0x2455" length="8" encoding="utf-8" role="value">
+  <String index="34" offset="0x2455" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Evening</Source>
     <Translation>Evening</Translation>
   </String>
-  <String index="209" offset="0x2519" length="10" encoding="utf-8" role="value">
+  <String index="35" offset="0x2519" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Dark Hour</Source>
-    <Translation>Темна година</Translation>
+    <Translation>Dark Hour</Translation>
   </String>
-  <String index="215" offset="0x25E0" length="11" encoding="utf-8" role="value">
+  <String index="36" offset="0x25E0" length="11" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2115">
     <Source>Late Night</Source>
     <Translation>Late Night</Translation>
   </String>
-  <String index="221" offset="0x26AA" length="9" encoding="utf-8" role="value">
+  <String index="37" offset="0x26AA" length="9" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
     <Source>New Moon</Source>
     <Translation>New Moon</Translation>
   </String>
-  <String index="227" offset="0x2770" length="14" encoding="utf-8" role="value">
+  <String index="38" offset="0x2770" length="14" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
     <Source>Crescent Moon</Source>
     <Translation>Crescent Moon</Translation>
   </String>
-  <String index="233" offset="0x283C" length="10" encoding="utf-8" role="value">
+  <String index="39" offset="0x283C" length="10" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Full Moon</Source>
-    <Translation>Повня</Translation>
+    <Translation>Full Moon</Translation>
   </String>
-  <String index="239" offset="0x2904" length="13" encoding="utf-8" role="value">
+  <String index="40" offset="0x2904" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2117">
     <Source>Last Quarter</Source>
     <Translation>Last Quarter</Translation>
   </String>
-  <String index="245" offset="0x29CE" length="3" encoding="utf-8" role="value">
+  <String index="41" offset="0x29CE" length="3" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2108">
     <Source>ON</Source>
-    <Translation>УВІМК</Translation>
+    <Translation>ON</Translation>
   </String>
-  <String index="251" offset="0x2A81" length="4" encoding="utf-8" role="value">
+  <String index="42" offset="0x2A81" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>OFF</Source>
-    <Translation>ВИМК</Translation>
+    <Translation>OFF</Translation>
   </String>
-  <String index="257" offset="0x2B36" length="9" encoding="utf-8" role="value">
+  <String index="43" offset="0x2B36" length="9" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
     <Source>Japanese</Source>
-    <Translation>Японська</Translation>
+    <Translation>Japanese</Translation>
   </String>
-  <String index="263" offset="0x2BF0" length="8" encoding="utf-8" role="value">
+  <String index="44" offset="0x2BF0" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
     <Source>English</Source>
-    <Translation>Англійська</Translation>
+    <Translation>English</Translation>
   </String>
-  <String index="269" offset="0x2CA9" length="8" encoding="utf-8" role="value">
+  <String index="45" offset="0x2CA9" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
     <Source>Default</Source>
-    <Translation>Стандартний</Translation>
+    <Translation>Default</Translation>
   </String>
-  <String index="275" offset="0x2D66" length="16" encoding="utf-8" role="value">
+  <String index="46" offset="0x2D66" length="16" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2121">
     <Source>Current Setting</Source>
-    <Translation>Поточні налаштування</Translation>
+    <Translation>Current Setting</Translation>
   </String>
-  <String index="281" offset="0x2E2E" length="7" encoding="utf-8" role="value">
+  <String index="47" offset="0x2E2E" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Random</Source>
-    <Translation>Випадкове</Translation>
+    <Translation>Random</Translation>
   </String>
-  <String index="287" offset="0x2EE9" length="12" encoding="utf-8" role="value">
+  <String index="48" offset="0x2EE9" length="12" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2117">
     <Source>Auto-Detect</Source>
-    <Translation>Автовизначення</Translation>
+    <Translation>Auto-Detect</Translation>
   </String>
-  <String index="293" offset="0x2FAC" length="7" encoding="utf-8" role="value">
+  <String index="49" offset="0x2FAC" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Type 1</Source>
-    <Translation>Тип 1</Translation>
+    <Translation>Type 1</Translation>
   </String>
-  <String index="299" offset="0x306B" length="7" encoding="utf-8" role="value">
+  <String index="50" offset="0x306B" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Type 2</Source>
-    <Translation>Тип 2</Translation>
+    <Translation>Type 2</Translation>
   </String>
-  <String index="305" offset="0x3129" length="7" encoding="utf-8" role="value">
+  <String index="51" offset="0x3129" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Type 3</Source>
-    <Translation>Тип 3</Translation>
+    <Translation>Type 3</Translation>
   </String>
-  <String index="311" offset="0x31E4" length="7" encoding="utf-8" role="value">
+  <String index="52" offset="0x31E4" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Type 4</Source>
-    <Translation>Тип 4</Translation>
+    <Translation>Type 4</Translation>
   </String>
-  <String index="317" offset="0x32A3" length="4" encoding="utf-8" role="value">
+  <String index="53" offset="0x32A3" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
     <Source>Low</Source>
-    <Translation>Низький</Translation>
+    <Translation>Low</Translation>
   </String>
-  <String index="323" offset="0x3358" length="7" encoding="utf-8" role="value">
+  <String index="54" offset="0x3358" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Middle</Source>
-    <Translation>Середній</Translation>
+    <Translation>Middle</Translation>
   </String>
-  <String index="329" offset="0x3413" length="5" encoding="utf-8" role="value">
+  <String index="55" offset="0x3413" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
     <Source>High</Source>
-    <Translation>Високий</Translation>
+    <Translation>High</Translation>
   </String>
-  <String index="335" offset="0x34CA" length="7" encoding="utf-8" role="value">
+  <String index="56" offset="0x34CA" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
     <Source>Custom</Source>
-    <Translation>Власний</Translation>
+    <Translation>Custom</Translation>
   </String>
-  <String index="341" offset="0x35AB" length="18" encoding="utf-8" role="value">
-    <Source>DT_SystemTextName</Source>
-    <Translation>DT_SystemTextName</Translation>
+  <String index="57" offset="0x3585" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
+    <Source>50%</Source>
+    <Translation>50%</Translation>
   </String>
-  <String index="356" offset="0x37E4" length="18" encoding="utf-8" role="value">
-    <Source>DT_SystemTextName</Source>
-    <Translation>DT_SystemTextName</Translation>
+  <String index="58" offset="0x3642" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
+    <Source>75%</Source>
+    <Translation>75%</Translation>
   </String>
-  <String index="371" offset="0x3A1E" length="18" encoding="utf-8" role="value">
-    <Source>DT_SystemTextName</Source>
-    <Translation>DT_SystemTextName</Translation>
+  <String index="59" offset="0x36FF" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>100%</Source>
+    <Translation>100%</Translation>
   </String>
-  <String index="386" offset="0x3C55" length="18" encoding="utf-8" role="value">
-    <Source>DT_SystemTextName</Source>
-    <Translation>DT_SystemTextName</Translation>
+  <String index="60" offset="0x37BD" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>125%</Source>
+    <Translation>125%</Translation>
+  </String>
+  <String index="61" offset="0x387B" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>150%</Source>
+    <Translation>150%</Translation>
+  </String>
+  <String index="62" offset="0x3939" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>175%</Source>
+    <Translation>175%</Translation>
+  </String>
+  <String index="63" offset="0x39F7" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>200%</Source>
+    <Translation>200%</Translation>
+  </String>
+  <String index="64" offset="0x3AB5" length="3" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2108">
+    <Source>30</Source>
+    <Translation>30</Translation>
+  </String>
+  <String index="65" offset="0x3B72" length="3" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2108">
+    <Source>60</Source>
+    <Translation>60</Translation>
+  </String>
+  <String index="66" offset="0x3C2F" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
+    <Source>120</Source>
+    <Translation>120</Translation>
+  </String>
+  <String index="67" offset="0x3CF3" length="12" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2117">
+    <Source>Full Screen</Source>
+    <Translation>Full Screen</Translation>
+  </String>
+  <String index="68" offset="0x3DB7" length="22" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2127">
+    <Source>Borderless Fullscreen</Source>
+    <Translation>Borderless Fullscreen</Translation>
+  </String>
+  <String index="69" offset="0x3E85" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Window</Source>
+    <Translation>Window</Translation>
+  </String>
+  <String index="70" offset="0x3F40" length="29" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3006">
+    <Source>Character Movement (Forward)</Source>
+    <Translation>Character Movement (Forward)</Translation>
+  </String>
+  <String index="71" offset="0x4014" length="26" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3003">
+    <Source>Character Movement (Back)</Source>
+    <Translation>Character Movement (Back)</Translation>
+  </String>
+  <String index="72" offset="0x40E5" length="26" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3003">
+    <Source>Character Movement (Left)</Source>
+    <Translation>Character Movement (Left)</Translation>
+  </String>
+  <String index="73" offset="0x41B6" length="27" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3004">
+    <Source>Character Movement (Right)</Source>
+    <Translation>Character Movement (Right)</Translation>
+  </String>
+  <String index="74" offset="0x4288" length="16" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2121">
+    <Source>Confirm, Action</Source>
+    <Translation>Confirm, Action</Translation>
+  </String>
+  <String index="75" offset="0x434F" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Cancel</Source>
+    <Translation>Cancel</Translation>
+  </String>
+  <String index="76" offset="0x440D" length="19" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2124">
+    <Source>Scroll Page (Left)</Source>
+    <Translation>Scroll Page (Left)</Translation>
+  </String>
+  <String index="77" offset="0x44D7" length="20" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2125">
+    <Source>Scroll Page (Right)</Source>
+    <Translation>Scroll Page (Right)</Translation>
+  </String>
+  <String index="78" offset="0x45A2" length="28" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3005">
+    <Source>Scroll Status Screen (Left)</Source>
+    <Translation>Scroll Status Screen (Left)</Translation>
+  </String>
+  <String index="79" offset="0x4677" length="29" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3006">
+    <Source>Scroll Status Screen (Right)</Source>
+    <Translation>Scroll Status Screen (Right)</Translation>
+  </String>
+  <String index="80" offset="0x474D" length="30" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="3007">
+    <Source>Display Details, Change Party</Source>
+    <Translation>Display Details, Change Party</Translation>
+  </String>
+  <String index="81" offset="0x4829" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
+    <Source>Log</Source>
+    <Translation>Log</Translation>
+  </String>
+  <String index="82" offset="0x48E1" length="11" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2116">
+    <Source>System Key</Source>
+    <Translation>System Key</Translation>
+  </String>
+  <String index="83" offset="0x49A6" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
+    <Source>Next Message</Source>
+    <Translation>Next Message</Translation>
+  </String>
+  <String index="84" offset="0x4A70" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>Auto</Source>
+    <Translation>Auto</Translation>
+  </String>
+  <String index="85" offset="0x4B2A" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
+    <Source>Fast Forward</Source>
+    <Translation>Fast Forward</Translation>
+  </String>
+  <String index="86" offset="0x4BEC" length="12" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2117">
+    <Source>Pause, Skip</Source>
+    <Translation>Pause, Skip</Translation>
+  </String>
+  <String index="87" offset="0x4CAE" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
+    <Source>Network</Source>
+    <Translation>Network</Translation>
+  </String>
+  <String index="88" offset="0x4D6E" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
+    <Source>Zoom In</Source>
+    <Translation>Zoom In</Translation>
+  </String>
+  <String index="89" offset="0x4E2E" length="9" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2114">
+    <Source>Zoom Out</Source>
+    <Translation>Zoom Out</Translation>
+  </String>
+  <String index="90" offset="0x4EF0" length="19" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2124">
+    <Source>Rotate Camera (Up)</Source>
+    <Translation>Rotate Camera (Up)</Translation>
+  </String>
+  <String index="91" offset="0x4FBD" length="21" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2126">
+    <Source>Rotate Camera (Down)</Source>
+    <Translation>Rotate Camera (Down)</Translation>
+  </String>
+  <String index="92" offset="0x508E" length="21" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2126">
+    <Source>Rotate Camera (Left)</Source>
+    <Translation>Rotate Camera (Left)</Translation>
+  </String>
+  <String index="93" offset="0x515F" length="22" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2127">
+    <Source>Rotate Camera (Right)</Source>
+    <Translation>Rotate Camera (Right)</Translation>
+  </String>
+  <String index="94" offset="0x5232" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
+    <Source>Reset Camera</Source>
+    <Translation>Reset Camera</Translation>
+  </String>
+  <String index="95" offset="0x52FC" length="14" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2119">
+    <Source>Navigate Menu</Source>
+    <Translation>Navigate Menu</Translation>
+  </String>
+  <String index="96" offset="0x53BF" length="4" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2109">
+    <Source>Map</Source>
+    <Translation>Map</Translation>
+  </String>
+  <String index="97" offset="0x5477" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>Dash</Source>
+    <Translation>Dash</Translation>
+  </String>
+  <String index="98" offset="0x5531" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
+    <Source>Mail, Attack</Source>
+    <Translation>Mail, Attack</Translation>
+  </String>
+  <String index="99" offset="0x55F5" length="14" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2119">
+    <Source>Network, Navi</Source>
+    <Translation>Network, Navi</Translation>
+  </String>
+  <String index="100" offset="0x56B8" length="13" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2118">
+    <Source>Auto-Recover</Source>
+    <Translation>Auto-Recover</Translation>
+  </String>
+  <String index="101" offset="0x577E" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
+    <Source>Theurgy</Source>
+    <Translation>Theurgy</Translation>
+  </String>
+  <String index="102" offset="0x5842" length="21" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2126">
+    <Source>Select Target (Left)</Source>
+    <Translation>Select Target (Left)</Translation>
+  </String>
+  <String index="103" offset="0x5914" length="22" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2127">
+    <Source>Select Target (Right)</Source>
+    <Translation>Select Target (Right)</Translation>
+  </String>
+  <String index="104" offset="0x59E7" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Survey</Source>
+    <Translation>Survey</Translation>
+  </String>
+  <String index="105" offset="0x5AA9" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Attack</Source>
+    <Translation>Attack</Translation>
+  </String>
+  <String index="106" offset="0x5B6B" length="6" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2111">
+    <Source>Guard</Source>
+    <Translation>Guard</Translation>
+  </String>
+  <String index="107" offset="0x5C2B" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Skills</Source>
+    <Translation>Skills</Translation>
+  </String>
+  <String index="108" offset="0x5CEC" length="6" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2111">
+    <Source>Items</Source>
+    <Translation>Items</Translation>
+  </String>
+  <String index="109" offset="0x5DAB" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
+    <Source>Analyze</Source>
+    <Translation>Analyze</Translation>
+  </String>
+  <String index="110" offset="0x5E6F" length="8" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2113">
+    <Source>Tactics</Source>
+    <Translation>Tactics</Translation>
+  </String>
+  <String index="111" offset="0x5F33" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Assist</Source>
+    <Translation>Assist</Translation>
+  </String>
+  <String index="112" offset="0x5FF5" length="6" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2111">
+    <Source>Shift</Source>
+    <Translation>Shift</Translation>
+  </String>
+  <String index="113" offset="0x60B5" length="5" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2110">
+    <Source>Rush</Source>
+    <Translation>Rush</Translation>
+  </String>
+  <String index="114" offset="0x6173" length="7" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2112">
+    <Source>Oracle</Source>
+    <Translation>Oracle</Translation>
+  </String>
+  <String index="115" offset="0x6235" length="17" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2122">
+    <Source>Move Cursor (Up)</Source>
+    <Translation>Move Cursor (Up)</Translation>
+  </String>
+  <String index="116" offset="0x6300" length="19" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2124">
+    <Source>Move Cursor (Down)</Source>
+    <Translation>Move Cursor (Down)</Translation>
+  </String>
+  <String index="117" offset="0x63CF" length="19" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2124">
+    <Source>Move Cursor (Left)</Source>
+    <Translation>Move Cursor (Left)</Translation>
+  </String>
+  <String index="118" offset="0x649E" length="20" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2125">
+    <Source>Move Cursor (Right)</Source>
+    <Translation>Move Cursor (Right)</Translation>
+  </String>
+  <String index="119" offset="0x656F" length="14" role="value" property="Name" a="DT_SystemTextName" b="ScriptStruct" c="2119">
+    <Source>Full Analysis</Source>
+    <Translation>Full Analysis</Translation>
   </String>
 </P3RDataTableFStrings>
