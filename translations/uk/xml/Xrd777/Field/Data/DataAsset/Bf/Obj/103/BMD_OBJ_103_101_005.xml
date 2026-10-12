@@ -32,10 +32,10 @@
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час у «Мандрагорі»]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що можна зробити тут]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="10" name="MND_010_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
@@ -43,7 +43,7 @@
   <Dialog id="12" name="MND_012_0_0" type="Message"/>
   <Dialog id="13" name="SEL_013_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
