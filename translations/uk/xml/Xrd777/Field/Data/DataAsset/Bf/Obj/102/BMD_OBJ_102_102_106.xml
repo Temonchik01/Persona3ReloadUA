@@ -37,7 +37,7 @@
   </Dialog>
   <Dialog id="9" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Охолодити його]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="10" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я поклав {f 4 4 1 37 1 0} в холодильник.[n]{f 1 1}]]></Page>
@@ -49,7 +49,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}, який я поклав сюди[n]раніше, достатньо охолонув...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_MYSTERYFOOD_GET" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...!?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?!..[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав у холодильник[n]давним-давно, тепер виглядає зовсім інакше...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_MYSTERYFOOD_GET2" type="Message">
@@ -61,7 +61,7 @@
   </Dialog>
   <Dialog id="16" name="MSG_GET2_0601_0616" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Тому, хто поклав сюди цей тайякі. Вибачте, не втримався...»[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«»Винен! Ось, обміняю на рамен. -Джюнпеі»[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«»Винен! Ось, обміняю на рамен. -Джюмпеі»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_GET_0617_0630" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, який я поклав сюди[n]раніше, зник...[n]{f 1 1}]]></Page>
@@ -108,7 +108,7 @@
   <Dialog id="28" name="MSG_GET2_1026_1111" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Я з'їв тайякі. Це, мабуть, твоє, так {f 4 2}?»[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Тайякі як перекус пізно ввечері - найкраще! Дякую, що охолодив його для мене!»[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Жартую. Вибач, що з'їв його. Візьми це, і ми квити, добре? -Джюнпеі»[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}«Жартую. Вибач, що з'їв його. Візьми це, і ми квити, добре? -Джюмпеі»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MND_GET_1224_1225" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тайякі, які я поклав сюди[n]раніше, охололи...[n]{f 1 1}]]></Page>
