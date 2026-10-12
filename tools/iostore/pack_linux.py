@@ -30,7 +30,7 @@ def main():
         raise ValueError('Missing retoc, game Paks directory or companion FONT_PAK; see PACK_LINUX.md')
     files = {p.relative_to(source).as_posix(): p for p in source.rglob('*') if p.is_file() and p.suffix in ('.uasset', '.ubulk', '.uptnl')}
     excluded = []
-    exclusion_file = ROOT / 'config/build-exclusions.json'
+    exclusion_file = Path(os.environ.get('P3R_EXCLUSIONS_FILE', ROOT / 'config/build-exclusions.json'))
     if exclusion_file.is_file():
         exclusions = json.loads(exclusion_file.read_text())
         if exclusions.get('enabled'):
@@ -40,6 +40,16 @@ def main():
                 text_paths = {str(p.relative_to(ROOT / 'dt_xml/text').with_suffix('')).casefold()
                               for p in (ROOT / 'dt_xml/text').rglob('*.xml')}
                 blocked -= text_paths
+            # Confirmed regressions stay excluded even when opting into DT text.
+            blocked |= {str(Path(name).with_suffix('')).casefold()
+                        for name in exclusions.get('protected_resource_paths', [])}
+            extra_file = os.environ.get('P3R_EXTRA_EXCLUSIONS_FILE')
+            if extra_file:
+                extra = json.loads(Path(extra_file).read_text())
+                # Diagnostic exclusions are applied after the DT opt-in so it
+                # cannot silently re-enable the resources being investigated.
+                blocked |= {str(Path(name).with_suffix('')).casefold()
+                            for name in extra['resource_paths']}
             kept = {}
             for name, path in files.items():
                 relative = name.removeprefix('P3R/Content/')
@@ -53,6 +63,20 @@ def main():
                     kept[name] = path
             files = kept
             print(f'Temporarily excluded {len(excluded)} resource files by exclusion rules (sources preserved).', flush=True)
+    # Explicit diagnostic payloads can override one protected resource and force
+    # packing even a byte-identical original. Ordinary builds remain unchanged.
+    diagnostic = {}
+    diagnostic_file = os.environ.get('P3R_DIAGNOSTIC_ASSETS_FILE')
+    if diagnostic_file:
+        diagnostic = json.loads(Path(diagnostic_file).read_text())
+        for name, filename in diagnostic['assets'].items():
+            path = Path(filename).resolve()
+            if not name.startswith('P3R/Content/') or '..' in Path(name).parts or Path(name).suffix != '.uasset' or not path.is_file():
+                raise ValueError(f'Invalid diagnostic asset: {name}')
+            files[name] = path
+            excluded = [item for item in excluded if item != name]
+        print(f"Diagnostic: explicitly packing {len(diagnostic['assets'])} supplied resource(s), including unchanged originals.", flush=True)
+    forced = set(diagnostic.get('assets', {}))
     if not files or any(not k.startswith('P3R/Content/') for k in files):
         raise ValueError('Input must contain P3R/Content/.../*.uasset')
     loose = [p for p in source.rglob('*') if p.is_file() and p.suffix not in ('.uasset', '.ubulk', '.uptnl')]
@@ -70,6 +94,48 @@ def main():
     out = ROOT / 'build/pak-builds' / time.strftime('%Y%m%d-%H%M%S')
     out.mkdir(parents=True, exist_ok=False)
     (out / 'excluded-assets.json').write_text(json.dumps(excluded, indent=2))
+    if diagnostic:
+        (out / 'diagnostic-assets.json').write_text(json.dumps(diagnostic, indent=2))
+    if not diagnostic_file:
+        # The supported Xrd777 translation needs its original multilingual
+        # save-name converter extended, not duplicate PlaceName row indexes.
+        place_name = 'P3R/Content/L10N/en/Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset'
+        if place_name in files:
+            sys.path.insert(0, str(ROOT / 'tools/dt'))
+            from save_place_localization import build_converter
+            converter_name = 'P3R/Content/Xrd777/UI/Tables/SaveDataLocalize/DT_FldPlaceNameConvert.uasset'
+            template = ROOT / 'tools/dt/save-localize-source/Xrd777/UI/Tables/SaveDataLocalize/DT_FldPlaceNameConvert.uasset'
+            original_place = ROOT / 'tools/dt/source/Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset'
+            if not template.is_file() or not original_place.is_file():
+                raise ValueError('Missing original save-localization templates; see SAVE_VISIBILITY_DIAGNOSTIC.md')
+            generated = out / 'generated' / converter_name
+            mapping_report = build_converter(original_place, files[place_name], template, generated)
+            if mapping_report['translated_mappings_added']:
+                if converter_name in files:
+                    raise ValueError('Input already contains a custom save-name converter; automatic generation would replace it')
+                files[converter_name] = generated
+                print(f"Prepared {mapping_report['translated_mappings_added']} translated save-name mappings, retaining every original language.", flush=True)
+            (out / 'save-localization.json').write_text(json.dumps(mapping_report, ensure_ascii=False, indent=2))
+        # Save metadata also references localized system labels (day/time/difficulty).
+        for world in ('Xrd777', 'Astrea'):
+            system_name = f'P3R/Content/L10N/en/{world}/UI/SystemText/DT_SystemTextName.uasset'
+            if system_name not in files:
+                continue
+            sys.path.insert(0, str(ROOT / 'tools/dt'))
+            from save_system_localization import build_system_converter
+            converter_name = f'P3R/Content/{world}/UI/Tables/SaveDataLocalize/DT_SystemTextTranslationTable.uasset'
+            template = ROOT / 'tools/dt/save-localize-source' / world / 'UI/Tables/SaveDataLocalize/DT_SystemTextTranslationTable.uasset'
+            original = ROOT / 'tools/dt/source' / world / 'UI/SystemText/DT_SystemTextName.uasset'
+            if not template.is_file() or not original.is_file():
+                raise ValueError(f'Missing original system save-localization templates for {world}')
+            generated = out / 'generated' / converter_name
+            mapping_report = build_system_converter(original, files[system_name], template, generated)
+            if mapping_report['translated_mappings_added']:
+                if converter_name in files:
+                    raise ValueError('Input already contains a custom system save converter; automatic generation would replace it')
+                files[converter_name] = generated
+                print(f"Prepared {world}: {mapping_report['translated_mappings_added']} system save mappings with English language masks.", flush=True)
+            (out / f'system-save-localization-{world}.json').write_text(json.dumps(mapping_report, ensure_ascii=False, indent=2))
     report = []
     def run(args, name, encrypted=False):
         cmd = ['prlimit', f'--as={budget}', f'--cpu={seconds}', '--',
@@ -111,7 +177,7 @@ def main():
                     package_candidates[fields[1]] = requested
                 canonical[requested] = name
                 found.add(requested)
-                if hashlib.sha1(files[requested].read_bytes()).hexdigest() == fields[2][:40]:
+                if requested not in forced and hashlib.sha1(files[requested].read_bytes()).hexdigest() == fields[2][:40]:
                     skipped.append(requested)
                 else:
                     matches[fields[1]] = requested

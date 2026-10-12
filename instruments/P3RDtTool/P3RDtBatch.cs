@@ -78,6 +78,46 @@ public static class P3RDtBatch
         if (!Directory.Exists(sourceRoot))
             throw new DirectoryNotFoundException(sourceRoot);
 
+        // Report all missing templates before writing any replacement resources.
+        var missing = new List<string>();
+        foreach (string mode in new[] { "fstrings", "text" })
+        {
+            string directory = Path.Combine(xmlRoot, mode);
+            if (!Directory.Exists(directory)) continue;
+            foreach (string xml in Directory.EnumerateFiles(directory, "*.xml", SearchOption.AllDirectories))
+            {
+                string relative = Path.ChangeExtension(Path.GetRelativePath(directory, xml), ".uasset");
+                if (!File.Exists(Path.Combine(sourceRoot, relative))) missing.Add(relative);
+            }
+        }
+        if (missing.Count > 0)
+            throw new FileNotFoundException("Missing DT source templates (no resources imported):\n" +
+                string.Join("\n", missing.Distinct().OrderBy(path => path)) +
+                "\nPlace the original FModel uassets under: " + sourceRoot);
+
+        // Validate sources, offsets and supported text edits before writing any
+        // output, including --force runs. Force means "include unchanged", not
+        // "bypass validation".
+        foreach (string mode in new[] { "fstrings", "text" })
+        {
+            string directory = Path.Combine(xmlRoot, mode);
+            if (!Directory.Exists(directory)) continue;
+            foreach (string xml in Directory.EnumerateFiles(directory, "*.xml", SearchOption.AllDirectories))
+            {
+                string source = Path.Combine(sourceRoot,
+                    Path.ChangeExtension(Path.GetRelativePath(directory, xml), ".uasset"));
+                try
+                {
+                    if (mode == "text") P3RDtTextScanner.CountChanges(source, xml);
+                    else P3RDtFStringScanner.CountChanges(source, xml);
+                }
+                catch (Exception ex)
+                {
+                    throw new InvalidDataException($"Invalid DT XML (no resources imported): {xml}\n{ex.Message}", ex);
+                }
+            }
+        }
+
         var fstringResult = ImportMode(
             Path.Combine(xmlRoot, "fstrings"),
             sourceRoot,

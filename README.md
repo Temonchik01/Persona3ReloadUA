@@ -66,7 +66,8 @@ l10n_main — службовою гілкою. Не перезаписуйте �
 реєструйте її як другу гілку перекладу.
 
 Експортовані українські XML лежать у translations/uk/. Імпортери типово
-читають xml/ або dt_xml/: для BMD можна явно передати translations/uk/xml.
+читають translations/uk/xml/ та translations/uk/dt_xml/. Кореневі xml/
+і dt_xml/ містять оригінальні джерела для Crowdin.
 
 ```bash
 ./scripts/linux/repack_linux.sh bmd "$PWD/translations/uk/xml"
@@ -93,3 +94,16 @@ Retoc створює компактні контейнери зі змінени
 Невдалі збірки залишаються в `build/pak-builds/`. Резервні копії
 скрипти не створюють. Робочі переклади в `workspace/` автоматично не очищаються.
 Докладніше: [локальні результати й кеші](docs/LOCAL_OUTPUTS.md).
+
+
+Українські назви місць збираються разом із відповідниками для старих
+сейвів: [локалізація назв місць](docs/SAVE_PLACE_LOCALIZATION.md).
+
+
+Повне автоматичне збирання на Linux із `translations/uk/` та `dds/`:
+
+```bash
+./scripts/linux/build_mod.sh
+```
+
+Порядок етапів, залежності й журнали помилок: [BUILD_ALL_LINUX.md](docs/BUILD_ALL_LINUX.md).

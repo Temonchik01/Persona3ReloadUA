@@ -4,7 +4,7 @@
     <Speaker id="0" rawBytes="4D 61 6E 64 72 61 67 6F 72 61 20 53 74 61 66 66">Працівник «Мандрагора»</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Мандрагора»...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мандрагора...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}今は混んでいるようだ…[n]{f 1 1}]]></Page>
@@ -31,23 +31,23 @@
   </Dialog>
   <Dialog id="9" name="SEL_009_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Провести час у «Мандрагорі»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що тут можна зробити]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що можна зробити тут]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="10" name="MND_010_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності[n]може допомогти мені розвиватися ще більше...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message"/>
   <Dialog id="13" name="SEL_013_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Увійти]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не підніметься вище...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ж таки зайти?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще вступати?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут повно відвідувачів, які чекають.[n]Можливо, це тому, що сьогодні неділя...[n]{f 1 1}]]></Page>
@@ -56,7 +56,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Мандрагора»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що мені тут робити?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен зробити тут?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_018_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Співайте сольне караоке {f 4 26 19 0}]]></Option>
@@ -65,6 +65,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Співайте гордо, не зважаючи на те, що про вас подумають інші.[n]Піднімає {f 4 30 2 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_020_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Я повинен відправитися в Тартар...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Мені треба йти до Тартару...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

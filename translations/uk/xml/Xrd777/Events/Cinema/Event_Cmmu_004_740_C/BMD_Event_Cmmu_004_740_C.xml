@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_Event_Cmmu_004_740_C.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Events\Cinema\Event_Cmmu_004_740_C\BMD_Event_Cmmu_004_740_C.uasset" dialogs="15">
   <Speakers>
-    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Akihiko Sanada</Speaker>
+    <Speaker id="0" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 159 -1 0 0}{f 3 1 1 0 0 1 0 0}I'll handle the cooking. You just eat, and then take care of cleanup afterwards.[n]{f 1 1}]]></Page>
@@ -17,7 +17,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 159 -1 0 0}{f 3 1 1 0 0 7 0 0}{f 4 23 0 4 1 25 25}But they actually won a team event at a rookie tournament, so I thought I'd put together this little celebration for them.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Congrats.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Вітаю.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's the way, captain.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Why hotpot?]]></Option>
   </Dialog>

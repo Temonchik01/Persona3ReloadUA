@@ -66,6 +66,7 @@ public static class P3RDtFStringScanner
     public static void ImportXml(string inputPath, string xmlPath, string outputPath)
     {
         if (P3RDtArrayStrings.Import(inputPath, xmlPath, outputPath, out _)) return;
+        if (TryImportTaggedLoose(inputPath, xmlPath, outputPath, out _)) return;
         byte[] data = File.ReadAllBytes(inputPath);
         var parsed = Parse(data);
         var doc = XDocument.Load(xmlPath);
@@ -186,6 +187,7 @@ public static class P3RDtFStringScanner
     public static int CountChanges(string inputPath, string xmlPath)
     {
         if (P3RDtArrayStrings.Import(inputPath, xmlPath, null, out int arrayChanges)) return arrayChanges;
+        if (TryImportTaggedLoose(inputPath, xmlPath, null, out int taggedChanges)) return taggedChanges;
         byte[] data = File.ReadAllBytes(inputPath);
         var parsed = Parse(data);
         var doc = XDocument.Load(xmlPath);
@@ -224,6 +226,47 @@ public static class P3RDtFStringScanner
 
         return changed;
     }
+    // Legacy loose-fstrings exports also contain tagged StrProperty/FText values.
+    // Route these through the structural importer so enclosing sizes stay valid.
+    private static bool TryImportTaggedLoose(string inputPath, string xmlPath, string? outputPath, out int changes)
+    {
+        changes = 0;
+        var legacy = XDocument.Load(xmlPath);
+        string? layout = (string?)legacy.Root?.Attribute("layout");
+        if (layout is not ("loose-fstrings" or "tagged-text")) return false;
+        string work = Path.Combine(Path.GetTempPath(), "p3r-tagged-" + Guid.NewGuid().ToString("N"));
+        Directory.CreateDirectory(work);
+        try
+        {
+            string convertedPath = Path.Combine(work, "tagged.xml");
+            P3RDtTextScanner.ExportXml(inputPath, convertedPath);
+            var converted = XDocument.Load(convertedPath);
+            var entries = converted.Root!.Elements("Text").ToDictionary(
+                node => ParseHexOffset((string?)node.Attribute("offset")));
+            foreach (var node in legacy.Root!.Elements("String"))
+            {
+                int offset = ParseHexOffset((string?)node.Attribute("offset"));
+                if (!entries.TryGetValue(offset, out var target) ||
+                    (string?)target.Attribute("role") != "value")
+                {
+                    if (layout == "tagged-text")
+                        throw new InvalidDataException($"Unsupported tagged-text offset 0x{offset:X}.");
+                    return false;
+                }
+                string source = (string?)node.Element("Source") ?? "";
+                if (source != (string?)target.Element("Source"))
+                    throw new InvalidDataException($"Tagged FString Source mismatch at 0x{offset:X}.");
+                target.Element("Translation")!.Value = (string?)node.Element("Translation") ?? source;
+            }
+            converted.Save(convertedPath);
+            changes = P3RDtTextScanner.CountChanges(inputPath, convertedPath);
+            if (outputPath is not null)
+                P3RDtTextScanner.ImportXml(inputPath, convertedPath, outputPath);
+            return true;
+        }
+        finally { Directory.Delete(work, true); }
+    }
+
     private static ParsedFile Parse(byte[] data)
     {
         int exportOffset = RI32(data, 0x2C);

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_NPC_408_000.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Npc\400\BMD_NPC_408_000.uasset" dialogs="19">
   <Speakers>
-    <Speaker id="0" rawBytes="55 70 62 65 61 74 20 57 6F 6D 61 6E">Upbeat Woman</Speaker>
+    <Speaker id="0" rawBytes="55 70 62 65 61 74 20 57 6F 6D 61 6E">Завзята жінка</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 408}Don't just stand there! If you're in here, you gotta dance![n]{f 1 1}]]></Page>
@@ -40,8 +40,8 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 408}Did you get a girlfriend?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yep!]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Nope.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ага!]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Нє.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 408}So you're going to leave me here, huh?[n]{f 1 1}]]></Page>
@@ -54,7 +54,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 408}Do you worry about your exam scores?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_012_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Розумію.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I don't.]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">

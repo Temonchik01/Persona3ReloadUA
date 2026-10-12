@@ -7,7 +7,7 @@
     <Speaker id="3" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_AfterSchool_General" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Уроки на сьогодні скінчилися.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Заняття на сьогодні завершено.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_AfterSchool_Test_End" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогоднішні іспити закінчилися.[n]{f 1 1}]]></Page>
@@ -33,7 +33,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені слід повернутися до[n]гуртожитку й підготуватися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_FULLMOON_0905" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні вночі буде повня.[n]З'явиться могутня Тінь.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні ввечері буде повня.[n]З'явиться могутня Тінь.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені слід повернутися до[n]гуртожитку й підготуватися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_INFO_0427" type="Message">
@@ -47,7 +47,7 @@
   </Dialog>
   <Dialog id="10" name="MND_INFO_0514" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кажуть, учитель у медпункті[n]роздає дивні ліки.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, якось варто перевірити...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, я колись це перевірю...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_Call_GoToHOME_0420" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, у гуртожитку відбудеться[n]щось важливе...[n]{f 1 1}]]></Page>
@@ -62,7 +62,7 @@
   </Dialog>
   <Dialog id="14" name="MND_Storm_Coming_0918" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Хмари виглядають зловісно...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Краще повернутись до гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Час вертатися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_SportsClub_Join_0423" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кажуть, команда з легкої атлетики[n]набирає нових учасників.[n]{f 1 1}]]></Page>
@@ -181,15 +181,15 @@
   </Dialog>
   <Dialog id="45" name="MND_HolidayNoon_0824" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кінофестиваль триватиме[n]ще всього тиждень.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, варто запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="46" name="MND_HolidayNoon_0825_083" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Літні канікули скоро скінчаться...[n]Кінофестиваль також добігає кінця.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, варто запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Літні канікули скоро закінчаться...[n]Кінофестиваль теж добігає кінця.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="47" name="MND_HolidayNoon_0831" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні останній день літніх канікул,[n]і кінофестиваль також завершується.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, варто запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="48" name="MND_HolidayNoon_0922" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні національне свято. Занять немає.[n]{f 1 1}]]></Page>
@@ -197,7 +197,7 @@
   <Dialog id="49" name="MND_HolidayNoon_0923" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні осіннє рівнодення.[n]Занять немає.[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні проходить одноденний кінофестиваль.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Можливо, варто запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Може, запросити когось[n]із гуртожитку піти зі мною...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="50" name="MND_HolidayNoon_1012" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні День здоров'я та спорту.[n]Занять немає.[n]{f 1 1}]]></Page>

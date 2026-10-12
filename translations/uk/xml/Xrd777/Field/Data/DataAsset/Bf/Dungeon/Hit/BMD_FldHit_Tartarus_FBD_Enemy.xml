@@ -17,7 +17,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто кидати виклик цьому сильному ворогу?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_Encount" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Давайте зробимо це.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я «за».]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай секунду...]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_Encount_Try_Yukari" type="Message">

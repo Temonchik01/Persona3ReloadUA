@@ -12,7 +12,7 @@
   </Speakers>
   <Dialog id="0" name="SEL_BOSS" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я готовий.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекайте.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай но.]]></Option>
   </Dialog>
   <Dialog id="1" name="MSG_OPE_STOP_YUKARI" type="Message"/>
   <Dialog id="2" name="MSG_OPE_STOP_AEGIS" type="Message"/>
@@ -23,7 +23,7 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Боротися з такою невеликою групою небезпечно. Ти повинен взяти з собою більше людей.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_GOTO_OPE" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Ти готовий?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Усі готові?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_FUKA_LETS_GO_02" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Добре, вирушаємо.[n]{f 1 1}]]></Page>
@@ -55,7 +55,7 @@
   </Dialog>
   <Dialog id="15" name="MSG_OPE_STOP_JUNPEI" type="Message"/>
   <Dialog id="16" name="MSG_FUKA_LETS_GO_01" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Гаразд, тоді я підготуюся до надання підтримки. Будь ласка, вирушайте туди.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Я підготуюся, щоб надати тобі підтримку, тож ти можеш сміливо йти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_1103_MITURU_01" type="Message"/>
   <Dialog id="18" name="MSG_1103_IKUTUKI_01" type="Message"/>

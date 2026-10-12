@@ -11,14 +11,14 @@
   </Speakers>
   <Dialog id="0" name="SEL_BOSS" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}У мене достатньо.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай...]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекайте...]]></Option>
   </Dialog>
   <Dialog id="1" name="MND_STOP_UFO_CATCHER" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, електрики немає...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, зникло живлення...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_SHOP_STOP_YUKARI" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}{f 3 1 3 0 -1 1062 0 0}Що не так?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Темна Година закінчиться, якщо ми не поквапимося.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 0 -1 -1 0 0}Темна година закінчиться, якщо ми не поквапимося.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_SHOP_STOP_AEGIS" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6001 0 0}Ворог чекає, а у нас дуже мало часу в запасі.[n]{f 1 1}]]></Page>
@@ -37,7 +37,7 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}Тінь неподалік, так? Треба її знищити якомога швидше.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_OUT_STOP" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4008 0 0}Якщо ти будеш далі гаяти час, Темна Година закінчиться.[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4008 0 0}Якщо ти будеш далі гаяти час, Темна година закінчиться.[n]{f 1 1}]]></Page>
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Готуйся до інфільтрації в Ескапейд.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_NO_VDOOR" type="Message">
@@ -48,7 +48,7 @@
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Тобі треба більше людей. Повернись і збери повноцінну команду.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_GO_INTO_CLUB" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Ти готовий?[n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Усі готові?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_FUKA_LETS_GO" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}Будь обережний...[n]{f 1 1}]]></Page>
@@ -60,9 +60,9 @@
   <Dialog id="13" name="SEL_MALL_SHORTCUT" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Поліцейський відділок]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Аптека «Аоґіґе»]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Антикварна крамниця «Майоїдо»]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Антикварна крамниця «Майойдо»]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Задній провулок]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Мапа міста]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Міська мапа]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відмінити]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_FLD_ORDERN" type="Message">

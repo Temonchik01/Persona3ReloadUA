@@ -1,5 +1,7 @@
 using P3RDtTool;
 
+try
+{
 if (args.Length == 0)
 {
     Console.WriteLine("P3RDtTool");
@@ -85,5 +87,9 @@ if (args[0] == "--hexdump" && args.Length >= 4)
 }
 
 Console.WriteLine($"Unknown command: {args[0]}");
-
-
+}
+catch (Exception ex)
+{
+    Console.Error.WriteLine($"ERROR: {ex.Message}");
+    Environment.ExitCode = 1;
+}

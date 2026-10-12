@@ -230,7 +230,11 @@ public static class P3RDtTextScanner
                 continue;
 
             blocks.Add(block);
-            pos = block.TextOffset + 4 + block.ByteLength - 1;
+            // Heuristic technical matches can start inside an IntProperty and
+            // consume the first bytes of the next real StrProperty tag.
+            // Keep their legacy offsets, but only skip verified string data.
+            if (block.IsFText || IsStringProperty(data, names, block))
+                pos = block.TextOffset + 4 + block.ByteLength - 1;
         }
 
         return new ParsedTable(header, names, exportStart, blocks);

@@ -5,8 +5,8 @@
     <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_BATTLE" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Погнали.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекайте.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Поїхали.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай но.]]></Option>
   </Dialog>
   <Dialog id="1" name="MSG_VS_LEADER_BATTLE_OK" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 -1 0 0}{f 3 1 3 0 -1 5128 0 0}Він чекає на нас... Єдиний спосіб пройти повз нього - це перемогти його.[n]{f 1 1}]]></Page>

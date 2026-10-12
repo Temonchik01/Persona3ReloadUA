@@ -54,7 +54,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 2 -1 50 0 0}{f 3 1 1 0 1 10085 0 0}Ти готовий?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="SEL_YESNO" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Так, Я готовий.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так, я готовий.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай.]]></Option>
   </Dialog>
   <Dialog id="12" name="MND_DUNGE_B2F_SKELETON_0" type="Message">
@@ -124,7 +124,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що це на землі?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_DUNGE_ML_MEDAL_GOT_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я такого ще не бачив...[n]Поки що залишу це собі.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я ніколи не бачив нічого подібного...[n]Треба поки що притримати його у себе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_DUNGE_ML_MEDAL_GET_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що це на землі?..[n]{f 1 1}]]></Page>

@@ -4,6 +4,7 @@ root=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/../.." && pwd)
 if [[ ${1:-} == --help ]]; then
   echo 'Usage: ./scripts/linux/pack_linux.sh [UnrealEssentials-directory]'
   echo 'Environment: RETOC, GAME_PAKS, FONT_PAK, P3R_PACK_MEMORY_MB (default 1536), P3R_PACK_TIMEOUT (default 900 seconds)'
+  echo 'Diagnostics only: P3R_DIAGNOSTIC_ASSETS_FILE supplies explicit resource overrides and forces inclusion of unchanged originals.'
   echo 'Outputs: dist/<time>/mod (three files), ZIP and reports. Temporary work: build/pak-builds; cleaned after verification.'
   exit 0
 fi
