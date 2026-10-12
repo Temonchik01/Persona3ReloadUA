@@ -17,7 +17,7 @@ files:
     translate_content: 1
     translate_attributes: 0
     translatable_elements:
-      - /P3RDataTableText/Text/Translation
+      - "/P3RDataTableText/Text[@role='value' or not(@role)]/Translation"
   - source: /dt_xml/fstrings/**/*.xml
     translation: /translations/%two_letters_code%/dt_xml/fstrings/**/%original_file_name%
     type: xml
@@ -26,4 +26,4 @@ files:
     translate_content: 1
     translate_attributes: 0
     translatable_elements:
-      - /P3RDataTableFStrings/String/Translation
+      - "/P3RDataTableFStrings/String[@role='value' or not(@role)]/Translation"

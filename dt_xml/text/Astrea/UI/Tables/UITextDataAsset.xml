@@ -1,19 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<P3RDataTableText source="UITextDataAsset.uasset" textBlockCount="4">
-  <Text index="1" offset="0x300" length="12" a="StructProperty" b="Package" c="UITextTable">
+<P3RDataTableText source="UITextDataAsset.uasset" textBlockCount="14">
+  <Text index="0" offset="0x2D3" length="16" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:20&gt;">
+    <Source>KEWWORD_SAMPLE1</Source>
+    <Translation>KEWWORD_SAMPLE1</Translation>
+  </Text>
+  <Text index="1" offset="0x300" length="12" role="value" property="Text" a="StructProperty" b="Package" c="UITextTable">
     <Source>Output Text</Source>
     <Translation>Output Text</Translation>
   </Text>
-  <Text index="3" offset="0x392" length="8" a="Default__UITextDataAsset" b="Package" c="StrProperty">
+  <Text index="2" offset="0x392" length="8" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="StrProperty">
     <Source>KW_NEXT</Source>
     <Translation>KW_NEXT</Translation>
   </Text>
-  <Text index="6" offset="0x43E" length="8" a="Default__UITextDataAsset" b="Package" c="StrProperty">
+  <Text index="3" offset="0x3B7" length="21" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:25&gt;">
+    <Source>Go to the Next Floor</Source>
+    <Translation>Go to the Next Floor</Translation>
+  </Text>
+  <Text index="4" offset="0x43E" length="8" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="StrProperty">
     <Source>KW_EXIT</Source>
     <Translation>KW_EXIT</Translation>
   </Text>
-  <Text index="13" offset="0x5D8" length="12" a="StructProperty" b="Package" c="UITextTable">
+  <Text index="5" offset="0x463" length="30" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:34&gt;">
+    <Source>Return to the Desert of Doors</Source>
+    <Translation>Return to the Desert of Doors</Translation>
+  </Text>
+  <Text index="6" offset="0x4F3" length="15" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:19&gt;">
+    <Source>KW_TRANSPORTER</Source>
+    <Translation>KW_TRANSPORTER</Translation>
+  </Text>
+  <Text index="7" offset="0x51F" length="19" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:23&gt;">
+    <Source>Use the Teleporter</Source>
+    <Translation>Use the Teleporter</Translation>
+  </Text>
+  <Text index="8" offset="0x5AC" length="15" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:19&gt;">
+    <Source>KW_MOVE_MONADO</Source>
+    <Translation>KW_MOVE_MONADO</Translation>
+  </Text>
+  <Text index="9" offset="0x5D8" length="12" role="value" property="Text" a="StructProperty" b="Package" c="UITextTable">
     <Source>Enter Monad</Source>
     <Translation>Enter Monad</Translation>
+  </Text>
+  <Text index="10" offset="0x672" length="23" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:27&gt;">
+    <Source>KW_SHORTCUT_DAILY_WARD</Source>
+    <Translation>KW_SHORTCUT_DAILY_WARD</Translation>
+  </Text>
+  <Text index="11" offset="0x6A6" length="21" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:25&gt;">
+    <Source>Where am I going...?</Source>
+    <Translation>Where am I going...?</Translation>
+  </Text>
+  <Text index="12" offset="0x731" length="26" role="value" property="KewWord" a="Default__UITextDataAsset" b="Package" c="&lt;Size:30&gt;">
+    <Source>KW_SHORTCUT_TARTAROS_WARD</Source>
+    <Translation>KW_SHORTCUT_TARTAROS_WARD</Translation>
+  </Text>
+  <Text index="13" offset="0x768" length="21" role="value" property="Text" a="StructProperty" b="Package" c="&lt;Size:25&gt;">
+    <Source>Where am I going...?</Source>
+    <Translation>Where am I going...?</Translation>
   </Text>
 </P3RDataTableText>
