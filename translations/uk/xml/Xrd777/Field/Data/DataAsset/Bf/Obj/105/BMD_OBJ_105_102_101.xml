@@ -22,10 +22,10 @@
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Поїсти в «Бургері Дикої Качки»]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що можна зробити тут]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I don't have enough money...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_009_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«{f 0 1 2}Тільки в суботу та неділю ввечері!{f 0 1 27}[n]Набір вихідного дня Набір Дикої Качки - 1,200 єн[n]Що всередині? Дізнайся сам!»[n]{f 1 1}]]></Page>
@@ -37,7 +37,7 @@
   <Dialog id="12" name="MND_012_0_0" type="Message"/>
   <Dialog id="13" name="SEL_013_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Замовити]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Not now]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
