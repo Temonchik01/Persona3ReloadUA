@@ -10,7 +10,7 @@
   </Text>
   <Text index="2" offset="0x666" length="31" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:78&gt;">
     <Source>Accessing Downloadable Content</Source>
-    <Translation>Accessing Downloadable Content</Translation>
+    <Translation>Доступ до завантажуваного контенту</Translation>
   </Text>
   <Text index="3" offset="0x6D0" length="-15" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:80&gt;">
     <Source>DLCがここで受け取れるよ。</Source>
@@ -186,7 +186,7 @@
   </Text>
   <Text index="46" offset="0x1AED" length="27" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:75&gt;">
     <Source>Receiving Invites by Email</Source>
-    <Translation>Receiving Invites by Email</Translation>
+    <Translation>Отримання запрошень у повідомленнях</Translation>
   </Text>
   <Text index="47" offset="0x1B54" length="-29" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:109&gt;">
     <Source>知り合った人や行った店からメールが届く誘いに乗るかは自由</Source>
@@ -282,7 +282,7 @@
   </Text>
   <Text index="70" offset="0x26D9" length="10" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Class">
     <Source>Be Blue V</Source>
-    <Translation>Be Blue V</Translation>
+    <Translation>Синя Ві</Translation>
   </Text>
   <Text index="71" offset="0x272F" length="-27" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:105&gt;">
     <Source>仲間を施設に呼び、スキル付け替え（思い出し）ができる</Source>
@@ -306,7 +306,7 @@
   </Text>
   <Text index="76" offset="0x29B9" length="19" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Package">
     <Source>Twilight Fragments</Source>
-    <Translation>Twilight Fragments</Translation>
+    <Translation>Сутінкові фрагменти</Translation>
   </Text>
   <Text index="77" offset="0x2A18" length="-25" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:101&gt;">
     <Source>薄明の欠片は大切なもの。あちこちで見つかります。</Source>
@@ -330,7 +330,7 @@
   </Text>
   <Text index="82" offset="0x2C62" length="34" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:82&gt;">
     <Source>Twilight Fragments from Elizabeth</Source>
-    <Translation>Twilight Fragments from Elizabeth</Translation>
+    <Translation>Сутінкові фрагменти від Елізабет</Translation>
   </Text>
   <Text index="83" offset="0x2CD0" length="-19" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:89&gt;">
     <Source>エリザベスから貰える薄明の欠片の説明</Source>
@@ -346,7 +346,7 @@
   </Text>
   <Text index="86" offset="0x2E33" length="28" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:76&gt;">
     <Source>Tatsumi East Police Station</Source>
-    <Translation>Tatsumi East Police Station</Translation>
+    <Translation>Східний поліцейський відділок Тацумі</Translation>
   </Text>
   <Text index="87" offset="0x2E9B" length="-10" role="technical" property="Comment" a="Class" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
     <Source>交番初入店時に説明</Source>
@@ -354,7 +354,7 @@
   </Text>
   <Text index="88" offset="0x2F08" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
     <Source>Equipment Types</Source>
-    <Translation>Equipment Types</Translation>
+    <Translation>Типи спорядження</Translation>
   </Text>
   <Text index="89" offset="0x2F64" length="-10" role="technical" property="Comment" a="Class" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
     <Source>交番初入店時に説明</Source>
@@ -362,7 +362,7 @@
   </Text>
   <Text index="90" offset="0x2FD1" length="16" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="Name">
     <Source>Aohige Pharmacy</Source>
-    <Translation>Aohige Pharmacy</Translation>
+    <Translation>Аптека «Аохіґе»</Translation>
   </Text>
   <Text index="91" offset="0x302D" length="-11" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:73&gt;">
     <Source>道具屋初入店時に説明</Source>
@@ -378,7 +378,7 @@
   </Text>
   <Text index="94" offset="0x3176" length="17" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="None">
     <Source>Mayoido Antiques</Source>
-    <Translation>Mayoido Antiques</Translation>
+    <Translation>Антикварна крамниця «Майойдо»</Translation>
   </Text>
   <Text index="95" offset="0x31D3" length="-11" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:73&gt;">
     <Source>眞宵堂初入店時に説明</Source>
@@ -386,7 +386,7 @@
   </Text>
   <Text index="96" offset="0x3242" length="21" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="ScriptStruct">
     <Source>Elizabeth's Requests</Source>
-    <Translation>Elizabeth's Requests</Translation>
+    <Translation>Запити Елізабет</Translation>
   </Text>
   <Text index="97" offset="0x32A3" length="-15" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:81&gt;">
     <Source>エリザベスの依頼解禁時に説明</Source>
@@ -402,7 +402,7 @@
   </Text>
   <Text index="100" offset="0x33FC" length="23" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="/Game/Xrd777/Tutorial/Tables/Daily/DT_Tutorial_DAILY_Name">
     <Source>Combat Characteristics</Source>
-    <Translation>Combat Characteristics</Translation>
+    <Translation>Бойові характеристики</Translation>
   </Text>
   <Text index="101" offset="0x345F" length="-12" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:75&gt;">
     <Source>仲間の特性解禁時に説明</Source>
@@ -418,7 +418,7 @@
   </Text>
   <Text index="104" offset="0x35B5" length="31" role="value" property="Name" a="DT_Tutorial_DAILY_Name" b="ScriptStruct" c="&lt;Size:79&gt;">
     <Source>Accessing Downloadable Content</Source>
-    <Translation>Accessing Downloadable Content</Translation>
+    <Translation>Доступ до завантажуваного контенту</Translation>
   </Text>
   <Text index="105" offset="0x3620" length="-29" role="technical" property="Comment" a="Class" b="ScriptStruct" c="&lt;Size:109&gt;">
     <Source>DLCがここで受け取れるよ。(MSプラットフォーム用語)</Source>
