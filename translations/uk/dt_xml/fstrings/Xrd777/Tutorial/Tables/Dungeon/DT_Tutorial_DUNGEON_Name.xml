@@ -2,7 +2,7 @@
 <P3RDataTableFStrings source="DT_Tutorial_DUNGEON_Name.uasset" layout="text-property" stringCount="76">
   <String index="2" offset="0x4FF" length="16" encoding="utf-8" role="value">
     <Source>Treasure Chests</Source>
-    <Translation>Treasure Chests</Translation>
+    <Translation>Скрині зі скарбами</Translation>
   </String>
   <String index="5" offset="0x55C" length="-3" encoding="utf-16" role="value">
     <Source>宝箱</Source>
@@ -10,7 +10,7 @@
   </String>
   <String index="8" offset="0x5BC" length="23" encoding="utf-8" role="value">
     <Source>Using Items and Skills</Source>
-    <Translation>Using Items and Skills</Translation>
+    <Translation>Використання предметів та навичок</Translation>
   </String>
   <String index="11" offset="0x620" length="-12" encoding="utf-16" role="value">
     <Source>アイテムとスキルの使用</Source>
@@ -18,7 +18,7 @@
   </String>
   <String index="14" offset="0x692" length="32" encoding="utf-8" role="value">
     <Source>Types of Attacks and Encounters</Source>
-    <Translation>Types of Attacks and Encounters</Translation>
+    <Translation>Види атак і сутичок</Translation>
   </String>
   <String index="17" offset="0x6FF" length="-15" encoding="utf-16" role="value">
     <Source>アタックとエンカウントの種類</Source>
@@ -26,7 +26,7 @@
   </String>
   <String index="20" offset="0x777" length="20" encoding="utf-8" role="value">
     <Source>One-Way Teleporters</Source>
-    <Translation>One-Way Teleporters</Translation>
+    <Translation>Односторонні телепорти</Translation>
   </String>
   <String index="23" offset="0x7D8" length="-5" encoding="utf-16" role="value">
     <Source>帰還装置</Source>
@@ -50,7 +50,7 @@
   </String>
   <String index="38" offset="0x9E1" length="8" encoding="utf-8" role="value">
     <Source>Dashing</Source>
-    <Translation>Dashing</Translation>
+    <Translation>Ривок</Translation>
   </String>
   <String index="41" offset="0xA36" length="-9" encoding="utf-16" role="value">
     <Source>ダッシュでの移動</Source>
@@ -58,7 +58,7 @@
   </String>
   <String index="44" offset="0xAA2" length="13" encoding="utf-8" role="value">
     <Source>Auto-Recover</Source>
-    <Translation>Auto-Recover</Translation>
+    <Translation>Автоматичне відновлення</Translation>
   </String>
   <String index="47" offset="0xAFC" length="-8" encoding="utf-16" role="value">
     <Source>オートリカバー</Source>
@@ -66,7 +66,7 @@
   </String>
   <String index="50" offset="0xB66" length="23" encoding="utf-8" role="value">
     <Source>Locked Treasure Chests</Source>
-    <Translation>Locked Treasure Chests</Translation>
+    <Translation>Зачинені скрині зі скарбами</Translation>
   </String>
   <String index="53" offset="0xBCA" length="-9" encoding="utf-16" role="value">
     <Source>解錠が必要な宝箱</Source>
@@ -74,7 +74,7 @@
   </String>
   <String index="56" offset="0xC37" length="19" encoding="utf-8" role="value">
     <Source>Changing the Party</Source>
-    <Translation>Changing the Party</Translation>
+    <Translation>Зміна команди</Translation>
   </String>
   <String index="59" offset="0xC98" length="-10" encoding="utf-16" role="value">
     <Source>パーティ編成の変更</Source>
@@ -82,7 +82,7 @@
   </String>
   <String index="62" offset="0xD07" length="7" encoding="utf-8" role="value">
     <Source>Clocks</Source>
-    <Translation>Clocks</Translation>
+    <Translation>Годинники</Translation>
   </String>
   <String index="65" offset="0xD5C" length="-3" encoding="utf-16" role="value">
     <Source>時計</Source>
@@ -90,7 +90,7 @@
   </String>
   <String index="68" offset="0xDBD" length="31" encoding="utf-8" role="value">
     <Source>Minimap and Movement Shortcuts</Source>
-    <Translation>Minimap and Movement Shortcuts</Translation>
+    <Translation>Мінімапа та швидкі переходи</Translation>
   </String>
   <String index="71" offset="0xE2A" length="-17" encoding="utf-16" role="value">
     <Source>ミニマップと移動のショートカット</Source>
@@ -106,7 +106,7 @@
   </String>
   <String index="80" offset="0xF66" length="13" encoding="utf-8" role="value">
     <Source>Rare Shadows</Source>
-    <Translation>Rare Shadows</Translation>
+    <Translation>Рідкісні тіні</Translation>
   </String>
   <String index="83" offset="0xFC1" length="-7" encoding="utf-16" role="value">
     <Source>レアシャドウ</Source>
@@ -114,7 +114,7 @@
   </String>
   <String index="86" offset="0x102A" length="19" encoding="utf-8" role="value">
     <Source>Formidable Shadows</Source>
-    <Translation>Formidable Shadows</Translation>
+    <Translation>Грізні тіні</Translation>
   </String>
   <String index="89" offset="0x108B" length="-7" encoding="utf-16" role="value">
     <Source>強敵シャドウ</Source>
@@ -122,7 +122,7 @@
   </String>
   <String index="92" offset="0x10F4" length="18" encoding="utf-8" role="value">
     <Source>Changing Costumes</Source>
-    <Translation>Changing Costumes</Translation>
+    <Translation>Зміна костюмів</Translation>
   </String>
   <String index="95" offset="0x1154" length="-6" encoding="utf-16" role="value">
     <Source>衣装の変更</Source>
@@ -130,7 +130,7 @@
   </String>
   <String index="98" offset="0x11BB" length="11" encoding="utf-8" role="value">
     <Source>The Reaper</Source>
-    <Translation>The Reaper</Translation>
+    <Translation>Жнець</Translation>
   </String>
   <String index="101" offset="0x1214" length="-6" encoding="utf-16" role="value">
     <Source>死神の出現</Source>
@@ -138,7 +138,7 @@
   </String>
   <String index="104" offset="0x127B" length="9" encoding="utf-8" role="value">
     <Source>Scouting</Source>
-    <Translation>Scouting</Translation>
+    <Translation>Розвідка</Translation>
   </String>
   <String index="107" offset="0x12D2" length="-3" encoding="utf-16" role="value">
     <Source>偵察</Source>
@@ -146,7 +146,7 @@
   </String>
   <String index="110" offset="0x1333" length="19" encoding="utf-8" role="value">
     <Source>Enemies on the Run</Source>
-    <Translation>Enemies on the Run</Translation>
+    <Translation>Вороги, що втікають</Translation>
   </String>
   <String index="113" offset="0x1394" length="-6" encoding="utf-16" role="value">
     <Source>逃げ出す敵</Source>
@@ -170,7 +170,7 @@
   </String>
   <String index="128" offset="0x1581" length="12" encoding="utf-8" role="value">
     <Source>Monad Doors</Source>
-    <Translation>Monad Doors</Translation>
+    <Translation>Двері Монад</Translation>
   </String>
   <String index="131" offset="0x15DB" length="-6" encoding="utf-16" role="value">
     <Source>モナドの扉</Source>
@@ -186,7 +186,7 @@
   </String>
   <String index="140" offset="0x1705" length="15" encoding="utf-8" role="value">
     <Source>Fuuka's Skills</Source>
-    <Translation>Fuuka's Skills</Translation>
+    <Translation>Уміння Фууки</Translation>
   </String>
   <String index="143" offset="0x1762" length="-7" encoding="utf-16" role="value">
     <Source>風花のスキル</Source>
@@ -194,7 +194,7 @@
   </String>
   <String index="146" offset="0x17CB" length="24" encoding="utf-8" role="value">
     <Source>Fuuka's Skills: Jamming</Source>
-    <Translation>Fuuka's Skills: Jamming</Translation>
+    <Translation>Уміння Фууки: Глушилка</Translation>
   </String>
   <String index="149" offset="0x1831" length="-14" encoding="utf-16" role="value">
     <Source>風花のスキル『ジャミング』</Source>
@@ -202,7 +202,7 @@
   </String>
   <String index="152" offset="0x18A8" length="29" encoding="utf-8" role="value">
     <Source>Fuuka's Skills: Sylphid Aura</Source>
-    <Translation>Fuuka's Skills: Sylphid Aura</Translation>
+    <Translation>Уміння Фууки: Аура Сильфіди</Translation>
   </String>
   <String index="155" offset="0x1913" length="-18" encoding="utf-16" role="value">
     <Source>風花のスキル『シルフィードオーラ』</Source>
@@ -210,7 +210,7 @@
   </String>
   <String index="158" offset="0x1992" length="28" encoding="utf-8" role="value">
     <Source>Fuuka's Skills: Shock Noise</Source>
-    <Translation>Fuuka's Skills: Shock Noise</Translation>
+    <Translation>Уміння Фууки: Ультразвук</Translation>
   </String>
   <String index="161" offset="0x19FC" length="-16" encoding="utf-16" role="value">
     <Source>風花のスキル『ショックノイズ』</Source>
@@ -218,7 +218,7 @@
   </String>
   <String index="164" offset="0x1A77" length="29" encoding="utf-8" role="value">
     <Source>Fuuka's Skills: Escape Route</Source>
-    <Translation>Fuuka's Skills: Escape Route</Translation>
+    <Translation>Уміння Фууки: План втечі</Translation>
   </String>
   <String index="167" offset="0x1AE2" length="-17" encoding="utf-16" role="value">
     <Source>風花のスキル『エスケープロード』</Source>
@@ -226,7 +226,7 @@
   </String>
   <String index="170" offset="0x1B5F" length="32" encoding="utf-8" role="value">
     <Source>Fuuka's Skills: Tartarus Search</Source>
-    <Translation>Fuuka's Skills: Tartarus Search</Translation>
+    <Translation>Уміння Фууки: Пошук в Тартарі</Translation>
   </String>
   <String index="173" offset="0x1BCD" length="-17" encoding="utf-16" role="value">
     <Source>風花のスキル『タルタロスサーチ』</Source>
@@ -234,7 +234,7 @@
   </String>
   <String index="176" offset="0x1C4A" length="7" encoding="utf-8" role="value">
     <Source>Ambush</Source>
-    <Translation>Ambush</Translation>
+    <Translation>Засідка</Translation>
   </String>
   <String index="179" offset="0x1C9F" length="-7" encoding="utf-16" role="value">
     <Source>強襲アタック</Source>
@@ -242,7 +242,7 @@
   </String>
   <String index="182" offset="0x1D08" length="39" encoding="utf-8" role="value">
     <Source>Shadows Afflicted with Status Ailments</Source>
-    <Translation>Shadows Afflicted with Status Ailments</Translation>
+    <Translation>Тіні, уражені недугами</Translation>
   </String>
   <String index="185" offset="0x1D7D" length="-14" encoding="utf-16" role="value">
     <Source>状態異常にかかったシャドウ</Source>
@@ -250,7 +250,7 @@
   </String>
   <String index="188" offset="0x1DF4" length="21" encoding="utf-8" role="value">
     <Source>Status Ailment: Rage</Source>
-    <Translation>Status Ailment: Rage</Translation>
+    <Translation>Недуг: Лють</Translation>
   </String>
   <String index="191" offset="0x1E57" length="-10" encoding="utf-16" role="value">
     <Source>状態異常：ヤケクソ</Source>
@@ -258,7 +258,7 @@
   </String>
   <String index="194" offset="0x1EC6" length="24" encoding="utf-8" role="value">
     <Source>Status Ailment: Confuse</Source>
-    <Translation>Status Ailment: Confuse</Translation>
+    <Translation>Недуг: Розгублення</Translation>
   </String>
   <String index="197" offset="0x1F2C" length="-8" encoding="utf-16" role="value">
     <Source>状態異常：混乱</Source>
@@ -266,7 +266,7 @@
   </String>
   <String index="200" offset="0x1F97" length="21" encoding="utf-8" role="value">
     <Source>Status Ailment: Fear</Source>
-    <Translation>Status Ailment: Fear</Translation>
+    <Translation>Недуг: Страх</Translation>
   </String>
   <String index="203" offset="0x1FFA" length="-8" encoding="utf-16" role="value">
     <Source>状態異常：恐怖</Source>
@@ -274,7 +274,7 @@
   </String>
   <String index="206" offset="0x2065" length="28" encoding="utf-8" role="value">
     <Source>Entrance to the Great Clock</Source>
-    <Translation>Entrance to the Great Clock</Translation>
+    <Translation>Вхід до Великого годинника</Translation>
   </String>
   <String index="209" offset="0x20CF" length="-9" encoding="utf-16" role="value">
     <Source>大時計への入り口</Source>
@@ -282,7 +282,7 @@
   </String>
   <String index="212" offset="0x213C" length="10" encoding="utf-8" role="value">
     <Source>Dark Zone</Source>
-    <Translation>Dark Zone</Translation>
+    <Translation>Темна зона</Translation>
   </String>
   <String index="215" offset="0x2194" length="-7" encoding="utf-16" role="value">
     <Source>ダークゾーン</Source>
@@ -290,7 +290,7 @@
   </String>
   <String index="218" offset="0x21FD" length="15" encoding="utf-8" role="value">
     <Source>Greedy Shadows</Source>
-    <Translation>Greedy Shadows</Translation>
+    <Translation>Жадібні тіні</Translation>
   </String>
   <String index="221" offset="0x225A" length="-10" encoding="utf-16" role="value">
     <Source>巨大なレアシャドウ</Source>
@@ -298,7 +298,7 @@
   </String>
   <String index="224" offset="0x22C9" length="18" encoding="utf-8" role="value">
     <Source>Breakable Objects</Source>
-    <Translation>Breakable Objects</Translation>
+    <Translation>Крихкі об'єкти</Translation>
   </String>
   <String index="227" offset="0x2329" length="-9" encoding="utf-16" role="value">
     <Source>破壊オブジェクト</Source>
