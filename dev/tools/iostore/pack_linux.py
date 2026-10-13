@@ -13,6 +13,7 @@ from localized_additions import build_additions
 from compact_container import subset_header
 from merge_compact import merge
 from build_outputs import publish_build
+from platform_process import run as run_retoc
 
 ROOT = Path(__file__).resolve().parents[3]
 KEY = '0x92BADFE2921B376069D3DE8541696D230BA06B5E4320084DD34A26D117D2FFEE'
@@ -146,13 +147,12 @@ def main():
             (out / f'system-save-localization-{world}.json').write_text(json.dumps(mapping_report, ensure_ascii=False, indent=2))
     report = []
     def run(args, name, encrypted=False):
-        cmd = ['prlimit', f'--as={budget}', f'--cpu={seconds}', '--',
-               'timeout', '--kill-after=5s', str(seconds), str(tool)]
+        cmd = []
         if encrypted:
             cmd += ['--aes-key', KEY]
         cmd += list(map(str, args))
         with (out / (name + '.log')).open('wb') as log:
-            r = subprocess.run(cmd, stdout=log, stderr=subprocess.STDOUT)
+            r = run_retoc(tool, cmd, budget, seconds, log)
         if r.returncode:
             raise RuntimeError(f'{name} failed ({r.returncode}); see {out / (name + ".log")}')
         return (out / (name + '.log')).read_text(errors='replace')
