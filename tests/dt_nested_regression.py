@@ -4,7 +4,7 @@ import json, struct, xml.etree.ElementTree as E
 import os, subprocess
 ROOT=Path(__file__).resolve().parents[1]
 def run(args):
-    r=subprocess.run(['prlimit','--core=0','--as=8589934592','--cpu=30','--','timeout','40s','dotnet',str(ROOT/'tools/dt/linux/P3RDtTool.dll'),*map(str,args)],capture_output=True,text=True,env={**os.environ,'DOTNET_GCHeapHardLimit':'0x10000000','DOTNET_gcServer':'0'})
+    r=subprocess.run(['prlimit','--core=0','--as=8589934592','--cpu=30','--','timeout','40s','dotnet',str(ROOT/'dev/tools/dt/linux/P3RDtTool.dll'),*map(str,args)],capture_output=True,text=True,env={**os.environ,'DOTNET_GCHeapHardLimit':'0x10000000','DOTNET_gcServer':'0'})
     if r.returncode: raise AssertionError(r.stdout+r.stderr)
     return r
 OUT=ROOT/'build/tests/dt-nested';OUT.mkdir(parents=True,exist_ok=True);XML=OUT/'xml';rows=[]

@@ -7,13 +7,13 @@ import tempfile
 import xml.etree.ElementTree as E
 
 ROOT=Path(__file__).resolve().parents[1]
-DLL=ROOT/'tools/dt/linux/P3RDtTool.dll'
+DLL=ROOT/'dev/tools/dt/linux/P3RDtTool.dll'
 ENV={**os.environ,'DOTNET_GCHeapHardLimit':'0x10000000'}
 def run(*args):
     return subprocess.run(['timeout','40s','dotnet',str(DLL),*map(str,args)],capture_output=True,text=True,env=ENV)
 with tempfile.TemporaryDirectory() as directory:
     base=Path(directory);sources=base/'source';sources.mkdir();xmls=base/'xml/text';xmls.mkdir(parents=True)
-    source=ROOT/'tools/dt/source/Astrea/Field/Data/DataTable/Texts/DT_FldShortcutName.uasset'
+    source=ROOT/'dev/tools/dt/source/Astrea/Field/Data/DataTable/Texts/DT_FldShortcutName.uasset'
     shutil.copy2(source,sources/'valid.uasset')
     original=base/'original.xml';assert run('--export-text-xml',source,original).returncode==0
     shutil.copy2(original,xmls/'valid.xml');shutil.copy2(original,xmls/'missing.xml')

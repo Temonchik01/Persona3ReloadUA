@@ -1,6 +1,6 @@
 # Виправлення імпортера DT text
 
-Вихідний код: instruments/P3RDtTool/P3RDtTextScanner.cs.
+Вихідний код: dev/instruments/P3RDtTool/P3RDtTextScanner.cs.
 
 ## Причина
 
@@ -35,20 +35,20 @@ Town Map -> Мапа міста гра читала частину UTF-8 тек�
 Потрібен .NET 8 SDK або новіший для збирання:
 
 ```bash
-./scripts/linux/build_dt_tool.sh
+./dev/scripts/linux/build_dt_tool.sh
 python3 tests/dt_text_regression.py
 ```
 
 Linux-проєкт компілює ті самі C#-файли під net8.0. Оригінальний Windows
 проєкт net10.0 залишений для колеги; старий Windows EXE не замінений.
-Linux DLL з’являється у tools/dt/linux/ (не додається в Git), repack_linux.sh
+Linux DLL з’являється у dev/tools/dt/linux/ (не додається в Git), repack_linux.sh
 автоматично використовує її для DT. Fstrings-імпортер тут не виправлявся.
 Тому повний імпорт dt_xml може зупинятися на його старих захистах.
 
 Для збирання тільки text, без проблемних fstrings:
 
 ```bash
-./scripts/linux/repack_dt_text.sh
+./dev/scripts/linux/repack_dt_text.sh
 ```
 
 Це збере готові uasset у UnrealEssentials без створення резервних копій.
@@ -58,9 +58,9 @@ Linux DLL з’являється у tools/dt/linux/ (не додається в
 Для одиничного DT:
 
 ```bash
-DOTNET_GCHeapHardLimit=0x10000000 dotnet tools/dt/linux/P3RDtTool.dll \
+DOTNET_GCHeapHardLimit=0x10000000 dotnet dev/tools/dt/linux/P3RDtTool.dll \
   --import-text-xml \
-  tools/dt/source/Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName.uasset \
+  dev/tools/dt/source/Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName.uasset \
   dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName.xml \
   build/dt-test/DT_FldShortcutName.uasset
 ```

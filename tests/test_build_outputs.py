@@ -6,7 +6,7 @@ import tempfile
 import unittest
 import zipfile
 
-spec = importlib.util.spec_from_file_location('build_outputs', Path(__file__).resolve().parents[1]/'tools/iostore/build_outputs.py')
+spec = importlib.util.spec_from_file_location('build_outputs', Path(__file__).resolve().parents[1]/'dev/tools/iostore/build_outputs.py')
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 

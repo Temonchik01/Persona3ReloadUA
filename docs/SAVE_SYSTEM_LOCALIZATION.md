@@ -8,14 +8,14 @@ DT_SystemTextTranslationTable додано українські відповід
 Пакувальник тепер робить це автоматично, аналогічно до назв локацій:
 
 ```bash
-./scripts/linux/repack_linux.sh dt
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/repack_linux.sh dt
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Для останніх завантажених XML можна явно передати каталог імпорту.
 Окремо запускати тестовий build_probe_en.py більше не потрібно.
 
-Генератор tools/dt/save_system_localization.py:
+Генератор dev/tools/dt/save_system_localization.py:
 
 - зіставляє вихідні та перекладені Name за числовими ID рядків;
 - зберігає FText namespace/key, ідентичність рядків і технічні коментарі;
@@ -25,7 +25,7 @@ DT_SystemTextTranslationTable додано українські відповід
 - залишає всі оригінальні рядки таблиці відповідників байт-ідентичними;
 - не генерує невідомі ID для повідомлень, відсутніх у таблиці відповідників.
 
-Оригінальні шаблони зберігаються в tools/dt/save-localize-source/ для
+Оригінальні шаблони зберігаються в dev/tools/dt/save-localize-source/ для
 Xrd777 і Astrea. Це залежності збирання; їхні JSON містять SHA-256 для
 перевірки походження. Зміни джерел гри потребують повторної перевірки шаблонів.
 

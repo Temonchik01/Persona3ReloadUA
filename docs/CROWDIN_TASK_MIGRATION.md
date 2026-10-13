@@ -1,6 +1,6 @@
 # Перенесення завдань між гілками Crowdin
 
-Скрипт `tools/crowdin/migrate_tasks.py` працює з Crowdin API v2 для файлових
+Скрипт `dev/tools/crowdin/migrate_tasks.py` працює з Crowdin API v2 для файлових
 проєктів. Він змінює тільки `/fileIds` у наявних завданнях, а не джерела чи
 переклади. Інші параметри завдання не надсилаються для зміни; склад рядків і
 відсоток виконання Crowdin може перерахувати для нових файлів.
@@ -15,7 +15,7 @@
 
 ```bash
 cd /home/tymofii/Persona3ReloadUA
-python3 tools/crowdin/migrate_tasks.py inventory --project-slug persona-3-reload-ua
+python3 dev/tools/crowdin/migrate_tasks.py inventory --project-slug persona-3-reload-ua
 ```
 
 Збережіть показані числові Project ID, ID гілки «Чорнетка» та нової гілки
@@ -27,7 +27,7 @@ python3 tools/crowdin/migrate_tasks.py inventory --project-slug persona-3-reload
 Замініть числа прикладу фактичними ID з інвентаризації:
 
 ```bash
-python3 tools/crowdin/migrate_tasks.py plan --project 123456 --from-branch 10 --to-branch 20 --output build/crowdin-tasks-plan.json
+python3 dev/tools/crowdin/migrate_tasks.py plan --project 123456 --from-branch 10 --to-branch 20 --output build/crowdin-tasks-plan.json
 ```
 
 Для першого тесту лише завдання №6 додайте `--tasks 6`. Перевірте JSON:
@@ -39,7 +39,7 @@ string-scoped набором файлів пропускаються і зазн
 ## 3. Застосування перевіреного плану
 
 ```bash
-python3 tools/crowdin/migrate_tasks.py apply build/crowdin-tasks-plan.json --confirm
+python3 dev/tools/crowdin/migrate_tasks.py apply build/crowdin-tasks-plan.json --confirm
 ```
 
 Перед змінами скрипт повторно перевіряє всі завдання та відповідники.

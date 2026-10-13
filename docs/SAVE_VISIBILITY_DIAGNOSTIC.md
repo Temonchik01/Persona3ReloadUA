@@ -26,7 +26,7 @@ Astrea DT_FldPlaceName залишається доступною для DT opt-i
 Повний тестовий мод із рештою DT:
 
 ```bash
-P3R_INCLUDE_DT_TEXT=1 ./scripts/linux/pack_linux.sh
+P3R_INCLUDE_DT_TEXT=1 ./dev/scripts/linux/pack_linux.sh
 ```
 
 Для дослідження саме цього випадку потрібні окремі тести, а не вилучення
@@ -89,7 +89,7 @@ property sizes. Ігрові результати цих двох проб по�
 Тому поточний XML має 890 перекладених назв, а School Building лишається
 англійською. Відповідність цієї назви саме видимим сейвам не перевірена.
 
-`tools/dt/place_name_alias_probe.py` створює тільки діагностичний
+`dev/tools/dt/place_name_alias_probe.py` створює тільки діагностичний
 uasset у build/place-name-probes: 891 основний рядок із перекладом
 і 890 англійських копій із тим самим Index та окремими numbered FName
 ключами рядків. Основні рядки лишаються побайтово незмінними, всі
@@ -104,7 +104,7 @@ uasset у build/place-name-probes: 891 основний рядок із пере
 набором row keys/Index/Name і тільки іншим порядком серіалізації:
 спершу основні українські рядки, потім англійські alias-рядки.
 Порядок ще не підтверджено як механізм вибору назви у грі.
-Команда генерації: `python3 tools/dt/place_name_alias_probe.py --translated-first`.
+Команда генерації: `python3 dev/tools/dt/place_name_alias_probe.py --translated-first`.
 
 
 ## SaveDataLocalize / DT_FldPlaceNameConvert
@@ -119,7 +119,7 @@ Number не завжди дорівнює прямому Index DT_FldPlaceName: 
 і нормалізуються, тож зв'язок встановлюється за оригінальним Name і
 зберігає Number саме з конвертера, без вигадування нового коду місця.
 
-`tools/dt/place_name_convert_probe.py` додає 890 українських пар до
+`dev/tools/dt/place_name_convert_probe.py` додає 890 українських пар до
 оригінального конвертера. Усі 11854 попередні рядки залишаються
 побайтово незмінними; для кожної зміненої англійської назви знайдено
 відповідник у вихідному конвертері. У DT_FldPlaceName при цьому

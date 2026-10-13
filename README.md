@@ -10,12 +10,14 @@
 | `xml/` | BMD XML — джерела текстів для Crowdin |
 | `dt_xml/` | XML таблиць DT — джерела для Crowdin |
 | `translations/` | Переклади, експортовані Crowdin |
-| `dds/` | Редаговані текстури DDS |
-| `dds original/` | Збережені оригінальні DDS |
+| `texture/dds/` | Редаговані текстури DDS |
+| `texture/png/` | PNG для збирання; мають пріоритет над однойменним DDS |
+| `texture/sources/` | PSD, XCF та інші вихідники з шарами |
+| `texture/originals/` | Збережені оригінальні DDS |
 | `fonts/` | Матеріали шрифтів |
-| `tools/` | Компілятори, Python-інструменти й оригінальні шаблони |
-| `scripts/linux/` | Команди запуску для Linux |
-| `scripts/windows/` | Команди запуску для Windows |
+| `dev/tools/` | Компілятори, Python-інструменти й оригінальні шаблони |
+| `dev/scripts/linux/` | Команди запуску для Linux |
+| `dev/scripts/windows/` | Команди запуску для Windows |
 | `UnrealEssentials/` | Готові ресурси мода за ігровими шляхами |
 | `docs/` | Інструкції та план подальшого впорядкування |
 | `build/` | Тимчасові файли збирання, журнали й результати тестів |
@@ -23,7 +25,7 @@
 | `.cache/` | Wine-префікс, NuGet та кеші інструментів |
 | `workspace/` | Робочі експорти XML/DDS та матеріали для Crowdin |
 
-Команди збирання розміщені лише в scripts/linux/ та scripts/windows/.
+Команди збирання розміщені лише в dev/scripts/linux/ та dev/scripts/windows/.
 Не переносіть tools або папки XML окремо: компілятори очікують їхні шляхи.
 
 ## Linux
@@ -31,19 +33,19 @@
 Потрібні Python 3, Wine/winepath для BMD/DT, retoc, prlimit і timeout.
 
 ```bash
-./scripts/linux/repack_linux.sh bmd
-./scripts/linux/repack_linux.sh dt
-./scripts/linux/export_dds.sh
-./scripts/linux/repack_dds.sh /path/to/edited-dds
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/repack_linux.sh bmd
+./dev/scripts/linux/repack_linux.sh dt
+./dev/scripts/linux/export_dds.sh
+./dev/scripts/linux/repack_dds.sh /path/to/edited-dds
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Закрийте гру перед експортом/імпортом. Не експортуйте оригінальні XML
 поверх ручних перекладів. DDS-експорт у Linux створює нову папку в workspace/dds-exports/.
-Retoc кладіть у tools/iostore/bin/retoc або задайте RETOC. Ця локальна
+Retoc кладіть у dev/tools/iostore/bin/retoc або задайте RETOC. Ця локальна
 бінарна папка ігнорується Git; після свіжого клону retoc потрібно встановити.
 Персональні налаштування — у config.local.env (копія прикладу).
-Готовий fonts.pak та еталонні ufont збережені в tools/iostore/;
+Готовий fonts.pak та еталонні ufont збережені в dev/tools/iostore/;
 це поточні перевірені шрифти, не автоматичне збирання нових шрифтів.
 
 Докладніше: [пакування на Linux](docs/PACK_LINUX.md),
@@ -51,7 +53,7 @@ Retoc кладіть у tools/iostore/bin/retoc або задайте RETOC. Ц�
 
 ## Windows
 
-Запускайте відповідний BAT із scripts/windows/:
+Запускайте відповідний BAT із dev/scripts/windows/:
 repack_bmd.bat, repack_dt.bat, repack_dds.bat.
 export_* створюють джерела для редагування й можуть перезаписати їх.
 BAT використовують наявні Windows-компілятори та вбудований Python.
@@ -70,7 +72,7 @@ l10n_main — службовою гілкою. Не перезаписуйте �
 і dt_xml/ містять оригінальні джерела для Crowdin.
 
 ```bash
-./scripts/linux/repack_linux.sh bmd "$PWD/translations/uk/xml"
+./dev/scripts/linux/repack_linux.sh bmd "$PWD/translations/uk/xml"
 ```
 
 Не редагуйте керівні коди BMD та технічні ключі DT. Crowdin-файли
@@ -100,10 +102,10 @@ Retoc створює компактні контейнери зі змінени
 сейвів: [локалізація назв місць](docs/SAVE_PLACE_LOCALIZATION.md).
 
 
-Повне автоматичне збирання на Linux із `translations/uk/` та `dds/`:
+Повне автоматичне збирання на Linux із `translations/uk/` та `texture/dds/`:
 
 ```bash
-./scripts/linux/build_mod.sh
+./dev/scripts/linux/build_mod.sh
 ```
 
 Порядок етапів, залежності й журнали помилок: [BUILD_ALL_LINUX.md](docs/BUILD_ALL_LINUX.md).

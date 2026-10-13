@@ -1,13 +1,13 @@
 from pathlib import Path
 import os,subprocess,xml.etree.ElementTree as E,struct,json
-ROOT=Path(__file__).resolve().parents[1];os.chdir(ROOT);DLL=Path(os.environ.get('P3R_DT_TOOL_DLL',str(ROOT/'tools/dt/linux/P3RDtTool.dll')));OUT=ROOT/'build/tests/dt-text-regression';OUT.mkdir(parents=True,exist_ok=True);rows=[]
+ROOT=Path(__file__).resolve().parents[1];os.chdir(ROOT);DLL=Path(os.environ.get('P3R_DT_TOOL_DLL',str(ROOT/'dev/tools/dt/linux/P3RDtTool.dll')));OUT=ROOT/'build/tests/dt-text-regression';OUT.mkdir(parents=True,exist_ok=True);rows=[]
 def run(args,ok=True):
  r=subprocess.run(['prlimit','--core=0','--as=8589934592','--cpu=30','--','timeout','40s','dotnet',str(DLL),*map(str,args)],capture_output=True,text=True,env={**os.environ,'DOTNET_GCHeapHardLimit':'0x10000000','DOTNET_gcServer':'0'})
  if ok and r.returncode:raise AssertionError(r.stdout+r.stderr)
  if not ok:assert r.returncode!=0,'Unsafe edit unexpectedly accepted'
  return r
 for xml in sorted((ROOT/'dt_xml/text').rglob('*.xml')):
- rel=xml.relative_to(ROOT/'dt_xml/text');src=ROOT/'tools/dt/source'/rel.with_suffix('.uasset');work=OUT/rel.with_suffix('');work.mkdir(parents=True,exist_ok=True)
+ rel=xml.relative_to(ROOT/'dt_xml/text');src=ROOT/'dev/tools/dt/source'/rel.with_suffix('.uasset');work=OUT/rel.with_suffix('');work.mkdir(parents=True,exist_ok=True)
  original=work/'original.xml';run(['--export-text-xml',src,original]);noop=work/'noop.uasset';run(['--import-text-xml',src,original,noop]);assert noop.read_bytes()==src.read_bytes(),f'No-op changed {rel}'
  target=work/'translated.uasset';r=run(['--import-text-xml',src,xml,target]);exported=work/'translated.xml';run(['--export-text-xml',target,exported]);new=E.parse(exported).getroot();old=E.parse(xml).getroot();assert len(new.findall('Text'))>=len(old.findall('Text'))
  changed=0;b=target.read_bytes()
@@ -31,7 +31,7 @@ for xml in sorted((ROOT/'dt_xml/text').rglob('*.xml')):
  rows.append({'xml':str(rel),'changed':changed,'no_op_identical':True,'translated_roundtrip':True,'original_bytes':src.stat().st_size,'new_bytes':len(b)})
  print(rel,changed,'changed; no-op and serialization checks passed',flush=True)
 # Boundary tests on the exact resource from the crash report.
-rel=Path('Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName');src=ROOT/'tools/dt/source'/rel.with_suffix('.uasset');base=OUT/rel/'original.xml'
+rel=Path('Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName');src=ROOT/'dev/tools/dt/source'/rel.with_suffix('.uasset');base=OUT/rel/'original.xml'
 for i,text in enumerate(['A','A much longer English name','Мапа міста','ЇЄҐі їєґ','Місто 😀', 'A'*600, 'Мапа\nміста', '-']):
  t=E.parse(base);t.getroot().find('Text/Translation').text=text;x=OUT/f'boundary-{i}.xml';t.write(x,encoding='utf-8',xml_declaration=True);u=OUT/f'boundary-{i}.uasset';run(['--import-text-xml',src,x,u]);e=OUT/f'boundary-{i}-export.xml';run(['--export-text-xml',u,e]);assert E.parse(e).getroot().findtext('Text/Source')==text
 # Scanner false-positive (row/technical string) must be blocked.

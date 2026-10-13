@@ -1,7 +1,7 @@
 # Англійські джерела BMD і українські переклади
 
 `xml/` — джерельні XML для Crowdin. Репліки, варіанти відповіді та назви
-мовців відновлено з оригінальних англійських uasset у `tools/dds_l10n/source/`.
+мовців відновлено з оригінальних англійських uasset у `dev/tools/dds_l10n/source/`.
 Структуру поточних робочих XML, ідентифікатори та атрибути збережено.
 
 `translations/uk/xml/` — українські XML для збирання. Під час розділення
@@ -14,8 +14,8 @@
 Linux і Windows імпортери BMD типово читають `translations/uk/xml/`:
 
 ```bash
-./scripts/linux/repack_linux.sh bmd
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/repack_linux.sh bmd
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Явно переданий каталог XML має пріоритет над типовим шляхом.

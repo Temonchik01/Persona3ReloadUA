@@ -12,25 +12,25 @@
 або відповідний XML у `translations/uk/dt_xml/`. Після оновлення структури
 джерела оновлюйте також структуру українського XML, зберігаючи переклади.
 
-Linux-скрипти DT та `scripts/windows/repack_dt.bat` типово читають
+Linux-скрипти DT та `dev/scripts/windows/repack_dt.bat` типово читають
 `translations/uk/dt_xml/`. Явний каталог для Linux має пріоритет над типовим.
 
 Збирання лише DT text:
 
 ```bash
-./scripts/linux/repack_dt_text.sh
+./dev/scripts/linux/repack_dt_text.sh
 ```
 
 Збирання всіх DT:
 
 ```bash
-./scripts/linux/repack_linux.sh dt
+./dev/scripts/linux/repack_linux.sh dt
 ```
 
 Після імпорту:
 
 ```bash
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Комітьте джерела і відповідні переклади разом. `crowdin.yml` не потребує

@@ -1,7 +1,7 @@
 # Додаткові DT DataAsset: експорт і тестування
 
 Джерела для перевірки: `dt test/` (44 uasset). Інструмент: вихідний код
-`instruments/P3RDtTool/`, Linux DLL у `tools/dt/linux/`.
+`dev/instruments/P3RDtTool/`, Linux DLL у `dev/tools/dt/linux/`.
 
 Підтримано:
 
@@ -24,8 +24,8 @@
 З кореня репозиторію:
 
 ```bash
-./scripts/linux/build_dt_tool.sh
-DOTNET_GCHeapHardLimit=0x10000000 dotnet tools/dt/linux/P3RDtTool.dll \
+./dev/scripts/linux/build_dt_tool.sh
+DOTNET_GCHeapHardLimit=0x10000000 dotnet dev/tools/dt/linux/P3RDtTool.dll \
   --batch-export-xml "$PWD/dt test" "$PWD/workspace/dt-test-review/xml"
 ```
 
@@ -39,7 +39,7 @@ Offset, namespace, ключі або назви файлів. Результат
 Імпорт після перекладу — в окремий каталог, без заміни робочого мода:
 
 ```bash
-DOTNET_GCHeapHardLimit=0x10000000 dotnet tools/dt/linux/P3RDtTool.dll \
+DOTNET_GCHeapHardLimit=0x10000000 dotnet dev/tools/dt/linux/P3RDtTool.dll \
   --batch-import-xml "$PWD/workspace/dt-test-review/xml" \
   "$PWD/dt test" "$PWD/workspace/dt-test-review/imported" --verbose
 ```
@@ -71,4 +71,4 @@ python3 tests/dt_nested_regression.py
 Звіти перевірок: `build/tests/dt-nested/report.json` та `array-report.json`.
 Це перевірка серіалізації; нові перекладені ресурси ще потребують запуску гри.
 Windows EXE потрібно окремо перебудувати з оновлених C# джерел;
-старий `tools/dt/P3RDtTool.exe` не оновлювався.
+старий `dev/tools/dt/P3RDtTool.exe` не оновлювався.

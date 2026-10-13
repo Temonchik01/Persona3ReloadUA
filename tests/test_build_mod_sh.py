@@ -12,20 +12,20 @@ ROOT = Path(__file__).resolve().parents[1]
 class FullBuildScript(unittest.TestCase):
     def fixture(self, folder, failure):
         root = Path(folder)/'project with spaces'
-        scripts = root/'scripts/linux'; scripts.mkdir(parents=True)
-        shutil.copyfile(ROOT/'scripts/linux/build_mod.sh', scripts/'build_mod.sh')
-        for p in ('translations/uk/xml','translations/uk/dt_xml','dds','tools/dt/source','tools/dds_l10n/source'):
+        scripts = root/'dev/scripts/linux'; scripts.mkdir(parents=True)
+        shutil.copyfile(ROOT/'dev/scripts/linux/build_mod.sh', scripts/'build_mod.sh')
+        for p in ('translations/uk/xml','translations/uk/dt_xml','texture/dds','dev/tools/dt/source','dev/tools/dds_l10n/source'):
             (root/p).mkdir(parents=True)
         for p in ('translations/uk/xml/a.xml','translations/uk/dt_xml/a.xml'):
             (root/p).write_text('<root/>')
-        (root/'dds/a.dds').write_bytes(b'DDS ')
+        (root/'texture/dds/a.dds').write_bytes(b'DDS ')
         bin_dir = root/'test-bin'; bin_dir.mkdir()
         for command in ('dotnet','wine','winepath','timeout','prlimit'):
             p = bin_dir/command; p.write_text('#!/bin/sh\nexit 0\n'); p.chmod(0o755)
         p = bin_dir/'pgrep'; p.write_text('#!/bin/sh\nexit 1\n'); p.chmod(0o755)
         def stub(name, body):
             p = scripts/name
-            p.write_text('#!/usr/bin/env bash\nset -eu\nroot=$(cd "$(dirname "$0")/../.." && pwd)\n'+body+'\n')
+            p.write_text('#!/usr/bin/env bash\nset -eu\nroot=$(cd "$(dirname "$0")/../../.." && pwd)\n'+body+'\n')
             p.chmod(0o755)
         stub('build_dt_tool.sh', 'echo tool >> "$root/order"')
         stub('repack_linux.sh', 'echo "$1" >> "$root/order"\n'+

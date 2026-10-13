@@ -8,16 +8,16 @@ import unittest
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT / 'tools/dt'))
+sys.path.insert(0, str(ROOT / 'dev/tools/dt'))
 from save_system_localization import build_system_converter, read_table, i32
 
 
 class SystemSaveMappings(unittest.TestCase):
     def source(self, world):
-        return ROOT / f'tools/dt/source/{world}/UI/SystemText/DT_SystemTextName.uasset'
+        return ROOT / f'dev/tools/dt/source/{world}/UI/SystemText/DT_SystemTextName.uasset'
 
     def converter(self, world):
-        return ROOT / f'tools/dt/save-localize-source/{world}/UI/Tables/SaveDataLocalize/DT_SystemTextTranslationTable.uasset'
+        return ROOT / f'dev/tools/dt/save-localize-source/{world}/UI/Tables/SaveDataLocalize/DT_SystemTextTranslationTable.uasset'
 
     def test_originals_remain_byte_identical(self):
         with tempfile.TemporaryDirectory() as folder:
@@ -38,7 +38,7 @@ class SystemSaveMappings(unittest.TestCase):
                 build_system_converter(self.source('Xrd777'), changed, self.converter('Xrd777'), Path(folder)/'out.uasset')
 
     def test_existing_russian_label_gets_english_alias(self):
-        dll = ROOT/'tools/dt/linux/P3RDtTool.dll'
+        dll = ROOT/'dev/tools/dt/linux/P3RDtTool.dll'
         if not dll.is_file():
             self.skipTest('Build native DT tool first')
         with tempfile.TemporaryDirectory() as folder:

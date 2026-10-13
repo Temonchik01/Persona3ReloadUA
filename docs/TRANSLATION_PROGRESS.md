@@ -1,6 +1,6 @@
 # Прогрес перекладу текстур
 
-Реєстр: translation-progress.csv. Один рядок — один DDS, path відносний до dds/.
+Реєстр: translation-progress.csv. Один рядок — один DDS, path відносний до texture/dds/.
 Відкривайте як UTF-8 CSV з роздільником кома у LibreOffice Calc або редакторі.
 
 Статуси:
@@ -21,8 +21,8 @@ CSV не читається Crowdin чи пакувальником і не вп
 Після виправлення назв повторіть імпорт DDS:
 
 ```bash
-./scripts/linux/repack_dds.sh "$PWD/dds"
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/repack_dds.sh "$PWD/texture/dds"
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Це не прибирає старі зібрані ресурси автоматично. Відсутні локалізовані

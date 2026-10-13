@@ -3,17 +3,17 @@
 Закрийте гру. Підготуйте ресурси:
 
 ```bash
-./scripts/linux/repack_linux.sh bmd
-./scripts/linux/repack_linux.sh dt
-./scripts/linux/repack_dds.sh "$PWD/dds"
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/repack_linux.sh bmd
+./dev/scripts/linux/repack_linux.sh dt
+./dev/scripts/linux/repack_dds.sh "$PWD/texture/dds"
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Типовий вхід — UnrealEssentials/ з деревом P3R/Content/...
 Для піднабору вкажіть папку з цим деревом:
 
 ```bash
-./scripts/linux/pack_linux.sh /path/to/UnrealEssentials
+./dev/scripts/linux/pack_linux.sh /path/to/UnrealEssentials
 ```
 
 ## Що входить у мод
@@ -67,12 +67,12 @@ pakchunk999-Ukrainian_P.pak, .utoc та .ucas.
 ```bash
 RETOC=/path/to/retoc GAME_PAKS=/path/to/P3R/Content/Paks \
 FONT_PAK=/path/to/fonts.pak P3R_PACK_MEMORY_MB=1536 \
-P3R_PACK_TIMEOUT=900 ./scripts/linux/pack_linux.sh
+P3R_PACK_TIMEOUT=900 ./dev/scripts/linux/pack_linux.sh
 ```
 
-Типовий retoc: tools/iostore/bin/retoc (локальна папка, не в Git).
-Типові шрифти: tools/iostore/fonts.pak; незмінені ufont перевіряються
-за tools/iostore/font-reference. Для змінених шрифтів потрібен окремо
+Типовий retoc: dev/tools/iostore/bin/retoc (локальна папка, не в Git).
+Типові шрифти: dev/tools/iostore/fonts.pak; незмінені ufont перевіряються
+за dev/tools/iostore/font-reference. Для змінених шрифтів потрібен окремо
 зібраний FONT_PAK. Linux-конвертація DDS використовує libtexconv.so.
 AES-ключ уже заданий у Python-скрипті.
 Retoc працює послідовно з обмеженням пам'яті та часу кожної команди.

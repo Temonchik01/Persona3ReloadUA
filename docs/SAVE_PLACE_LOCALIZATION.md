@@ -13,8 +13,8 @@ ASCII-правками тієї самої довжини; незмінені а
 ## Звичайне збирання
 
 ```bash
-./scripts/linux/repack_dt_text.sh
-./scripts/linux/pack_linux.sh
+./dev/scripts/linux/repack_dt_text.sh
+./dev/scripts/linux/pack_linux.sh
 ```
 
 Пакувальник автоматично читає перекладений Xrd777 DT_FldPlaceName,
@@ -26,9 +26,9 @@ ASCII-правками тієї самої довжини; незмінені а
 Повторне пакування щоразу починає з чистого шаблону й не накопичує дублів.
 
 Шаблон конвертера:
-`tools/dt/save-localize-source/Xrd777/UI/Tables/SaveDataLocalize/DT_FldPlaceNameConvert.uasset`.
+`dev/tools/dt/save-localize-source/Xrd777/UI/Tables/SaveDataLocalize/DT_FldPlaceNameConvert.uasset`.
 Поруч лежить опис оригінального ресурсу та SHA-256. Генератор:
-`tools/dt/save_place_localization.py`. Звіт кожної збірки:
+`dev/tools/dt/save_place_localization.py`. Звіт кожної збірки:
 `dist/<час>/reports/save-localization.json`.
 
 Конвертер додається тільки коли Xrd777 PlaceName входить у комплект.

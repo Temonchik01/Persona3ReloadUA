@@ -8,10 +8,10 @@ import unittest
 import xml.etree.ElementTree as E
 
 ROOT=Path(__file__).resolve().parents[1]
-sys.path.insert(0,str(ROOT/'tools/dt'))
+sys.path.insert(0,str(ROOT/'dev/tools/dt'))
 from save_place_localization import build_converter, read_place_table, read_conversion_table
-PLACE=ROOT/'tools/dt/source/Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset'
-CONVERTER=ROOT/'tools/dt/save-localize-source/Xrd777/UI/Tables/SaveDataLocalize/DT_FldPlaceNameConvert.uasset'
+PLACE=ROOT/'dev/tools/dt/source/Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset'
+CONVERTER=ROOT/'dev/tools/dt/save-localize-source/Xrd777/UI/Tables/SaveDataLocalize/DT_FldPlaceNameConvert.uasset'
 TRANSLATED=ROOT/'UnrealEssentials/P3R/Content/L10N/en/Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.uasset'
 
 class SavePlaceTest(unittest.TestCase):
@@ -42,7 +42,7 @@ class SavePlaceTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             xml=Path(folder)/'export.xml';output=Path(folder)/'noop.uasset'
             def run(*args):
-                result=subprocess.run(['timeout','40s','dotnet',str(ROOT/'tools/dt/linux/P3RDtTool.dll'),*map(str,args)],capture_output=True,text=True,env={**os.environ,'DOTNET_GCHeapHardLimit':'0x10000000'})
+                result=subprocess.run(['timeout','40s','dotnet',str(ROOT/'dev/tools/dt/linux/P3RDtTool.dll'),*map(str,args)],capture_output=True,text=True,env={**os.environ,'DOTNET_GCHeapHardLimit':'0x10000000'})
                 self.assertEqual(result.returncode,0,result.stdout+result.stderr)
             run('--export-text-xml',PLACE,xml)
             nodes=E.parse(xml).getroot().findall('Text')
