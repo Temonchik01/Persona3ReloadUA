@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_OBJ_102_141_001.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\102\BMD_OBJ_102_141_001.uasset" dialogs="31">
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це система консолей.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я не знаю, як ним користуватися.[n]Здається, він дуже просунутий...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це пульт керування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Не знаю, як ним користуватися.[n]Схоже, тут дуже складна техніка...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це система консолей.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз у кімнаті є інші люди,[n]тому я не повинен дивитися відео...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це пульт керування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У кімнаті є інші люди.[n]Зараз краще не дивитися відео...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це система консолей.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Камера спостереження, схоже[n]увімкнулася сама і записала відео...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Але зараз у кімнаті є інші люди[n]тому я не повинен його дивитися...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це пульт керування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, камера спостереження сама[n]ввімкнулася й щось записала...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Але тут є інші люди, тому[n]зараз краще не дивитися запис...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це система консолей.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Камера спостереження, схоже[n]увімкнулася сама і записала відео...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це пульт керування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, камера спостереження сама[n]ввімкнулася й щось записала...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто дивитися відеозапис?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
@@ -23,11 +23,11 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це система консолей.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, є новий запис.[n]Чи варто дивитися відео?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це пульт керування.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, є[n]новий запис. Переглянути?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нових записів.[n]Чи варто переглянути старе відео?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Нових записів[n]немає. Переглянути старі?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Яке з них подивитися?..[n]{f 1 1}]]></Page>
@@ -38,7 +38,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Міцуру]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Юкарі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Амади]]></Option>
@@ -60,7 +60,7 @@
   </Dialog>
   <Dialog id="12" name="SEL_010_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Міцуру]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
@@ -79,7 +79,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
   <Dialog id="15" name="SEL_013_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Фууки]]></Option>
@@ -93,7 +93,7 @@
   <Dialog id="17" name="SEL_015_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Юкарі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Міцуру]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
@@ -110,7 +110,7 @@
   </Dialog>
   <Dialog id="20" name="SEL_018_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Міцуру]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
@@ -135,7 +135,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перша сторінка]]></Option>
   </Dialog>
   <Dialog id="24" name="SEL_022_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аіґіс]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Аїґіс]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Араґакі]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Відео Санади]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Наступна сторінка]]></Option>
