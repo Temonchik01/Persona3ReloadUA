@@ -25,3 +25,12 @@ files:
     translate_attributes: 0
     translatable_elements:
       - /P3RDataTableFStrings/String/Translation
+  - source: /dt_xml/names/**/*.xml
+    translation: /translations/%two_letters_code%/dt_xml/names/**/%original_file_name%
+    type: xml
+    update_option: update_without_changes
+    content_segmentation: 0
+    translate_content: 1
+    translate_attributes: 0
+    translatable_elements:
+      - /P3RDataTableNames/Name/Translation
