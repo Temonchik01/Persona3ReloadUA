@@ -5,7 +5,7 @@
     <Speaker id="1" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я вийти з кімнати?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Вийти з кімнати?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_002_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти]]></Option>
@@ -16,10 +16,10 @@
   </Dialog>
   <Dialog id="3" name="SEL_004_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Оглянутись більше]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ще трохи озирнутися]]></Option>
   </Dialog>
   <Dialog id="4" name="MSG_006_0_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4025 0 0}Ти маєш рацію. Не варто затримуватися. Йому б це не сподобалося.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}Але було приємно тут побути... Тож, підемо?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}Але приємно було тут побути... То ходімо?[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
