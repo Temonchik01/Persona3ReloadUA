@@ -7,21 +7,21 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут зараз занадто людно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Кава з феромонами - 500 єн[n]Привабливий аромат, який[n] увімкне вашу чарівність».[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Кава з феромонами — 500 єн.Спокусливий аромат[n]розкриє ваш шарм».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message"/>
   <Dialog id="4" name="MND_004_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Випивши трохи кави з феромонами, я можу покращити свій {f 4 30 1 1 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кава з феромонами може підвищити рівень «{f 4 30 1 1 1 0}»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, я можу працювати тут неповний робочий день в[n]понеділок, вівторок та середу ввечері.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут можна підробляти щопонеділка,[n]щовівторка та щосереди ввечері.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Шукаємо людей, які вміють працювати з клієнтами. У перервах отримуйте безкоштовну феромонну каву!»[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Заробітна плата за неповний робочий день починається від 2,500 єн.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Шукаємо працівників, які вміють спілкуватися з клієнтами. Під час перерв — безкоштовна кава з феромонами!»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Оплата підробітку — від 2 500 єн».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Робота тут може допомогти покращити мої [n]{f 4 30 1 1 1 1 0} та {f 4 30 2 1 1 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Робота тут може підвищити[n]рівні характеристик «{f 4 30 1 1 1 0}» та «{f 4 30 2 1 1 0}»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день?..[n]{f 1 1}]]></Page>
@@ -35,14 +35,14 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще вступати?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 1 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно зайти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 1 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message"/>
   <Dialog id="15" name="SEL_015_0_0" type="Selection">
@@ -51,41 +51,41 @@
   </Dialog>
   <Dialog id="16" name="MND_016_0_0" type="Message"/>
   <Dialog id="17" name="SEL_017_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Працювати неповний робочий день]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Підробити]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="18" name="MND_018_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен перевірити?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_019_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Про роботу на неповний робочий день]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Про те, щоб бути клієнтом]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Про підробіток]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Про обслуговування відвідувачів]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Скасувати]]></Option>
   </Dialog>
   <Dialog id="20" name="MND_020_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркан Помірності може[n]допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MND_021_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кафе «Шаґал»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен зробити тут?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чим тут зайнятися?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="SEL_023_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Працювати на неповний робочий день {f 4 26 24 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Підробити{f 4 26 24 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Пити каву {f 4 26 25 0}]]></Option>
   </Dialog>
   <Dialog id="24" name="MND_024_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Весело подавати каву.[n]Піднімає {f 4 30 1 1 1 0 0} і [n] {f 4 30 2 1 1 0 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Із задоволенням подавати[n]каву. Підвищує[n]{f 4 30 1 1 0 0} і {f 4 30 2 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MND_025_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зріла кава, яка[n]одночасно гірка і солодка. [n]Піднімає {f 4 30 1 1 1 0 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гірко-солодка кава[n]з дорослим[n]смаком. Підвищує {f 4 30 1 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MND_026_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мої {f 4 30 1 1 1 0} і[n]{f 4 30 2 1 1 0} не можуть бути вищими...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівні характеристик «{f 4 30 1 1 1 0}»[n]і «{f 4 30 2 1 1 0}» уже не підвищаться...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MND_027_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 2 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MND_028_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені працювати тут неповний робочий день?..[n]{f 1 1}]]></Page>
