@@ -16,7 +16,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Опубліковані результати підсумкових іспитів[n]за другий семестр.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я набрав найвищий бал у своєму класі.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене найвищий бал на всій паралелі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я в першій десятці.[n]{f 1 1}]]></Page>
@@ -25,14 +25,14 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я отримав досить високий бал.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я набрав трохи вищий за середній.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мій бал трохи вищий за середній.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_009_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я ближче до кінця, ніж до початку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мій результат ближчий до найгірших, ніж до найкращих.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="SEL_010_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Подивитися результати другого року]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Подивитися результати третього року]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Результати другорічників]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Результати третьорічників]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вийти]]></Option>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
@@ -46,10 +46,10 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перестати дивитися]]></Option>
   </Dialog>
   <Dialog id="13" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі набрала вище середнього.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі набрала приблизно середній бал.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі набрала вище середнього.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Юкарі набрала приблизно середній бал.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Джюмпей набрав досить низький бал.[n]{f 1 1}]]></Page>
@@ -64,7 +64,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аїґіс набрала нижче середнього.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_019_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аїґіс не проходила тест.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аїґіс не складала іспиту.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="SEL_020_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру]]></Option>
