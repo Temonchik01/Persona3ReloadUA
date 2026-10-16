@@ -11,10 +11,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Мені сказали піти на четвертий поверх...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи повинен я повернутися до своєї кімнати?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Повернутися до своєї кімнати?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Повертись]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Повернутися]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Ще ні]]></Option>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
@@ -36,19 +36,19 @@
   </Dialog>
   <Dialog id="10" name="MND_010_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це список мешканців...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ім'я Джюмпея було додано до[n]списку жирними літерами.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ім’я Джюмпея[n]вписано жирними літерами.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це список мешканців...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ім'я Фууки написано[n]в списку красиво.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ім’я Фууки[n]вписано гарним почерком.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це список мешканців...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ім'я Аіґіс додано ідеально[n]надрукованим шрифтом.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ім’я Аїґіс вписано[n]ідеально рівними літерами.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_013_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це список мешканців...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Кен Амада» написано[n]повною канджі...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Кен Амада»[n]написано самими канджі...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це список мешканців...[n]{f 1 1}]]></Page>
@@ -69,7 +69,7 @@
   </Dialog>
   <Dialog id="18" name="MND_018_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це список мешканців...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Перераховані імена моїх друзів,[n]які присягнулися захищати майбутнє кожного з нас...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Остання битва, з якою ми зараз зіткнемося...[n]Я зроблю все, що в моїх силах, разом з ними...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут імена моїх друзів,[n]які поклялися захистити наше майбутнє...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Попереду остання битва... Я зроблю все,[n]що зможу, разом із ними...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
