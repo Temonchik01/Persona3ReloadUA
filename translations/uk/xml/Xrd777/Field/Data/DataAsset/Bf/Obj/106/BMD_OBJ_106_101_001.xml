@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_OBJ_106_101_001.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Xrd777\Field\Data\DataAsset\Bf\Obj\106\BMD_OBJ_106_101_001.uasset" dialogs="18">
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести день[n]молячись у храмі?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Провести день за[n]молитвою в храмі?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, я не отримаю[n]більше благословення...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, більшого благословення[n]вже не отримати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}お賽銭を入れようか…[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_030_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркан Помірності може[n]допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_003_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Запропонувати 100 єн]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Запропонувати 1,000 єн]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Запропонувати 10,000 єн]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пожертвувати 100 єн]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пожертвувати 1 000 єн]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пожертвувати 10 000 єн]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що можна зробити тут]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Молитися]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Нічого не робити]]></Option>
@@ -36,16 +36,16 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно... Мені треба[n]повертатися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_009_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Після того, як я зробив пожертву і[n]помолився, я відчуваю, що[n]отримав благословення на більший розум!..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Після пожертви й молитви[n]я відчув благословення, яке[n]зробить мене розумнішим!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені запропонувати 100 єн?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Пожертвувати 100 єн?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені запропонувати 1,000 єн?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Пожертвувати 1 000 єн?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені запропонувати 10,000 єн?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Пожертвувати 10 000 єн?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="SEL_014_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Так]]></Option>
@@ -53,7 +53,7 @@
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Поки що немає жодних ознак того, що моя молитва[n]була почута. Можливо, я спробую пізніше...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Поки що жодних ознак, що мою[n]молитву почули. Може, спробувати згодом...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_016_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Повітря навколо мене змінилось...[n]{f 1 1}]]></Page>
@@ -63,7 +63,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, мої молитви були почуті.[n]Треба повідомити Елізабет...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, Елізабет попросила[n]мене знайти 500-ієнову купюру,[n]відвідавши храм 100 разів...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що ж... Може варто помолитися перед тим, як йти...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Згадав: Елізабет просила знайти[n]банкноту в 500 єн,[n]відвідавши храм сто разів...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що ж... Може, помолитися, перш ніж іти?..[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
