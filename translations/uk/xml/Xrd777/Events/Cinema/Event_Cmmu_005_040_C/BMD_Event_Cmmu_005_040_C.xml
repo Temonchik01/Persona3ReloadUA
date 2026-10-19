@@ -10,11 +10,11 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}In just a short while, we'll be looking back on these days with nostalgia.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}What's next for you?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Did something happen?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}І що далі?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Щось сталось?]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Well...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}Ну...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 0 0 0 4 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_003_0_0" type="Message">
@@ -29,7 +29,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}It's possible I won't be going to college or starting a career. I may need to walk a different path.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_005_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Say, {f 4 1}...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Слухай, {f 4 1}...[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}What does marriage mean to you?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_006_0_0" type="Selection">
@@ -67,7 +67,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 24 0 0}{f 4 23 0 1 3 25 25}Am I... wrong about this?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="SEL_012_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Do you have a boyfriend?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}У тебе є хлопець?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}That's a tough one.]]></Option>
   </Dialog>
   <Dialog id="18" name="MSG_013_0_0" type="Message">
@@ -84,7 +84,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 0 0 0 29 0 0}{f 4 23 0 1 3 25 25}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}I lent an ear to Mitsuru...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я вислухав Міцуру...[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я відчуваю, що наші стосунки зміцнились...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_016_0_0" type="Message">
@@ -94,9 +94,9 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}{f 4 23 0 1 1 25 25}Talking in the library... I'm not setting a very good example as student council president.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_016_2_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}{f 4 23 0 1 0 25 25}We should go.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}{f 4 23 0 1 0 25 25}Нам слід іти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}We left the library and returned to the dorm.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Ми вийшли з бібліотеки та пішли до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
