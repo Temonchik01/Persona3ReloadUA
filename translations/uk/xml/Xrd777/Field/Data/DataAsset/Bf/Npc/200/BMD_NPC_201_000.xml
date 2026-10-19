@@ -4,20 +4,20 @@
     <Speaker id="0" rawBytes="4D 73 2E 20 54 6F 72 69 75 6D 69">Панна Торіумі</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15845 0 0}{f 5 21 1 201}Hurry, hurry, hurry! You can talk later![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 1 201}Hurry up and get to your rooms. I don't want to get yelled at for your behavior![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 4 -1 -1 0 0}{f 5 21 1 201}Yes? Do you not know which room you're in?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15845 0 0}{f 5 21 1 201}Хучіш, швидше, швидше! Наговоритеся потім![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 1 201}Хутко по кімнатах. Не хочу, щоб мені перепало через вашу поведінку![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 4 -1 -1 0 0}{f 5 21 1 201}Так? Не знаєш, у якій ти кімнаті?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не знаю.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I do know.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Знаю.]]></Option>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15813 0 0}{f 5 21 1 201}Umm, {f 4 1}-kun... To get to your room...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 1 201}Go up the stairs and turn right. Your room will be on the right-hand side at the end of the hall.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 1 201}Got it? Now go.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15813 0 0}{f 5 21 1 201}Ем-м, {f 4 1}... Щоб дістатися своєї кімнати...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 1 201}Піднімися сходами й поверни праворуч. Твоя кімната буде праворуч у кінці коридору.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 5 21 1 201}Зрозумів? Тоді йди.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15834 0 0}{f 5 21 1 201}Well, off you go, then. Hurry upstairs.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 1581 0 -1 -1 0 0}{f 3 1 3 0 -1 15834 0 0}{f 5 21 1 201}Ну, тоді вперед. Мерщій нагору.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
