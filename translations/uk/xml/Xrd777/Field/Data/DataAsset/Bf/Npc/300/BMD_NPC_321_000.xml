@@ -4,150 +4,150 @@
     <Speaker id="0" rawBytes="50 68 6F 6E 65 2D 41 64 64 69 63 74 65 64 20 53 74 75 64 65 6E 74">Учень, залежний від телефона</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}What do you want? I'm using my cell now.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Talk to me when I'm not busy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Чого тобі? Я зараз у телефоні.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Поговоримо, коли не буду зайнятий.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Whaddaya want? What, you've never seen a cell phone?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Чого тобі? Що, ніколи мобільного не бачив?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Of course I have.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Нє.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Звісно, бачив.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні.]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I thought so.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Я так і думав.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Really? I've never met anyone who didn't know what a cell phone was before.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Справді? Уперше зустрічаю когось, хто не знає, що таке мобільний.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Anyway, I'm busy.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Коротше, я зайнятий.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Man, the spammers these days annoy the crap out of me.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Whatever assholes send this junk to everyone, I hope they send them to prison.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Як же дістали ці спамери.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Хоч би тих покидьків, що всім цю гидоту розсилають, до в'язниці посадили.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}This is kinda random, but...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Isn't it a pain having to reply to messages from people you don't care about?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Може, не в тему, але...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Тебе не дратує відповідати на повідомлення людей, до яких тобі байдуже?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, it's a pain.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Oh, I don't think so.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так, дратує.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Та ні, не думаю.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_009_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Yeah, you got that right...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}От-от, саме так...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_010_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Sheesh, you're a patient one.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Ого, ну й терплячий ти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_011_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Oh yeah, that girl who passed out? I heard she was by herself when it happened.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Seems mysterious, doesn't it?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}А, та дівчина, що знепритомніла? Чув, вона тоді була сама.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Загадково, правда?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="SEL_012_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yeah, I agree.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ага, згоден.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не дуже.]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_013_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I know, right?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I don't really care about other people, but if it's a mystery like this, I get pumped.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Like I can't rest until I get to the bottom of it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Отож-бо.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Зазвичай мені до інших байдуже, але такі загадки мене захоплюють.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Не можу заспокоїтися, доки не докопаюся до правди.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_014_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Oh, okay.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}А, ясно.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_015_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Three days in a row, we've had students at this school passing out. It's a hell of a mystery.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'm itching to know more... I should try looking into it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Три дні поспіль у нашій школі хтось непритомніє. Оце загадка.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Аж кортить дізнатися більше... Треба розібратися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MSG_016_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I thought I could turn up some info, but I didn't find anything at all.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}All three passed out, but they were in different classes.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Different clubs, too.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}So my investigation isn't going very well.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Partly because all their friends were those thugs...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}And I obviously don't want to deal with them.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Думав, щось розкопаю, але зовсім нічого не знайшов.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Усі троє знепритомніли, але були з різних класів.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}І з різних гуртків теж.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Тож розслідування просувається не дуже.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Ще й усі їхні друзі — ті хулігани...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}А з ними я, звісно, зв'язуватися не хочу.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MSG_017_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'm getting bored of calling people up on my phone.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}It's fine for trying to kill my boredom, but to be honest, I've run out of stuff to talk about.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Coming up with new stuff to talk about is a pain, too... Ugh, this is such a buzzkill.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Набридло вже всім телефонувати.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Нудьгу так розігнати можна, але, чесно кажучи, теми для розмов уже скінчилися.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}І нові придумувати теж морока... Ух, ніякого задоволення.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MSG_018_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'm thinking about downloading games to my phone, but I don't know...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}They say it's cheap, but it all adds up.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Got any recommendations?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Думаю завантажити на телефон ігри, але не знаю...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Кажуть, дешево, та якщо все скласти, то сума набігає.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Щось порадиш?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_019_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Try a puzzle game.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Try a card game.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Try an RPG.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Спробуй головоломку.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Спробуй карткову гру.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Спробуй рольову гру.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Гадки не маю.]]></Option>
   </Dialog>
   <Dialog id="20" name="MSG_020_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Hmm... Okay, I'll try to remember that.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Гм... Гаразд, спробую запам'ятати.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_021_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Oh... Well, whatever.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}А... Ну й нехай.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_022_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}The admin of the site I'm checking out now is highly respected.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I guess they come off as charismatic? Y'know, having a unique username and everything.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Well, whatever. As long as the site itself is cool, I don't give a flip what kind of admin runs it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Адміна цього сайту, який я зараз переглядаю, дуже поважають.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Мабуть, він харизматичний? Ну, в нього такий незвичний нік і все таке.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Хоча байдуже. Аби сайт був класний, а що там за адмін — мені до лампочки.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MSG_023_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I heard there's a revenge website, but... the URL is top secret, right?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'm trying to figure it out, so I'm looking all over the web on my cell.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}There's a local thread that seems like it has a lot of info on the site.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}But it's all garbage info...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Чув, є сайт помсти, але... Його адресу ж тримають у таємниці, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Намагаюся знайти її, тому й нишпорю по інтернету з телефона.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}На місцевому форумі є тема, де наче багато інформації про той сайт.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Та все якесь сміття...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_024_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}My friend asked me for the URL of the revenge website, but I don't know it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}But even if I did, why would I tell anyone else?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'd just keep it to myself.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Друг питав у мене адресу сайту помсти, але я її не знаю.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Хоча навіть якби знав, навіщо ще комусь розповідати?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Залишив би собі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_025_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I tried out that card game for cell phones, but I couldn't get into it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}It wasn't hard to understand, it was just too simple.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Oh well... I'll try something else.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Спробував ту карткову гру на телефоні, але не зачепила.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Розібратися легко, просто сама гра надто проста.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Ну й нехай... Спробую щось інше.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_026_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Whaddaya want?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'm playing a shooter on my cell, so buzz off.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Чого тобі?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Я на телефоні в стрілянку граю, тож відчепися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_028_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Whaddaya want?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I'm playing an RPG on my cell, so buzz off.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Чого тобі?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Я на телефоні в рольову гру граю, тож відчепися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_027_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I tried out that shooter for cell phones, but I couldn't get into it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}It was too tough trying to dodge the bullets on that tiny screen.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Oh well... I'll try something else.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Спробував ту стрілянку на телефоні, але не зачепила.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}На такому крихітному екрані надто важко ухилятися від куль.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Ну й нехай... Спробую щось інше.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_029_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}RPGs aren't that bad on cell phones.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}One game lasts for a pretty long time, so I guess I'll play it a little while longer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Рольові ігри на телефоні доволі непогані.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Однієї надовго вистачає, тож, мабуть, пограю ще трохи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_030_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I was just playing that RPG on my cell, but I think I'm finally getting bored of it.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I hope there are more good ones...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Грав у ту рольову гру на телефоні, але, здається, нарешті набридла.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Сподіваюся, знайдуться ще якісь хороші...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_031_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}What do you want? I'm using my cell now.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}This season is so busy, I have to constantly call and message people...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}So talk to me some other time.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Чого тобі? Я зараз у телефоні.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Зараз стільки справ, постійно треба комусь дзвонити й писати...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Тож поговоримо іншим разом.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MSG_032_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I used to take a picture whenever I saw one of those Apathy Syndrome people.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I sent them to everyone on my contacts list, saying, "I found an Apathy Syndrome guy!"[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}But now, they're as common as oxygen. It's a pretty scary thing to get used to.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Is it going to go away someday, or are we stuck with it forever?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Раніше я фотографував кожного, кого бачив з апатичним синдромом.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Розсилав фото всім у контактах і писав: «Знайшов людину з апатичним синдромом!».[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}А тепер вони на кожному кроці. Страшно, що до такого звикаєш.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Це колись минеться чи тепер із нами назавжди?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MSG_033_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Oh man, this sucks... My friend is into that cult stuff.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}He keeps texting me these stupid-ass messages![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Like this one, where it just says "Nyx-sama" over and over...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}I've gotta figure out how to block his messages...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}От чорт, яка ж гидота... Мій друг захопився тією сектою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Тільки й шле мені свої дурнуваті повідомлення![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}От у цьому просто без кінця повторюється «Владичиця Нікс»...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 5 21 1 321}Треба розібратися, як заблокувати його повідомлення...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
