@@ -70,7 +70,7 @@
   </Dialog>
   <Dialog id="12" name="SEL_ENTER" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Fuse Personas]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Talk]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Поговорити]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Leave]]></Option>
   </Dialog>
   <Dialog id="13" name="MSG_EXIT_VELVET_1" type="Message">
@@ -441,19 +441,19 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 201 0 -1 -1 0 0}{f 3 1 3 0 7 109 0 0}But what Persona shall be born of your bonds...? I look forward to seeing it myself.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="100" name="MSG_GIFT_RAREMEDAL_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13222 202 0}It's as if your presence emanates a far brighter radiance than before. Perhaps all your hard work is starting to show.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Here. It may not be much, but this is my gift to you. Please accept it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13222 202 0}Ви ніби випромінюєте значно яскравіше сяйво. Мабуть, ваші зусилля починають давати плоди.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Ось. Невеличкий подарунок від мене. Будь ласка, прийміть.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="101" name="MSG_GIFT_RAREMEDAL_02" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13222 202 0}I can sense that the power growing within you stems from the bonds you have forged and nurtured since.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Here. It may not be much, but this is my gift to you. Please accept it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Ось. Невеличкий подарунок від мене. Будь ласка, прийміть.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="102" name="MSG_GIFT_RAREMEDAL_03" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13222 202 0}Even in the face of tremendous hardship, you continue to make great progress nonetheless.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}This is less of a reward and more of a gift from me to you. Please, take it.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13222 202 0}Бачу, ваше життя дуже насичене: ви і зміцнюєте зв’язки, і працюєте над собою.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}Це радше особистий подарунок, ніж нагорода. Будь ласка, візьміть.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="103" name="MSG_GIFT_RAREMEDAL_04" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13230 202 0}I still cannot foresee the limits of your potential... I look forward to witnessing you grow even further.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13230 202 0}Я досі не бачу меж вашого потенціалу... З нетерпінням чекатиму вашого подальшого розвитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="104" name="MSG_MIXRAID_ANNOUNCE_01" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 202 0 -1 -1 0 0}{f 3 1 3 0 -1 13201 202 0}Oh my... You appear to have gained a new power.[n]{f 1 1}]]></Page>
