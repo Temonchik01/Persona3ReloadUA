@@ -6,48 +6,48 @@
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3009 0 0}О, {f 4 1}.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}I came down to get a drink and got caught by Mitsuru... As you can see.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}Спустився по напій, а тут Міцуру мене впіймала... Сам бачиш.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4075 0 0}I'm not worried about Akihiko's grades. I'm more worried he'll run off and do some reckless training.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}And studying has the added benefit of preventing that possibility.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4075 0 0}Я не хвилююся за оцінки Акіхіко. Радше за те, щоб він не втік на якесь виснажливе тренування.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}А навчання заодно допомагає цьому запобігти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_002_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}{f 3 1 3 0 -1 3121 0 0}So here we are. Even though I'm mostly done studying for the exams...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 3 -1 -1 0 0}{f 3 1 3 0 -1 3121 0 0}От і сидимо тут. Хоч я вже майже підготувався до іспитів...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4062 0 0}Then, why don't you overlook {f 4 1}'s studies? That is, if he is able to join us.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 3 0 -1 4062 0 0}То чому б тобі не допомогти {f 4 1} з навчанням? Звісно, якщо він зможе приєднатися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}будь ласка.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}I'm good.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Буду вдячний.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Я сам упораюся.]]></Option>
   </Dialog>
   <Dialog id="5" name="MSG_005_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3113 0 0}All right... Sit down. I'll be your study coach.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3113 0 0}Гаразд... Сідай. Буду твоїм навчальним тренером.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_006_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3024 0 0}If you're doing fine on your own, great. Just let me know if you want some help.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3024 0 0}Якщо й сам упораєшся — чудово. Якщо знадобиться допомога — кажи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_007_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}What's wrong? Did you decide you want Akihiko's help after all?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Що сталося? Усе ж хочеш допомоги Акіхіко?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_007_1_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4136 0 0}What's wrong?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4136 0 0}Що таке?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_007_2_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Did you decide you want Akihiko's help after all?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}Усе ж хочеш допомоги Акіхіко?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="SEL_008_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Yes, please.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}No, I'm fine.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Так, будь ласка.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ні, я впораюся.]]></Option>
   </Dialog>
   <Dialog id="11" name="MSG_009_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3113 0 0}All right... Sit down. I'll be your study coach.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3113 0 0}Гаразд... Сідай. Буду твоїм навчальним тренером.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_010_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3024 0 0}Well, we'll be here for a while if you change your mind.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 3 0 -1 3024 0 0}Ми ще побудемо тут, тож звертайся, якщо передумаєш.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_Temperance" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркана Помірності може допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
