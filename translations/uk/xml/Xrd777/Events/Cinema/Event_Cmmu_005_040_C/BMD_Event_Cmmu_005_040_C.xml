@@ -4,10 +4,10 @@
     <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}You know, there's not much time left for us to spend like this...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Знаєш, нам залишилося не так багато часу, щоб проводити його ось так разом...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_1_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}In just a short while, we'll be looking back on these days with nostalgia.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 2 0 0}Ще трохи — і ми вже з ностальгією згадуватимемо ці дні.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}І що далі?]]></Option>
@@ -18,30 +18,30 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 0 0 0 4 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 4 5 5}No... I'm probably just tired. It's nothing you need to worry about.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 5 0 0}{f 5 13 4 5 5}Ні... Мабуть, я просто втомилася. Не варто про це турбуватися.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 0 0 0 6 0 0}{f 4 23 0 1 3 25 25}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MSG_004_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Since my father passed away, I've been faced with a number of complicated issues.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}My inheritance... the future of the Kirijo Group... and the expectations of everyone involved with both...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 7 0 0}Після смерті батька мені довелося зіткнутися з низкою складних проблем.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 8 0 0}Моя спадщина... Майбутнє «Групи Кіріджьо»... І сподівання всіх, хто пов’язаний із тим і іншим...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MSG_004_2_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}It's possible I won't be going to college or starting a career. I may need to walk a different path.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 1 0 0 9 0 0}Можливо, я не вступатиму до коледжу й не будуватиму кар'єру. Мені, мабуть, доведеться обрати інший шлях.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MSG_005_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 10 0 0}Слухай, {f 4 1}...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}What does marriage mean to you?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 11 0 0}Що для тебе означає шлюб?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SEL_006_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's all for love.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's a social agreement.]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}It's about compromise.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Кохання.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Суспільна домовленість.]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Пошуки компромісу.]]></Option>
   </Dialog>
   <Dialog id="9" name="MSG_007_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 13 4 15 5}Heh... That's a straightforward answer.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 12 0 0}{f 5 13 4 15 5}Хе-хе... Відповідь без зайвих слів.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MSG_008_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}However, I'm a Kirijo. I can't let my feelings tug me around when making these decisions.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 13 0 0}Однак я належу до родини Кіріджьо. Ухвалюючи такі рішення, я не можу дозволити почуттям брати гору.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 14 0 0}An agreement between two parties—such as marriage—takes careful consideration.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_009_0_0" type="Message">
