@@ -8,7 +8,7 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зачекай секунду.]]></Option>
   </Dialog>
   <Dialog id="1" name="MSG_DUNGE_FUKA_STOP" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 3 0 -1 5092 0 0}Ця тінь завелика для такого маленького загону. Ти можеш загинути![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 0 0}{f 3 1 3 0 -1 5092 0 0}Ця Тінь надто сильна для такого малого загону. Ви можете загинути![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MSG_DUNGE_FUKA_CONF" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 3 0 -1 5145 0 0}Гаразд... Ось воно.[n]{f 1 1}]]></Page>
