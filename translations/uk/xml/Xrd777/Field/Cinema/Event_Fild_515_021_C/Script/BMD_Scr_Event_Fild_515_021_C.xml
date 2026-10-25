@@ -12,7 +12,7 @@
     <Speaker id="8" rawBytes="53 68 69 6E 6A 69 72 6F 20 41 72 61 67 61 6B 69">Шінджіро Араґакі</Speaker>
   </Speakers>
   <Dialog id="0" name="SEL_MISSING" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Повернутися до входу]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Віднести до входу]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Попросити супровід]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Поки що нічого не робити]]></Option>
   </Dialog>
@@ -20,13 +20,13 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт виглядає досить незворушним.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_MISSING_CAT_REACT01" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт виглядає дуже спантеличеним.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт наче хмуриться.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_MISSING_CAT_REACT02" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт виглядає дуже спантеличеним.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_MISSING_CAT_REACT03" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт хоче мене вчепитися кігтями.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт, здається, ось-ось подряпає мене.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_MISSING_CAT_REACT04" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт виглядає умиротвореним.[n]{f 1 1}]]></Page>
@@ -38,7 +38,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Цей кіт, здається, ось-ось заплаче.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MSG_MISSING_CAT_RESCUE_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}{f 3 1 3 0 -1 5122 0 0}А? У такому місці, як це, є кошеня?..[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 6 -1 50 0 0}{f 3 1 3 0 -1 5122 0 0}Га? Кошеня в такому місці?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MSG_MISSING_CAT_RESCUE_1" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}У-У будь-якому разі, ми повинні його захистити. Будь ласка, негайно поверніться до входу![n]{f 1 1}]]></Page>
@@ -47,16 +47,16 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Зрозуміло. Я чекатиму на вас біля входу![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MSG_RESCUE_RESERVE_MEMBE" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}У такому випадку, будь ласка, зачекайте, доки до вас не прибуде супроводжуючий.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 50 0 0}{f 3 1 3 0 -1 5145 0 0}Тоді, будь ласка, зачекайте, доки хтось із загону прийде по нього.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MSG_RESCUE_YUKARI_00" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 50 0 0}{f 3 1 3 0 -1 1116 0 0}Вже йду. Зачекайте секунду.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MSG_RESCUE_JUNPEI_00" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 50 0 0}{f 3 1 3 0 -1 2117 0 0}Іііі ось мій вихід! Тримайся![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 50 0 0}{f 3 1 3 0 -1 2117 0 0}І-і-і ось мій вихід! Тримайтеся![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MSG_RESCUE_SANADA_00" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 50 0 0}{f 3 1 3 0 -1 3085 0 0}Я вже виїжджаю. Зачекай, я скоро буду.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 50 0 0}{f 3 1 3 0 -1 3085 0 0}Уже вирушаю. Зачекайте, скоро буду.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MSG_RESCUE_MITURU_00" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 50 0 0}{f 3 1 3 0 -1 4115 0 0}Тоді я піду. Зачекай ще трохи.[n]{f 1 1}]]></Page>
@@ -77,7 +77,7 @@
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 50 0 0}{f 3 1 3 0 -1 9107 0 0}Зачекай, я швидко.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MSG_RESCUE_YUKARI_10" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1025 0 0}Вибачте, що змусив вас чекати. Решту можете залишити мені.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 2 1 -1 -1 0 0}{f 3 1 3 0 -1 1025 0 0}Вибач, що довелося чекати. Решту залиш мені.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MSG_RESCUE_JUNPEI_10" type="Message">
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 1 -1 -1 0 0}{f 3 1 3 0 -1 2029 0 0}Гаразд, я вже тут! Дозвольте мені подбати про це, а ви йдіть![n]{f 1 1}]]></Page>
@@ -86,7 +86,7 @@
     <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 1 -1 -1 0 0}{f 3 1 3 0 -1 3023 0 0}Вибачте, що змусив чекати. Решту можете залишити мені. Я подбаю про нього.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="24" name="MSG_RESCUE_MITURU_10" type="Message">
-    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4112 0 0}Вибачте за затримку. Я простежу, щоб цей кіт безпечно доставили назад.[n]{f 1 1}]]></Page>
+    <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4112 0 0}Вибачте за затримку. Я простежу, щоб кота безпечно доправили назад.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_RESCUE_FUKA_10" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}未使用[n]{f 1 1}]]></Page>
@@ -95,24 +95,24 @@
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 3 0 -1 6020 0 0}Дякую за ваше терпіння. Будь ласка, дозвольте мені з цим розібратися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_RESCUE_AMADA_10" type="Message">
-    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7116 0 0}Вибачте, що змусив вас чекати. Я простежу, щоб цей кіт повернулася цілим і неушкодженим![n]{f 1 1}]]></Page>
+    <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 8 0 -1 -1 0 0}{f 3 1 3 0 -1 7116 0 0}Фух, вибач, що довелося чекати. Простежу, щоб кошеня повернулося цілим і неушкодженим![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_RESCUE_KOROMARU_10" type="Message">
     <Page spk="0007"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 9 0 -1 -1 0 0}{f 3 1 3 0 -1 8012 0 0}Гав! Гав![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MSG_RESCUE_ARAGAKI_10" type="Message">
-    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9010 0 0}Йо, Вибачте, що змусив чекати. Я розберуся з цим.[n]{f 1 1}]]></Page>
+    <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 10 0 -1 -1 0 0}{f 3 1 3 0 -1 9010 0 0}Йо, вибач, що довелося чекати. Далі я сам розберуся.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MSG_RESCUE_KOROMARU_01" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}О, здається, Коро зголосилася піти! Що ж, тоді ми розраховуємо на тебе, Коро.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}{f 3 1 3 0 -1 5025 0 0}О, здається, Коро зголосився піти! Тоді розраховуємо на тебе, Коро.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MSG_RESCUE_KOROMARU_11" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Схоже, він благополучно дістався туди. Молодець, Коро! Будь ласка, поверни кошення швидше назад![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 50 0 0}Схоже, він безпечно дістався. Молодець, Коро! Швидше приведи кошеня назад![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_MISSING_CAT_REWARD" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Кіт запропонував мені щось, що тримав[n]у роті. Може, це подарунок на знак подяки?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MND_MISSING_CAT_REWARD_2" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Воно трохи сире, але я[n]думаю, що воно мені ще знадобиться.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Трохи вологе, але, гадаю, ще згодиться.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>
