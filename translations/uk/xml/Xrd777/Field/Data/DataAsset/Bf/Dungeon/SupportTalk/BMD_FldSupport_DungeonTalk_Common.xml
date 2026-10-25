@@ -354,7 +354,7 @@
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5668 0 0}Ця штука поверне нас до входу. Повертаєшся?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="114" name="AST_DNG_GENERAL_02_003_2" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5011 0 0}Це приведе нас до входу. Повернемося назад...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5011 0 0}Це приведе нас до входу. Повернемося назад?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="115" name="AST_DNG_GENERAL_05_003_2" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5223 0 0}Такеба сильно виснажена. Можливо, нам варто повернутися.[n]{f 1 1}]]></Page>
@@ -669,10 +669,10 @@
     <Page spk="0008"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5691 0 0}...Found a Shadow.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="219" name="AST_DNG_GENERAL_02_011_2" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5035 0 0}Хіба цей не виглядає досить сильним...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5035 0 0}Хіба цей не виглядає досить сильним?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="220" name="AST_DNG_GENERAL_02_011_2" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5036 0 0}Хіба цей не виглядає досить сильним...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5036 0 0}Хіба цей не виглядає досить сильним?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="221" name="AST_DNG_GENERAL_03_011_2" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5111 0 0}Ех... Ця виглядає як суцільні неприємності.[n]{f 1 1}]]></Page>
@@ -1041,7 +1041,7 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5349 0 0}Лідере, твоє здоров'я!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="343" name="AST_DNG_GENERAL_06_022_1" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5350 0 0}Leader, your health...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5350 0 0}Leader, your health!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="344" name="AST_DNG_GENERAL_05_022_2" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5276 0 0}Такебо, ти в порядку?[n]{f 1 1}]]></Page>
@@ -1080,7 +1080,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5122 0 0}Вибач, не допоможеш братану?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="356" name="AST_DNG_GENERAL_06_022_3" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5353 0 0}Я хвилююся за здоров'я Джюмпея...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5353 0 0}Я хвилююся за здоров'я Джюмпея!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="357" name="AST_DNG_GENERAL_03_022_3" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5123 0 0}Здається, у мене проблеми...[n]{f 1 1}]]></Page>
@@ -1089,7 +1089,7 @@
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5124 0 0}Це?.. Це просто подряпина.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="359" name="AST_DNG_GENERAL_06_022_3" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5354 0 0}I'm worried about Junpei-kun's health...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5354 0 0}I'm worried about Junpei-kun's health!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="360" name="AST_DNG_GENERAL_03_022_3" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5125 0 0}Ух, справи йдуть не дуже добре.[n]{f 1 1}]]></Page>
@@ -1290,7 +1290,7 @@
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5268 0 0}Ех, я не можу здатися тут...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="426" name="AST_DNG_GENERAL_06_023_6" type="Message">
-    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5377 0 0}В Аїґіс залишилося не так багато витривалості...![n]{f 1 1}]]></Page>
+    <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5377 0 0}В Аїґіс залишилося не так багато витривалості!..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="427" name="AST_DNG_GENERAL_07_023_6" type="Message">
     <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5488 0 0}...У мене можуть виникнути труднощі з використанням моєї Персони.[n]{f 1 1}]]></Page>
@@ -1524,10 +1524,10 @@
     <Page spk="0002"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5339 0 0}Жнець з'явився! Будьте обережні, всі![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="504" name="AST_DNG_GENERAL_02_030_4" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5028 0 0}Боже, що ж нам робити!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5028 0 0}Боже, що ж нам робити?![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="505" name="AST_DNG_GENERAL_02_030_4" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5029 0 0}Боже, що ж нам робити!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5029 0 0}Боже, що ж нам робити?![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="506" name="AST_DNG_GENERAL_03_030_4" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 2 0 1 5102 0 0}Бляха, що робити?[n]{f 1 1}]]></Page>
