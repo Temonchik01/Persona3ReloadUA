@@ -4,15 +4,15 @@
     <Speaker id="0" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Sorry to drag you along on this personal venture.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 1 0 0 1 0 0}Вибач, що втягнула тебе у свої особисті справи.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_000_1_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 3 -1 -1 0 0}{f 3 1 0 0 0 2 0 0}......[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_001_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Looking for something specific?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Шукаєш щось конкретне?]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Need some help?]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Borrowing a book?]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Хочеш узяти книжку?]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_002_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 1 -1 -1 0 0}{f 3 1 1 0 0 3 0 0}{f 5 13 4 5 5}No, not exactly. But thank you.[n]{f 1 1}]]></Page>
