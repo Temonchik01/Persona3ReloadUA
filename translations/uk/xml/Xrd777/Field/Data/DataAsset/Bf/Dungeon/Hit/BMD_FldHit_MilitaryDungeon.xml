@@ -3,14 +3,14 @@
   <Speakers>
     <Speaker id="0" rawBytes="46 75 75 6B 61 20 59 61 6D 61 67 69 73 68 69">Фуука Ямаґіші</Speaker>
     <Speaker id="1" rawBytes="44 69 61 72 79 20 54 65 78 74">Текст щоденника</Speaker>
-    <Speaker id="2" rawBytes="4A 6F 75 72 6E 61 6C 20 54 65 78 74">Текст журнала</Speaker>
+    <Speaker id="2" rawBytes="4A 6F 75 72 6E 61 6C 20 54 65 78 74">Текст журналу</Speaker>
     <Speaker id="3" rawBytes="41 69 67 69 73">Аїґіс</Speaker>
     <Speaker id="4" rawBytes="41 6B 69 68 69 6B 6F 20 53 61 6E 61 64 61">Акіхіко Санада</Speaker>
     <Speaker id="5" rawBytes="4A 75 6E 70 65 69 20 49 6F 72 69">Джюмпей Іорі</Speaker>
     <Speaker id="6" rawBytes="4D 69 74 73 75 72 75 20 4B 69 72 69 6A 6F">Міцуру Кіріджьо</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_DUNGE_FUKA_B2FKAISI" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10069 0 0}Я відчуваю ціль за два блоки попереду тебе![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10069 0 0}Відчуваю ціль за дві ділянки попереду вас![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10070 0 0}Здається, вона повільно рухається вниз.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10071 0 0}Не дайте їй втекти![n]{f 1 1}]]></Page>
   </Dialog>
@@ -28,7 +28,7 @@
   </Dialog>
   <Dialog id="3" name="MSG_DUNGE_FUKA_B5FKAISI" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10080 0 0}Ціль зупинилася![n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10081 0 0}Вона розвернулася! Чекає на нас через один блок![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10081 0 0}Вона розвернулася! Чекає на нас за одну ділянку звідси![n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 1 10082 0 0}Будьте обережні![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_DUNGE_FUKA_B1FNOTFUL" type="Message">
@@ -41,7 +41,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Цей скелет колись був людиною.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_DUNGE_B2FRU_COBWEB" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Над коробками[n]розтягнулася павутини...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Над коробками тягнеться павутина...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_DUNGE_B2FLD_CAMPIN" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже на консерви.[n]{f 1 1}]]></Page>
@@ -62,9 +62,9 @@
   </Dialog>
   <Dialog id="13" name="MSG_DUNGE_B2F_SKELETON_0" type="Message">
     <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Ми працювали до крові на пальцях, сподіваючись захистити нашу країну... захистити мою родину...»[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Ми зазнали поразки.»[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Але хоча спокуса піддатися відчаю дуже сильна, ми не можемо собі дозволити таку розкіш.»[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Небо може закипіти багряним, але ми будемо наполегливо боротися.»[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Ми зазнали поразки».[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Хоч як кортить піддатися відчаю, ми не можемо дозволити собі такої розкоші».[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}«Хай небо палає багрянцем, ми вистоїмо».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_DUNGE_B2F_SENSYAPART" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут зберігаються стоси важкої артилерії...[n]{f 1 1}]]></Page>
@@ -106,13 +106,13 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 3 -1 50 0 0}{f 3 1 1 0 1 10073 0 0}Здається, це була якась зброярня під час війни.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="25" name="MSG_DUNGE_AEGIS_B21F_01" type="Message">
-    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 1 20667 0 0}Ці сліди... Вони нові.[n]{f 1 1}]]></Page>
+    <Page spk="0003"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 7 0 -1 -1 0 0}{f 3 1 1 0 1 20667 0 0}Ці сліди гусениць... Свіжі.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MSG_DUNGE_SANADA_B21F_01" type="Message">
     <Page spk="0004"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 4 0 -1 -1 0 0}{f 3 1 1 0 1 20665 0 0}Ці сліди на землі зроблені нещодавно...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="MSG_DUNGE_JUNPEI_B21F_01" type="Message">
-    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 1 20664 0 0}Гм? Чому, в біса, тут є сліди?[n]{f 1 1}]]></Page>
+    <Page spk="0005"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 3 0 -1 -1 0 0}{f 3 1 1 0 1 20664 0 0}Га? Звідки тут, у біса, сліди гусениць?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MSG_DUNGE_MITSURU_B21F_0" type="Message">
     <Page spk="0006"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 5 0 -1 -1 0 0}{f 3 1 3 0 -1 4067 0 0}Вони можуть належати нашій цілі... Давайте стежити за ними.[n]{f 1 1}]]></Page>
@@ -127,12 +127,12 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я ніколи не бачив нічого подібного...[n]Треба поки що притримати його у себе.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_DUNGE_ML_MEDAL_GET_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що це на землі?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На столі щось лежить.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="MND_DUNGE_ML_MEDAL_GOT_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я такого ще не бачив...[n]Поки що залишу це собі.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="34" name="MND_DUNGE_B3F_SKELETON2_" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Біля скелета лежить щоденник[n]із висохлим замком.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Що це за документи?[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

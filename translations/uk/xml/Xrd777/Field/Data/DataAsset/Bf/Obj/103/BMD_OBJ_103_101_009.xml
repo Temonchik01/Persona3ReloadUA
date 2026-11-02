@@ -4,13 +4,13 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Ігровий Парад»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_201_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Змагайтеся у[n]змагальній грі-вікторині.[n]Піднімає {f 4 30 0 1 0 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Позмагатися у[n]вікторині. Підвищує[n]{f 4 30 0 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_202_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Симулятор побачень, що вчить[n], як доглядати за дамою.[n]Піднімає {f 4 30 1 1 0 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Симулятор побачень,[n]що вчить залицятися. Підвищує {f 4 30 1 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_203_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гра жахів з[n]жахливими зомбі.[n]Піднімає {f 4 30 2 1 0 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Моторошна гра[n]про зомбі.[n]Підвищує {f 4 30 2 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_204_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Запекла боксерська гра.[n]Піднімає {f 0 1 34}Силу{f 0 1 27} Персони.[n]{f 1 1}]]></Page>
@@ -25,7 +25,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Ігровий Парад»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_001_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Різноманітні аркадні ігри всередині...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усередині різні аркадні автомати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_002_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день?..[n]{f 1 1}]]></Page>
@@ -38,42 +38,42 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="12" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що мені не доведеться[n]чекати в черзі, щоб пограти...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, сьогодні можна[n]пограти без черги...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="SEL_006_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Вища школа молоді {f 4 26 2 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Панч-боксер {f 4 26 4 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Будинок покійника {f 4 26 3 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Справжній гонщик на колесах {f 4 26 5 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти - відповідь {f 4 26 1 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Ти — відповідь {f 4 26 1 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Будинок фортуни Едгара {f 4 26 6 0}]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_010_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 1 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 1 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно пограти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_011_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_012_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 2 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно пограти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 0 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 0 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно пограти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MND_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Екіпірована Персона більше не[n]може збільшувати{f 0 1 34}Силу{f 0 1 27}...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сила поточної Персони[n]вже {f 0 1 34}не зростатиме{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно пограти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Екіпірована Персона більше не[n]може збільшувати{f 0 1 34}Спритність{f 0 1 27}...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Спритність поточної Персони[n]вже {f 0 1 34}не зростатиме{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно пограти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_016_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Екіпірована Персона більше не[n]може збільшувати{f 0 1 34}Магію{f 0 1 27}...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені продовжувати грати в гру?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Магія поточної Персони[n]вже {f 0 1 34}не зростатиме{f 0 1 27}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно пограти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MND_033_0_0" type="Message"/>
   <Dialog id="22" name="MND_034_0_0" type="Message"/>
@@ -85,6 +85,6 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Мені треба йти до Тартару...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="28" name="MND_040_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркан Помірності може[n]допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

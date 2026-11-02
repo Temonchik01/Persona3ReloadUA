@@ -78,14 +78,14 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}We'll always be friends.]]></Option>
   </Dialog>
   <Dialog id="18" name="MSG_015_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 1 0}{f 3 1 0 0 0 30 0 0}{f 5 13 3 15 6}...!?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 4 -1 -1 1 0}{f 3 1 0 0 0 30 0 0}{f 5 13 3 15 6}!..?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="SEL_016_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}We'll be together forever.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}I'll treat you right.]]></Option>
   </Dialog>
   <Dialog id="20" name="MSG_017_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Yes...![n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 31 0 0}Yes!..[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 32 0 0}No matter what happens, I'll be by your side.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 33 0 0}As long as I have you, {f 4 1}-kun, I feel like I can handle anything.[n]{f 1 1}]]></Page>
   </Dialog>
@@ -164,7 +164,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 1 -1 -1 0 0}{f 3 1 1 0 0 60 0 0}Do you think I could leave the seasoning to you?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="40" name="MSG_034_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 61 0 0}Hmm, what would be good...?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 61 0 0}Hmm, what would be good?..[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 62 0 0}I'm thinking I should try something people don't usually cook every day.[n]{f 1 1}]]></Page>
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 4 5 6 0 -1 -1 0 0}{f 3 1 1 0 0 63 0 0}Maybe Japanese cuisine? Or French?[n]{f 1 1}]]></Page>
   </Dialog>

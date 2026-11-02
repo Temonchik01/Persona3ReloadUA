@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <BMD source="BMD_DataInheritance.uasset" sourcePath="D:\Modding\Reloaded 2\Mods\p3r.asset.ukrainian\tools\dds_l10n\source\Astrea\UI\DataInheritance\BMD_DataInheritance.uasset" dialogs="12">
   <Dialog id="0" name="SYS_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}A portion of your existing save data can be carried over when starting.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У режимі «Нова гра+» можна перенести частину вмісту з даних проходження до нової гри.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="SYS_001_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}By carrying over save data, you'll be able to use any costumes you've previously obtained, as well as your Persona Compendium.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Note that your Persona Compendium data won't be able to be used on the highest difficulty, {f 0 1 2}Heartless{f 0 1 27}.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Furthermore, you will not be able to carry over save data later or redo the carryover using a different save.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}До нової гри переноситься наведений нижче вміст ({f 0 1 2}позначене червоним переноситься завжди{f 0 1 27}):[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}- Персони[n]- Компендіум Персон[n]- Дані аналізу[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}- Характеристики[n]- Соціальні характеристики[n]- Рівень головного героя[n]- Приріст ОЗ/ОД головного героя, отриманий поза підвищенням рівня[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SYS_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}Carry over save data?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Перенести дані проходження?[n]{f 1 4 1}{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SYS_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Costumes have been carried over.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Починаємо нову гру з перенесеними даними проходження.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SYS_004_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}Carry over save data?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Дані проходження не буде перенесено. Продовжити?[n]{f 1 4 1}{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="SYS_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Starting new game with save data carried over.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Починаємо нову гру без перенесення даних проходження.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="SYS_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}Your save data will not be carried over.[n]{f 1 5 0}Proceed?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На {f 0 1 2}безжалісній{f 0 1 27} складності переноситься лише такий вміст:[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SYS_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Episode Aigis -The Answer- takes place after the events of Persona 3 Reload.[n]{f 1 5 0}It is recommended to reach its conclusion before continuing.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}- {f 0 1 2}Усі костюми, крім уніформи СПВЗ{f 0 1 27}[n]- {f 0 1 2}Деякі сувеніри від персонажів{f 0 1 27}[n]- {f 0 1 2}Час гри{f 0 1 27}[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}Begin Episode Aigis -The Answer-?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="SYS_008_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Episode Aigis -The Answer- takes place after the events of Persona 3 Reload.[n]{f 1 5 0}It is recommended to reach its conclusion before continuing.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Продовжити на {f 0 1 2}безжалісній{f 0 1 27} складності?[n]{f 1 4 1}{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}{f 1 4 1}Begin Episode Aigis -The Answer-?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="SYS_009_0_0" type="Message">

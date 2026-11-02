@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class FullBuildScript(unittest.TestCase):
-    def fixture(self, folder, failure):
+    def fixture(self, folder, failure, flags=(), choice=None):
         root = Path(folder)/'project with spaces'
         scripts = root/'dev/scripts/linux'; scripts.mkdir(parents=True)
         shutil.copyfile(ROOT/'dev/scripts/linux/build_mod.sh', scripts/'build_mod.sh')
@@ -19,6 +19,8 @@ class FullBuildScript(unittest.TestCase):
         for p in ('translations/uk/xml/a.xml','translations/uk/dt_xml/a.xml'):
             (root/p).write_text('<root/>')
         (root/'texture/dds/a.dds').write_bytes(b'DDS ')
+        cache = root/'dev/tools/dds_l10n/texture_cache.py'
+        cache.write_text("from pathlib import Path\ndef precompile(root):\n with (Path(root)/'order').open('a') as f: f.write('png\\n')\n" + (" raise RuntimeError('conversion failed')\n" if failure=='png' else ''))
         bin_dir = root/'test-bin'; bin_dir.mkdir()
         for command in ('dotnet','wine','winepath','timeout','prlimit'):
             p = bin_dir/command; p.write_text('#!/bin/sh\nexit 0\n'); p.chmod(0o755)
@@ -45,8 +47,18 @@ EOF
 echo "Completed: THREE mod files in $root/dist/test/mod"''')
         env = dict(os.environ, PATH=str(bin_dir)+os.pathsep+os.environ['PATH'],
                    P3R_DIAGNOSTIC_ASSETS_FILE='must-be-unset')
-        result = subprocess.run(['bash', str(scripts/'build_mod.sh')], env=env,
-                                capture_output=True, text=True, timeout=15, cwd='/tmp')
+        import pty
+        master = slave = None
+        try:
+            if choice is not None:
+                master, slave = pty.openpty()
+                os.write(master, (choice+'\n').encode())
+            result = subprocess.run(['bash', str(scripts/'build_mod.sh'), *flags], env=env,
+                                    stdin=slave if slave is not None else subprocess.DEVNULL,
+                                    capture_output=True, text=True, timeout=15, cwd='/tmp')
+        finally:
+            if master is not None: os.close(master)
+            if slave is not None: os.close(slave)
         return root, result
 
     def test_success_order_and_three_files(self):
@@ -70,6 +82,25 @@ echo "Completed: THREE mod files in $root/dist/test/mod"''')
             self.assertEqual(r.returncode,17)
             self.assertEqual((root/'order').read_text().splitlines(),['tool','dt','bmd'])
             self.assertIn('3/5 — Імпорт BMD XML',r.stderr)
+
+    def test_terminal_choice_one_converts_before_build(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root,r=self.fixture(folder,None,choice='1')
+            self.assertEqual(r.returncode,0,r.stdout+r.stderr)
+            self.assertEqual((root/'order').read_text().splitlines(),['png','tool','dt','bmd','dds','pack'])
+
+    def test_terminal_enter_skips_conversion(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root,r=self.fixture(folder,None,choice='')
+            self.assertEqual(r.returncode,0,r.stdout+r.stderr)
+            self.assertEqual((root/'order').read_text().splitlines(),['tool','dt','bmd','dds','pack'])
+
+    def test_explicit_conversion_failure_stops_before_build(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root,r=self.fixture(folder,'png',flags=['--convert-png'])
+            self.assertNotEqual(r.returncode,0)
+            self.assertEqual((root/'order').read_text().splitlines(),['png'])
+            self.assertIn('png-precompile.log',r.stderr)
 
 
 if __name__=='__main__':unittest.main()

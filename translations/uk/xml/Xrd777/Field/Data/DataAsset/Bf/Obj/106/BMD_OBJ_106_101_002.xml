@@ -4,22 +4,22 @@
     <Speaker id="0" rawBytes="4D 79 73 74 65 72 69 6F 75 73 20 56 6F 69 63 65">Загадковий голос</Speaker>
   </Speakers>
   <Dialog id="0" name="MND_000_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На вивісці написано: «Ворожильна[n]скринька на ремонті.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На табличці написано: «Скриньку[n]з пророцтвами ремонтують».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MND_001_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На вивісці написано: «Фортуна[n]стосунків - 100 єн»...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Але на сьогодні квитки закінчилися.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На табличці написано: «Пророцтво[n]про стосунки — 100 єн»...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}...Але на сьогодні пророцтва скінчилися.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На вивісці написано: «Фортуна[n]стосунків - 100 єн»...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На табличці написано: «Пророцтво[n]про стосунки — 100 єн»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені провести тут день[n]і витягнути фортуну?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Провести тут день[n]і витягнути пророцтво?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="SEL_004_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Витягнути фортуну]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Витягнути пророцтво]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Перевірити, що можна зробити тут]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Не витягуйте]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Не витягувати]]></Option>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене немає 100 єн...[n]{f 1 1}]]></Page>
@@ -28,7 +28,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Про кого мені думати?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="MND_007_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Немає нікого, з ким я відчуваю, що міг[n]би поглибити свій зв'язок...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Поки що немає нікого, з ким[n]я міг би зміцнити зв’язок...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я чую божественне послання...[n]{f 1 1}]]></Page>
@@ -40,53 +40,53 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогоднішня удача...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна каже: «Вам буде неабияк щастити.»[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Гроші також можуть бути в твоєму майбутньому.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У пророцтві написано: «На вас чекає удача».[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Можливі й грошові надходження».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я знайшов у кишені зім'яту[n]купюру в 1000 єн![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="13" name="MND_013_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна каже: «Вам[n]трохи пощастить.»[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Вам не буде щаститм або[n]не пощастить з грошима.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У пророцтві написано: «На[n]вас чекає невелика удача».[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«У грошових справах —[n]ані удачі, ані невдачі».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я знайшов у кишені монету в 500 єн![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна каже: «Вам не пощастить.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У пророцтві написано: «На вас чекає невдача».[n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Будьте обережні з грошима.»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_016_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що сталося з усіма моїми грошима...?![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Куди поділися всі мої гроші?..![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_017_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гей... 1,000 єн щойно випала з[n]моєї кишені і улітела![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гей... Банкнота в 1 000 єн[n]випала з кишені й полетіла за вітром![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MND_018_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна каже: «На вас чекає велика удача!»[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«У тебе не буде фінансових турбот.»[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У квитку є {f 4 4 1 37 1 0}![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У пророцтві написано: «На вас чекає велика удача!»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Грошові турботи вам не загрожують».[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Разом із пророцтвом я отримав {f 4 4 1 37 1 0}![n]{f 1 1}]]></Page>
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я отримав {f 4 4 1 37 1 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="19" name="MND_019_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я знайшов у кишені зім'яту[n]купюру в 10,000 єн![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я знайшов у кишені зім'яту[n]купюру в 10 000 єн![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_020_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна каже: «Вам[n]не пощастить...»[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Ви прямуєте до фінансової катастрофи.»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У пророцтві написано: «На[n]вас чекає невдача...»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«На вас насувається фінансова катастрофа».[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="21" name="MND_021_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}......[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гей... 5,000 єн щойно випали[n]з моєї кишені і улетіли![n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Гей... Банкнота в 5 000 єн[n]випала з кишені й полетіла за вітром![n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="22" name="MND_022_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я витягнув свою фортуну. Сподіваюся,[n]я зможу зміцнити свій зв'язок...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я витягнув пророцтво. Сподіваюся,[n]це допоможе зміцнити наш зв’язок...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="23" name="MND_023_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я раптом відчув себе ближчим до {f 2 4 0}...[n]{f 1 1}]]></Page>
@@ -98,46 +98,46 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я раптом відчув себе ближчим до[n]Бункічі й Міцуко...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="26" name="MND_023_1_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Фортуна[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Пророцтво[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="27" name="SEL_024_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Юкарі Такеба{f 4 27 2 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Фуука Ямаґіші{f 4 27 6 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Міцуру Кіріджьо{f 4 27 5 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Аіґіс{f 4 27 7 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Аїґіс{f 4 27 7 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Менеджерка команди{f 4 27 106 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Скарбниця{f 4 27 109 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Скарбниця учнівської ради{f 4 27 109 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Однокласник{f 4 27 101 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Учнівська рада{f 4 27 102 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Спортивний гурток{f 4 27 105 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Художний гурток{f 4 27 108 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Художній гурток{f 4 27 108 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Учень-іноземець{f 4 27 112 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Стара пара{f 4 27 103 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Літнє подружжя{f 4 27 103 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Суперник-спортсмен{f 4 27 115 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Дівчинка біля храму{f 4 27 110 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Вмираючий юнак{f 4 27 117 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Смертельно хворий юнак{f 4 27 117 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Король гурманів{f 4 27 116 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Бізнесмен{f 4 27 113 0}]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Незвичайний монах{f 4 27 114 0}]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Онлайн гра{f 4 27 107 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Онлайн-гра{f 4 27 107 0}]]></Option>
   </Dialog>
   <Dialog id="28" name="MND_025_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Не думаю, що є сенс ворожити[n]на цю долю...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Не думаю, що зараз[n]є сенс витягувати пророцтво...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="29" name="MND_026_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Вже пізно... Мені треба[n]повертатися до гуртожитку.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="30" name="MND_027_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я буду думати про {f 2 4 0},[n]коли тягнутиму фортуну...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Витягуючи пророцтво,[n]думатиму про {f 2 4 0}...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="31" name="MND_060_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я буду думати про монаха, коли тягнутиму фортуну...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Витягуючи пророцтво, думатиму про монаха...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="32" name="MND_068_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я буду думати про стару пару,[n]коли тягнутиму фортуну...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Витягуючи пророцтво, думатиму[n]про літнє подружжя...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="33" name="SEL_028_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Витягнути фортуну]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Витягнути пророцтво]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="34" name="MND_029_0_0" type="Message">

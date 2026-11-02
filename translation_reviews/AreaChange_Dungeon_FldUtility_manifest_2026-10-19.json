@@ -1,0 +1,275 @@
+{
+  "files_audited": 69,
+  "nodes_audited": 6102,
+  "files_changed": 44,
+  "nodes_changed": 530,
+  "f_command_repairs": 12,
+  "cr_repairs": 8,
+  "remaining_english": 1847,
+  "files": [
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/AreaChange/BMD_f102_101.xml",
+      "before_sha256": "4854d4b0ac86b073e15d4e381166b44c32ac03e60fa56cb499402d9907c68821",
+      "after_sha256": "be9a92c348ca7dfe64b9c2536605b3183a04adad35ea81bed62a63f7f915d7ca",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/AreaChange/BMD_f102_102.xml",
+      "before_sha256": "07ad2ac114fe0137db74e4644d75986d4505d76638826d848b6e5fae7fb77732",
+      "after_sha256": "cbcc96e36f68d6d1d0e52686197870a7d364cd426db4563b3d3a8fec0e601c85",
+      "changes": 4
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/BattleEnd/BMD_Fld_BattleEnd.xml",
+      "before_sha256": "5af0e9c561d4d410aa9c5fd9a9efb355eb5c49c37763bd444f5c5b2ff8752c8c",
+      "after_sha256": "0a6465f34ed232e6e1ec58973463c86de4fe24266893f04a46b11a362a7087c7",
+      "changes": 12
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Aegis.xml",
+      "before_sha256": "f3d474ab4c3565a84a20ed48a6c9b47bb0940dc958558cb5001a4e2ce8946de5",
+      "after_sha256": "b639d42d40f5cfa90162f10e7229a10611d73f9a75f7b7dfcd9f3723e461f5da",
+      "changes": 26
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Amada.xml",
+      "before_sha256": "27c370c2048803b8e3937676769d70b7ca72307110210e1d9f37429f4be8ffa0",
+      "after_sha256": "9c8cdf4e3f9a2f0a27e8fb3ad2214ecbc448ce7124f362d44e801375be02cf6a",
+      "changes": 23
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Another.xml",
+      "before_sha256": "208cb169550d50d95e3977b6672f8a871c25cdddf948f4dff26bfb7127eed56b",
+      "after_sha256": "d8e6bd2fd371138ddee187b5afa9ae0e102f87d38333e57bc5e5025fcff2dde2",
+      "changes": 5
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Aragaki.xml",
+      "before_sha256": "ff4fe828f19af8191e97e787c2c85caa33709dfc35fa6ef0e4a9775e7cc89680",
+      "after_sha256": "a4f292ace7fd220e14acff4ddfb29c6b9db92af5877bb00bb2a54393ac999362",
+      "changes": 9
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Fuka.xml",
+      "before_sha256": "f639608fba5fd9d866d5514f68416750ce648f6743c8fd3ae4eeb9a4f4fac3f6",
+      "after_sha256": "fe1cd69a78640928ca67effc151ca277b0319d0f757c196a33c00069f2308e83",
+      "changes": 13
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Junpei.xml",
+      "before_sha256": "523e3733f44fbe15e4cad6577011834fdf20afb32995cfd4a6307640e4778b30",
+      "after_sha256": "9f68f158d6aca26abcee5b40242112c93abfe2163eebe0e31d9200bf96d8ee15",
+      "changes": 17
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Koromaru.xml",
+      "before_sha256": "0e930d6f24b5a515c0de4dd7aaba0426e600ea66e1b13dbb266662ecbc83f7d0",
+      "after_sha256": "4cfd2d06739c0922ae5f0950a91419178e55d9accd8ce67e3fc51366eb2d9c21",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Mituru.xml",
+      "before_sha256": "127f0d85fbd688642222f2cc8ea9a27869672159e1e54d9b886ea143ce8a9ba1",
+      "after_sha256": "4c9a238536d1b8fc16c17de71590ca12f1cbb6fe8a9962dd039da748e1df7b5b",
+      "changes": 16
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Sanada.xml",
+      "before_sha256": "43c68a93b5c6a331cf1fdffc0498bbf1d718d0c2805855010226385a894ac6ac",
+      "after_sha256": "d71204eb2646d8ade47e20c565db8929817957d4feb3751a34fd882c035a3707",
+      "changes": 22
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/EntranceNPC/BMD_FldNPC_Entrance_Yukari.xml",
+      "before_sha256": "3f7dfd58becf6e66f97de8426323477139e472cc50d21d396b0b0555ac017cfc",
+      "after_sha256": "66ef6296c833838f79acf6ac7734832d56bdeae4685f86e7c0b1fd07e22368db",
+      "changes": 16
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/ExploreNPC/BMD_FldShortCut.xml",
+      "before_sha256": "9458c5eca068b8b62e975fc065970e8ffc201fa5147c4ee70e5545c27bc6d68a",
+      "after_sha256": "380c767c0a0f9470b61039ba1cf255abbd3d59657fc5cb5731a68d1026efe171",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_BP_DOBJ_SecretFloor.xml",
+      "before_sha256": "08e0df0dc7fe50d848682c3cbf6e8eae22e3dd0e67f7cb40174dc4cc4828e00a",
+      "after_sha256": "67316aafddc370c1dd13fbe53d0c356498a18fbfe45232457a16a18c0a13dbec",
+      "changes": 35
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_BP_DOBJ_TBOX.xml",
+      "before_sha256": "af6ae15dcd975890c9655294bf3a52240b6235ad25d2aa8a95bbe1ba6dae445c",
+      "after_sha256": "8a1eba69822a777c24c5c7936d6e66cb251b626a145a34c4ceec57bd4744af50",
+      "changes": 42
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_BP_DOBJ_TBOX_Event.xml",
+      "before_sha256": "7421a6dfb8312b1b1435d635aab1a21ba1a06e3482df5f9f282977fc76da416b",
+      "after_sha256": "43c10f71e1c47233076062d9200f183a4197d0c7b314463750d7a5802d9cfe8a",
+      "changes": 42
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Dormitory_EscapeToRoof.xml",
+      "before_sha256": "2281cd1012625ad037566bc73c6bb67e28e3740227285063e57dea9802cc0c6f",
+      "after_sha256": "c66db6b996d4cbe0f52e9f4753ebd9bb9f3477959510ce50373b83b9024de9c9",
+      "changes": 5
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_HotelDungeon.xml",
+      "before_sha256": "cdc9c65367aefea549e4f158e99565427ded76c3a8d52b166df89c15de1abd61",
+      "after_sha256": "966b4162a1f529a93ebaf289838b77be7c16612ea04aa785f28e01a0852f17f2",
+      "changes": 27
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_IwatoStationArcade.xml",
+      "before_sha256": "a24e1af7f60ab24eb13cae982042a17286076d65fd4a47abd1b832190f1f274d",
+      "after_sha256": "42196e366e01efc679b9fc0dae93d2446eed6ec077ad89d38fd63dcc6c0b7ee9",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_MilitaryDungeon.xml",
+      "before_sha256": "978fa680d9f614e331467c46337ab5439a992311ca9e47857e4e0dcbffedb2b1",
+      "after_sha256": "e9582b9c332764b6276075c1ec93ec72e854fbae4a746eb1cc5bc34964b95c90",
+      "changes": 17
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_MonorailDungeon.xml",
+      "before_sha256": "e4a83fc91dd4101bf13ce4e557446203792731f8926621e00e8abbdb12231f5d",
+      "after_sha256": "1aebfb775ac605b29608a9bfc86dde1b10dd1833e8bda3baec7aa865faeb014d",
+      "changes": 3
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Battle_Jin.xml",
+      "before_sha256": "2fc4b45cad8c750cda4e79a2c4dcaff398ead25791b976d0483742c2139658ca",
+      "after_sha256": "ed6152da8244524c8ae9482551c6a7a9760e4142ebf3e1e39d84a31c72a5f169",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_EndGate.xml",
+      "before_sha256": "36cf714ac2a76e765cef6dee1c2cfb6c794d48aa0dfd5083f4417c6f0cc9865b",
+      "after_sha256": "7c2d3fb61e2adec7d1a194a7bd039874caa2a56881c19217746d85373e322800",
+      "changes": 3
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Entrance.xml",
+      "before_sha256": "735da2f1eaa7c4168a7eab3f3ac47c4e517b0bf1da2174b5d551ee74b85dd8e4",
+      "after_sha256": "bf7355fdc9220c5b5c88478475c0470a6415595b867cbbc1990115128f2500a1",
+      "changes": 4
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_FBD_Enemy.xml",
+      "before_sha256": "a4d22bb7306526fdbab74b50cd77cfa524a6fb14bdb8a24c66216994bd34c1d8",
+      "after_sha256": "d9c3f78d7f5dfff6c59f41343e5aefb0629d9b5b5f052a207130c59301cf65d5",
+      "changes": 4
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_FirstTry.xml",
+      "before_sha256": "4246312028ca8818c599904a4ce8f3d38c0e67a1125fa37d82fe739e5934afdc",
+      "after_sha256": "86a9911aba931bd67cb1275f08ef1cbc4641b807372d627f99763e4a848f0e88",
+      "changes": 3
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_FukaRescue.xml",
+      "before_sha256": "8a59d0db75c3cb4d4d1010696bcaab6438f8a0bbe444368bcb876297d4fa51eb",
+      "after_sha256": "ba07f518826da375dded7a5a96ce0f1f6b27f0d6da1c969c09fbf640e9140e83",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_GateKeeper.xml",
+      "before_sha256": "2790f4dfa93fc000b5e6221d941c2976bfdaeef418c77535f016e37f5eb5dabc",
+      "after_sha256": "eca1d81c5b96e4d6cae9e8b0ed55ed37dc5bafda8c8fe305f340a78c69a09a35",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_HighRare.xml",
+      "before_sha256": "06f22f99a168b3244c126639d92c4bd5b39b674f07dd841b32e3b7c3be923cca",
+      "after_sha256": "2cbabceebffc548c1cb137ed022fd450f341cd37702fc804014d2e667319ce28",
+      "changes": 16
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_MonadDoor.xml",
+      "before_sha256": "b968d5afdd21b638f0f3c65e00e61aa6ab1b5abd589835a11381294b465b611e",
+      "after_sha256": "a428e1ca4d0a169bd9e07cae7fd0369fd206e1ac18c3b08cbc5c08ef89e0bd67",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Monad_First.xml",
+      "before_sha256": "adc3056d8797dfd28f4638c0a217021199d418613e453e9b83a3175b0f8df9d0",
+      "after_sha256": "0eec10128f830ceeb269afe47fee917dba8c9b70c999ac35417c75d5a7a4eaf5",
+      "changes": 9
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Tutorial_BadStatus_Yakekuso.xml",
+      "before_sha256": "5c2aa7a0e0a8177adfb6b4b9cbfe5b8154b6882872ff5d78760fff3215f712cf",
+      "after_sha256": "9c9b9c0ac14e4ca08f7b56ff47e63e13dd7c1a44c32f37fdccc85a1dd1775689",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Tutorial_Jamming.xml",
+      "before_sha256": "9b9e7c9875404921547386f9844cd3103b01754862ecc4f7a015a5311ea230c1",
+      "after_sha256": "eced5ed17f018cad63eefd9f0d1164af538fe414ca7dfbf0d3156875495363a0",
+      "changes": 4
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Tutorial_MonadDoor.xml",
+      "before_sha256": "2ab941e798b76c9c4727668113b564408ac06e9750e94d48ee77711970015c41",
+      "after_sha256": "062748d6537555c7a145f9e0078f985598a74556d32bc720239c57084e93bc86",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Tutorial_RareSymbol.xml",
+      "before_sha256": "66885e1f1eafc8e9507fe7acb0b89e316d64de90696cd858cff74643a7ea5bd9",
+      "after_sha256": "ede56baa850c70e130c2c5a3d74ced0deb1d4b138f660fb3b1470ba1241a48ad",
+      "changes": 10
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/Hit/BMD_FldHit_Tartarus_Tutorial_StrongSymbol.xml",
+      "before_sha256": "577405870a6adcacfb0ecb6472416ab9006bceef53965e98a3dfeb10f1b7173b",
+      "after_sha256": "a6295e7c2ee00a992e0ad07f8fdf2a8dfc1fb1378a0b7b032a15bc42fd6e530a",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/MissingNPC/BMD_FldNPC_MissingPerson.xml",
+      "before_sha256": "7db0a04da62b5d94636dd1163dea796e262854d9747295b3307b8c68976058a4",
+      "after_sha256": "ae9799669d6b9f86e8692cfe65127a0bc28e42b85e6c751a621c35fa6d802f4b",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/SupportTalk/BMD_FldSupport_AutoRecover.xml",
+      "before_sha256": "5feccc04c39f435de970eeb266f377b5bc27ccb54162426727d06647e181340f",
+      "after_sha256": "8ee11de2a1fb6c59a49d1a8d97aaf9a2f2c046a4503ad032cfd1b2ab1d58151f",
+      "changes": 3
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/SupportTalk/BMD_FldSupport_DungeonTalk_Common.xml",
+      "before_sha256": "563b3e4fb09cbf337fe3d88743eebea8e6cca97dd9a98652c8b1656116f5fcff",
+      "after_sha256": "a5eec02dd3dc7ea9b6587b7c355a002881d43950378e06acfca6ad2f8db67a4b",
+      "changes": 59
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/SupportTalk/BMD_FldSupport_DungeonTalk_Message.xml",
+      "before_sha256": "b70c206ab6ab854736329947251bda01f3494a71a6bf503de35c711da684e77c",
+      "after_sha256": "73931af5fd1f4b90465d80498928fe5e08325f099f82d1c53af706bc96b7014e",
+      "changes": 5
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/SupportTalk/BMD_FldSupport_Reaper.xml",
+      "before_sha256": "3bce23016b50f7851ee20d2703a213bdaeda6ed04e5cac5cb54bad9b88f70f73",
+      "after_sha256": "10bcaa790df3db1b82d94842ca15b450912fe5b7c410610e24bb1025b1c5bf7f",
+      "changes": 4
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/Dungeon/SupportTalk/BMD_FldSupport_Tactics.xml",
+      "before_sha256": "1cab767fa1ef5a54a1b56b2cbd02cf198a400493bcb0c76fcf19c20df0c46721",
+      "after_sha256": "6a596dc34cf406c5399ff54514b5d6c9d354cdac1135b833dd3c406a1f2b89c4",
+      "changes": 36
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Field/Data/DataAsset/Bf/FldUtility/BMD_FldUtility.xml",
+      "before_sha256": "da1d18967cb06d2de4c64e7fd55338fef58b7e93c903f795a357c6b4b7792cdb",
+      "after_sha256": "a49e779f0f3bbb88d90840cdbbb8a24840cfaaf249538cb620172743f750018e",
+      "changes": 2
+    }
+  ]
+}

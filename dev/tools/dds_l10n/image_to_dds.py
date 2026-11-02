@@ -76,7 +76,8 @@ def main():
     p.add_argument('image', type=Path)
     p.add_argument('reference', type=Path)
     p.add_argument('output', type=Path)
-    p.add_argument('--quality', choices=['quick', 'normal'], default='quick')
+    p.add_argument('--allow-resize', action='store_true', help='Experimental: use PNG dimensions instead of reference dimensions')
+    p.add_argument('--quality', choices=['quick', 'normal'], default='normal')
     p.add_argument('--psd-composite', action='store_true', help='Use PSD stored merged image; does not render layers')
     a = p.parse_args()
     if a.output.suffix.lower() != '.dds':
@@ -89,10 +90,12 @@ def main():
     if ref.is_cube() or ref.get_array_size() != 1 or ref.depth > 1:
         p.error('Only single 2D textures are supported')
     with Image.open(a.image) as im:
-        if im.size != (ref.width, ref.height):
+        if not a.allow_resize and im.size != (ref.width, ref.height):
             p.error(f'Image size {im.size} differs from reference {(ref.width, ref.height)}')
         if im.mode not in ('RGB', 'RGBA', 'P', 'L', 'LA'):
             p.error('Export an 8-bit RGB/RGBA PNG first')
+        if a.allow_resize and (im.width % 4 or im.height % 4):
+            p.error('Experimental resize requires width and height divisible by 4')
         rgba = im.convert('RGBA')
         with Image.open(a.reference) as original:
             # BC7 can represent an opaque source with alpha 254. Do not mistake
@@ -101,7 +104,13 @@ def main():
         if transparent and rgba.getchannel('A').getextrema() == (255, 255):
             p.error('Reference uses transparency but input is fully opaque; export PNG with alpha')
     a.output.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.TemporaryDirectory(dir=a.output.parent) as tmp:
+    # The Linux native texconv library can abort (rather than raise a Python
+    # exception) on Unicode paths. Keep both its input and output in an ASCII
+    # system temporary directory; Python handles the final user path itself.
+    temp_root = Path(tempfile.gettempdir()).resolve()
+    if os.name == 'posix' and not str(temp_root).isascii():
+        temp_root = Path('/tmp')
+    with tempfile.TemporaryDirectory(prefix='p3r-texconv-', dir=temp_root) as tmp:
         tmp = Path(tmp)
         tga = tmp / 'image.tga'
         rgba.save(tga)
@@ -110,18 +119,21 @@ def main():
             args.append('-srgb')
         if a.quality == 'quick' and 'BC7' in ref.dxgi_format.name:
             args.extend(['-bc', 'q'])
-        print(f'[convert] {ref.width}x{ref.height}, {ref.dxgi_format.name}, {ref.mipmap_num} mips, {a.quality}', flush=True)
+        print(f'[convert] {rgba.width}x{rgba.height}, {ref.dxgi_format.name}, {ref.mipmap_num} mips, {a.quality}', flush=True)
         converter = Texconv()
         converter._Texconv__texconv(str(tga), args, out=str(tmp), verbose=False, allow_slow_codec=True)
         result = tmp / 'image.dds'
-        if signature(read_dds(result).header) != signature(ref):
+        expected = list(signature(ref))
+        expected[:2] = rgba.size
+        if signature(read_dds(result).header) != tuple(expected):
             raise ValueError('DDS metadata does not match reference')
         restored = preserve_transparent_bc7(result, a.reference, rgba)
         print(f'[alpha] {restored} fully transparent BC7 blocks preserved', flush=True)
         shutil.move(result, a.output)
     report = {'image': str(a.image.resolve()), 'reference': str(a.reference.resolve()),
               'output': str(a.output.resolve()), 'format': ref.dxgi_format.name,
-              'width': ref.width, 'height': ref.height, 'mips': ref.mipmap_num,
+              'width': rgba.width, 'height': rgba.height, 'mips': ref.mipmap_num,
+              'experimental_resize': a.allow_resize,
               'quality': a.quality, 'psd_composite': a.psd_composite,
               'transparent_blocks_restored': restored}
     a.output.with_suffix('.dds.json').write_text(json.dumps(report, indent=2))

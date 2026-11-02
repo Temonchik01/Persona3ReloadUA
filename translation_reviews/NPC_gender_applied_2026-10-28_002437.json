@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-28",
+  "target": "/home/tymofii/Persona3ReloadUA/translations/uk/dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldNpcName.xml",
+  "changes": [
+    {
+      "index": 6,
+      "property": "Name",
+      "en": "Frivolous Student",
+      "pl": "Lekkomyślna uczennica",
+      "old": "Легковажний учень",
+      "new": "Легковажна учениця",
+      "reason": "Рід назви узгоджено з польським відповідником."
+    },
+    {
+      "index": 73,
+      "property": "Name",
+      "en": "Mayoido Shopkeeper",
+      "pl": "Właścicielka Mayoido",
+      "old": "Крамар «Майоїдо»",
+      "new": "Крамарка «Майоїдо»",
+      "reason": "Рід назви узгоджено з польським відповідником."
+    },
+    {
+      "index": 177,
+      "property": "Name",
+      "en": "Wakatsu Employee",
+      "pl": "Pracownica Wakatsu",
+      "old": "Працівник «Вакацу»",
+      "new": "Працівниця «Вакацу»",
+      "reason": "Рід назви узгоджено з польським відповідником."
+    },
+    {
+      "index": 198,
+      "property": "Name",
+      "en": "Worried Student",
+      "pl": "Zmartwiona uczennica",
+      "old": "Стурбований учень",
+      "new": "Стурбована учениця",
+      "reason": "Рід назви узгоджено з польським відповідником."
+    },
+    {
+      "index": 219,
+      "property": "Name",
+      "en": "Serious Student",
+      "pl": "Poważny uczeń",
+      "old": "Серйозна учениця",
+      "new": "Серйозний учень",
+      "reason": "Рід назви узгоджено з польським відповідником."
+    },
+    {
+      "index": 243,
+      "property": "Name",
+      "en": "Wannabe Follower Student",
+      "pl": "Uczeń, który chciałby uwierzyć",
+      "old": "Учениця, що прагне стати послідовником",
+      "new": "Учениця, що прагне стати послідовницею",
+      "reason": "Внутрішнє узгодження: збережено чинне «учениця», без висновку щодо статі моделі."
+    }
+  ],
+  "backup": "/home/tymofii/Persona3ReloadUA/translation_reviews/NPC_gender_before_2026-10-28_002437.zip",
+  "archive": "/home/tymofii/Persona3ReloadUA/translation_reviews/NPC_gender_Crowdin_2026-10-28_002437.zip",
+  "report": "/home/tymofii/Persona3ReloadUA/translation_reviews/NPC_gender_review_2026-10-28_002437.txt",
+  "before_hashes": {
+    "workspace/polish-gender-review/DT_FldDailyHitName.xml": "30bc07fc4689e9e456f4230f026c2ccbd33c4543c769b2154b165afaab97f175",
+    "workspace/polish-gender-review/DT_FldDungeonHitName.xml": "c11f88f5226df49824974c616dd5f3e4f2e628c6b04982e7c606923ecc382573",
+    "workspace/polish-gender-review/DT_FldNpcName.xml": "8fd665cb9243ae4c0dbffbaaeee9af9343208847f59347b6814fe87200a9817d",
+    "workspace/polish-gender-review/DT_FldPlaceName.xml": "3317b6e8a3e605914b8a8999f8f7db2467453e8a9d202b94dd113589a723845c",
+    "workspace/polish-gender-review/DT_FldShortcutName.xml": "a4d46b99dfb864946f4f3aed9f01f8d5fcd1a9240590c7df504577930821d5be",
+    "workspace/polish-gender-review/comparison.json": "39aa221424cfaf5d1785d7fda265d4930a7cd2eaac2212d341ec16ce39a64341",
+    "workspace/polish-gender-review/NPC-COMPARISON.md": "c052b6d8e6ee0d8624c2220b38c61209e8aedcaf6c0e2e51a06947442d11fb38",
+    "workspace/polish-gender-review/REVIEW.md": "c934edfec57725d363c75e92a3a0544ee91a5351883e3cb548a41d0020a1f390",
+    "translations/uk/dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldDailyHitName.xml": "57eb0b96170c264201228fdbe8af008602dea7ff2a2b1195f996b7ed3e755f10",
+    "translations/uk/dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldDungeonHitName.xml": "c4934ca83102a5d6dd376a49456435227ef40b573f20162253b38997b5ec577f",
+    "translations/uk/dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldNpcName.xml": "4c4867d7fda99bb891c23a30995b29b77ce2199066e0a454cc3f0914812b1079",
+    "translations/uk/dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldPlaceName.xml": "aadf236910319303cec5672035308dc10df9324a67c85238e0ae608d6da38b39",
+    "translations/uk/dt_xml/text/Xrd777/Field/Data/DataTable/Texts/DT_FldShortcutName.xml": "1472900d6099e36436a0f5af0817ea0133e3cb430bd8e8c1aff9a802801bf934"
+  }
+}

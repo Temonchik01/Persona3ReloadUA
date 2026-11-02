@@ -19,6 +19,7 @@ import argparse
 import contextlib
 import io
 import os
+import shutil
 import sys
 import time
 import tempfile
@@ -155,12 +156,22 @@ def batch_import(dds_dir: str, src_dir: str, out_dir: str):
 
             dds = _quiet(DDS.load, dds_path)
             if dds.header.dxgi_format != tex.dxgi_format:
-                with tempfile.TemporaryDirectory() as tmp_dir:
+                # libtexconv's Linux filesystem conversion can abort the whole
+                # process on Unicode paths. Python copies to/from ASCII paths.
+                temp_root = os.path.realpath(tempfile.gettempdir())
+                if os.name == 'posix' and not temp_root.isascii():
+                    temp_root = '/tmp'
+                print(f"  [format conversion] {rel_dds}", flush=True)
+                with tempfile.TemporaryDirectory(prefix='p3r-dds-format-', dir=temp_root) as tmp_dir:
+                    native_input = os.path.join(tmp_dir, 'input.dds')
+                    native_output = os.path.join(tmp_dir, 'output')
+                    os.makedirs(native_output)
+                    shutil.copyfile(dds_path, native_input)
                     converted = _quiet(
                         Texconv().convert_to_dds,
-                        dds_path,
+                        native_input,
                         tex.dxgi_format,
-                        out=tmp_dir,
+                        out=native_output,
                         no_mip=(len(tex.mipmaps) == 1),
                         verbose=False,
                         allow_slow_codec=True,

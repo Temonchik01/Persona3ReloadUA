@@ -7,7 +7,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Це кабінет медбрата.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, там зайнято. Я не повинен заходити...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усередині, схоже, зайняті. Краще не заходити...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="SEL_003_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти в кабінет]]></Option>
@@ -20,11 +20,11 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, він не має нічого[n]більше сказати мені сьогодні...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, вчитель у доброму гуморі.[n]Може, я почую додатковий урок...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, вчитель у доброму гуморі. Може,[n]проведе для мене додаткове заняття...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти на урок]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти без причин]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Зайти просто так]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не заходити]]></Option>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
@@ -35,10 +35,10 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, більше немає ніяких[n]додаткових занять...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="10" name="MND_010_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, він прийде до мене[n]тільки якщо я буду втомлений.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я повинен спробувати прийти, коли буду втомлений[n]від дослідження Тартару минулої ночі...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, він прийме мене лише тоді, коли я почуватимуся втомленим.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Варто прийти сюди, коли втомлюся[n]після нічної вилазки в Тартар...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркан Помірності може[n]допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

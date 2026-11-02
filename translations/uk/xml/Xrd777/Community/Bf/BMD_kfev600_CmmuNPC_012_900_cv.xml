@@ -5,24 +5,24 @@
     <Speaker id="1" rawBytes="4D 61 69 6B 6F 27 73 20 44 61 64">Тато Маїко</Speaker>
   </Speakers>
   <Dialog id="0" name="MSG_000_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 1 12 0}Hm? You're...[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 2 12 0}Ah, {f 4 1}-kun, right?[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 3 12 0}I'm... Maiko's father, if you remember.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 1 12 0}Гм? Ти ж...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 2 12 0}А, {f 4 1}, так?[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 3 12 0}Я... батько Маїко, якщо пам'ятаєш.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="1" name="MSG_001_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 4 12 0}Ви маєте хвилину поговорити? Я трохи житала на тому, що трапилося. .[n]{f 1 }]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 4 12 0}Маєш хвилинку поговорити? Я все думаю про те, що сталося...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="SEL_002_0_0" type="Selection">
     <Option><![CDATA[{f 0 5 254}{f 2 1}Гаразд.]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Я трохи зайнятий сьогодні...]]></Option>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 5 12 0}Perfect. Якщо ви не заперечуєте, прогуляємося до підстави для мотивування моєчку. Я куплю тобі хтось — мій лікт.[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 6 12 0}The food there sure is good... But you knew that already, didn't you?[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 5 12 0}Чудово. Якщо ти не проти, ходімо до ятки з такоякі. Пригощу тебе.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 6 12 0}Там і справді смачно... Хоча ти й так знаєш, правда?[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MSG_004_0_0" type="Message">
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 7 12 0}. Це занадто погано...[n]{f 1 1}]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 8 0}я тільки що подумав про Майко, коли ти з'явився.[n]{f 1 }]]></Page>
-    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 0 6 9 12 0}Вибачте за додавання.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 7 12 0}О. Шкода...[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 8 12 0}Я саме думав про Маїко, коли ти з'явився.[n]{f 1 1}]]></Page>
+    <Page spk="0001"><![CDATA[{f 0 5 254}{f 2 1}{f 3 1 1 0 6 9 12 0}Вибач, що нав'язуюся.[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

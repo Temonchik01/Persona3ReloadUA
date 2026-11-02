@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-28",
+  "changes": [
+    {
+      "file": "Community/Bf/BMD_kfev150_CmmuNPC_001_001_cv.xml",
+      "idx": 0,
+      "loc": "Speaker 0",
+      "src": "Frivolous Student",
+      "old": "Легковажний учень",
+      "new": "Легковажна учениця",
+      "reason": "Підпис мовця узгоджено з виправленою таблицею назв NPC."
+    },
+    {
+      "file": "Community/Bf/BMD_kfev150_CmmuNPC_001_001_cv.xml",
+      "idx": 4,
+      "loc": "Dialog 0 / MSG_000_0_0 / Page 4",
+      "src": "{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 1 4 0 0}I was hoping to be with Ms. Kanou...[n]{f 1 1}",
+      "old": "{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 1 4 0 0}Я сподівався, що в нас буде панна Каноу...[n]{f 1 1}",
+      "new": "{f 0 5 254}{f 2 1}{f 4 5 101 6 -1 -1 0 0}{f 3 1 1 0 1 4 0 0}Я сподівалася, що в нас буде панна Каноу...[n]{f 1 1}",
+      "reason": "Самоопис легковажної учениці: жіночий рід."
+    },
+    {
+      "file": "Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml",
+      "idx": 1,
+      "loc": "Speaker 1",
+      "src": "Wakatsu Employee",
+      "old": "Працівник «Вакацу»",
+      "new": "Працівниця «Вакацу»",
+      "reason": "Підпис мовця узгоджено з виправленою таблицею назв NPC."
+    },
+    {
+      "file": "Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml",
+      "idx": 4,
+      "loc": "Dialog 1 / MSG_001_0_0 / Page 1",
+      "src": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 2 181 0}Oh yes, I've heard the same story. They say he tried a bite of some dish.[n]{f 1 1}",
+      "old": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 2 181 0}Так-так, я теж чув цю історію. Кажуть, він скуштував якусь страву.[n]{f 1 1}",
+      "new": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 2 181 0}Так-так, я теж чула цю історію. Кажуть, він скуштував якусь страву.[n]{f 1 1}",
+      "reason": "Самоопис працівниці «Вакацу»: жіночий рід. Чоловічі форми щодо Суеміцу збережено."
+    },
+    {
+      "file": "Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml",
+      "idx": 6,
+      "loc": "Dialog 1 / MSG_001_0_0 / Page 3",
+      "src": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 4 181 0}Now it's an item on our hidden menu. I'm a big fan of it, myself.[n]{f 1 1}",
+      "old": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 4 181 0}Тепер вона в нашому таємному меню. Сам дуже її люблю.[n]{f 1 1}",
+      "new": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 4 181 0}Тепер вона в нашому таємному меню. Сама дуже її люблю.[n]{f 1 1}",
+      "reason": "Самоопис працівниці «Вакацу»: жіночий рід. Чоловічі форми щодо Суеміцу збережено."
+    },
+    {
+      "file": "Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml",
+      "idx": 7,
+      "loc": "Dialog 1 / MSG_001_0_0 / Page 4",
+      "src": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 5 181 0}I had him come up with some ideas for Wakatsu, too.[n]{f 1 1}",
+      "old": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 5 181 0}Я й для «Вакацу» попросив його дещо придумати.[n]{f 1 1}",
+      "new": "{f 0 5 254}{f 2 1}{f 3 1 1 0 6 5 181 0}Я й для «Вакацу» попросила його дещо придумати.[n]{f 1 1}",
+      "reason": "Самоопис працівниці «Вакацу»: жіночий рід. Чоловічі форми щодо Суеміцу збережено."
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/600/BMD_NPC_610_000.xml",
+      "idx": 1,
+      "loc": "Speaker 1",
+      "src": "Worried Student",
+      "old": "Стурбований учень",
+      "new": "Стурбована учениця",
+      "reason": "Підпис мовця узгоджено з виправленою таблицею назв NPC."
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/600/BMD_NPC_657_000.xml",
+      "idx": 0,
+      "loc": "Speaker 0",
+      "src": "Serious Student",
+      "old": "Серйозна учениця",
+      "new": "Серйозний учень",
+      "reason": "Підпис мовця узгоджено з виправленою таблицею назв NPC."
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/kfev600/BMD_kfev600_NPC_152_700.xml",
+      "idx": 0,
+      "loc": "Speaker 0",
+      "src": "Mayoido Shopkeeper",
+      "old": "Mayoido Shopkeeper",
+      "new": "Крамарка «Майоїдо»",
+      "reason": "Жіночу назву мовця узгоджено з таблицею назв NPC."
+    }
+  ],
+  "coverage": [
+    {
+      "file": "Community/Bf/BMD_kfev150_CmmuNPC_001_001_cv.xml",
+      "speakers": [
+        "Frivolous Student"
+      ]
+    },
+    {
+      "file": "Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml",
+      "speakers": [
+        "Wakatsu Employee"
+      ]
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/600/BMD_NPC_610_000.xml",
+      "speakers": [
+        "Worried Student"
+      ]
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/600/BMD_NPC_657_000.xml",
+      "speakers": [
+        "Serious Student"
+      ]
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/700/BMD_NPC_753_000.xml",
+      "speakers": [
+        "Wannabe Follower Student"
+      ]
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/700/BMD_NPC_754_000.xml",
+      "speakers": [
+        "Wannabe Follower Student"
+      ]
+    },
+    {
+      "file": "Field/Data/DataAsset/Bf/Npc/kfev600/BMD_kfev600_NPC_152_700.xml",
+      "speakers": [
+        "Mayoido Shopkeeper"
+      ]
+    },
+    {
+      "file": "UI/Facility/BMD_AntiqueShop.xml",
+      "speakers": [
+        "Mayoido Shopkeeper"
+      ]
+    }
+  ],
+  "archive": "/home/tymofii/Persona3ReloadUA/translation_reviews/NPC_dialogue_gender_Crowdin_2026-10-28_003631.zip",
+  "backup": "/home/tymofii/Persona3ReloadUA/translation_reviews/NPC_dialogue_gender_before_2026-10-28_003631.zip",
+  "report": "/home/tymofii/Persona3ReloadUA/translation_reviews/NPC_dialogue_gender_review_2026-10-28_003631.txt",
+  "before_hashes": {
+    "Community/Bf/BMD_kfev150_CmmuNPC_001_001_cv.xml": "634202c706bc07d143e955056f8e2b9e9c75eb027b87b4885fb55be1507e0381",
+    "Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml": "818554e8c0c92eced848fa02d0ca5cacaab1f359039f7eceac0b235993ab9e70",
+    "Field/Data/DataAsset/Bf/Npc/600/BMD_NPC_610_000.xml": "d774fd9d27a8e13f824be9d9904fe613f9074fbd7ac81c4c0e6370f60624277d",
+    "Field/Data/DataAsset/Bf/Npc/600/BMD_NPC_657_000.xml": "a5cef1062593dc342915f4b908838e56a633815064f60ffa970e6e07d0a9e0fc",
+    "Field/Data/DataAsset/Bf/Npc/700/BMD_NPC_753_000.xml": "14553d956fdee2d8da3ee630c74a6c222741b4ea0175ed860471572a1933d576",
+    "Field/Data/DataAsset/Bf/Npc/700/BMD_NPC_754_000.xml": "661e3f2e76bd4aa953a16e67a2d9ff0f910c0de05133baf005538c8ffabf339b",
+    "Field/Data/DataAsset/Bf/Npc/kfev600/BMD_kfev600_NPC_152_700.xml": "6c788050d9abe4d574562f45fa436ae115b609c979315c485cb233320dc1afad",
+    "UI/Facility/BMD_AntiqueShop.xml": "f0edc57fc4757a03c279c3ad7ef0d516f2c6407db31e6c1fa8bf527f06eb369d"
+  }
+}

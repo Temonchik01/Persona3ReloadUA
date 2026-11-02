@@ -4,15 +4,22 @@ set -Eeuo pipefail
 root=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/../../.." && pwd)
 if [[ ${1:-} == --help ]]; then
   cat <<'EOF'
-Використання: ./dev/scripts/linux/build_mod.sh
+Використання: ./dev/scripts/linux/build_mod.sh [--convert-png|--skip-png]
 Джерела: translations/uk/dt_xml, translations/uk/xml та texture/dds і texture/png у репозиторії.
 Послідовність: DT-інструмент → DT → BMD → DDS → пакування.
+Перед збиранням: 1 — оновити DDS із PNG (звичайна якість), 2 або Enter — пропустити.
+Без термінала запит пропускається; --convert-png явно вмикає конвертацію.
 При помилці збирання зупиняється; етап і його журнал показуються в повідомленні.
 Результат: dist/<час>/Persona3ReloadUA.zip і mod/ із трьома файлами.
 EOF
   exit 0
 fi
-if [[ $# -ne 0 ]]; then
+png_mode=ask
+if [[ $# -eq 1 && $1 == --convert-png ]]; then
+  png_mode=yes
+elif [[ $# -eq 1 && $1 == --skip-png ]]; then
+  png_mode=no
+elif [[ $# -ne 0 ]]; then
   echo 'Невідомі аргументи. Використайте --help.' >&2
   exit 2
 fi
@@ -93,6 +100,24 @@ PY
     fail 'Інструмент повідомив про помилки, попри нульовий код завершення.'
   fi
 }
+if [[ "$png_mode" == ask && -t 0 ]]; then
+  printf '\nОновити DDS із PNG перед збиранням?\n1 — Так, конвертувати всі PNG (звичайна якість BC7; може тривати довго).\n2 або Enter — Ні, використати готові DDS.\n'
+  while true; do
+    choice=''
+    if ! read -r -p 'Ваш вибір [2]: ' choice; then choice=2; fi
+    case "$choice" in
+      1) png_mode=yes; break ;;
+      2|'') png_mode=no; break ;;
+      *) echo 'Введіть 1 або 2.' ;;
+    esac
+  done
+fi
+if [[ "$png_mode" == yes ]]; then
+  run_stage 'PNG → DDS — Оновлення текстур перед збиранням' png-precompile \
+    python3 -u -c 'import sys; from pathlib import Path; root=Path(sys.argv[1]); sys.path.insert(0,str(root/"dev/tools/dds_l10n")); from texture_cache import precompile; precompile(root)' "$root"
+else
+  echo 'PNG → DDS пропущено: повний білд використовує готові DDS перед PNG.'
+fi
 run_stage '1/5 — Збирання DT-інструмента' dt-tool "$root/dev/scripts/linux/build_dt_tool.sh"
 # Force the freshly compiled tool, including when the caller exported an override.
 export P3R_DT_TOOL_DLL="$root/dev/tools/dt/linux/P3RDtTool.dll"

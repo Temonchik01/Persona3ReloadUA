@@ -14,6 +14,8 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
 import backend
+import texture_catalog
+from datetime import datetime
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -34,7 +36,7 @@ class Builder(ttk.Frame):
         self.status = tk.StringVar(value='Виберіть текстури для тесту або повне збирання.')
         self.fields = {}
         ttk.Label(self, text='Збирач Persona 3 Reload UA', font=('', 18, 'bold')).pack(anchor='w')
-        ttk.Label(self, text='PNG має пріоритет над DDS. Вихідники PSD/XCF потрібно експортувати у PNG.').pack(anchor='w', pady=(4,12))
+        ttk.Label(self, text='У тесті текстур PNG має пріоритет. Вихідники PSD/XCF потрібно експортувати у PNG.').pack(anchor='w', pady=(4,12))
         form = ttk.Frame(self)
         form.pack(fill='x')
         defaults = {
@@ -53,22 +55,46 @@ class Builder(ttk.Frame):
         modes.pack(fill='x', pady=12)
         ttk.Radiobutton(modes,text='Тест вибраних текстур',variable=self.mode,value='textures').pack(side='left')
         ttk.Radiobutton(modes,text='Повний мод',variable=self.mode,value='full').pack(side='left',padx=20)
+        ttk.Label(self, text='Повний мод: DDS → PNG. Тест текстур: PNG → DDS. Після редагування PNG оновіть DDS кнопкою «PNG → DDS».').pack(anchor='w')
+        self.allow_texture_resize = tk.BooleanVar(value=False)
+        ttk.Checkbutton(self, text='Експеримент: дозволити інший розмір PNG (лише тест вибраних текстур)',
+                        variable=self.allow_texture_resize).pack(anchor='w')
         actions = ttk.Frame(self)
         actions.pack(fill='x')
         ttk.Button(actions,text='Оновити список',command=self.refresh).pack(side='left')
-        ttk.Button(actions,text='Підставити PNG/DDS для вибраної текстури',command=self.override).pack(side='left',padx=8)
+        self.compile_button=ttk.Button(actions,text='PNG → DDS',command=lambda:self.start('precompile'))
+        self.compile_button.pack(side='left',padx=8)
+        ttk.Button(actions,text='Підставити PNG/DDS…',command=self.override).pack(side='left',padx=8)
         ttk.Button(actions,text='Скинути підстановку',command=self.reset_override).pack(side='left')
         self.filter = tk.StringVar()
         ttk.Label(actions,text='Пошук:').pack(side='left',padx=(16,4))
         ttk.Entry(actions,textvariable=self.filter,width=22).pack(side='left')
         self.filter.trace_add('write',lambda *_:self.render())
+        filters = ttk.Frame(self)
+        filters.pack(fill='x', pady=(8,0))
+        self.format_filter = tk.StringVar(value='Усі')
+        self.date_kind = tk.StringVar(value='Змінено')
+        self.date_range = tk.StringVar(value='Увесь час')
+        self.newest = tk.BooleanVar(value=False)
+        for label, variable, values, width in [
+            ('Формат:', self.format_filter, ('Усі','PNG','DDS'), 7),
+            ('Дата:', self.date_kind, ('Змінено','Вперше виявлено'), 18),
+            ('Період:', self.date_range, ('Увесь час','Сьогодні','7 днів','30 днів'), 12)]:
+            ttk.Label(filters,text=label).pack(side='left',padx=(8,4))
+            box=ttk.Combobox(filters,textvariable=variable,values=values,state='readonly',width=width)
+            box.pack(side='left')
+            variable.trace_add('write',lambda *_:self.render())
+        ttk.Checkbutton(filters,text='Спочатку нові',variable=self.newest,command=self.render).pack(side='left',padx=10)
+        ttk.Label(self,text='«Вперше виявлено» — перше оновлення списку з цим файлом, а не дата копіювання в папку.').pack(anchor='w')
         tree_frame = ttk.Frame(self)
         tree_frame.pack(fill='both',expand=True,pady=8)
-        self.tree = ttk.Treeview(tree_frame,columns=('path','format'),show='headings',selectmode='extended',height=10)
+        self.tree = ttk.Treeview(tree_frame,columns=('path','format','date'),show='headings',selectmode='extended',height=10)
         self.tree.heading('path',text='Текстура — вибирайте кілька з Ctrl або Shift')
         self.tree.heading('format',text='Вхідний файл')
         self.tree.column('path',width=650)
         self.tree.column('format',width=140)
+        self.tree.heading('date',text='Дата зміни')
+        self.tree.column('date',width=145)
         scrollbar = ttk.Scrollbar(tree_frame,orient='vertical',command=self.tree.yview)
         scrollbar.pack(side='right',fill='y')
         self.tree.configure(yscrollcommand=scrollbar.set)
@@ -101,22 +127,30 @@ class Builder(ttk.Frame):
 
     def refresh(self):
         self.entries = backend.textures(Path(self.fields['root'].get()))
+        self.update_catalog()
         self.render()
+
+    def update_catalog(self):
+        self.metadata = texture_catalog.catalog(Path(self.fields['root'].get()),
+            [*self.entries.values(), *self.overrides.values()])
 
     def render(self):
         if not hasattr(self,'tree'):
             return
         selected = set(self.tree.selection())
         self.tree.delete(*self.tree.get_children())
-        search = self.filter.get().casefold()
-        for rel, source in self.entries.items():
-            if search and search not in rel.casefold():
-                continue
-            source = self.overrides.get(rel,source)
+        kind = 'seen' if self.date_kind.get()=='Вперше виявлено' else 'modified'
+        days={'Увесь час':0,'Сьогодні':1,'7 днів':7,'30 днів':30}[self.date_range.get()]
+        self.tree.heading('date',text=self.date_kind.get())
+        rows=texture_catalog.select(self.entries,self.overrides,self.metadata,
+            search=self.filter.get(),fmt=self.format_filter.get(),days=days,
+            date_kind=kind,newest=self.newest.get())
+        for rel, source, stamp in rows:
             label = Path(source).suffix.upper()[1:] + (' · підстановка' if rel in self.overrides else '')
-            self.tree.insert('', 'end', iid=rel, values=(rel,label))
+            self.tree.insert('', 'end', iid=rel, values=(rel,label,datetime.fromtimestamp(stamp).strftime('%Y-%m-%d %H:%M')))
             if rel in selected:
                 self.tree.selection_add(rel)
+        self.selection_status()
 
     def override(self):
         selected = self.tree.selection()
@@ -129,6 +163,7 @@ class Builder(ttk.Frame):
                 messagebox.showerror('Формат','Потрібен PNG або DDS.')
                 return
             self.overrides[selected[0]] = path
+            self.update_catalog()
             self.render()
 
     def reset_override(self):
@@ -138,17 +173,21 @@ class Builder(ttk.Frame):
 
     def selection_status(self,*_):
         if self.proc is None:
-            self.status.set(f'Вибрано {len(self.tree.selection())} із {len(self.entries)} текстур.')
+            self.status.set(f'Вибрано {len(self.tree.selection())}; показано {len(self.tree.get_children())} із {len(self.entries)} текстур.')
 
-    def start(self):
+    def start(self,action=None):
         if self.proc is not None:
             return
         job = {key:value.get().strip() for key,value in self.fields.items()}
-        job.update(mode=self.mode.get(),textures={rel:self.overrides.get(rel,self.entries[rel]) for rel in self.tree.selection()})
+        job.update(mode=action or self.mode.get(),textures={rel:self.overrides.get(rel,self.entries[rel]) for rel in self.tree.selection()})
+        job['allow_texture_resize'] = job['mode']=='textures' and self.allow_texture_resize.get()
+        self.job_mode=job['mode']
+        self.compiled_count=None
         if job['mode'] == 'textures' and not job['textures']:
             messagebox.showinfo('Вибір текстур','Виберіть хоча б одну текстуру у списку.')
             return
         root = Path(job['root'])
+        self.active_root=root
         if not (root/'dev/gui/backend.py').is_file():
             messagebox.showerror('Репозиторій','Вкажіть папку Persona3ReloadUA з dev/gui/backend.py.')
             return
@@ -168,6 +207,7 @@ class Builder(ttk.Frame):
                                     stdout=subprocess.PIPE,stderr=subprocess.STDOUT,text=True,encoding='utf-8',errors='replace',
                                     start_new_session=os.name!='nt',creationflags=flags,env=env)
         self.build_button.configure(state='disabled');self.stop_button.configure(state='normal')
+        self.compile_button.configure(state='disabled')
         self.progress.start(12);self.status.set('Перевірка залежностей і запуск збирання…')
         proc = self.proc
         def reader():
@@ -183,15 +223,23 @@ class Builder(ttk.Frame):
                 kind,value = self.events.get_nowait()
                 if kind == 'line':
                     self.log.configure(state='normal');self.log.insert('end',value);self.log.see('end');self.log.configure(state='disabled')
-                    if value.startswith('Етап ') or value.startswith('=== '):
+                    if value.startswith(('Етап ','Етап:','PNG ')) or value.startswith('=== '):
                         self.status.set(value.strip())
                     prefix='Completed: THREE mod files in '
                     if value.startswith(prefix):
                         self.output=Path(value[len(prefix):].strip()).parent
+                    if value.startswith('PNG_PRECOMPILE_DONE: '):
+                        self.compiled_count=int(value.split(':',1)[1])
                 else:
                     self.proc=None;self.progress.stop();self.build_button.configure(state='normal');self.stop_button.configure(state='disabled')
+                    self.compile_button.configure(state='normal')
                     if self.cancelled:
                         self.status.set('Збирання скасовано. Незавершені файли не встановлюйте в гру.')
+                    elif value==0 and self.job_mode=='precompile' and self.compiled_count is not None:
+                        self.status.set(f'Готово: {self.compiled_count} PNG підготовлено в texture/dds. Наступний білд використає кеш.')
+                        messagebox.showinfo('DDS готові','PNG з texture/png скомпільовано у texture/dds. Незмінені PNG у наступних білдах не конвертуватимуться повторно.')
+                        self.output=self.active_root/'texture/dds'
+                        self.status.set(f'Готово: {self.compiled_count} PNG підготовлено в texture/dds.')
                     elif value == 0 and self.output:
                         self.status.set('Готово: '+str(self.output/'Persona3ReloadUA.zip'))
                         messagebox.showinfo('Збірка готова','Мод зібрано. Кнопка «Відкрити результат» покаже ZIP і три файли мода.')

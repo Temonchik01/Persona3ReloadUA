@@ -10,17 +10,17 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}今は混んでいるようだ…[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="2" name="MND_002_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Персонал виглядає неймовірно зайнятим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Працівники, схоже, страшенно заклопотані...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MSG_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Мені дуже шкода, але на даний момент ми переповнені.[n]{f 1 1}]]></Page>
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Вихідні завжди такі, тому ви можете спробувати в інший час.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Перепрошую, але зараз усі місця зайняті.[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}У вихідні тут завжди так. Спробуйте прийти іншим разом.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Караоке соло - 800 єн[n]Не соромтеся... Заспівай!»[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Караоке соло — 800 єн. Не соромтеся... Заспівайте!»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="5" name="MND_005_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Співаючи на повні груди, я можу отримати більше {f 4 30 2 1 1 0}...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Спів на повні груди може підвищити рівень «{f 4 30 2 1 1 0}»...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="6" name="MND_006_0_0" type="Message"/>
   <Dialog id="7" name="MND_007_0_0" type="Message">
@@ -38,7 +38,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У мене недостатньо грошей...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_011_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Аркана Помірності[n]може зараз допомогти мені поглибити наші стосунки...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Зараз Аркан Помірності може[n]допомогти мені розвинутися ще більше...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_012_0_0" type="Message"/>
   <Dialog id="13" name="SEL_013_0_0" type="Selection">
@@ -46,23 +46,23 @@
     <Option><![CDATA[{f 0 5 254}{f 2 1}Не зараз]]></Option>
   </Dialog>
   <Dialog id="14" name="MND_014_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, мій {f 4 30 2 1 1 0}[n]не може бути вищим...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чи варто мені все ще вступати?[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Здається, рівень «{f 4 30 2 1 1 0}»[n]уже не підвищиться...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Усе одно зайти?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_015_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут повно відвідувачів, які чекають.[n]Можливо, це тому, що сьогодні неділя...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Тут ціла черга відвідувачів.[n]Мабуть, тому, що сьогодні неділя...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_016_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}«Мандрагора»[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_017_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Що я повинен зробити тут?..[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Чим тут зайнятися?..[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="SEL_018_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Співайте сольне караоке {f 4 26 19 0}]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Співати в караоке соло{f 4 26 19 0}]]></Option>
   </Dialog>
   <Dialog id="19" name="MND_019_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Співайте гордо, не зважаючи на те, що про вас подумають інші.[n]Піднімає {f 4 30 2 1 0 0}.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Співати впевнено, не зважаючи на чужу думку. Підвищує {f 4 30 2 1 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="20" name="MND_020_0_0" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Сьогодні Обіцяний день...[n]Мені треба йти до Тартару...[n]{f 1 1}]]></Page>

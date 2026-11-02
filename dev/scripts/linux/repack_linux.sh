@@ -39,10 +39,22 @@ export WINEPREFIX=${P3R_BUILD_WINEPREFIX:-"$root/.cache/wine-build-prefix"}
 export WINEDEBUG=-all
 out="$root/UnrealEssentials/P3R/Content/L10N/en"
 mkdir -p "$out" "$root/build/logs"
+[[ "$WINEPREFIX" == /* ]] || { echo 'P3R_BUILD_WINEPREFIX must be an absolute path.' >&2; exit 1; }
+# Fresh clones do not contain the ignored .cache directory or a Wine prefix.
+mkdir -p "$WINEPREFIX"
+if [[ ! -f "$WINEPREFIX/system.reg" ]]; then
+  command -v wineboot >/dev/null || { echo 'wineboot is required to initialize the build prefix.' >&2; exit 1; }
+  echo "Initializing Wine build prefix: $WINEPREFIX"
+  timeout --kill-after=10s 180s wineboot -u \
+    2>&1 | tee "$root/build/logs/wine-init-$(date +%Y%m%d-%H%M%S).log"
+  [[ -f "$WINEPREFIX/system.reg" ]] || { echo 'Wine prefix initialization failed (system.reg is missing).' >&2; exit 1; }
+fi
 args=()
 if [[ ${3:-} == --force ]]; then args+=(--force); elif [[ -n ${3:-} ]]; then echo 'Unknown option' >&2; exit 2; fi
 # Address-space limits cannot safely be used with Wine's large virtual reservations.
 # Stop each build after ten minutes instead; start with a small XML subset.
+input_win=$(winepath -w "$input_dir")
+source_win=$(winepath -w "$source_dir")
+out_win=$(winepath -w "$out")
 timeout --kill-after=10s 600s wine "$tool" --batch-import-xml \
-  "$(winepath -w "$input_dir")" "$(winepath -w "$source_dir")" \
-  "$(winepath -w "$out")" "${args[@]}" 2>&1 | tee "$root/build/logs/$mode-$(date +%Y%m%d-%H%M%S).log"
+  "$input_win" "$source_win" "$out_win" "${args[@]}" 2>&1 | tee "$root/build/logs/$mode-$(date +%Y%m%d-%H%M%S).log"

@@ -60,11 +60,13 @@ def environment(job):
 
 
 def preflight(job):
-    if job['mode'] not in ('textures','full'):
+    if job['mode'] not in ('textures','full','precompile'):
         raise ValueError('Невідомий режим збирання')
     root = Path(job['root']).resolve()
     if not (root/'dev/tools/dds_l10n/source').is_dir():
         raise ValueError('Не знайдено інструментарій у вибраному репозиторії')
+    if job['mode']=='precompile':
+        return root
     game = Path(job['game_paks'])
     if not game.is_dir() or not list(game.glob('pakchunk*.utoc')):
         raise ValueError('Вкажіть папку P3R/Content/Paks із pakchunk*.utoc')
@@ -95,6 +97,8 @@ def preflight(job):
 def texture_build(job, root, env):
     sys.path.insert(0, str(root/'dev/tools/UE4-DDS-Tools/src'))
     import p3rtex
+    sys.path.insert(0,str(root/'dev/tools/dds_l10n'))
+    from texture_cache import convert
     work = Path(tempfile.mkdtemp(prefix='gui-textures-', dir=root/'build'))
     assets, inputs, refs = work/'assets', work/'dds', work/'reference'
     print('Етап 1/3: підготовка вибраних текстур', flush=True)
@@ -103,13 +107,7 @@ def texture_build(job, root, env):
         dest = inputs/rel
         dest.parent.mkdir(parents=True, exist_ok=True)
         if image.suffix.lower() == '.png':
-            reference = refs/rel
-            reference.parent.mkdir(parents=True, exist_ok=True)
-            with contextlib.redirect_stdout(io.StringIO()):
-                _, tex = p3rtex._load_texture(str(root/'dev/tools/dds_l10n/source'/rel.with_suffix('.uasset')))
-                tex.get_dds().save(str(reference))
-            print('[PNG] '+relative, flush=True)
-            run([sys.executable, '-u', root/'dev/tools/dds_l10n/image_to_dds.py', image, reference, dest], root, env)
+            shutil.copy2(convert(root,image,rel,allow_resize=bool(job.get('allow_texture_resize',False))),dest)
         else:
             shutil.copy2(image, dest)
     print('Етап 2/3: імпорт текстур у ресурси гри', flush=True)
@@ -156,13 +154,19 @@ def full_windows(root, env):
 def main(job):
     root = preflight(job)
     (root/'build').mkdir(exist_ok=True)
+    if job['mode']=='precompile':
+        sys.path.insert(0,str(root/'dev/tools/dds_l10n'))
+        from texture_cache import precompile
+        print('Етап: попередня конвертація PNG → DDS',flush=True)
+        precompile(root)
+        return
     env = environment(job)
     if job['mode'] == 'textures':
         texture_build(job, root, env)
     elif os.name == 'nt':
         full_windows(root, env)
     else:
-        run(['bash',root/'dev/scripts/linux/build_mod.sh'], root, env)
+        run(['bash',root/'dev/scripts/linux/build_mod.sh','--skip-png'], root, env)
 
 
 if __name__ == '__main__':

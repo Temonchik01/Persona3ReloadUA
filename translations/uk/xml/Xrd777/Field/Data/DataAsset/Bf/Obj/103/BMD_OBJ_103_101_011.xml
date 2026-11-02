@@ -15,7 +15,7 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Дошка оголошень з інформацією[n]про зниклих безвісти.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="3" name="MND_003_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Зниклу людину знайшли з Апатичним[n]синдромом. Я не встиг їх врятувати...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Зниклу людину знайшли з апатичним синдромом.[n]Я не встиг її врятувати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="4" name="MND_004_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Здається, ніхто не зник...[n]{f 1 1}]]></Page>
@@ -27,12 +27,12 @@
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Є зниклі люди, яких ще не[n]встигли врятувати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="7" name="SEL_007_0_0" type="Selection">
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Переглянути поточних зниклих]]></Option>
-    <Option><![CDATA[{f 0 5 254}{f 2 1}Переглянути минулих зниклих]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Переглянути поточні зникнення]]></Option>
+    <Option><![CDATA[{f 0 5 254}{f 2 1}Переглянути попередні зникнення]]></Option>
     <Option><![CDATA[{f 0 5 254}{f 2 1}Завершити перегляд]]></Option>
   </Dialog>
   <Dialog id="8" name="MND_008_0_0" type="Message">
-    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ще нікого не буле знайдено...[n]{f 1 1}]]></Page>
+    <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}Ще нікого не знайшли...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="9" name="MND_009_0_0" type="Message">
     <Page spk="0000"><![CDATA[{f 0 5 254}{f 2 1}（Ｖ）　[n]（Ｖ）　[n]（Ｖ）　[n]（Ｖ）　[n]（Ｖ）　[n]（Ｖ）[n]{f 1 1}]]></Page>

@@ -1,0 +1,347 @@
+{
+  "files_audited": 66,
+  "nodes_audited": 5653,
+  "files_changed": 56,
+  "nodes_changed": 2136,
+  "damaged_controls_repaired": 1398,
+  "remaining_english": 966,
+  "git_diff_check": 0,
+  "files": [
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_001_001.xml",
+      "before_sha256": "2310a8f78bb6af000dd134de6529d70d528920a60ac6492d2832970613b23c5c",
+      "after_sha256": "67a3765fdc1a494a315fdcbf93137b8a92ff27df6fea27202d5e12056c989c17",
+      "changes": 20
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_001_100.xml",
+      "before_sha256": "deda65454ba5f9954d145d363653f62cace94405d9ee640b205b607f468d5ecf",
+      "after_sha256": "1069a0e4787268462240d29bf3a05164c8377fd06cc41d9cb63563fcc826a2ce",
+      "changes": 27
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_002_001.xml",
+      "before_sha256": "8111001699765429ec976946a3f931ad33a49016419ff0ca7c64b5b32b889093",
+      "after_sha256": "4d1e58145a22f5402924c92a0fa35540612cb4a56dd99e136eb98dfc32c4852b",
+      "changes": 18
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_002_100.xml",
+      "before_sha256": "0503994801271b9946959f5707f3a78efb1cfda0063287bb8602e11de3055eb1",
+      "after_sha256": "918f4751857c627e8f883e2e3c47834e50c88ec8691ff59a9cc8633193947d67",
+      "changes": 24
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_002_800.xml",
+      "before_sha256": "e578b8a8f0c99ff19c3f861eb72b85aa3205b3ec962e5b0d865c5ac0a00e5d69",
+      "after_sha256": "ae5aaf96fb5ed48f8571dc0bfbaf527843292d181f3699fd33d01a0e5d049089",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_003_001.xml",
+      "before_sha256": "c12b5a5dbde4491aeaa99945e7188a33daf83c741ca67b964e7b2625b6a1d055",
+      "after_sha256": "52352619d5447e76365f43ed81d98f82e6176f77f0bf2544032374f64ffb94b1",
+      "changes": 49
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_003_100.xml",
+      "before_sha256": "f3e5b52ea7137ea9a2652c5c59e5d131f96171a626005da1c5b2f911768da7b2",
+      "after_sha256": "edb52632852981a237197fba5deaf64ca0a52aa5146bf75be469a473ebf57e3d",
+      "changes": 117
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_003_800.xml",
+      "before_sha256": "ddff2a86880e15a92a54dfd8d4238cb49e2845dbe3f6c6217978d2d78f58f5bb",
+      "after_sha256": "a1982813a4d7702df5a1c67815d22715d6e664d06299eabea1cf76e234af4b01",
+      "changes": 23
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_004_001.xml",
+      "before_sha256": "dafbd2c515a9dfbe8a282384bb672861132bf1ad9dd83d60930e893a76afa1b1",
+      "after_sha256": "6bf8748562d173748579e3971a6887064b056480d07501310f308f4fae742ed4",
+      "changes": 25
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_004_100.xml",
+      "before_sha256": "f5eb66e5ff5e1eeb52acccca344526668b3f282bee40a9e0db7aaf1f98b624ec",
+      "after_sha256": "464d6bff1d59a3c32d5b741be22d5711d36b9e89a5e6ba0d16fc36cc9acc5a66",
+      "changes": 22
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_006_001.xml",
+      "before_sha256": "2b8bbc17e28e4e388af9a3004b850dbc0316b1a375aa989a8a795cce75254925",
+      "after_sha256": "a15749f619364908dfe5e15540c7aba9f558cc3fe5bd4592dfe6e33d2bac2472",
+      "changes": 86
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_006_100.xml",
+      "before_sha256": "a954fb1e49477748204e40b972fd0bcd7972ae1e174cc7a7796b3923220f4634",
+      "after_sha256": "c16b64333b42fb5d64abf72bb35ccdcd0deed36f81fa996590568ac7482b7bec",
+      "changes": 85
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_006_800.xml",
+      "before_sha256": "c8d7120ca0096237c83e2706be7e153f897b9e96f5944f08f224ad4c8f17e552",
+      "after_sha256": "9be5ab1a6307ca6ba94de0dd97b65cf2c7ab15eac8eed5bac0562915826fe470",
+      "changes": 24
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_007_001.xml",
+      "before_sha256": "eda59b498c57044b60f899ebbc9fc5d487ecd21f3e08efe5b56790e94a99955e",
+      "after_sha256": "64166979c4edce78b34bdc05d75a186cae5133b97ea6c7305e6a190468205ce0",
+      "changes": 24
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_007_100.xml",
+      "before_sha256": "10b2bc835a8faf6228de8a75e0c03bf2144765bc2adac950c3e6e4a3d05ced01",
+      "after_sha256": "c764299fe3adddeae90f671309edfe78d26ce9465f8e9710dbb134000a90bce7",
+      "changes": 59
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_008_100.xml",
+      "before_sha256": "1c6103d57b45e6d51af03c765ea73105c3a3f8fc1ba5a12306f517b30427507f",
+      "after_sha256": "d36a2363762a3d415588a957ff61f20a2926d4bf9c7eb40b53f09ed8c5134045",
+      "changes": 125
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_010_001.xml",
+      "before_sha256": "c59106a85e47cdec97851f5a2eb9d460933f5451339962338ce5a5a707cfaf2a",
+      "after_sha256": "06be1ea987efaae15e14e7812ebc25f21c313c4e264cb8406193669156bad921",
+      "changes": 20
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_010_100.xml",
+      "before_sha256": "0f1d82adb2d7317f22d94f6e44c7dff8154d7cee1ada0a5ef9f1a739dc0f4750",
+      "after_sha256": "c2ee949345df59307effd74e847fe6754ef073d03b5c87d6da043c259f548087",
+      "changes": 51
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_011_001.xml",
+      "before_sha256": "9f4947d2559ac9e722ff24987f6809bb2501cdab0ccdba34c1b20f93ddc04023",
+      "after_sha256": "e34e61aa6ef128c98ef2407e3b08072d22e7ae6884e0dc813a8046c683455752",
+      "changes": 17
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_011_100.xml",
+      "before_sha256": "ead468d9ce0b935ea66024b06f63e45b52b12b7fb9a7cde8b02777277230228a",
+      "after_sha256": "8285281c589617a093a001e20338d59dc9cc52a5d25267f7287f588307d048e4",
+      "changes": 86
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_011_800.xml",
+      "before_sha256": "343984d019aa98e36c37fc1bbc17d6e903387066e25c0b5978fc8a816e49f757",
+      "after_sha256": "4d0202178057f8b288ee382e75dbeef5f685ac2e5dc1bd6b53c7d937e11b88da",
+      "changes": 56
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_012_100.xml",
+      "before_sha256": "2bcebf1164443e46652eaef7a8deba8d710be942ff01335eae78ed6ff447e6ec",
+      "after_sha256": "d1d12c87feb18d4587e47bbd8b3ea1882bd9bd4cb26cf6d034d5e9cd2456a78f",
+      "changes": 58
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_014_100.xml",
+      "before_sha256": "58596f2f77e91e4674bf3e68232ceb0f0bc5c5f4e5604dd0cdec5f6d910a800c",
+      "after_sha256": "7825c0db05a7839026671483b19ba62b939ad5b648fbcd72a3af09630d540523",
+      "changes": 29
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_014_800.xml",
+      "before_sha256": "e8b5ffaacf1137fa55071bb894e2cdf6fbb62b7d75d93477e390fadd9cacfc06",
+      "after_sha256": "859710535498d0587e3cce0962948ff030eabc8f2e10a5057a5fb07f39dcfaa5",
+      "changes": 28
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_015_100.xml",
+      "before_sha256": "ae832dc97e3d0126f07e978dbfe329d0c59ed33cde7fd4ccef1bd84f3c6d5b66",
+      "after_sha256": "0439063e6942777f71b244ac8174f55ceaae506d73c696d99034fcd3a7e4bef2",
+      "changes": 100
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_016_100.xml",
+      "before_sha256": "8875b0b1569d9937f152e5c835767b425fa9b696b62d64fbf56c010fdd02f8eb",
+      "after_sha256": "4e99663e6b4984cdbe9fb81f156bfb7c9fc80a24bc66427c3430f32b76481d6e",
+      "changes": 46
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_016_101.xml",
+      "before_sha256": "16b48f1c2de1fe40d8ba776b9fb6187a06110eba8c9c41b079b8a4c2ea8d2ab0",
+      "after_sha256": "2df34598e49b8cd5bf104832708eef5bcff6392ccb5dd6bb77ff644776a32682",
+      "changes": 12
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_017_100.xml",
+      "before_sha256": "e2cab00ae729f5fb0bc21e74ed996fa4e5059235c148885ef4897b6528e96e46",
+      "after_sha256": "e68918549d12c56e69666758d35e7cafd199bce90d4b7e2afe4ae8074c8f9412",
+      "changes": 55
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_018_100.xml",
+      "before_sha256": "b2eaf4e9c57df6eef4b88f92f751f8668a093b8fa7a404b2250bd88f6d0e97fa",
+      "after_sha256": "37b8bd1867bcd0cb40f54c5bbc34c842a4f6bf06c4f83f6b544684cbe16f79b8",
+      "changes": 126
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_018_800.xml",
+      "before_sha256": "2e051db1cdab3d56e88f1c11ecca705b925cf6472f3d915ddc318b756121ec76",
+      "after_sha256": "258bde8fce20f26596704e6ca76c619bb372913648156475c4542e0313dd5f66",
+      "changes": 38
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_019_100.xml",
+      "before_sha256": "3b5143a355756d947fc7dc0a9f93f9349bf9ab6bcffb6837af897f636b03e158",
+      "after_sha256": "5bb0478110217e074da1f0dbf5e09c7692477921ea5f716b8c6e60133b29ec60",
+      "changes": 74
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_021_001.xml",
+      "before_sha256": "c4f00ac52cc6f97be15c7bfadccdcc01e35aa16082f7796b3c0f71cbcc83d486",
+      "after_sha256": "2d20ffa54c937949498d0f057bdfcce589f1e8f5187460fb89eb3eb7fb6cea00",
+      "changes": 78
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_021_100.xml",
+      "before_sha256": "30a2e80a4fb19d6d735da1bb179e2badb154c3303fefa52b78a8588d3363eb19",
+      "after_sha256": "139178c7da4ad0d5a2ac4a0b17181c51d8eb7e49e858bec7a84f2737050cfa0d",
+      "changes": 66
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_021_800.xml",
+      "before_sha256": "c02f4fadd465cdc4bfc3afcdbff419b982a0017d9f55c378fbceca8ac83447b6",
+      "after_sha256": "da7588bb34dff403d65de96dd4e381d032ac226b57046c3cfa6e0615984dd9c4",
+      "changes": 20
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_262_000.xml",
+      "before_sha256": "c10dcbac74e4771e2465575fcf33be62d5ad0b633dc2b9be0b42e5174a77045a",
+      "after_sha256": "b67edb29d2cff299d98c08c151be6d8543d2a835f1bcf47b47647af567c1df4c",
+      "changes": 6
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_263_000.xml",
+      "before_sha256": "f9f11c732f67d2c4926049294967d9cbf6fb2ae22f837ccf95216bf65cb17caa",
+      "after_sha256": "aecdb0aac3631608cf4275c66cf5efdf20f20832d035029c4cee3bbeaffe4c75",
+      "changes": 29
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_CmmuNPC_264_000.xml",
+      "before_sha256": "fc4263b9dbf5c204b3fe981787bba7326733dc08e14f3cad5e9b698ba4377a94",
+      "after_sha256": "f8c918df2775413ff3070dc08aeb08291bddb0c788ba720732c50316fcded3d8",
+      "changes": 149
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev150_CmmuNPC_008_001_cv.xml",
+      "before_sha256": "f816d8cadfb0cd2ffde6fb6c6684c485ef94ca9448feb7114753ba3cd0c483e2",
+      "after_sha256": "fa3ce13d001b47eff3105c319d1b7aceadf1f3cb0373aaad3377d0d8ecbbd798",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev175_CmmuNPC_006_700.xml",
+      "before_sha256": "ffa7b08eaefda734fb7540e5907f5d53dcaa3572085629749beb240b533c8efc",
+      "after_sha256": "f9a0161ad6d2ca389e712d76dd80fedf70a126869826d97a39bfd69572a03be2",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev175_CmmuNPC_008_700.xml",
+      "before_sha256": "d4bda108a17bc7bf13cee5b455dd4efa9725438770ef8f740077f4a1331af6b2",
+      "after_sha256": "50263c8019afa3aa368fe3faff343fe5a163c5e171c294ddb0191dd1103e4200",
+      "changes": 1
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_001_900_cv.xml",
+      "before_sha256": "59f03df5f40914b4903fe43d47fc44580e64b03c8a295e01f36765d5af393d4b",
+      "after_sha256": "957748efb02ebebac87a7cba612a1522847fe9b68e3b98c140160a35fa582187",
+      "changes": 23
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_002_900_cv.xml",
+      "before_sha256": "a463adf5155ed54ac8c5b690e7e0b1e356bbf102c942f3dd57107a29b4d55229",
+      "after_sha256": "747eecf5f705c52d138ec6dbb1519d7847ec2a89d7589e841f548cef72a19dde",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_003_900_cv.xml",
+      "before_sha256": "dbbd0cd898965774f19264634a7aecfe46af7730444dfd1617755b0234d28a7a",
+      "after_sha256": "e78f97ea1b18484fe7b925e2aeb36e97f66da35df71c53446d64b0e8e262471e",
+      "changes": 20
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_004_900_cv.xml",
+      "before_sha256": "f0df74d718f452aa8a89d3a584467facbfdfaca1c454362435106d7d226da160",
+      "after_sha256": "d4439fe0fd3e6e1b2076e16a60ec668517c0174e25319a8afa344a67c3cb0b04",
+      "changes": 27
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_005_900_cv.xml",
+      "before_sha256": "7dc3a151e4788ef1dbfabaaa21a6bc377849a65165f65e12cae866d377adb8fe",
+      "after_sha256": "6948284796adf48e43469a26835c9e22a33343c9a799000bc5da209faef99ac4",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_006_900_cv.xml",
+      "before_sha256": "c10d3b7d68646c6385e4b9fabd1aa81fd1a82bcb8df523998e267abe6acd1987",
+      "after_sha256": "51b3f9ad1fa58d288f85ee664ec3dbf70bc5369e88f6e6e64c445c0f52071a3d",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_007_900_cv.xml",
+      "before_sha256": "a3db0a5e96784e8f7e8e73631b5a61ad68666dd940680efe3e8bbe6fc9ecca13",
+      "after_sha256": "79c66bf4aa74bed19dae408d589366bfe1fb9105d3292879bc30a683f9892957",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_010_900_cv.xml",
+      "before_sha256": "19c3340a149335365d364c478077b0840f38c58b894c36f36f5aaa55ec17f614",
+      "after_sha256": "4aacb852d19c50d5c71e60db761180f806602d347b3cd76ed739668d4d441ed0",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_011_900_cv.xml",
+      "before_sha256": "06f3920bed7e2fd62fd8fb6a1825536a99a2d30959c53a4cefb967348e63b446",
+      "after_sha256": "fe9a6956a882bc15bdc9e4a070260f2118b366839fb2acaa5d3509202a8f1bef",
+      "changes": 25
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_012_900_cv.xml",
+      "before_sha256": "77d445189c50ec3a1485b13cfab362e05561d12feb88740d6aeaefcbfcb04d3d",
+      "after_sha256": "6f36c2cd3f029b9b162fee842b7808a19fc6c5652e47c0966772d7acc74f97bc",
+      "changes": 5
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_014_900_cv.xml",
+      "before_sha256": "bb641a3926313be315c09330fcd129d972355f893ac7ad1c7a583df670d274dc",
+      "after_sha256": "836826288a013259c0afbb9c8e4422332f07630e04850e3e001445534c825f08",
+      "changes": 6
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_016_900_cv.xml",
+      "before_sha256": "b33c8d3a7b8a424a4727eed7276d670b1a884d5bfabc5facaee492fef2a0adb3",
+      "after_sha256": "7b5084923e4460eb2cbbc82453fde06660d9a76ddc0b5748c3c0f52afc516cbb",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_017_900_cv.xml",
+      "before_sha256": "ac802a62f173de634c40ad0511174f9df039e60ef67ac21e14f5647c7068605f",
+      "after_sha256": "2bf6406315da280a9cb2f112c2793660e61e2f458fc882a51ad3653a834c75d5",
+      "changes": 2
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_018_900_cv.xml",
+      "before_sha256": "01b9924a6ce2e7f9b306cb35424846b1090ce8731398ac85dde17174cabe1848",
+      "after_sha256": "5703959433657a1b1306ece25f9cb3177d6d6f5120a276f12a9ed91b23ae4ffc",
+      "changes": 19
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev600_CmmuNPC_019_900_cv.xml",
+      "before_sha256": "2801649c16c8de07e0da8193e6bc913a3f6b0ebd85cf3624c8ac5e693506f9c7",
+      "after_sha256": "4b89c163e54823d777575dd5ae9478fffa3388d72401d1691813d4d0737021a6",
+      "changes": 9
+    },
+    {
+      "path": "translations/uk/xml/Xrd777/Community/Bf/BMD_kfev900_CmmuNPC_016_101.xml",
+      "before_sha256": "6a85ac071cd54b813da191c590b1aeeb8360b09de27af5da495af132215ef563",
+      "after_sha256": "ef6898af9cbdfd51d8c38fb984015c810113e2d455938a9f0defefc26abd635e",
+      "changes": 26
+    }
+  ]
+}

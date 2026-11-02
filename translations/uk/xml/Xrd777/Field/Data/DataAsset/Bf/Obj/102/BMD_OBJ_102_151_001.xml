@@ -41,7 +41,7 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо подумати, то, здається, я ще[n]нічого не садив у кашпо...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="11" name="MND_PLANT_ALREADY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1} посаджено.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Посаджено: {f 4 4 1 37 0 0}.[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="12" name="MND_PLANT_MORE" type="Message">
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Врожай збільшився. Можливо, це тому, що я[n]навчився їх добре вирощувати...[n]{f 1 1}]]></Page>
@@ -50,21 +50,21 @@
     <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Схоже, що я не зможу зібрати його[n]до Обіцяного дня, 31 січня...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="14" name="MND_028_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я часто доглядав за рослинами[n]з моїми сусідами по кімнаті...[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завдяки спільному вирощуванню я зміг[n]поглибити зв'язки з моїми друзями...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я часто доглядав за рослинами[n]разом з іншими мешканцями гуртожитку...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Спільна робота зблизила[n]мене з друзями...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="15" name="MND_031_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я часто доглядав за рослинами[n]з моїми сусідами по кімнаті.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завдяки цьому ми змогли[n]зібрати якісний урожай...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я часто доглядав за рослинами[n]разом з іншими мешканцями гуртожитку.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Завдяки цьому нам вдалося[n]виростити гарний урожай...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="16" name="MND_034_0_0" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще[n]нічого не посаджено...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На грядці на даху[n]ще нічого не посаджено...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="17" name="MND_PLANT_OK" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}У плантації на даху ще має[n]бути урожай, який потрібно зібрати.[n]{f 1 1}]]></Page>
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я маю зібрати його першим...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}На грядці на даху[n]ще залишився врожай.[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Спершу треба його зібрати...[n]{f 1 1}]]></Page>
   </Dialog>
   <Dialog id="18" name="MND_PLANT_LAST_DAY" type="Message">
-    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Я прийду зібрати його, якщо ми[n]благополучно переживемо Обіцяний день...[n]{f 1 1}]]></Page>
+    <Page spk="FFFF"><![CDATA[{f 0 5 254}{f 2 1}Якщо ми переживемо Обіцяний[n]день, я прийду зібрати врожай...[n]{f 1 1}]]></Page>
   </Dialog>
 </BMD>

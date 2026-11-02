@@ -35,27 +35,37 @@ class TextureInputSelection(unittest.TestCase):
         texture = types.SimpleNamespace(get_dds=lambda: types.SimpleNamespace(save=save))
         return types.SimpleNamespace(_load_texture=lambda path: (None, texture))
 
-    def test_png_overrides_dds_without_changing_original(self):
+    def test_png_without_dds_is_converted(self):
         def convert(args, **kwargs):
             self.assertEqual(Path(args[-2]).read_bytes(), b'reference extracted from game')
             Path(args[-1]).write_bytes(b'converted PNG')
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
             self.fixture(root, True)
+            (root/'texture/dds/Xrd777/Test.dds').unlink()
             with patch.dict(sys.modules, {'p3rtex':self.fake_texture_module()}), patch.object(module.subprocess, 'run', side_effect=convert):
                 staged = module.prepare(root, root/'work')
             self.assertEqual((staged/'Xrd777/Test.dds').read_bytes(), b'converted PNG')
-            self.assertEqual((root/'texture/dds/Xrd777/Test.dds').read_bytes(), b'original edited DDS')
+            self.assertFalse((root/'texture/dds/Xrd777/Test.dds').exists())
 
     def test_failed_png_conversion_does_not_fall_back(self):
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
             self.fixture(root, True)
+            (root/'texture/dds/Xrd777/Test.dds').unlink()
             with patch.dict(sys.modules, {'p3rtex':self.fake_texture_module()}), patch.object(module.subprocess, 'run', side_effect=subprocess.CalledProcessError(1, 'convert')):
                 with self.assertRaisesRegex(RuntimeError, 'Test.png'):
                     module.prepare(root, root/'work')
             self.assertFalse((root/'work/dds/Xrd777/Test.dds').exists())
-            self.assertEqual((root/'texture/dds/Xrd777/Test.dds').read_bytes(), b'original edited DDS')
+            self.assertFalse((root/'texture/dds/Xrd777/Test.dds').exists())
+
+    def test_published_dds_takes_priority_over_png(self):
+        with tempfile.TemporaryDirectory() as d:
+            root=Path(d)
+            self.fixture(root, True)
+            with patch.object(module, 'convert', side_effect=AssertionError('DDS must bypass conversion')):
+                staged=module.prepare(root,root/'work')
+            self.assertEqual((staged/'Xrd777/Test.dds').read_bytes(), b'original edited DDS')
 
 
 if __name__ == '__main__':
